@@ -1,0 +1,2016 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T070000Z
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:CST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T080000Z
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+TZID:America/Chicago
+BEGIN:VEVENT
+UID:4959@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T100000
+DTEND;TZID=America/Chicago:20161201T103000
+DESCRIPTION:Speakers:\nSobia Sadiq\, MD\, Endocrinology\, Metabolism and Li
+ pid Research\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=4959
+DTSTAMP:20161128T110000
+LOCATION:Schwarz Auditorium\, Maternity Hosp.\, 1st Floor
+SUMMARY:Airhead
+END:VEVENT
+BEGIN:VEVENT
+UID:4958@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T103000
+DTEND;TZID=America/Chicago:20161201T113000
+DESCRIPTION:Speakers:\nSamantha Morris\, PhD\, Genetics / Developmental Bio
+ logy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=4958
+DTSTAMP:20161128T110100
+LOCATION:Schwarz Auditorium\, Maternity Hosp.\, 1st Floor
+SUMMARY:Dissecting direct lineage reprogramming using single-cell RNA-seq
+END:VEVENT
+BEGIN:VEVENT
+UID:4769@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T120000
+DTEND;TZID=America/Chicago:20161201T130000
+DESCRIPTION:Speakers:\nGreg Wray\, Ph.D.\, Institute for Genome Sciences & 
+ Policy Duke University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=4769
+DTSTAMP:20161117T093300
+LOCATION:Cori Auditorium
+SUMMARY:Building a bigger brain: genetic basis for the evolution of the hum
+ an cortex
+END:VEVENT
+BEGIN:VEVENT
+UID:4908@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T140000
+DTEND;TZID=America/Chicago:20161201T150000
+DESCRIPTION:Speakers:\nGretchen Meyer\, Ph.D.\, Assistant Professor of Phys
+ ical Therapy & Neurology\, Washington University in St. Louis\n\nDescripti
+ on:\nLab Set-Up Thursday\, December 1\, 2016\, 2 pm\, Holden Auditorium Se
+ tting up your\nfirst lab can be an overwhelming project. Dr. Gretchen Meye
+ r\, Assistant\nProfessor\, Physical Therapy & Neurology \, will share her 
+ experiences in\nsetting up a lab including administrative and scientific d
+ etails to think\nabout to ensure that your lab gets off to a successful st
+ art. This seminar is\npart of the Faculty Career Search Series. Registrati
+ on has now closed. You may\nstill attend\, but please sign in when you arr
+ ive.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=4908
+DTSTAMP:20161130T133000
+LOCATION:Farrell Learning and Teaching Center Kathy E. Holden Auditorium
+SUMMARY:Lab Set-Up
+END:VEVENT
+BEGIN:VEVENT
+UID:4961@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T150000
+DTEND;TZID=America/Chicago:20161201T170000
+DESCRIPTION:Speakers:\nDeborah Lenschow\, M.D.\, Ph.D.\, Washington Univers
+ ity School of Medicine\nLarissa Thackray\, Ph.D.\, Washington University S
+ chool of Medicine\nHaina Shin\, Ph.D.\, Washington University School of Me
+ dicine\n\nDescription:\nList of events: 3:00pm ~ Wine and Cheese Reception
+  3:30pm ~ Announcement of\nthe 2016 Pilot Grant Awardees 3:40pm ~ Presenta
+ tions by 2015 Awardees\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=4961
+DTSTAMP:20161128T083800
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Impact Chikungunya viral infection on lupus pathogenesis
+END:VEVENT
+BEGIN:VEVENT
+UID:4740@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T160000
+DTEND;TZID=America/Chicago:20161201T170000
+DESCRIPTION:Speakers:\nKaty Heath\, University of Illinois\, Urbana-Champai
+ gn\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =4740
+DTSTAMP:20160831T124900
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Ecological genomics of legume-rhizobium mutualisms
+END:VEVENT
+BEGIN:VEVENT
+UID:4905@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T160000
+DTEND;TZID=America/Chicago:20161201T170000
+DESCRIPTION:Speakers:\nSamantha Morris\, PhD\, Department of Genetics and D
+ evelopmental Biology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=4905
+DTSTAMP:20161108T132900
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Single-Cell RNA Sequencing: Toward a High-Resolution Blueprint for 
+ Engineering Cell Identity
+END:VEVENT
+BEGIN:VEVENT
+UID:4946@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161201T160000
+DTEND;TZID=America/Chicago:20161201T170000
+DESCRIPTION:Speakers:\nNipavan Chiamvimonvat\, MD\, University of Californi
+ a\, Davis\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=4946
+DTSTAMP:20161115T143900
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:Functional Roles of Calcium-Activated Potassium Channels in Cardiac
+  Arrhythmias
+END:VEVENT
+BEGIN:VEVENT
+UID:4949@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161202T090000
+DTEND;TZID=America/Chicago:20161202T100000
+DESCRIPTION:Speakers:\nLori Setton\, PhD\, Department of Biomedical Enginee
+ ring\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=4949
+DTSTAMP:20161128T083500
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Notochord-Derived Cells in the Post-Natal Intervertebral Disc
+END:VEVENT
+BEGIN:VEVENT
+UID:4966@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161202T090000
+DTEND;TZID=America/Chicago:20161202T100000
+DESCRIPTION:Speakers:\nLori Setton\, PhD\, Department of Biomedical Enginee
+ ring\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=4966
+DTSTAMP:20161128T083500
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Notochord-Derived Cells in the Post-Natal Intervertebral Disc
+END:VEVENT
+BEGIN:VEVENT
+UID:4950@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161202T120000
+DTEND;TZID=America/Chicago:20161202T130000
+DESCRIPTION:Speakers:\nMatthew Ciorba\, MD\, Assistant Professor of Medicin
+ e Director\, IBD Research Associate Director of Research\, GI Fellowship P
+ rogram\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=4950
+DTSTAMP:20161128T083600
+LOCATION:901 CSRB North Tower Addition
+SUMMARY:Targeting Immune Checkpoints and Amino Acid Metabolism in Colon Can
+ cer
+END:VEVENT
+BEGIN:VEVENT
+UID:4968@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161202T120000
+DTEND;TZID=America/Chicago:20161202T130000
+DESCRIPTION:Speakers:\nGuo-Min Li\, Ph.D.\, University of Southern Californ
+ ia\, Keck School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=4968
+DTSTAMP:20161128T083700
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:DNA mismatch repair in cancer susceptability and therapy
+END:VEVENT
+BEGIN:VEVENT
+UID:4851@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161202T130000
+DTEND;TZID=America/Chicago:20161202T140000
+DESCRIPTION:Speakers:\nNIH Center for Scientific Review\, NIH\n\nDescriptio
+ n:\nNIH Peer Review Briefing for Basic Research Applicants and Reviewers F
+ riday\,\nDecember 2\, 2016\, 1 pm Medical Campus: Cori Auditorium Danforth
+  Campus:\nHillman 70 The Vice Chancellor for Research is hosting a viewing
+  of this NIH\nwebinar on peer review and basic research. The NIH Director 
+ and other NIH/CSR\nofficial will reaffirm NIH’s commitment to basic rese
+ arch and help applicants\nand reviewers do their part in proposing and rev
+ iewing basic research. For\nmore information about the webinar:\nhttp://pu
+ blic.csr.nih.gov/Pages/csrwebinar.aspx You do not need to register on\nthe
+  NIH website\, simply attend one of the sessions on campus.\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4851
+DTSTAMP:20161005T120400
+LOCATION:Cori Auditorium
+SUMMARY:NIH Peer Review Briefing for Basic Research Applicants and Reviewer
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:4965@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161202T150000
+DTEND;TZID=America/Chicago:20161202T150000
+DESCRIPTION:Speakers:\nMs. Jessica P. Miller\, MSTP - Biomedical Engineerin
+ g Program - Lab of Dr. Samuel Achilefu\n\nLink: http://dbbs.wustl.edu/Reso
+ urces/Pages/calendar_event.aspx?EvID=4965
+DTSTAMP:20161128T083400
+LOCATION:Farrell Learning and Teaching Center\, Room 213
+SUMMARY:Fluorescence Guided Tumor Imaging: Foundations for Translational Ap
+ plications
+END:VEVENT
+BEGIN:VEVENT
+UID:4620@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161205T120000
+DTEND;TZID=America/Chicago:20161205T130000
+DESCRIPTION:Speakers:\nDaniel Promislow\, PhD\, University of Washington\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4620
+DTSTAMP:20161027T143200
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Metabolomics and the systems biology of aging
+END:VEVENT
+BEGIN:VEVENT
+UID:4919@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161205T120000
+DTEND;TZID=America/Chicago:20161205T130000
+DESCRIPTION:Speakers:\nWashU Postdoc Society members\, open to all postdocs
+  of WashU\n\nDescription:\nJoin the WashU Postdoc Society for our monthly 
+ meeting where we discuss\nPostdoc Life related issues and plan social and 
+ career development events.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=4919
+DTSTAMP:20161110T095600
+LOCATION:FLCT 201
+RRULE:FREQ=WEEKLY;UNTIL=20170605;BYDAY=1MO;INTERVAL=1
+SUMMARY:WashU Postdoc Society monthly meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:4979@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161205T120000
+DTEND;TZID=America/Chicago:20161205T130000
+DESCRIPTION:Speakers:\nTracy Trupka\, MD\, Division of Pulmonary and Critic
+ al Care Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=4979
+DTSTAMP:20161201T144700
+LOCATION:901 CSRB North Tower Addition
+SUMMARY:Enhanced Antibiotic De-escalation for Patients with Respiratory Fai
+ lure
+END:VEVENT
+BEGIN:VEVENT
+UID:4971@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161205T150000
+DTEND;TZID=America/Chicago:20161205T160000
+DESCRIPTION:Speakers:\nJillian Buchan\, Clinical Molecular Geneticist at St
+ anford University\n\nDescription:\nPrecision Medicine Pathway Career Panel
+  Monday\, December 5\, 3:00 pm\, McDonnell\nSciences 426 Speakers : - Jill
+ ian Buchan\, who is an MGG graduate just three\nyears ago and now has a po
+ sition as a Clinical Molecular Geneticist at\nStanford University. - Jane 
+ S. Juusola\, Director\, Whole Exome Sequencing\nProgram\, GeneDx. GeneDx i
+ s arguably the leading US Company in the area of\npatient sequencing and c
+ linical interpretation. - Latisha Love-Gregory\,\nProject Coordinator\, Ge
+ nomics and Pathology Services (GPS)\, Washington\nUniversity School of Med
+ icine.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=4971
+DTSTAMP:20161128T114400
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:Precision Medicine Pathway Career Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:4892@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161205T160000
+DTEND;TZID=America/Chicago:20161205T170000
+DESCRIPTION:Speakers:\nJames A.J. Fitzpatrick\, PhD\, Cell Biology & Physio
+ logy and Anatomy & Neurobiology Scientific Director Washington University 
+ Center for Cellular Imaging (WUCCI)\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=4892
+DTSTAMP:20161028T092800
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Visualizing Cells and Tissues by Correlating Light\, X-Rays\, Elect
+ rons and Ions
+END:VEVENT
+BEGIN:VEVENT
+UID:4666@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161205T161500
+DTEND;TZID=America/Chicago:20161205T171500
+DESCRIPTION:Speakers:\nDr. Pam Schwartzberg\, National Human Genome Researc
+ h Institute\, NIH\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=4666
+DTSTAMP:20161115T105400
+LOCATION:TBD
+SUMMARY:Integrating T cell signals: Lessons from primary immunodeficiencies
+END:VEVENT
+BEGIN:VEVENT
+UID:4821@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161205T163000
+DTEND;TZID=America/Chicago:20161205T173000
+DESCRIPTION:Speakers:\nTingTing Hong\, M.D.\, Ph.D.\, Cedars-Sinai Heart In
+ stitute\, Cedars-Sinai Medical Center\, University of California\, Los Ang
+ eles (UCLA)\n\nDescription:\nCoffee and desert refreshments will be availa
+ ble. Dr. Hong joined the Cedars-\nSinai Medical Center and the Universi ty
+  of California Los Angeles as an\nAssistant Professor (2013-present). Her 
+ lab at the Cedars-Sinai Heart\nInstitute explores the basic cell biology o
+ f cardiomyocyte\, with particular\ninterest in the T-tubule membrane micro
+ domain organization and regulation in\nnormal anddiseased cardiac myocytes
+ . Seminar Abstract & Biography:\nhttp://cbac.wustl.edu/Seminars/FALL%20201
+ 6%20Seminars/ABSTRACT_BIO_HONG_TingTing.pdf/\nResearch Interests: https://
+ www.cedars-sinai.edu/Research/Research-Labs/Hong-\nLab/Research-Areas.aspx
+  Flyer:\nhttp://cbac.wustl.edu/Seminars/FALL%202016%20Seminars/HONG_TingTi
+ ngFLYER.pdf\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=4821
+DTSTAMP:20160923T085800
+LOCATION:Whitaker Hall\, Room 218
+SUMMARY:From Protein to Mouse to Human: cBIN1 in E-C Coupling and Heart Fai
+ lure Management
+END:VEVENT
+BEGIN:VEVENT
+UID:4874@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161206T103000
+DTEND;TZID=America/Chicago:20161206T113000
+DESCRIPTION:Speakers:\nJonathan Staley\, University of Chicago\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4874
+DTSTAMP:20161019T075900
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:The Function and Mechanism of DEAH box ATPases at the Catalytic Sta
+ ge of Splicing
+END:VEVENT
+BEGIN:VEVENT
+UID:4753@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161206T120000
+DTEND;TZID=America/Chicago:20161206T130000
+DESCRIPTION:Speakers:\nEric Brown\, McMaster University\n\nLink: http://dbb
+ s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4753
+DTSTAMP:20160901T080100
+LOCATION:Cori Auditorium
+SUMMARY:To kill a bacterium you need to think like a bacterium
+END:VEVENT
+BEGIN:VEVENT
+UID:4807@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161206T120000
+DTEND;TZID=America/Chicago:20161206T130000
+DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, Instructor in Radiology\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4807
+DTSTAMP:20160920T125200
+LOCATION:East Pavilion Auditorium
+SUMMARY:Tau PET Imaging in Alzheimer disease and other disorders
+END:VEVENT
+BEGIN:VEVENT
+UID:4916@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161206T153000
+DTEND;TZID=America/Chicago:20161206T170000
+DESCRIPTION:Speakers:\nAlison L. Antes\, PhD\, Assistant Professor of Medic
+ ine\, General Medical Sciences\n\nDescription:\nResearch: What’s leaders
+ hip got to do with it? Dec 06\, 2016 | 3:30 pm – 5:00\npm\, Wohl Auditor
+ ium\, 4950 Children’s Place\, St. Louis\, MO 63310 Alison L.\nAntes\, Ph
+ D\, Assistant Professor of Medicine\, General Medical Advance\nregistratio
+ n not required\, free and open to all.\nhttps://crtc.wustl.edu/calendar/ev
+ ent/career-development-seminar-2/ Hosted by\nClinical Research Training Ce
+ nter (CRTC)\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=4916
+DTSTAMP:20161110T100400
+LOCATION:Wohl Auditorium\, Wohl Hospital
+SUMMARY:Research: What’s leadership got to do with it?
+END:VEVENT
+BEGIN:VEVENT
+UID:4847@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161206T160000
+DTEND;TZID=America/Chicago:20161206T170000
+DESCRIPTION:Speakers:\nJulian Whitelegge\, PhD\, The NPI-Semel Institute UC
+ LA\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =4847
+DTSTAMP:20161004T111100
+LOCATION:CSRB-North Tower Addition\, Room 401
+SUMMARY:Why Analyze Membrane Proteins by Mass Spectrometry?
+END:VEVENT
+BEGIN:VEVENT
+UID:4639@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161207T120000
+DTEND;TZID=America/Chicago:20161207T130000
+DESCRIPTION:Speakers:\nAnne West\, MD\, PhD\, Duke Institute for Brain Scie
+ nces\, Duke University School of Medicine\n\nDescription:\nHosted by: Dr. 
+ Azad Bonn\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=4639
+DTSTAMP:20160802T124700
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Chromatin regulation of neuronal maturation
+END:VEVENT
+BEGIN:VEVENT
+UID:4897@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161207T160000
+DTEND;TZID=America/Chicago:20161207T170000
+DESCRIPTION:Speakers:\nChristopher Maher\, Ph.D.\, Department of Medicine\,
+  Division of Oncology and McDonnell Genome Institute\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4897
+DTSTAMP:20161028T102500
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Analysis of the Transcriptome
+END:VEVENT
+BEGIN:VEVENT
+UID:4972@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161207T173000
+DTEND;TZID=America/Chicago:20161207T183000
+DESCRIPTION:Speakers:\nWUPS\, WUPS\n\nDescription:\nPlease RSVP here: https
+ ://goo.gl/2HdZeU\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=4972
+DTSTAMP:20161129T111100
+LOCATION:Farrell Learning and Teaching Center\, Room 213
+SUMMARY:Free Yoga class for Postdocs
+END:VEVENT
+BEGIN:VEVENT
+UID:4975@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161208T103000
+DTEND;TZID=America/Chicago:20161208T113000
+DESCRIPTION:Speakers:\nClinical and Research Fellows (9:00 am - 12:30 pm)\,
+  Medicine-Endocrinology\, Metabolism and Lipid Research\, Nutritional Scie
+ nces and Pediatric Endocrinology and Diabetes\n\nDescription:\nPlease note
+  location change for this week only.\n\nLink: http://dbbs.wustl.edu/Resour
+ ces/Pages/calendar_event.aspx?EvID=4975
+DTSTAMP:20161201T074700
+LOCATION:728 Southwest Tower
+SUMMARY:Research Day for Clinical and Research Fellows
+END:VEVENT
+BEGIN:VEVENT
+UID:4770@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161208T120000
+DTEND;TZID=America/Chicago:20161208T130000
+DESCRIPTION:Speakers:\nScott Fraser\, Ph.D.\, University of Southern Califo
+ rnia Translation Imaging Center\, LA\n\nLink: http://dbbs.wustl.edu/Resour
+ ces/Pages/calendar_event.aspx?EvID=4770
+DTSTAMP:20161202T084100
+LOCATION:Cori Auditorium
+SUMMARY:Eavesdropping on biological processes with multi-dimensional molecu
+ lar imaging
+END:VEVENT
+BEGIN:VEVENT
+UID:4741@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161208T160000
+DTEND;TZID=America/Chicago:20161208T170000
+DESCRIPTION:Speakers:\nJan Salick\, Missouri Botanical Garden\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4741
+DTSTAMP:20160831T125000
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Integrating climate change and ethnobotany research for theory and 
+ application
+END:VEVENT
+BEGIN:VEVENT
+UID:4906@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161208T160000
+DTEND;TZID=America/Chicago:20161208T170000
+DESCRIPTION:Speakers:\nChristophe Ribelayga\, PhD\, University of Texas\, H
+ ouston\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=4906
+DTSTAMP:20161129T083800
+LOCATION:Maternity Building\, Room 725
+SUMMARY:The Twists and Turns  of Electrical Coupling Between Photoreceptor
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:4985@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161208T160000
+DTEND;TZID=America/Chicago:20161208T170000
+DESCRIPTION:Speakers:\nMatthew Potthoff\, PhD\, Carver College of Medicine\
+ , University of Iowa\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=4985
+DTSTAMP:20161205T102800
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:Endocrine Control of Carbohydrate Homeostasis by the Liver
+END:VEVENT
+BEGIN:VEVENT
+UID:4991@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161208T160000
+DTEND;TZID=America/Chicago:20161208T170000
+DESCRIPTION:Speakers:\nMatthew J. Potthoff\, PhD\, University of Iowa Carve
+ r College of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=4991
+DTSTAMP:20161207T122100
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:Endocrine Control of Carbohydrate Homeostasis by the Liver
+END:VEVENT
+BEGIN:VEVENT
+UID:4982@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161209T090000
+DTEND;TZID=America/Chicago:20161209T100000
+DESCRIPTION:Speakers:\nJulie Sterling\, PhD\, Vanderbilt University\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4982
+DTSTAMP:20161202T080200
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Exploring the Regulation of Tumor-Induced Bone Disease by the Struc
+ tural and Cellular Bone Microenvironment
+END:VEVENT
+BEGIN:VEVENT
+UID:4983@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161209T120000
+DTEND;TZID=America/Chicago:20161209T130000
+DESCRIPTION:Speakers:\nCharles Harris\, M.D.\, Ph.D.\, Division of Endocrin
+ ology\, Metabolism\, & Lipid Research\n\nLink: http://dbbs.wustl.edu/Resou
+ rces/Pages/calendar_event.aspx?EvID=4983
+DTSTAMP:20161202T110600
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:Deciphering the Critical Site of Action of GR in Metabolic Syndrome
+END:VEVENT
+BEGIN:VEVENT
+UID:4945@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161209T130000
+DTEND;TZID=America/Chicago:20161209T150000
+DESCRIPTION:Speakers:\nMingchao Xie\, Computational and Systems Biology Pro
+ gram - Labortory of Dr. Li Ding\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=4945
+DTSTAMP:20161115T111700
+LOCATION:Farrell Learning and Teaching Center Kathy E. Holden Auditorium
+SUMMARY:Discovery and functional implication of genetic alterations associa
+ ted with clonal hematopoietic expansion
+END:VEVENT
+BEGIN:VEVENT
+UID:4903@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161212T120000
+DTEND;TZID=America/Chicago:20161212T130000
+DESCRIPTION:Speakers:\nRichard W. Carthew\, PhD\, Northwestern University\n
+ \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=490
+ 3
+DTSTAMP:20161031T123200
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Dealing with variable gene expression during cell differentiation
+END:VEVENT
+BEGIN:VEVENT
+UID:4998@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161212T120000
+DTEND;TZID=America/Chicago:20161212T130000
+DESCRIPTION:Speakers:\nBenjamin Gerovac\, PhD\, Division of Pulmonary and C
+ ritical Care Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=4998
+DTSTAMP:20161208T074300
+LOCATION:901 CSRB North Tower Addition
+SUMMARY:Elucidating the IL-13-CLCA1-MAPK13-Muc5AC signaling pathway in airw
+ ay epithelial cells
+END:VEVENT
+BEGIN:VEVENT
+UID:4667@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161212T161500
+DTEND;TZID=America/Chicago:20161212T161500
+DESCRIPTION:Speakers:\nDr. Megan Cooper\, Department of Pediatrics - Rheuma
+ tology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=4667
+DTSTAMP:20160815T121300
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Investigation of genetic causes of pediatric immune dysregulation s
+ yndromes
+END:VEVENT
+BEGIN:VEVENT
+UID:4822@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161212T163000
+DTEND;TZID=America/Chicago:20161212T173000
+DESCRIPTION:Speakers:\nFrancis E. Marchlinski\, M.D.\, University of Pennsy
+ lvania Health System\n\nDescription:\nCoffee and desert refreshments will 
+ be available. Francis Marchlinski\, MD\, is\na professor of medicine and s
+ erves as director of the electrophysiology\nprogram at Penn Medicine and d
+ irector of the electrophysiology laboratory at\nthe Hospital of the Univer
+ sity of Pennsylvania. He specializes in the\ndiagnosis and management of s
+ upraventricular and ventricular arrhythmias\,\nsubstrate mapping and cathe
+ ter ablation\, pacemaker therapy for bradycardias\nand implantable defibri
+ llator therapy in treating ventricular arrhythmias. His\nresearch interest
+ s include mechanism and ablation of atrial tachycardia and\nventricular ar
+ rhythmias\, catheter ablative therapy\, device therapy and\nelectrophysiol
+ ogy of the human atria and ventricles. Research Interests:\nhttp://www.med
+ .upenn.edu/apps/faculty/index.php/g275/p8418 Flyer:\nhttp://cbac.wustl.edu
+ /Seminars/FALL%202016%20Seminars/MARCHLINSKI_FrancisFLYER.pdf\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4822
+DTSTAMP:20160923T090000
+LOCATION:Whitaker Hall\, Room 218
+SUMMARY:Lessons Learned from Mapping & Ablation of VT in Nonischemic Cardio
+ myopathy
+END:VEVENT
+BEGIN:VEVENT
+UID:4808@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161213T120000
+DTEND;TZID=America/Chicago:20161213T130000
+DESCRIPTION:Speakers:\nYang Shi\, Holtzman Lab\n\nLink: http://dbbs.wustl.e
+ du/Resources/Pages/calendar_event.aspx?EvID=4808
+DTSTAMP:20160920T125300
+LOCATION:East Pavilion Auditorium
+SUMMARY:APOE4 Markedly Exacerbates Tau-mediated Neurodegeneration in a Mous
+ e Model of Tauopathy
+END:VEVENT
+BEGIN:VEVENT
+UID:4997@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161213T153000
+DTEND;TZID=America/Chicago:20161213T170000
+DESCRIPTION:Speakers:\nJames Omel\, MD\, National MM Patient Advocate\nTayy
+ aba Hasan\, PhD\, Professor of Dermatology and of Health Sciences and Tech
+ nology. Harvard Medical School\n\nLink: http://dbbs.wustl.edu/Resources/Pa
+ ges/calendar_event.aspx?EvID=4997
+DTSTAMP:20161207T133300
+LOCATION:Erlanger Auditorium
+SUMMARY:Myeloma- Still Much to be Done
+END:VEVENT
+BEGIN:VEVENT
+UID:4710@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161213T160000
+DTEND;TZID=America/Chicago:20161213T170000
+DESCRIPTION:Speakers:\nBrian M. Davis\, PhD\, University of Pittsburgh Scho
+ ol of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_eve
+ nt.aspx?EvID=4710
+DTSTAMP:20160822T094800
+LOCATION:CSRB-North Tower Addition\, Room 401
+SUMMARY:Stopping Nerves to Stop Cancer:  Pain may not be the most importan
+ t function of nociceptors in the setting of tumorigenesis
+END:VEVENT
+BEGIN:VEVENT
+UID:4969@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161213T180000
+DTEND;TZID=America/Chicago:20161213T190000
+DESCRIPTION:Speakers:\nVarious\, Washington University in St. Louis\n\nDesc
+ ription:\nFind out more about Bench2Business Challenge (B2BC)\, our flagsh
+ ip Business-\nPlan writing competition\, and form teams for early brainsto
+ rming.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=4969
+DTSTAMP:20161128T083800
+LOCATION:Farrell Learning and Teaching Center\, Room 213
+SUMMARY:BEC General Body Meeting & B2BC Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:4984@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161213T180000
+DTEND;TZID=America/Chicago:20161213T190000
+DESCRIPTION:Speakers:\nGeneral Body Meeting\, BEC\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=4984
+DTSTAMP:20161205T080700
+LOCATION:Farrell Learning and Teaching Center\, Room 213
+SUMMARY:Bench to Business Challenge Team Formation
+END:VEVENT
+BEGIN:VEVENT
+UID:4646@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161214T120000
+DTEND;TZID=America/Chicago:20161214T130000
+DESCRIPTION:Speakers:\nPaul Cisek\, PhD\, Associate Professor Department of
+  Psychology University of Montréal\n\nDescription:\nHosted by: Camillo Pa
+ doa Schioppa\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=4646
+DTSTAMP:20160726T101000
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:The challenges and mechanisms of embodied decisions
+END:VEVENT
+BEGIN:VEVENT
+UID:4848@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161214T160000
+DTEND;TZID=America/Chicago:20161214T170000
+DESCRIPTION:Speakers:\nMartin Angst\, MD\, Stanford University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4848
+DTSTAMP:20161004T111100
+LOCATION:CSRB-North Tower Addition\, Room 401
+SUMMARY:Mass Cytometry for Mapping the Immune-modifying Effects of a Nutrit
+ ional Intervention - An Experimental Exercise
+END:VEVENT
+BEGIN:VEVENT
+UID:4989@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161214T163000
+DTEND;TZID=America/Chicago:20161214T183000
+DESCRIPTION:Speakers:\nPostdocs and Guests\, Washington University in St. L
+ ouis\n\nDescription:\nJoin us for the Annual Postdoc Holiday party!! Wedne
+ sday\, Dec. 14\, 2016 4:30pm\nin the FLTC Hearth\, Med School (Farrell Lea
+ rning and Teaching Center\, 2nd\nfloor) All postdocs are invited and may b
+ ring one guest. Appetizers\, beer and\nwine will be served. Please registe
+ r if you will attend - and help us to make\nsure we order enough food and 
+ beverages!! https://goo.gl/Ny6DPM Sponsored by\nThe Office of Postdoctoral
+  Affairs (OPA) and the WU Postdoc Society (WUPS)\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=4989
+DTSTAMP:20161206T114800
+LOCATION:Farrell Learning & Teaching Center - Hearth
+SUMMARY:Postdoc Holiday Party
+END:VEVENT
+BEGIN:VEVENT
+UID:4999@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161215T100000
+DTEND;TZID=America/Chicago:20161215T103000
+DESCRIPTION:Speakers:\nPamela Smith\, MD\, Pediatric Endocrinology and Diab
+ etes\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=4999
+DTSTAMP:20161213T074700
+LOCATION:Schwarz Auditorium\, Maternity Hosp.\, 1st Floor
+SUMMARY:Old before her time: Laminopathy\, lipodystrophy\, and premature ag
+ ing
+END:VEVENT
+BEGIN:VEVENT
+UID:5000@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161215T103000
+DTEND;TZID=America/Chicago:20161215T113000
+DESCRIPTION:Speakers:\nSteven Teitelbaum\, MD\, Anatomic & Molecular Pathol
+ ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=5000
+DTSTAMP:20161213T074700
+LOCATION:Schwarz Auditorium\, Maternity Hosp.\, 1st Floor
+SUMMARY:Common Regulation of Osteoclasts and Obesity
+END:VEVENT
+BEGIN:VEVENT
+UID:4967@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161215T120000
+DTEND;TZID=America/Chicago:20161215T130000
+DESCRIPTION:Speakers:\nMartin M Matzuk\, MD\, PhD\, Baylor College of Medic
+ ine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=4967
+DTSTAMP:20161128T083700
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Genetic and chemical strategies to study male fertility and contrac
+ eption
+END:VEVENT
+BEGIN:VEVENT
+UID:4907@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161215T160000
+DTEND;TZID=America/Chicago:20161215T170000
+DESCRIPTION:Speakers:\nVladimir Kefalov\, PhD\, Department of Ophthalmology
+  and Visual Sciences\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=4907
+DTSTAMP:20161108T132900
+LOCATION:Maternity Building\, Room 725
+SUMMARY:The Visual Pigment and Signaling and Degeneration in Cone Photorece
+ ptors
+END:VEVENT
+BEGIN:VEVENT
+UID:4986@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161215T160000
+DTEND;TZID=America/Chicago:20161215T170000
+DESCRIPTION:Speakers:\nCourtney Griffin\, PhD\, Oklahoma Medical Research F
+ oundation\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=4986
+DTSTAMP:20161205T102900
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:What chromatin remodelers can teach us about vascular development a
+ nd integrity
+END:VEVENT
+BEGIN:VEVENT
+UID:4990@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161216T090000
+DTEND;TZID=America/Chicago:20161216T100000
+DESCRIPTION:Speakers:\nFrank Beier\, PhD\, University of Western Ontario\, 
+ London\, Ontario\, Canada\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=4990
+DTSTAMP:20161207T075200
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Molecular Insights into the Pathogenesis of Osteoarthritis
+END:VEVENT
+BEGIN:VEVENT
+UID:4988@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161216T120000
+DTEND;TZID=America/Chicago:20161216T130000
+DESCRIPTION:Speakers:\nShondra Miller\, Ph.D GEiC\, Director Genome Enginee
+ ring & iPSC Center (GEiC)\nDeborah Rubin\, MD\, Professor of Medicine and 
+ Developmental Biology Associate Director for Faculty Affairs Director\, Wo
+ mens' GI Committee\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=4988
+DTSTAMP:20161205T125400
+LOCATION:901 CSRB North Tower Addition
+SUMMARY:A CRISPR Look at Genome Editing
+END:VEVENT
+BEGIN:VEVENT
+UID:4964@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161216T130000
+DTEND;TZID=America/Chicago:20161216T130000
+DESCRIPTION:Speakers:\nMs. Elizabeth Germino\, MSTP - Immunology Program - 
+ Lab of Dr. Andrey Shaw\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=4964
+DTSTAMP:20161128T083400
+LOCATION:Farrell Learning and Teaching Center Kathy E. Holden Auditorium
+SUMMARY:New insights into RAF dimerization and its role in MAPK signaling
+END:VEVENT
+BEGIN:VEVENT
+UID:4974@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161216T140000
+DTEND;TZID=America/Chicago:20161216T160000
+DESCRIPTION:Speakers:\nMs. Courtney Sobieski\, Neurosciences Program - Lab 
+ of Dr. Steven Mennerick\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=4974
+DTSTAMP:20161130T073800
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:The roles of local astrocyte support on presynaptic function.
+END:VEVENT
+BEGIN:VEVENT
+UID:4668@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161219T161500
+DTEND;TZID=America/Chicago:20161219T171500
+DESCRIPTION:Speakers:\nDr. Gwendalyn Randolph\, Pathology & Immunology\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4668
+DTSTAMP:20161111T104000
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Seeking to understand intestinal inflammatory disease from the outs
+ ide
+END:VEVENT
+BEGIN:VEVENT
+UID:4823@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20161219T163000
+DTEND;TZID=America/Chicago:20161219T173000
+DESCRIPTION:Speakers:\nRichard Verrier\, Ph.D.\, Harvard University\n\nDesc
+ ription:\nCoffee and desert refreshments will be available. Dr. Richard Le
+ onard\nVerrier's research focuses on sudden cardiac death\, with dual emph
+ asis on\nelucidation of pathophysiologic mechanisms and translation from b
+ ench to\nbedside. His patented\, FDA-approved diagnostic risk assessment t
+ echnology is\nnow in use in clinics and hospitals worldwide. Seminar Abstr
+ act:\nhttp://cbac.wustl.edu/Seminars/FALL%202016%20Seminars/VERRIER_Richar
+ dABSTRACT.pdf\nResearch Interests:\nhttps://connects.catalyst.harvard.edu/
+ Profiles/display/Person/80524 Flyer:\nhttp://cbac.wustl.edu/Seminars/FALL%
+ 202016%20Seminars/VERRIER_RichardFLYER.pdf\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=4823
+DTSTAMP:20160923T090000
+LOCATION:Whitaker Hall\, Room 218
+SUMMARY:Quantitative T-wave Alternans Analysis for Sudden Cardiac Death Ris
+ k Assessment and Guiding Therapy: Answered and Unanswered Questions
+END:VEVENT
+BEGIN:VEVENT
+UID:5003@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170103T120000
+DTEND;TZID=America/Chicago:20170103T130000
+DESCRIPTION:Speakers:\nChihiro Sato\, PhD\, Instructor of Neurology\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5003
+DTSTAMP:20161215T151200
+LOCATION:East Pavilion Auditorium
+SUMMARY:Tau Kinetics in Vivo and In Vitro
+END:VEVENT
+BEGIN:VEVENT
+UID:5044@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170103T160000
+DTEND;TZID=America/Chicago:20170103T170000
+DESCRIPTION:Speakers:\nFahd Ahmad\, M.D.\, M.S.C.I.\, Assistant Professor o
+ f Pediatrics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=5044
+DTSTAMP:20170103T103400
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:The Forgotten: Using informatics and implementation research to imp
+ rove healthcare delivery"
+END:VEVENT
+BEGIN:VEVENT
+UID:5032@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170105T120000
+DTEND;TZID=America/Chicago:20170105T130000
+DESCRIPTION:Speakers:\nSiyuan (Steven) Wang\, Harvard University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5032
+DTSTAMP:20161229T081400
+LOCATION:Cori Auditorium
+SUMMARY:Spatial organization of chromatin domains and compartments in singl
+ e chromosomes
+END:VEVENT
+BEGIN:VEVENT
+UID:5025@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170105T160000
+DTEND;TZID=America/Chicago:20170105T170000
+DESCRIPTION:Speakers:\nJianmin Cui\, PhD\, Professor of Biomedical Engineer
+ ing\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=5025
+DTSTAMP:20161221T082500
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:Finding New Anti-arrhythmic Drugs
+END:VEVENT
+BEGIN:VEVENT
+UID:5030@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170106T090000
+DTEND;TZID=America/Chicago:20170106T100000
+DESCRIPTION:Speakers:\nCuiCui Wang\, PhD\, Department of Orthopaedic Surger
+ y - O'Keefe Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=5030
+DTSTAMP:20161222T111800
+LOCATION:Cori Auditorium
+SUMMARY:Epigenetic and Inflammatory Regulation of Bone Regeneration
+END:VEVENT
+BEGIN:VEVENT
+UID:5007@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170109T120000
+DTEND;TZID=America/Chicago:20170109T130000
+DESCRIPTION:Speakers:\nOliver Prince\, PhD\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5007
+DTSTAMP:20161219T084500
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:Mycobacterium tuberculosis inhibits protective granuloma formation 
+ through early mucosal interactions
+END:VEVENT
+BEGIN:VEVENT
+UID:5004@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170109T160000
+DTEND;TZID=America/Chicago:20170109T170000
+DESCRIPTION:Speakers:\nDr. Shao-shan Huang\, Salk Institute for Biological 
+ Studies\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
+ ?EvID=5004
+DTSTAMP:20161216T085800
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Efficient mapping of genome-wide regulatory elements for biological
+  insights
+END:VEVENT
+BEGIN:VEVENT
+UID:4923@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170109T161500
+DTEND;TZID=America/Chicago:20170109T161500
+DESCRIPTION:Speakers:\nDr. Jon Yewdell\, NIH/NIAID\n\nLink: http://dbbs.wus
+ tl.edu/Resources/Pages/calendar_event.aspx?EvID=4923
+DTSTAMP:20161213T102700
+LOCATION:Moore Auditorium
+SUMMARY:The Case of the Missing Ribosomes and  Other Tales of Immuno-Trans
+ lation
+END:VEVENT
+BEGIN:VEVENT
+UID:5039@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170110T103000
+DTEND;TZID=America/Chicago:20170110T113000
+DESCRIPTION:Speakers:\nAlberto Perez\, Ph.D.\, Stony Brook University\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5039
+DTSTAMP:20170103T101300
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Deepening our understanding of bigger protein motions and actions b
+ y accelerated physics simulations
+END:VEVENT
+BEGIN:VEVENT
+UID:4963@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170110T153000
+DTEND;TZID=America/Chicago:20170110T173000
+DESCRIPTION:Speakers:\nPeter Nagele\, MD\, MSc\, Assistant Professor of Ane
+ sthesiology\n\nDescription:\nUsing Mentoring and Individual Career Develop
+ ment Plans to Facilitate Career\nSuccess Tuesday\, January 10\, 2017\, 3:3
+ 0 pm\, Wohl Auditorium Speaker: Peter\nNagele\, MD\, MSc\, Assistant Profe
+ ssor of Anesthesiology No advance registration\nnecessary\, free and open 
+ to all Sponsored by the Clinical Research Training\nCenter\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4963
+DTSTAMP:20161122T095500
+LOCATION:Wohl Auditorium\, Wohl Hospital
+SUMMARY:Using Mentoring and Individual Career Development Plans to Facilita
+ te Career Success
+END:VEVENT
+BEGIN:VEVENT
+UID:4714@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170110T160000
+DTEND;TZID=America/Chicago:20170110T170000
+DESCRIPTION:Speakers:\nTheodore R. Cummins\, PhD\, Indiana University - Pur
+ due University Indianapolis\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=4714
+DTSTAMP:20160822T145700
+LOCATION:CSRB-North Tower Addition\, Room 401
+SUMMARY:Specialized Sodium Channels in Nocicepton
+END:VEVENT
+BEGIN:VEVENT
+UID:5091@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170110T160000
+DTEND;TZID=America/Chicago:20170110T170000
+DESCRIPTION:Speakers:\nMichele Johnson\, Trinity University\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5091
+DTSTAMP:20170110T103600
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Physiological mechanisms underlying behavioral convergence in Carib
+ bean lizards
+END:VEVENT
+BEGIN:VEVENT
+UID:5051@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170111T090000
+DTEND;TZID=America/Chicago:20170111T100000
+DESCRIPTION:Speakers:\nPo-Yin Yen\, Faculty Candidate for the Institute for
+  Informatics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=5051
+DTSTAMP:20170104T110800
+LOCATION:King Center - 7th floor library
+SUMMARY:Improve Clinical Practice in the Health IT Era via Clinical Workflo
+ w Analysis\, socia-Technical Evaluation\, and Article Network Visualizatio
+ n
+END:VEVENT
+BEGIN:VEVENT
+UID:5002@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170111T100000
+DTEND;TZID=America/Chicago:20170111T120000
+DESCRIPTION:Speakers:\nMr. Eric Hamilton\, Plant Biology Program\; Lab of D
+ r. Liz Haswell\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_eve
+ nt.aspx?EvID=5002
+DTSTAMP:20161215T141800
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Strategies for Success: Mechanosensitive Channel MSL8 Regulates Mec
+ hanical Challenges during Pollen Rehydration and Growth
+END:VEVENT
+BEGIN:VEVENT
+UID:5036@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T080000
+DTEND;TZID=America/Chicago:20170112T090000
+DESCRIPTION:Speakers:\nAlvin C. Powers\, MD\, Vanderbilt University\n\nDesc
+ ription:\n16th Annual Julio V. Santiago\, M.D. Memorial Lecture\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5036
+DTSTAMP:20161229T081400
+LOCATION:Clopton Auditorium
+SUMMARY:Changes in Our Understanding of the Pathogenesis of Type 1 Diabetes
+END:VEVENT
+BEGIN:VEVENT
+UID:4973@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T090000
+DTEND;TZID=America/Chicago:20170112T100000
+DESCRIPTION:Speakers:\nWashU Postdoc Society members\, open to all postdocs
+  of WashU\n\nDescription:\nJoin the WashU Postdoc Society for our monthly 
+ meeting where we discuss\nPostdoc Life related issues and plan social and 
+ career development events.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=4973
+DTSTAMP:20161213T104900
+LOCATION:FLCT 201
+RRULE:FREQ=WEEKLY;UNTIL=20170112;BYDAY=1MO;INTERVAL=1
+SUMMARY:WashU Postdoc Society monthly meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:5056@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T090000
+DTEND;TZID=America/Chicago:20170112T100000
+DESCRIPTION:Speakers:\nJean-Paul Latge\, Institut Pasteur\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5056
+DTSTAMP:20170105T082400
+LOCATION:Cori Auditorium
+SUMMARY:Sweet or bitter polysaccharides in the cell wall of the human oppor
+ tunistic fungal pathogen Aspergillus fumigatus
+END:VEVENT
+BEGIN:VEVENT
+UID:5033@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T120000
+DTEND;TZID=America/Chicago:20170112T130000
+DESCRIPTION:Speakers:\nMatthew Taliaferro\, Ph.D.\, Massachusetts Institute
+  of Technology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_eve
+ nt.aspx?EvID=5033
+DTSTAMP:20161229T081400
+LOCATION:Cori Auditorium
+SUMMARY:RNA localization: Delivering the message
+END:VEVENT
+BEGIN:VEVENT
+UID:4917@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T150000
+DTEND;TZID=America/Chicago:20170112T160000
+DESCRIPTION:Speakers:\nDr. Tamara Doering\, Professor\, Molecular Microbiol
+ ogy\n\nDescription:\nLab Finances New Date: Thursday\, January 12\, 2017\,
+  3 pm\, Holden Auditorium\nRunning a lab is something like running a small
+  business\, in that you have to\nassess and plan your expenditures and inc
+ ome. Dr. Tamara Doering\, Professor\,\nMolecular Microbiology \, will disc
+ uss 'types' of money and expenses you will\nencounter as junior faculty an
+ d how to think about them. And even if running\nyour own lab seems far off
+ \, the information should help you be a more informed\nlab member and job 
+ seeker in the interim! This event was originally scheduled\nfor December 1
+ 2. It will now take place on January 12 at 3 pm. This seminar is\npart of 
+ the Faculty Career Search Seminar Series. Registration for this event\nis 
+ closed. You may still attend and please sign in when you arrive.\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4917
+DTSTAMP:20170111T125700
+LOCATION:Farrell Learning and Teaching Center Kathy E. Holden Auditorium
+SUMMARY:Lab Finances
+END:VEVENT
+BEGIN:VEVENT
+UID:4976@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T160000
+DTEND;TZID=America/Chicago:20170112T160000
+DESCRIPTION:Speakers:\nFlorentina Soto\, PhD\, Department of Ophthalmology 
+ and Visual Sciences\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=4976
+DTSTAMP:20161219T145200
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Assembly and Maintenance of Circuits in the Outer Retina
+END:VEVENT
+BEGIN:VEVENT
+UID:4992@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T160000
+DTEND;TZID=America/Chicago:20170112T170000
+DESCRIPTION:Speakers:\nRoberto Zoncu\, PhD\, University of California at Be
+ rkeley\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=4992
+DTSTAMP:20161207T121600
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:The Lysosome in Nutrient Sensing and Cellular Growth Control
+END:VEVENT
+BEGIN:VEVENT
+UID:5026@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T160000
+DTEND;TZID=America/Chicago:20170112T170000
+DESCRIPTION:Speakers:\nRoberto Zoncu\, PhD\, University of California\, Ber
+ keley\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=5026
+DTSTAMP:20161221T082500
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:The Lysosome in Nutrient Sensing and Cellular Growth Control
+END:VEVENT
+BEGIN:VEVENT
+UID:5048@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170112T160000
+DTEND;TZID=America/Chicago:20170112T170000
+DESCRIPTION:Speakers:\nDarlene Monlish and Andrew Jezewski\, Schuettpelz La
+ b and Odom John Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=5048
+DTSTAMP:20170104T090700
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:5031@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170113T090000
+DTEND;TZID=America/Chicago:20170113T100000
+DESCRIPTION:Speakers:\nClifford Rosen\, MD\, Maine Medical Center Research 
+ Institute\, Scarborough\, ME\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=5031
+DTSTAMP:20161222T111800
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:When Bone Meets Fat
+END:VEVENT
+BEGIN:VEVENT
+UID:5053@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170113T090000
+DTEND;TZID=America/Chicago:20170113T100000
+DESCRIPTION:Speakers:\nTBA\, TBA\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=5053
+DTSTAMP:20170105T082400
+LOCATION:BJC-Institute of Health\, Conference Room 10AB (10th floor)
+RRULE:FREQ=WEEKLY;UNTIL=20170512;BYDAY=FR;INTERVAL=1
+SUMMARY:CRepHS Seminar Series
+END:VEVENT
+BEGIN:VEVENT
+UID:5062@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170113T120000
+DTEND;TZID=America/Chicago:20170113T130000
+DESCRIPTION:Speakers:\nRodney Newberry\, MD\, Division of Gastroenterology\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=50
+ 62
+DTSTAMP:20170105T141400
+LOCATION:901 CSRB North Tower Addition
+SUMMARY:Pathways Supporting Tolerance to Enteric Antigens
+END:VEVENT
+BEGIN:VEVENT
+UID:5069@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170113T120000
+DTEND;TZID=America/Chicago:20170113T130000
+DESCRIPTION:Speakers:\nErica Scheller\, Ph.D.\, Assistant Professor of Medi
+ cine\, Division of Bone & Mineral Diseases\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=5069
+DTSTAMP:20170106T095500
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:Nerves and fat in bone
+END:VEVENT
+BEGIN:VEVENT
+UID:5029@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170113T150000
+DTEND;TZID=America/Chicago:20170113T160000
+DESCRIPTION:Speakers:\nBonnie L. Bassler\, Ph.D.\, Princeton University\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5029
+DTSTAMP:20161222T102900
+LOCATION:Cori Auditorium
+SUMMARY:Bacterial Quorum Sensing and Its Control
+END:VEVENT
+BEGIN:VEVENT
+UID:5040@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170117T103000
+DTEND;TZID=America/Chicago:20170117T113000
+DESCRIPTION:Speakers:\nAlan Brown\, PhD\, MRC Laboratory of Molecular Biolo
+ gy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =5040
+DTSTAMP:20170103T101300
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Terminating protein synthesis with and without a stop codon: insigh
+ ts from cryo-EM
+END:VEVENT
+BEGIN:VEVENT
+UID:5057@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170117T120000
+DTEND;TZID=America/Chicago:20170117T130000
+DESCRIPTION:Speakers:\nKaren O'Malley\, Department of Neuroscience\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5057
+DTSTAMP:20170105T082300
+LOCATION:4444 Forest Park Ave.\, Room 1235
+SUMMARY:Location-dependent signaling by mGlu5 receptors in a rodent chronic
+  pain model
+END:VEVENT
+BEGIN:VEVENT
+UID:5054@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170117T150000
+DTEND;TZID=America/Chicago:20170117T150000
+DESCRIPTION:Speakers:\nMs. Yue Huang\, Molecular Genetics and Genomics Prog
+ ram - Laboratory of Dr. Gene Oltz\n\nLink: http://dbbs.wustl.edu/Resources
+ /Pages/calendar_event.aspx?EvID=5054
+DTSTAMP:20170104T125200
+LOCATION:Cori Auditorium
+SUMMARY:Epigenetic Regulation of Lymphocyte Development and Transformation
+END:VEVENT
+BEGIN:VEVENT
+UID:5037@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170117T160000
+DTEND;TZID=America/Chicago:20170117T170000
+DESCRIPTION:Speakers:\nCheryl L. Stucky\, PhD\, Medical College of Wisconsi
+ n\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 5037
+DTSTAMP:20161230T104700
+LOCATION:CSRB-North Tower Addition\, Room 401
+SUMMARY:Optogenetic Silencing of CGRP-expressing Sensory Neurons Implicates
+  a Role in Neuropathic Pain
+END:VEVENT
+BEGIN:VEVENT
+UID:5052@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170118T110000
+DTEND;TZID=America/Chicago:20170118T120000
+DESCRIPTION:Speakers:\nDr. Jeremy Rock\, Harvard School of Public Health\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5052
+DTSTAMP:20170104T115300
+LOCATION:Molecular Microbiology Seminar Room – 8101\, McDonnell Pediatric
+  Research Building
+SUMMARY:New approaches to old problems: drug resistance and functional geno
+ mics in M. tuberculosis
+END:VEVENT
+BEGIN:VEVENT
+UID:4641@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170118T120000
+DTEND;TZID=America/Chicago:20170118T130000
+DESCRIPTION:Speakers:\nOkihide Hikosaka\, MD\, PhD\, Senior Investigator Ne
+ uronal Networks Section National Eye Institute National Institutes of Heal
+ th\n\nDescription:\nHosted by: Dr. Ilya Monsov\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=4641
+DTSTAMP:20160726T100800
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Short-term and long-term value memories for decision making
+END:VEVENT
+BEGIN:VEVENT
+UID:5070@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170118T160000
+DTEND;TZID=America/Chicago:20170118T170000
+DESCRIPTION:Speakers:\nNathan O. Stitziel\, MD\, PhD\, Department of Medici
+ ne\, Cardiovascular Division and Department of Genetics\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5070
+DTSTAMP:20170106T130000
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Germline Genomics & Non-Cancer Case Studies
+END:VEVENT
+BEGIN:VEVENT
+UID:4987@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170119T110000
+DTEND;TZID=America/Chicago:20170119T120000
+DESCRIPTION:Speakers:\nCorinne Houart\, PhD\, King's College London\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4987
+DTSTAMP:20170109T121000
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Developmental mechanisms controlling brain size
+END:VEVENT
+BEGIN:VEVENT
+UID:5064@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170119T120000
+DTEND;TZID=America/Chicago:20170119T130000
+DESCRIPTION:Speakers:\nSujatha Jagannathan\, Ph.D.\, Fred Hutchinson Cancer
+  Research Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=5064
+DTSTAMP:20170111T085400
+LOCATION:Cori Auditorium
+SUMMARY:When to shoot the messenger: Deciphering mRNA surveillance
+END:VEVENT
+BEGIN:VEVENT
+UID:4977@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170119T160000
+DTEND;TZID=America/Chicago:20170119T170000
+DESCRIPTION:Speakers:\nHarrison Gabel\, PhD\, Department of Neuroscience\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4977
+DTSTAMP:20161230T095000
+LOCATION:Maternity Building\, Room 725
+SUMMARY:The Neuron-specific Epigenome in Development and Disease
+END:VEVENT
+BEGIN:VEVENT
+UID:5028@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170119T160000
+DTEND;TZID=America/Chicago:20170119T170000
+DESCRIPTION:Speakers:\nRajat Singh\, MD\, MBBS\, Albert Einstein College of
+  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=5028
+DTSTAMP:20161222T102300
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:Autophagy and Metabolic Regulation
+END:VEVENT
+BEGIN:VEVENT
+UID:5049@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170119T160000
+DTEND;TZID=America/Chicago:20170119T170000
+DESCRIPTION:Speakers:\nMike Diamond\, Infectious Diseases\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5049
+DTSTAMP:20170104T090700
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:5001@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170119T163000
+DTEND;TZID=America/Chicago:20170119T173000
+DESCRIPTION:Speakers:\nHilary Robbins\, MSPH\, Johns Hopkins Bloomberg Scho
+ ol of Public Health\n\nDescription:\nHilary Robbins\, a doctoral candidate
+  from Johns Hopkins Bloomberg School of\nPublic Health\, will outline and 
+ briefly review cancer screening and its\nintersections with precision medi
+ cine\, focusing on risk-tailored approaches to\nscreening. Using two examp
+ les of Hilary’s own work\, she will discuss 1)\nincorporating CT screeni
+ ng results into individual risk prediction for lung\ncancer\, and 2) using
+  a modified “risk benchmarking” approach to select\nappropriate cervic
+ al cancer screening strategies for HIV-positive women.\n\nLink: http://dbb
+ s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5001
+DTSTAMP:20161213T074700
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:PhD Candidate\, Epidemiology
+END:VEVENT
+BEGIN:VEVENT
+UID:5005@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170119T163000
+DTEND;TZID=America/Chicago:20170119T173000
+DESCRIPTION:Speakers:\nHilary Robbins\, MSPH\, John Hopkins Bloomberg Schoo
+ l of Public Health\n\nDescription:\nEpidemiology and Clinical Outcomes Res
+ earch Seminar Series Thursday\, January\n19\, 2017\, 4:30 pm\, Doll & Hill
+  Teaching Room 2131\, Taylor Avenue Bldg (600 S.\nTaylor). "Precision Medi
+ cine for Cancer Screening: Applications in Lung and\nCervical Cancers"\, H
+ ilary Robbins\, MSPH (doctoral candidate at John Hopkins\nBloomberg School
+  of Public Health) No RSVP needed\; open to all. Learn more\nabout this se
+ minar series at http://bit.ly/1ndWFpZ .\n\nLink: http://dbbs.wustl.edu/Res
+ ources/Pages/calendar_event.aspx?EvID=5005
+DTSTAMP:20161216T095100
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Precision Medicine for Cancer Screening: Applications in Lung and C
+ ervical Cancers
+END:VEVENT
+BEGIN:VEVENT
+UID:5084@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170120T120000
+DTEND;TZID=America/Chicago:20170120T130000
+DESCRIPTION:Speakers:\nNada Abumrad\, Ph.D.\, Robert C. Atkins Professor of
+  Obesity Research in Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pag
+ es/calendar_event.aspx?EvID=5084
+DTSTAMP:20170109T092000
+LOCATION:901 CSRB North Tower Addition
+SUMMARY:An Endothelial Perspective on Gut Inflammation
+END:VEVENT
+BEGIN:VEVENT
+UID:5010@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170120T130000
+DTEND;TZID=America/Chicago:20170120T140000
+DESCRIPTION:Speakers:\nCareer Center\, WUSTL\n\nDescription:\nPrepping for 
+ the Career Fair + SLAMs Friday\, January 20\, 2017\, 1 pm Danforth\nCampus
+ \, Danforth University Center\, RM 276 Don't let the thought of the Career
+ \nFair freak you out! Get a few tips on how to work a career fair\, from\n
+ researching employers ahead of time to presenting yourself to an employer.
+ \nThis workshop is being held in preparation for the STEM SLAM on Wednesda
+ y\,\nJanuary 25 from 6-8 pm in Tisch Commons and the Spring Internship and
+  Job\nCareer Fair on Thursday\, January 26 from 3-7 pm in the Athletic Com
+ plex\,\nVarsity Gym. RSVP: https://wustl-\ncsm.symplicity.com/students/ind
+ ex.php?mode=form&amp\;id\;=f607a9f336418944177fad920acd93f9&amp\;s\;=event
+ &amp\;ss\;=ws&amp\;PHPSESSID\;=b41a67658ad7050809915586d0d726d5\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5010
+DTSTAMP:20161219T133600
+LOCATION:Danforth Campus\, Danforth University Center\, Rm 276
+SUMMARY:Prepping for the Career Fair + SLAMs
+END:VEVENT
+BEGIN:VEVENT
+UID:5112@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170120T140000
+DTEND;TZID=America/Chicago:20170120T140000
+DESCRIPTION:Speakers:\nMr. Stephen W. Linderman\, MSTP - Biomedical Enginee
+ ring Program - Lab of Dr. Stavros Thomopoulos\, Columbia University\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5112
+DTSTAMP:20170111T151800
+LOCATION:Farrell Learning and Teaching Center\, Holden Case Study Room (Aud
+ itorium)
+SUMMARY:Improved Orthopaedic Repairs through Mechanically Optimized\, Adhes
+ ive Biomaterials
+END:VEVENT
+BEGIN:VEVENT
+UID:4951@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170123T120000
+DTEND;TZID=America/Chicago:20170123T130000
+DESCRIPTION:Speakers:\nJunsu Kang\, PhD\, Duke University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4951
+DTSTAMP:20161128T083600
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Fishing for regulators of tissue regeneration
+END:VEVENT
+BEGIN:VEVENT
+UID:4924@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170123T161500
+DTEND;TZID=America/Chicago:20170123T161500
+DESCRIPTION:Speakers:\nDr. Dan Mucida\, The Rockefeller University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4924
+DTSTAMP:20161213T102700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Tissue adaptation: implications for gut immunity and tolerance
+END:VEVENT
+BEGIN:VEVENT
+UID:5011@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170123T170000
+DTEND;TZID=America/Chicago:20170123T180000
+DESCRIPTION:Speakers:\nCareer Center\, WUSTL\n\nDescription:\nInternational
+  Students' Prepping for the Career Fair + SLAM Monday\, January\n23\, 2017
+ \, 5 pm Danforth Campus\, Danforth University Center\, Room 276\nInternati
+ onal Students may have additional challenge when attending a U.S.\nCareer 
+ Fair. Don't let the thought of the Career Fair freak you out! Get a few\nt
+ ips on how to work a career fair\, from researching employers ahead of tim
+ e to\npresenting yourself to an employer. This workshop is being held in p
+ reparation\nfor the STEM SLAM on Wednesday\, January 25 from 6-8 pm in Tis
+ ch Commons and\nthe Spring Internship and Job Career Fair on Thursday\, Ja
+ nuary 26 from 3-7 pm\nin the Athletic Complex\, Varsity Gym. This session 
+ is designed specifically\nfor international students. RSVP: https://wustl-
+ \ncsm.symplicity.com/students/index.php?mode=form&amp\;id\;=a5d5a2cb1a429d
+ d294d534e4c9749799&amp\;s\;=event&amp\;ss\;=ws&amp\;PHPSESSID\;=4a95bb4b4e
+ 10115048d5eb8af8d77e9b\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=5011
+DTSTAMP:20161219T133700
+LOCATION:Danforth Campus\, Danforth University Center\, Rm 276
+SUMMARY:International Students' Prepping for the Career Fair + SLAM
+END:VEVENT
+BEGIN:VEVENT
+UID:5012@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170123T170000
+DTEND;TZID=America/Chicago:20170123T180000
+DESCRIPTION:Speakers:\nCareer Center\, WUSTL\n\nDescription:\nPrepping for 
+ the Career Fair + SLAM Monday\, January 23\, 2017 5 pm Danforth\nCampus\, 
+ Danforth University Center\, Room 234 (Presentation Room) Don't let the\nt
+ hought of the Career Fair freak you out! Get a few tips on how to work a\n
+ career fair\, from researching employers ahead of time to presenting yours
+ elf\nto an employer. This workshop is being held in preparation for the ST
+ EM SLAM\non Wednesday\, January 25 from 6-8 pm in Tisch Commons and the Sp
+ ring\nInternship and Job Career Fair on Thursday\, January 26 from 3-7 pm 
+ in the\nAthletic Complex\, Varsity Gym. RSVP: https://wustl-\ncsm.symplici
+ ty.com/students/index.php?mode=form&amp\;id\;=457924cf2d942f4f9f7d192e2cd6
+ cfdf&amp\;s\;=event&amp\;ss\;=ws\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=5012
+DTSTAMP:20161219T133600
+LOCATION:Danforth Campus\, Danforth University Center\, Room 234
+SUMMARY:Prepping for the Career Fair + SLAM
+END:VEVENT
+BEGIN:VEVENT
+UID:5041@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170124T103000
+DTEND;TZID=America/Chicago:20170124T113000
+DESCRIPTION:Speakers:\nJoseph Davis\, PhD\, The Scripps Research Institute\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=50
+ 41
+DTSTAMP:20170103T101300
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Biological Assembly of Ribosomes and Other Macromolecular Machines
+END:VEVENT
+BEGIN:VEVENT
+UID:5013@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170124T120000
+DTEND;TZID=America/Chicago:20170124T130000
+DESCRIPTION:Speakers:\nCareer Center\, WUSTL\n\nDescription:\nPrepping for 
+ the Career Fair + SLAM Tuesday\, January 24\, 2017\, 12 pm Danforth\nCampu
+ s\, Danforth University Center\, Room 276 Don't let the thought of the\nCa
+ reer Fair freak you out! Get a few tips on how to work a career fair\, fro
+ m\nresearching employers ahead of time to presenting yourself to an employ
+ er.\nThis workshop is being held in preparation for the STEM SLAM on Wedne
+ sday\,\nJanuary 25 from 6-8 pm in Tisch Commons and the Spring Internship 
+ and Job\nCareer Fair on Thursday\, January 26 from 3-7 pm in the Athletic 
+ Complex\,\nVarsity Gym. RSVP: https://wustl-\ncsm.symplicity.com/students/
+ index.php?mode=form&amp\;id\;=e2e9b88a7f3a7979d86d73372074092b&amp\;s\;=ev
+ ent&amp\;ss\;=ws\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=5013
+DTSTAMP:20161219T134000
+LOCATION:Danforth Campus\, Danforth University Center\, Rm 276
+SUMMARY:Prepping for the Career Fair + SLAM
+END:VEVENT
+BEGIN:VEVENT
+UID:5105@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170125T090000
+DTEND;TZID=America/Chicago:20170125T100000
+DESCRIPTION:Speakers:\nDr. Jason Peters\, University of California\, San Fr
+ ancisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
+ ?EvID=5105
+DTSTAMP:20170111T084600
+LOCATION:Molecular Microbiology Seminar Room – 8101\, McDonnell Pediatric
+  Research Building
+SUMMARY:CRISPR-based Functional Genomics in Bacteria
+END:VEVENT
+BEGIN:VEVENT
+UID:4599@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170125T120000
+DTEND;TZID=America/Chicago:20170125T130000
+DESCRIPTION:Speakers:\nSheena Josselyn\, PhD\, University of Toronto\n\nDes
+ cription:\nHosted by: Dr. Ed Han\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=4599
+DTSTAMP:20160914T143500
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Making\, Breaking and Linking Memories
+END:VEVENT
+BEGIN:VEVENT
+UID:5071@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170125T160000
+DTEND;TZID=America/Chicago:20170125T170000
+DESCRIPTION:Speakers:\nJeffrey I. Gordon\, MD\, Department of Pathology and
+  Immunology and Director\, Center for Genome Sciences and Systems Biology\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=50
+ 71
+DTSTAMP:20170106T130700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Genomics of Microbes & Microbiomes
+END:VEVENT
+BEGIN:VEVENT
+UID:5014@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170125T180000
+DTEND;TZID=America/Chicago:20170125T200000
+DESCRIPTION:Speakers:\nS.T.E.M. Employers\, TBA\n\nDescription:\nS.T.E.M. C
+ areer Slam Wednesday\, January 25\, 2017\, 6 pm-8 pm Danforth Campus\,\nDa
+ nforth University Center\, Tisch Commons Looking for a science\, technolog
+ y\,\nengineering\, or math opportunity? Not sure what's out there? Come he
+ ar\nemployers 'open mic' pitch their internship and job opportunities. Eac
+ h\norganization will have 45 seconds to showcase their internship or job\n
+ opportunity in a fast-moving\, on-stage line-up. Immediately following the
+ \npitch\, you'll have the chance to speak with employers at designated sta
+ tions\naround the room to learn the details about their opportunities and 
+ ask your\nquestions. More info: http://careercenter.wustl.edu/events/Pages
+ /STEMSLAM.aspx\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_eve
+ nt.aspx?EvID=5014
+DTSTAMP:20161219T134700
+LOCATION:Danforth Campus\, Danforth University Center
+SUMMARY:S.T.E.M. Career Slam
+END:VEVENT
+BEGIN:VEVENT
+UID:4952@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170126T110000
+DTEND;TZID=America/Chicago:20170126T120000
+DESCRIPTION:Speakers:\nXiaochang Zhang\, PhD\, Boston Children’s Hospital
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4
+ 952
+DTSTAMP:20161128T083600
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Cell-Type-Specific Alternative Splicing Controls Cerebral Cortical 
+ Development
+END:VEVENT
+BEGIN:VEVENT
+UID:5035@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170126T120000
+DTEND;TZID=America/Chicago:20170126T130000
+DESCRIPTION:Speakers:\nLi Ye\, Ph.D.\, Stanford University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5035
+DTSTAMP:20161229T081500
+LOCATION:Cori Auditorium
+SUMMARY:CLARITY-based whole brain circuits mapping: from behavior to metabo
+ lism
+END:VEVENT
+BEGIN:VEVENT
+UID:5108@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170126T120000
+DTEND;TZID=America/Chicago:20170126T130000
+DESCRIPTION:Speakers:\nSilvia Jansen\, Ph.D.\, Rosenstiel Basic Medical Sci
+ ences Research Center Brandeis University\, Waltham\, MA\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5108
+DTSTAMP:20170111T143700
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:Spatiotemporal Regulation of Actin Filament Disassembly
+END:VEVENT
+BEGIN:VEVENT
+UID:4978@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170126T160000
+DTEND;TZID=America/Chicago:20170126T170000
+DESCRIPTION:Speakers:\nKarla Zadnik\, OD\, PhD\, Professor and Dean\, Colle
+ ge of Optometry\, Ohio State University\n\nLink: http://dbbs.wustl.edu/Res
+ ources/Pages/calendar_event.aspx?EvID=4978
+DTSTAMP:20161201T092500
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Three Decades of Research on Myopia
+END:VEVENT
+BEGIN:VEVENT
+UID:5027@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170126T160000
+DTEND;TZID=America/Chicago:20170126T170000
+DESCRIPTION:Speakers:\nJames Martin\, MD\, PhD\, Baylor College of Medicine
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5
+ 027
+DTSTAMP:20161221T082500
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:Hippo Signaling in Heart Development and Regeneration
+END:VEVENT
+BEGIN:VEVENT
+UID:5050@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170126T160000
+DTEND;TZID=America/Chicago:20170126T170000
+DESCRIPTION:Speakers:\nPat Jay\, Cardiology\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=5050
+DTSTAMP:20170104T090800
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:4953@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170130T120000
+DTEND;TZID=America/Chicago:20170130T130000
+DESCRIPTION:Speakers:\nFelipe Karam-Teixeira\, PhD\, NYUMC\, Skirball Insti
+ tute\, HHMI\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=4953
+DTSTAMP:20161128T083600
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:The genetic framework of germline stem cell development
+END:VEVENT
+BEGIN:VEVENT
+UID:4925@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170130T161500
+DTEND;TZID=America/Chicago:20170130T161500
+DESCRIPTION:Speakers:\nDr. Kyunghee Choi\, Department of Pathology & Immuno
+ logy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=4925
+DTSTAMP:20161213T102800
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Etv2 in the generation and regeneration of hematopoietic and vascul
+ ar systems
+END:VEVENT
+BEGIN:VEVENT
+UID:5042@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170131T103000
+DTEND;TZID=America/Chicago:20170131T113000
+DESCRIPTION:Speakers:\nRuth Sommese\, PhD\, University of Minnesota\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5042
+DTSTAMP:20170103T101400
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Tuning the Substrate-Kinase Interaction of PKC
+END:VEVENT
+BEGIN:VEVENT
+UID:5058@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170131T120000
+DTEND;TZID=America/Chicago:20170131T130000
+DESCRIPTION:Speakers:\nChing-Ting Hwang\, Movement Sciences Program\, PhD C
+ andidiate\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=5058
+DTSTAMP:20170105T082300
+LOCATION:4444 Forest Park Ave.\, Room 1235
+SUMMARY:Low back pain in prolonged standing: Alignment and Sensory Processi
+ ng
+END:VEVENT
+BEGIN:VEVENT
+UID:5072@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170201T160000
+DTEND;TZID=America/Chicago:20170201T170000
+DESCRIPTION:Speakers:\nKristine Wylie\, PhD\, Department of Pediatrics\, Di
+ vision of Laboratory Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pag
+ es/calendar_event.aspx?EvID=5072
+DTSTAMP:20170106T131700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Analysis of the Human Virome
+END:VEVENT
+BEGIN:VEVENT
+UID:5034@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170202T120000
+DTEND;TZID=America/Chicago:20170202T130000
+DESCRIPTION:Speakers:\nMatthew Sieber\, Ph.D.\, Carnegie Institute of Scien
+ ce\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =5034
+DTSTAMP:20161229T081500
+LOCATION:Cori Auditorium
+SUMMARY:A multi-organism approach to understanding the metabolic basis for 
+ sex\, reproduction and disease
+END:VEVENT
+BEGIN:VEVENT
+UID:5109@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170202T120000
+DTEND;TZID=America/Chicago:20170202T130000
+DESCRIPTION:Speakers:\nDavid J.E. Kast\, Ph.D.\, Perelman School of Medicin
+ e at the University of Pennsylvania\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=5109
+DTSTAMP:20170111T143700
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:At the Interface between Membranes and the Actin Cytoskeleton
+END:VEVENT
+BEGIN:VEVENT
+UID:5093@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170202T160000
+DTEND;TZID=America/Chicago:20170202T170000
+DESCRIPTION:Speakers:\nJoyce Maschinski\, Fairchild Tropical Botanical Gard
+ en\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =5093
+DTSTAMP:20170110T103600
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Influences of changing points of view on endangered plant conserv
+ ation
+END:VEVENT
+BEGIN:VEVENT
+UID:4954@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170206T120000
+DTEND;TZID=America/Chicago:20170206T130000
+DESCRIPTION:Speakers:\nMayssa Mokalled\, PhD\, Duke University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4954
+DTSTAMP:20161128T083600
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Mechanisms of spinal cord regeneration in zebrafish
+END:VEVENT
+BEGIN:VEVENT
+UID:5106@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170206T130000
+DTEND;TZID=America/Chicago:20170206T140000
+DESCRIPTION:Speakers:\nDavid B. Sykes\, MD\, PhD\, Center for Regenerative 
+ Medicine\, Massachusetts General Hospital\, Boston\, MA\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5106
+DTSTAMP:20170111T084600
+LOCATION:Clinical Sciences Research Building\, Room 8841
+SUMMARY:Curing by Maturing – Developing Differentiation Therapy for the T
+ reatment of Patients with Acute Myeloid Leukemia
+END:VEVENT
+BEGIN:VEVENT
+UID:4926@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170206T161500
+DTEND;TZID=America/Chicago:20170206T161500
+DESCRIPTION:Speakers:\nDr. Herbert "Skip" Virgin\, Department of Pathology 
+ & Immunology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=4926
+DTSTAMP:20161219T142900
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Role of autophagy and autophagy genes in inflammation and immunity
+END:VEVENT
+BEGIN:VEVENT
+UID:5043@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170207T103000
+DTEND;TZID=America/Chicago:20170207T113000
+DESCRIPTION:Speakers:\nPaul Robustelli\, PhD\, D.E. Shaw Research\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5043
+DTSTAMP:20170103T101400
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Elucidating the Role of Conformational Dynamics in Protein Function
+  with NMR Spectroscopy and Molecular Simulation
+END:VEVENT
+BEGIN:VEVENT
+UID:4785@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170207T120000
+DTEND;TZID=America/Chicago:20170207T130000
+DESCRIPTION:Speakers:\nYi Sun\, PhD\, University of California - Los Angele
+ s\n\nDescription:\nHosted by: Dr. Azad Bonni\n\nLink: http://dbbs.wustl.ed
+ u/Resources/Pages/calendar_event.aspx?EvID=4785
+DTSTAMP:20161214T111900
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:(Cancelled)Single transcriptome analysis and its application in ste
+ m cell research
+END:VEVENT
+BEGIN:VEVENT
+UID:5046@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170207T120000
+DTEND;TZID=America/Chicago:20170207T120000
+DESCRIPTION:Speakers:\nMaria Lehtinen\, PhD\, Boston Children's Hospital\n\
+ nDescription:\nHosted by: Dr. Azad Bonni\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=5046
+DTSTAMP:20170103T145900
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Instructive cues for neural stem cells in the cerebrospinal fluid
+END:VEVENT
+BEGIN:VEVENT
+UID:5073@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170208T160000
+DTEND;TZID=America/Chicago:20170208T170000
+DESCRIPTION:Speakers:\nMark Watson\, MD\, PhD\, Department of Pathology and
+  Immunology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=5073
+DTSTAMP:20170106T132600
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Biospecimen Resources for Biomarker Validation
+END:VEVENT
+BEGIN:VEVENT
+UID:5063@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170209T120000
+DTEND;TZID=America/Chicago:20170209T130000
+DESCRIPTION:Speakers:\nKevin Beier\, Ph.D.\, Stanford University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5063
+DTSTAMP:20170106T080500
+LOCATION:Cori Auditorium
+SUMMARY:Viral-genetic dissection of the midbrain dopamine system
+END:VEVENT
+BEGIN:VEVENT
+UID:5110@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170209T120000
+DTEND;TZID=America/Chicago:20170209T130000
+DESCRIPTION:Speakers:\nRebecca Lamason\, Ph.D.\, University of California\,
+  Berkeley\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=5110
+DTSTAMP:20170111T143600
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:Bacterial Pathogen Spread by Hijacking Host Intercellular Communica
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:4994@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170209T160000
+DTEND;TZID=America/Chicago:20170209T160000
+DESCRIPTION:Speakers:\nDaniel S. Ory\, MD\, Washington University School of
+  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=4994
+DTSTAMP:20161207T121600
+LOCATION:Clinical Sciences Research Building\, North Tower Annex\, Room 801
+SUMMARY:tba
+END:VEVENT
+BEGIN:VEVENT
+UID:5094@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170209T160000
+DTEND;TZID=America/Chicago:20170209T170000
+DESCRIPTION:Speakers:\nAmanda Koltz\, Department of Biology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5094
+DTSTAMP:20170110T103700
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:4955@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170213T120000
+DTEND;TZID=America/Chicago:20170213T130000
+DESCRIPTION:Speakers:\nBluma Lesch\, PhD\, Whitehead Institute for Biomedic
+ al Research\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=4955
+DTSTAMP:20161128T083700
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Evolution and developmental control of epigenetic poising in the an
+ imal germ line
+END:VEVENT
+BEGIN:VEVENT
+UID:5047@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170213T120000
+DTEND;TZID=America/Chicago:20170213T130000
+DESCRIPTION:Speakers:\nGenevieve Konopka\, PhD\, University of Texas-Southw
+ estern\n\nDescription:\nHosted by: Dr. Azad Bonni\n\nLink: http://dbbs.wus
+ tl.edu/Resources/Pages/calendar_event.aspx?EvID=5047
+DTSTAMP:20170103T145900
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Molecular Networks of Cognition
+END:VEVENT
+BEGIN:VEVENT
+UID:4927@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170213T161500
+DTEND;TZID=America/Chicago:20170213T161500
+DESCRIPTION:Speakers:\nDr. Dorian McGavern\, NINDS/NIH\n\nLink: http://dbbs
+ .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=4927
+DTSTAMP:20161114T095000
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:4593@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170215T160000
+DTEND;TZID=America/Chicago:20170215T170000
+DESCRIPTION:Speakers:\nLee Berger\, PhD\, DSc\, Research Professor\, Instit
+ ute for Human Evolution\, School of GeoSciences University of the Witwater
+ srand\n\nDescription:\nHosted by: Drs. Jane Phillips-Conroy and Glenn Conr
+ oy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =4593
+DTSTAMP:20160920T095500
+LOCATION:Moore Auditorium
+SUMMARY:Almost Human - Homo naledi
+END:VEVENT
+BEGIN:VEVENT
+UID:5074@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170215T160000
+DTEND;TZID=America/Chicago:20170215T170000
+DESCRIPTION:Speakers:\nRamaswamy Govindan\, MD\, Department of Medicine and
+  Director\, Section of Medical Oncology\n\nLink: http://dbbs.wustl.edu/Res
+ ources/Pages/calendar_event.aspx?EvID=5074
+DTSTAMP:20170106T132600
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Cancer Genome Sequencing - Clinical Implications
+END:VEVENT
+BEGIN:VEVENT
+UID:5006@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170216T120000
+DTEND;TZID=America/Chicago:20170216T130000
+DESCRIPTION:Speakers:\nWhat to Know about NIH Peer Review\, Washington Univ
+ ersity\n\nDescription:\nNew Grant-Writing Tools for R and K Mechanisms Thu
+ rsday\, February 16\, 2017\,\nnoon-1:00 p.m.\, Schwarz Auditorium (map) Wh
+ at to Know about NIH Peer Review\nOFA Career Development Programs\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5006
+DTSTAMP:20161216T095500
+LOCATION:Schwarz Auditorium\, Maternity Hosp.\, 1st Floor
+SUMMARY:New Grant-Writing Tools for R and K Mechanisms
+END:VEVENT
+BEGIN:VEVENT
+UID:5065@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170216T120000
+DTEND;TZID=America/Chicago:20170216T130000
+DESCRIPTION:Speakers:\nLuis de la Torre-Ubieta\, Ph.D.\, University of Cali
+ fornia\, LA\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=5065
+DTSTAMP:20170106T080600
+LOCATION:Cori Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:5111@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170216T120000
+DTEND;TZID=America/Chicago:20170216T130000
+DESCRIPTION:Speakers:\nAndrew Nager\, Ph.D.\, Stanford University\, Palo Al
+ to\, California\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=5111
+DTSTAMP:20170111T143600
+LOCATION:McDonnell Sciences Building\, Room 426
+SUMMARY:Escaping the Cilium: Protein Trafficking and Developmental Diseases
+END:VEVENT
+BEGIN:VEVENT
+UID:5055@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170216T130000
+DTEND;TZID=America/Chicago:20170216T140000
+DESCRIPTION:Speakers:\nHideyuki Okano\, MD\, PhD\, Keio University\n\nDescr
+ iption:\nHosted by: Drs. Lilianna Solnica-Krezel and Azad Bonni\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5055
+DTSTAMP:20170104T134300
+LOCATION:Erlanger Auditorium
+SUMMARY:New Insights from the Stem Cells and Brain Mapping Projects in Japa
+ n: Modeling Human Diseases with iPS cells and Genetically Modified Non-Hum
+ an Primates
+END:VEVENT
+BEGIN:VEVENT
+UID:5095@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170216T160000
+DTEND;TZID=America/Chicago:20170216T170000
+DESCRIPTION:Speakers:\nCraig Lowe\, Stanford University\n\nLink: http://dbb
+ s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5095
+DTSTAMP:20170110T103700
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Gene Regulatory Changes in Vertebrate Evolution and Human Disease
+END:VEVENT
+BEGIN:VEVENT
+UID:4956@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170220T120000
+DTEND;TZID=America/Chicago:20170220T130000
+DESCRIPTION:Speakers:\nDaniel Dickinson\, PhD\, University of North Carolin
+ a\, Chapel Hill\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=4956
+DTSTAMP:20161128T083700
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Unraveling cell polarity dynamics with single-cell biochemistry
+END:VEVENT
+BEGIN:VEVENT
+UID:4928@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170220T161000
+DTEND;TZID=America/Chicago:20170220T161000
+DESCRIPTION:Speakers:\nDr. John P. Atkinson\, Department of Internal Medici
+ ne/Rheumatology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=4928
+DTSTAMP:20170105T100800
+LOCATION:Moore Auditorium
+SUMMARY:An Intracellular Complement System
+END:VEVENT
+BEGIN:VEVENT
+UID:5075@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170222T160000
+DTEND;TZID=America/Chicago:20170222T170000
+DESCRIPTION:Speakers:\nJonathan Green\, MD\, Professor of Medicine and Asso
+ ciate Dean for Human Studies\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=5075
+DTSTAMP:20170106T133800
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Consent & Ethics
+END:VEVENT
+BEGIN:VEVENT
+UID:5085@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170222T160000
+DTEND;TZID=America/Chicago:20170222T170000
+DESCRIPTION:Speakers:\nAshley Macrander\, Assistant Dean\, Graduate Student
+  Affairs\n\nDescription:\nDiscover Your Strengths Wednesday\, February 22\
+ , 2017 4 pm\, Liberman Graduate\nCenter (Danforth Campus) Each of us is aw
+ are that we have strengths\, but we\nare not always sure how to articulate
+  what they are and how they contribute to\nour success. Join us for a work
+ shop on finding your individual strengths and\nhow they relate to student 
+ leadership! Participants will be given access to\ntake the StrengthsQuest
+ ™ inventory prior to the workshop\, which will\nilluminate how talents y
+ ou may or may not know you have operate as personal\nstrengths helping you
+  to develop academically\, professionally\, and personally.\nDuring the wo
+ rkshop\, we will discuss how your strengths contribute to your own\nleader
+ ship style\, how to employ your strengths in your role as a leader of a\ng
+ raduate student organization\, and how the individual strengths of each me
+ mber\nof your group’s executive board can make you an effective team. Fo
+ r example\,\nhow should your group delegate tasks\, coordinate event plann
+ ing\, recruit new\nmembers\, market activities\, and stay organized based 
+ on the different\nstrengths represented among members of the executive boa
+ rd? Space is limited.\nSign up today and learn how your talents can help y
+ ou grow as a student\nleader! RSVP and more information:\nhttps://gradcent
+ er.wustl.edu/programming/leadership-seminar-series This\nworkshop is for g
+ raduate students only .\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=5085
+DTSTAMP:20170109T151600
+LOCATION:Danforth Campus\, Danforth University Center\, room 300 (Liberman 
+ Graduate Center)
+SUMMARY:Discovering Your Strengths
+END:VEVENT
+BEGIN:VEVENT
+UID:5097@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170223T160000
+DTEND;TZID=America/Chicago:20170223T170000
+DESCRIPTION:Speakers:\nKim Sukhum\, Evolution\, Ecology\, and Population Bi
+ ology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=5097
+DTSTAMP:20170110T103700
+LOCATION:Rebstock (Danforth Campus)\, Room 322
+SUMMARY:Evolution of brain regions in weakly electric African fish
+END:VEVENT
+BEGIN:VEVENT
+UID:4957@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170227T120000
+DTEND;TZID=America/Chicago:20170227T130000
+DESCRIPTION:Speakers:\nThorold Theunissen\, PhD\, Whitehead Institute for B
+ iomedical Research\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=4957
+DTSTAMP:20161128T083700
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Capturing the ground state of human pluripotency
+END:VEVENT
+BEGIN:VEVENT
+UID:4929@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170227T161500
+DTEND;TZID=America/Chicago:20170227T161500
+DESCRIPTION:Speakers:\nDr. Marc Jenkins\, University of Minnesota Medical S
+ chool\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=4929
+DTSTAMP:20161114T094900
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:5059@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170228T120000
+DTEND;TZID=America/Chicago:20170228T130000
+DESCRIPTION:Speakers:\nDavid Gutman\, MD\, PhD\, Department of Neurology\nC
+ ourtney Dunn\, PT\, DPT\, Program in Physical Therapy\n\nLink: http://dbbs
+ .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=5059
+DTSTAMP:20170105T082300
+LOCATION:4444 Forest Park Ave.\, Room 1235
+SUMMARY:The role of the physical therapist in the management of children wi
+ th neurofibromatosis type 1 (NF1)
+END:VEVENT
+BEGIN:VEVENT
+UID:5038@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20170228T160000
+DTEND;TZID=America/Chicago:20170228T170000
+DESCRIPTION:Speakers:\nMarina E. Wolf\, PhD\, Rosalind Franklin University 
+ of Medicine and Science\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=5038
+DTSTAMP:20161230T104700
+LOCATION:CSRB-North Tower Addition\, Room 401
+SUMMARY:Synaptic Mechanisms Maintaining Persistent Cocaine and Methamphetam
+ ine Craving
+END:VEVENT
+END:VCALENDAR
