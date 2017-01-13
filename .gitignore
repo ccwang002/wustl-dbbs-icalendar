@@ -1,3 +1,5 @@
 .python-version
 .ipynb_checkpoints
 output
+*.log
+*.plist

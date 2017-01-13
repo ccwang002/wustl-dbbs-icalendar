@@ -81,7 +81,7 @@ async def fetch_event(session, event_id):
     speaker = '\n'.join(speaker_info)
     last_modified = parse(
         re.match(
-             r'^Last modified at (.*) by ', d('#onetidinfoblock2').text()
+            r'^Last modified at (.*) by ', d('#onetidinfoblock2').text()
         ).group(1)
     )
     link = (
@@ -167,14 +167,14 @@ def main(now=None, month_shifts=(-1, 0, 1)):
             rre.until = e.end
             event.add('rrule').value = rre.get_RFC_rrule()[len('RRULE:'):]
             event.add('dtend').value = CST.localize(
-                    datetime.combine(e.start.date(), e.end.time())
+                datetime.combine(e.start.date(), e.end.time())
             )
         else:
             event.add('dtend').value = e.end
         event.add('dtstamp').value = e.last_modified
         event.add('uid').value = f'{e.event_id}@events.dbbs.wustl'
 
-    with open('output/DBBS.ics', 'w') as f:
+    with open('output/DBBS.ics', 'w', encoding='utf8') as f:
         f.write(cal.serialize())
 
 
