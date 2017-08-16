@@ -12,6 +12,7 @@ import pendulum
 import pytz
 from pyquery import PyQuery as pq
 from recurrent import RecurringEvent
+from ruamel.yaml import YAML
 from tqdm import tqdm
 import vobject
 
@@ -23,6 +24,8 @@ Event = namedtuple(
     'speaker description last_modified recurrence '
     'event_id link'
 )
+# Make fields optional
+Event.__new__.__defaults__ = (None,) * len(Event._fields)
 CST = pytz.timezone('America/Chicago')
 
 
@@ -106,7 +109,29 @@ async def fetch_all_events(event_ids, conn):
         return [t.result() for t in tasks]
 
 
-def main(now=None, month_shifts=(-1, 0, 1)):
+def add_custom_events(acceptable_months):
+    events = []
+    # Read event info from YAML file
+    with open('custom_events/genetics_research_talk.yaml') as f:
+        yaml = YAML()
+        raw_events = yaml.load(f)
+    for raw_event in raw_events:
+        for key in ['start', 'end', 'last_modified']:
+            raw_event[key] = CST.localize(parse(raw_event[key], dayfirst=False))
+        e = Event()._replace(**raw_event)
+        events.append(e)
+
+    # Filter events with
+    filtered_events = []
+    for e in events:
+        if (e.start.year, e.start.month) in [
+                (mo.year, mo.month) for mo in acceptable_months
+        ]:
+            filtered_events.append(e)
+    return filtered_events
+
+
+def main(now=None, month_shifts=(-1, 0, 1, 2)):
     """
     Calculating which months of the calendar to parse and generate their
     event list URLs.
@@ -118,10 +143,12 @@ def main(now=None, month_shifts=(-1, 0, 1)):
     if now is None:
         now = pendulum.now('America/Chicago')
 
-    month_shifts = [-1, 0, 1]
+    months = [
+        now.add(months=offset) for offset in [-1, 0, 1, 2]
+    ]
     month_reprs = [
-        now.add(months=mo_shift).format('%B%%2C%%20%Y', locale='en')
-        for mo_shift in month_shifts
+        mo.format('%B%%2C%%20%Y', locale='en')
+        for mo in months
     ]
     event_list_urls = [
         f'http://dbbs.wustl.edu/Pages/Print-Events.aspx?dt={month_repr}'
@@ -142,6 +169,11 @@ def main(now=None, month_shifts=(-1, 0, 1)):
     logger.info(f'Getting total {len(event_ids)} events')
     conn = aiohttp.TCPConnector(limit=5, resolver=resolver)
     event_infos = loop.run_until_complete(fetch_all_events(event_ids, conn))
+
+    logger.info(f'Loading custom events')
+    custom_events = add_custom_events(months)
+    event_infos.extend(custom_events)
+    logger.info(f'Getting total {len(custom_events)} events')
 
     logger.info('Writing out events as iCalendar format...')
     cal = vobject.iCalendar()
@@ -172,7 +204,8 @@ def main(now=None, month_shifts=(-1, 0, 1)):
         else:
             event.add('dtend').value = e.end
         event.add('dtstamp').value = e.last_modified
-        event.add('uid').value = f'{e.event_id}@events.dbbs.wustl'
+        if e.event_id:
+            event.add('uid').value = f'{e.event_id}@events.dbbs.wustl'
 
     with open('output/DBBS.ics', 'w', encoding='utf8') as f:
         f.write(cal.serialize())
