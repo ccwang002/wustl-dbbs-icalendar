@@ -12,4 +12,4 @@ def update():
     with lcd(proj_p.as_posix()):
         local('python gen_ical.py')
         local('/bin/cp index.html output/')
-        local('ghp-import -p output/')
+        local('ghp-import -p output/ -m "Update iCal"')
