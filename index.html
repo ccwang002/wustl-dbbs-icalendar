@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="WUSTL DBBS Event Calendar that can be imported to common calendar apps">
+    <meta name="author" content="Liang-Bo Wang">
+
+    <title>WUSTL DBBS Event Calendar</title>
+
+    <!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="jumbotron">
+        <h2>WUSTL DBBS Event Calendar</h1>
+		<p class="lead">It parses the official <a href="http://dbbs.wustl.edu/Pages/Events.aspx">WUSTL DBBS's event calendar</a> daily in the RFC standard format (RFC 5545 iCalendar), which can be imported to common calendar apps.</p>
+		<p>Hermione's Time-Turner might be required to attend all the events, so subscribing to the whole calendar may be too much.  It is possible to copy single events to Google calendar by clicking on the event itself.</p>
+		<p>By the way, TBA events are overwhelmingly common.  It should be interesting to find out what they are by actually attending them :)  Though we hope someday their true identity will always be updated in a timely fashion.</p>
+		<a href="https://calendar.google.com/calendar/ical/1fv6auqr377ghick10p45ji4o0q6lnrm%40import.calendar.google.com/public/basic.ics">
+			<button type="button" class="btn btn-success">Subscribe to the calendar</button>
+		</a>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-12">
+			<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;hl=en_US&amp;bgcolor=%23FFFFFF&amp;src=1fv6auqr377ghick10p45ji4o0q6lnrm%40import.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FChicago" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+		</div>
+      </div>
+
+      <footer class="footer">
+		<p>Note: only events in last two months and next month are shown.</p>
+		<p>Report issue on <a href="https://github.com/ccwang002/wustl-dbbs-icalendar">GitHub</a></p>
+      </footer>
+
+    </div> <!-- /container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  </body>
+</html>
