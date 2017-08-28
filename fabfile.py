@@ -10,6 +10,7 @@ def update():
     if not output_p.exists():
         output_p.mkdir()
     with lcd(proj_p.as_posix()):
+        local('git pull')
         local('python gen_ical.py')
         local('/bin/cp index.html output/')
         local('ghp-import -p output/ -m "Update iCal"')
