@@ -11,6 +11,10 @@
     Hemangi Chaudhari (Barak Cohen's lab)
     Kow Essuman (Jeff Milbrandt's lab)
 
+  description: |
+      "- Genomic position linearly scales local cis-regulatory activity."
+      "- Identification of the NAD+ consuming enzyme that promotes axonal death during injury and disease."
+
 -
   title: Genetics Research Talk
   location: "Rm 6001B, McKinley Bldg"
@@ -18,7 +22,7 @@
   end: "Oct 13, 2017 5:00PM"
   last_modified: "Aug 28, 2017"
   speaker: |
-    Caitlin Purman (Eugene Oltz's lab)
+    Nitin Mahajan (Todd Druley's lab)
     Liina Nagirnaja (Don Conrad's lab)
 
 -
@@ -28,7 +32,7 @@
   end: "Oct 20, 2017 5:00PM"
   last_modified: "Aug 16, 2017"
   speaker: |
-    Nitin Mahajan (Todd Druley's lab)
+    Caitlin Purman (Eugene Oltz's lab)
     Renee Sears (Ting Wang's lab)
 
 -
@@ -71,4 +75,4 @@
     Xiaoyu Zhuo (Ting Wang' lab)
     Min Jung (Don Conrad's lab)
 
-# vim: set ts=2 sts=2 sw=2
+# vim: set ts=2 sts=2 sw=2:
