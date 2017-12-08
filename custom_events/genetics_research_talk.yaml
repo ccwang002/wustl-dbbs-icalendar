@@ -1,78 +1,88 @@
-# 2017 Fall Genetics Research Talks
+# 2018 Spring Genetics Research Talks
 # Friday 4pm to 5pm
 # Rm 6001B, McKinley Bldg
 -
   title: Genetics Research Talk
   location: "Rm 6001B, McKinley Bldg"
-  start: "Sep 15, 2017 4:00PM"
-  end: "Sep 15, 2017 5:00PM"
-  last_modified: "Aug 16, 2017"
+  start: "Jan 26, 2018 4:00PM"
+  end: "Jan 26, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
   speaker: |
-    Hemangi Chaudhari (Barak Cohen's lab)
-    Kow Essuman (Jeff Milbrandt's lab)
+    Reyka Jayasinghe (LD)
+    Luis Sandoval (DW)
 
-  description: |
-      "- Genomic position linearly scales local cis-regulatory activity."
-      "- Identification of the NAD+ consuming enzyme that promotes axonal death during injury and disease."
-
--
-  title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "Oct 13, 2017 4:00PM"
-  end: "Oct 13, 2017 5:00PM"
-  last_modified: "Aug 28, 2017"
-  speaker: |
-    Nitin Mahajan (Todd Druley's lab)
-    Liina Nagirnaja (Don Conrad's lab)
+#   description: |
+#   "- Genomic position linearly scales local cis-regulatory activity."
+#   "- Identification of the NAD+ consuming enzyme that promotes axonal death during injury and disease."
 
 -
   title: Genetics Research Talk
   location: "Rm 6001B, McKinley Bldg"
-  start: "Oct 20, 2017 4:00PM"
-  end: "Oct 20, 2017 5:00PM"
-  last_modified: "Aug 16, 2017"
+  start: "Feb 09, 2018 4:00PM"
+  end: "Feb 09, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
   speaker: |
-    Caitlin Purman (Eugene Oltz's lab)
-    Renee Sears (Ting Wang's lab)
+    Jeanette Gehrig (JG)
+    Josh Jang (TW)
 
 -
   title: Genetics Research Talk
   location: "Rm 6001B, McKinley Bldg"
-  start: "Nov 3, 2017 4:00PM"
-  end: "Nov 3, 2017 5:00PM"
-  last_modified: "Aug 16, 2017"
+  start: "Mar 09, 2018 4:00PM"
+  end: "Mar 09, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
   speaker: |
-    Drew Sinha (Zach Pincus' lab)
-    Michael Rieger (Joe Dougherty's lab)
+    Maggie Ferris (TD)
+    Ana Lima (DC)
 
 -
   title: Genetics Research Talk
   location: "Rm 6001B, McKinley Bldg"
-  start: "Nov 17, 2017 4:00PM"
-  end: "Nov 17, 2017 5:00PM"
-  last_modified: "Aug 16, 2017"
+  start: "Mar 23, 2018 4:00PM"
+  end: "Mar 23, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
   speaker: |
-    Huawen Lin (Susan Dutcher's lab)
-    Jiayue Liu (Robi Mitra's lab)
+    Jeanette Gehrig (JG)
+    Josh Jang (TW)
 
 -
   title: Genetics Research Talk
   location: "Rm 6001B, McKinley Bldg"
-  start: "Dec 1, 2017 4:00PM"
-  end: "Dec 1, 2017 5:00PM"
-  last_modified: "Aug 16, 2017"
+  start: "Apr 06, 2018 4:00PM"
+  end: "Apr 06, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
   speaker: |
-    Dan Summers (Jeff Milbrandt's lab)
-    Zheng Zuo (Gary Stormo's lab)
+    Jeanette Gehrig (JG)
+    Josh Jang (TW)
 
 -
   title: Genetics Research Talk
   location: "Rm 6001B, McKinley Bldg"
-  start: "Dec 15, 2017 4:00PM"
-  end: "Dec 15, 2017 5:00PM"
-  last_modified: "Aug 16, 2017"
+  start: "Apr 20, 2018 4:00PM"
+  end: "Apr 20, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
   speaker: |
-    Xiaoyu Zhuo (Ting Wang' lab)
-    Min Jung (Don Conrad's lab)
+    Max Staller (BC)
+    Will Pittman (ZP)
+
+-
+  title: Genetics Research Talk
+  location: "Rm 6001B, McKinley Bldg"
+  start: "May 04, 2018 4:00PM"
+  end: "May 04, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
+  speaker: |
+    Shailendra Maurya (TD)
+    Yu He (TW)
+
+-
+  title: Genetics Research Talk
+  location: "Rm 6001B, McKinley Bldg"
+  start: "May 18, 2018 4:00PM"
+  end: "May 18, 2018 5:00PM"
+  last_modified: "Dec 08, 2017"
+  speaker: |
+    Manishi Pandey (SD)
+    Clarice Hong (BC)
 
 # vim: set ts=2 sts=2 sw=2:
