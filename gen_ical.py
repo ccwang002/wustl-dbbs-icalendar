@@ -147,7 +147,7 @@ def main(now=None, month_shifts=(-1, 0, 1, 2)):
         now.add(months=offset) for offset in [-1, 0, 1, 2]
     ]
     month_reprs = [
-        mo.format('%B%%2C%%20%Y', locale='en')
+        mo.format('MMM[%2C][%20]YYYY', locale='en')
         for mo in months
     ]
     event_list_urls = [

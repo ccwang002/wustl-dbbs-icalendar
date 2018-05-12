@@ -9,7 +9,7 @@ ghp-import>=0.5
 html2text
 html5lib
 lxml
-pendulum
+pendulum>=2,<3
 pyquery>=1.2
 python-dateutil>=2.6.0
 pytz>=2017.2
