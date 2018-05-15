@@ -114,10 +114,10 @@ def add_custom_events(acceptable_months):
     with open('custom_events/genetics_research_talk.yaml') as f:
         yaml = YAML()
         raw_events = yaml.load(f)
-    for raw_event in raw_events:
+    for eid, raw_event in enumerate(raw_events, 1):
         for key in ['start', 'end', 'last_modified']:
             raw_event[key] = CST.localize(parse(raw_event[key], dayfirst=False))
-        e = Event()._replace(**raw_event)
+        e = Event()._replace(event_id=f'custom_event_{eid}', **raw_event)
         events.append(e)
 
     # Filter events with
