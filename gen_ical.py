@@ -44,7 +44,7 @@ async def retrieve_all_event_ids(event_list_urls, conn):
     event_ids = []
     async with aiohttp.ClientSession(connector=conn) as session:
         tasks = [loop.create_task(parse_event_id(session, url)) for url in event_list_urls]
-        for f in asyncio.as_completed(tasks)::
+        for f in asyncio.as_completed(tasks):
             await f
         for t in tasks:
             event_ids.extend(t.result())
