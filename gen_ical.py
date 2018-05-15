@@ -13,7 +13,6 @@ import pytz
 from pyquery import PyQuery as pq
 from recurrent import RecurringEvent
 from ruamel.yaml import YAML
-from tqdm import tqdm
 import vobject
 
 logger = logging.getLogger('gen_ical')
@@ -45,7 +44,7 @@ async def retrieve_all_event_ids(event_list_urls, conn):
     event_ids = []
     async with aiohttp.ClientSession(connector=conn) as session:
         tasks = [loop.create_task(parse_event_id(session, url)) for url in event_list_urls]
-        for f in tqdm(asyncio.as_completed(tasks), total=len(tasks)):
+        for f in asyncio.as_completed(tasks)::
             await f
         for t in tasks:
             event_ids.extend(t.result())
@@ -104,7 +103,7 @@ async def fetch_all_events(event_ids, conn):
             loop.create_task(fetch_event(session, event_id))
             for event_id in event_ids
         ]
-        for f in tqdm(asyncio.as_completed(tasks), total=len(tasks)):
+        for f in asyncio.as_completed(tasks):
             await f
         return [t.result() for t in tasks]
 
