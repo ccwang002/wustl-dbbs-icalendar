@@ -32,6 +32,50 @@ See [it runs in action](https://blog.liang2.tw/wustl-dbbs-icalendar/) which embe
     - [Fabric3 (Fabric py3k compat fork)](https://github.com/mathiasertl/fabric)
 
 
+## Run periodically on Debian
+
+Use systemd user unit and timer.
+
+    sudo apt-get install libpam-systemd
+
+Create the service unit and timer file under `~/.config/systemd/user/`.
+For the service unit `update_wustl_dbbs_ical.service`:
+
+```systemd
+[Unit]
+Description=Update WUSTL DBBS ical
+
+[Service]
+Environment="PATH=%h/ical_venv/bin:/usr/local/bin:/usr/bin"
+WorkingDirectory=%h/wustl-dbbs-icalendar
+ExecStart=/usr/bin/env fab update
+
+[Install]
+WantedBy=default.target
+```
+
+For the timer unit `update_wustl_dbbs_ical.timer`:
+
+```systemd
+[Unit]
+Description=Update WUSTL DBBS ical everyday
+
+[Timer]
+OnCalendar=Mon..Fri,Sun 8:00:00
+AccuracySec=10min
+
+[Install]
+WantedBy=timers.target
+```
+
+Enable the timer and check if the scheduled update is properly set:
+
+    systemctl --user enable update_wustl_ddbs_ical.timer
+    systemctl --user start update_wustl_ddbs_ical.timer
+    systemctl --user list-timers
+    journalctl --user-unit update_wustl_ddbs_ical
+
+
 ## Run periodically on macOS
 
 Add `~/Library/LaunchAgents/local.update_ical`:
