@@ -117,7 +117,8 @@ def add_custom_events(acceptable_months):
     for eid, raw_event in enumerate(raw_events, 1):
         for key in ['start', 'end', 'last_modified']:
             raw_event[key] = CST.localize(parse(raw_event[key], dayfirst=False))
-        e = Event()._replace(event_id=f'custom_event_{eid}', **raw_event)
+        e = Event()._replace(**raw_event)
+        e = e._replace(event_id=f'{e.start.date()} custom event {eid}')
         events.append(e)
 
     # Filter events with
