@@ -3,13 +3,13 @@
 # Rm 6001B, McKinley Bldg
 -
   title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "Jan 26, 2018 4:00PM"
-  end: "Jan 26, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
+  location: "Couch Biomedical Research Building Room 6001B"
+  start: "Sep 14, 2018 4:00PM"
+  end: "Sep 14, 2018 5:00PM"
+  last_modified: "Aug 13, 2018"
   speaker: |
-    Reyka Jayasinghe (LD)
-    Luis Sandoval (DW)
+    Darshan Sapkota (JD)
+    Jeff Hansen (BC)
 
 #   description: |
 #   "- Genomic position linearly scales local cis-regulatory activity."
@@ -17,72 +17,56 @@
 
 -
   title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "Feb 09, 2018 4:00PM"
-  end: "Feb 09, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
+  location: "Couch Biomedical Research Building Room 6001B"
+  start: "Oct 12, 2018 4:00PM"
+  end: "Oct 12, 2018 5:00PM"
+  last_modified: "Aug 13, 2018"
   speaker: |
-    Jeanette Gehrig (JG)
-    Josh Jang (TW)
+    Jian Chen (TS)
+    Wing Hing Wong (TD)
+
 
 -
   title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "Mar 09, 2018 4:00PM"
-  end: "Mar 09, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
+  location: "Couch Biomedical Research Building Room 6001B"
+  start: "Oct 26, 2018 4:00PM"
+  end: "Oct 26, 2018 5:00PM"
+  last_modified: "Aug 13, 2018"
   speaker: |
-    Maggie Ferris (TD)
-    Ana Lima (DC)
+    Drew Sinha (ZP)
+    Erica Pehrsson (TW)
+
 
 -
   title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "Mar 23, 2018 4:00PM"
-  end: "Mar 23, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
+  location: "Couch Biomedical Research Building Room 6001B"
+  start: "Nov 9, 2018 4:00PM"
+  end: "Nov 9, 2018 5:00PM"
+  last_modified: "Aug 13, 2018"
   speaker: |
-    Jeanette Gehrig (JG)
-    Josh Jang (TW)
+    Matt Lalli (JM)
+    Siqi Zhao (BC)
+
 
 -
   title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "Apr 06, 2018 4:00PM"
-  end: "Apr 06, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
+  location: "Couch Biomedical Research Building Room 6001B"
+  start: "Nov 30, 2018 4:00PM"
+  end: "Nov 30, 2018 5:00PM"
+  last_modified: "Aug 13, 2018"
   speaker: |
-    Jeanette Gehrig (JG)
-    Josh Jang (TW)
+    Christian Shively (RM)
+    Yiran Hou (TW)
+
 
 -
   title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "Apr 20, 2018 4:00PM"
-  end: "Apr 20, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
+  location: "Couch Biomedical Research Building Room 6001B"
+  start: "Dec 14, 2018 4:00PM"
+  end: "Dec 14, 2018 5:00PM"
+  last_modified: "Aug 13, 2018"
   speaker: |
-    Max Staller (BC)
-    Will Pittman (ZP)
-
--
-  title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "May 04, 2018 4:00PM"
-  end: "May 04, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
-  speaker: |
-    Shailendra Maurya (TD)
-    Yu He (TW)
-
--
-  title: Genetics Research Talk
-  location: "Rm 6001B, McKinley Bldg"
-  start: "May 18, 2018 4:00PM"
-  end: "May 18, 2018 5:00PM"
-  last_modified: "Dec 08, 2017"
-  speaker: |
-    Manishi Pandey (SD)
-    Clarice Hong (BC)
+    Caryn Carson (HL)
+    Arnav Moudgil (RM)
 
 # vim: set ts=2 sts=2 sw=2:
