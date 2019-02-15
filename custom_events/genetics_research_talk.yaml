@@ -1,15 +1,15 @@
-# 2018 Spring Genetics Research Talks
+# 2019 Spring Genetics Research Talks
 # Friday 4pm to 5pm
 # Rm 6001B, McKinley Bldg
 -
   title: Genetics Research Talk
   location: "Couch Biomedical Research Building Room 6001B"
-  start: "Sep 14, 2018 4:00PM"
-  end: "Sep 14, 2018 5:00PM"
-  last_modified: "Aug 13, 2018"
+  start: "Feb 22, 2019 4:00PM"
+  end: "Feb 22, 2019 5:00PM"
+  last_modified: "Feb 15, 2019"
   speaker: |
-    Darshan Sapkota (JD)
-    Jeff Hansen (BC)
+    Denis Avey (Mitra)
+    Minori Tamai (Druley)
 
 #   description: |
 #   "- Genomic position linearly scales local cis-regulatory activity."
@@ -18,55 +18,60 @@
 -
   title: Genetics Research Talk
   location: "Couch Biomedical Research Building Room 6001B"
-  start: "Oct 12, 2018 4:00PM"
-  end: "Oct 12, 2018 5:00PM"
-  last_modified: "Aug 13, 2018"
+  start: "Mar 8, 2019 4:00PM"
+  end: "Mar 8, 2019 5:00PM"
+  last_modified: "Feb 15, 2019"
   speaker: |
-    Jian Chen (TS)
-    Wing Hing Wong (TD)
-
+    Juan Macias (Lawson)
+    Alan Du (Wang)
 
 -
   title: Genetics Research Talk
   location: "Couch Biomedical Research Building Room 6001B"
-  start: "Oct 26, 2018 4:00PM"
-  end: "Oct 26, 2018 5:00PM"
-  last_modified: "Aug 13, 2018"
+  start: "Mar 22, 2019 4:00PM"
+  end: "Mar 22, 2019 5:00PM"
+  last_modified: "Feb 15, 2019"
   speaker: |
-    Drew Sinha (ZP)
-    Erica Pehrsson (TW)
-
+    Mike Vasek (Dougherty)
+    Ryan Friedman (Cohen)
 
 -
   title: Genetics Research Talk
   location: "Couch Biomedical Research Building Room 6001B"
-  start: "Nov 9, 2018 4:00PM"
-  end: "Nov 9, 2018 5:00PM"
-  last_modified: "Aug 13, 2018"
+  start: "Apr 5, 2019 4:00PM"
+  end: "Apr 5, 2019 5:00PM"
+  last_modified: "Feb 15, 2019"
   speaker: |
-    Matt Lalli (JM)
-    Siqi Zhao (BC)
-
+    Max Staller (Cohen)
+    Justin Melendez (Mitra)
 
 -
   title: Genetics Research Talk
   location: "Couch Biomedical Research Building Room 6001B"
-  start: "Nov 30, 2018 4:00PM"
-  end: "Nov 30, 2018 5:00PM"
-  last_modified: "Aug 13, 2018"
+  start: "Apr 19, 2019 4:00PM"
+  end: "Apr 19, 2019 5:00PM"
+  last_modified: "Feb 15, 2019"
   speaker: |
-    Christian Shively (RM)
-    Yiran Hou (TW)
-
+    Xiaoyu Zhuo (Wang)
+    Matt Mosley (Pincus)
 
 -
   title: Genetics Research Talk
   location: "Couch Biomedical Research Building Room 6001B"
-  start: "Dec 14, 2018 4:00PM"
-  end: "Dec 14, 2018 5:00PM"
-  last_modified: "Aug 13, 2018"
+  start: "May 3, 2019 4:00PM"
+  end: "May 3, 2019 5:00PM"
+  last_modified: "Feb 15, 2019"
   speaker: |
-    Caryn Carson (HL)
-    Arnav Moudgil (RM)
+    Jian Chen (Schedl)
+    Alex Miranda (Lawson)
 
-# vim: set ts=2 sts=2 sw=2:
+-
+  title: Genetics Research Talk
+  location: "Couch Biomedical Research Building Room 6001B"
+  start: "May 17, 2019 4:00PM"
+  end: "May 17, 2019 5:00PM"
+  last_modified: "Feb 15, 2019"
+  speaker: |
+    Mayank Choudhary (Wang)
+    Michael Wilkinson (Mitra)
+
