@@ -1977,9 +1977,10 @@ DTEND;TZID=America/Chicago:20190221T125000
 DESCRIPTION:Speakers:\nNicole Brossier\, MD\, PhD\, Washington University S
  chool of Medicine\nMichael Thompson\, Department of Pediatrics\n\nLink: ht
  tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6965
-DTSTAMP:20190116T170800
+DTSTAMP:20190214T144800
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Defining the cellular and molecular etiologies for pediatric midlin
+ e low-grade glioma penetrance
 END:VEVENT
 BEGIN:VEVENT
 UID:6470@events.dbbs.wustl
