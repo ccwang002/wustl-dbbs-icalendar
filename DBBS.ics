@@ -1946,6 +1946,27 @@ SUMMARY:Leveraging Local Expertise to Accelerate Health Equity and Wellness
   in the St. Louis Region and Beyond
 END:VEVENT
 BEGIN:VEVENT
+UID:7079@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190221T100000
+DTEND;TZID=America/Chicago:20190221T103000
+DESCRIPTION:Speakers:\nRitika Puri\, MD\, Washington University\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7079
+DTSTAMP:20190215T141700
+LOCATION:728 Southwest Tower
+SUMMARY:SGLT-2 Inhibitors
+END:VEVENT
+BEGIN:VEVENT
+UID:7080@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190221T103000
+DTEND;TZID=America/Chicago:20190221T113000
+DESCRIPTION:Speakers:\nSina Jasim\, MD\, Washington University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7080
+DTSTAMP:20190215T141700
+LOCATION:728 Southwest Tower
+SUMMARY:An Overview of Management Of Malignant Pheochromocytomas And Paraga
+ ngliomas
+END:VEVENT
+BEGIN:VEVENT
 UID:6989@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190221T110000
 DTEND;TZID=America/Chicago:20190221T120000
@@ -2207,6 +2228,19 @@ LOCATION:Farrell Learning and Teaching Center\, room 204
 SUMMARY:Senior Pastor
 END:VEVENT
 BEGIN:VEVENT
+UID:7085@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190226T130000
+DTEND;TZID=America/Chicago:20190226T140000
+DESCRIPTION:Speakers:\nReverend Dr. Johanna McCune Wagner\, Trinity Presbyt
+ erian Church\nMichael Coyle\, Ph.D.\, VivoScientia\n\nDescription:\nLunch 
+ will be Served. RSVP Here:\nhttps://wustl.az1.qualtrics.com/jfe/form/SV_9Y
+ noy1RB1SRCCkR\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
+ t.aspx?EvID=7085
+DTSTAMP:20190215T141400
+LOCATION:FLTC 204
+SUMMARY:Resiliency and Mental Health Advocacy for Grad Students & Postdocs
+END:VEVENT
+BEGIN:VEVENT
 UID:6931@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190226T150000
 DTEND;TZID=America/Chicago:20190226T160000
@@ -2251,6 +2285,26 @@ DESCRIPTION:Speakers:\nDr. Loren Rieseberg\, University of British Columbia
 DTSTAMP:20190205T092100
 LOCATION:Simon Hall\, Room 023
 SUMMARY:Plant Evolutionary Adaptation to a Changing World
+END:VEVENT
+BEGIN:VEVENT
+UID:7081@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190228T100000
+DTEND;TZID=America/Chicago:20190228T103000
+DESCRIPTION:Speakers:\nKyle McNerney\, M.D.\, Children's Hospital\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7081
+DTSTAMP:20190215T141700
+LOCATION:728 Southwest Tower
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7082@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190228T103000
+DTEND;TZID=America/Chicago:20190228T113000
+DESCRIPTION:Speakers:\nGarry S. Tobin\, MD\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7082
+DTSTAMP:20190215T141400
+LOCATION:728 Southwest Tower
+SUMMARY:Pancreatic Insufficient Diabetics Shwachman Diamond Syndrome
 END:VEVENT
 BEGIN:VEVENT
 UID:6915@events.dbbs.wustl
@@ -2398,6 +2452,26 @@ DESCRIPTION:Speakers:\nDr. John Ioannidis\, Stanford University\n\nDescript
 DTSTAMP:20180802T115000
 LOCATION:EPNEC Auditorium
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7083@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190307T100000
+DTEND;TZID=America/Chicago:20190307T103000
+DESCRIPTION:Speakers:\nChristina Jacobsen\, MD\, PhD\, Harvard\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7083
+DTSTAMP:20190215T141400
+LOCATION:728 Southwest Tower
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7084@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190307T103000
+DTEND;TZID=America/Chicago:20190307T113000
+DESCRIPTION:Speakers:\nMohamed Zayed\, MD\, PhD\, Washington University\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7084
+DTSTAMP:20190215T141300
+LOCATION:728 Southwest Tower
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6919@events.dbbs.wustl
@@ -3377,5 +3451,54 @@ DESCRIPTION:Speakers:\nManoj Puthenveedu\, Ph.D.\, University of Michigan\n
 DTSTAMP:20180920T110500
 LOCATION:426 McDonnell Science (Cell Biology Library)
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:2019-02-22 custom event 1@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190222T160000
+DTEND;TZID=America/Chicago:20190222T170000
+DESCRIPTION:Speakers:\nDenis Avey (Mitra)\nMinori Tamai (Druley)\n\n\nLink:
+  None
+DTSTAMP:20190215T060000Z
+LOCATION:Couch Biomedical Research Building Room 6001B
+SUMMARY:Genetics Research Talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2019-03-08 custom event 2@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190308T160000
+DTEND;TZID=America/Chicago:20190308T170000
+DESCRIPTION:Speakers:\nJuan Macias (Lawson)\nAlan Du (Wang)\n\n\nLink: None
+DTSTAMP:20190215T060000Z
+LOCATION:Couch Biomedical Research Building Room 6001B
+SUMMARY:Genetics Research Talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2019-03-22 custom event 3@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190322T160000
+DTEND;TZID=America/Chicago:20190322T170000
+DESCRIPTION:Speakers:\nMike Vasek (Dougherty)\nRyan Friedman (Cohen)\n\n\nL
+ ink: None
+DTSTAMP:20190215T060000Z
+LOCATION:Couch Biomedical Research Building Room 6001B
+SUMMARY:Genetics Research Talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2019-04-05 custom event 4@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190405T160000
+DTEND;TZID=America/Chicago:20190405T170000
+DESCRIPTION:Speakers:\nMax Staller (Cohen)\nJustin Melendez (Mitra)\n\n\nLi
+ nk: None
+DTSTAMP:20190215T060000Z
+LOCATION:Couch Biomedical Research Building Room 6001B
+SUMMARY:Genetics Research Talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2019-04-19 custom event 5@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190419T160000
+DTEND;TZID=America/Chicago:20190419T170000
+DESCRIPTION:Speakers:\nXiaoyu Zhuo (Wang)\nMatt Mosley (Pincus)\n\n\nLink: 
+ None
+DTSTAMP:20190215T060000Z
+LOCATION:Couch Biomedical Research Building Room 6001B
+SUMMARY:Genetics Research Talk
 END:VEVENT
 END:VCALENDAR
