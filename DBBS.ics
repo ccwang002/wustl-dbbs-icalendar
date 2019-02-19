@@ -1813,6 +1813,17 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7086@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190218T120000
+DTEND;TZID=America/Chicago:20190218T130000
+DESCRIPTION:Speakers:\nDr. Peter Greenberg\, University of Washington\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7086
+DTSTAMP:20190218T123300
+LOCATION:Wohl Clinic- Clopton Auditorium
+SUMMARY:Communications\, Cooperation and Conflict in the Microbial World: T
+ argets for Therapeutic Development?
+END:VEVENT
+BEGIN:VEVENT
 UID:6994@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190218T160000
 DTEND;TZID=America/Chicago:20190218T170000
@@ -2212,6 +2223,17 @@ SUMMARY:Sex differences in cancer metabolism: A new angle to precision medi
  cine
 END:VEVENT
 BEGIN:VEVENT
+UID:7087@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190226T120000
+DTEND;TZID=America/Chicago:20190226T130000
+DESCRIPTION:Speakers:\nDr. Galit Alter\, Ragon Institute of MGH\, MIT\, and
+  Harvard\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
+ x?EvID=7087
+DTSTAMP:20190218T123300
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:The role of antibodies in Tb infection
+END:VEVENT
+BEGIN:VEVENT
 UID:7062@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190226T130000
 DTEND;TZID=America/Chicago:20190226T140000
@@ -2417,6 +2439,17 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Clonal dynamics of the antibody response
 END:VEVENT
 BEGIN:VEVENT
+UID:7088@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190305T120000
+DTEND;TZID=America/Chicago:20190305T130000
+DESCRIPTION:Speakers:\nDr. Samuel Bebahr\, UMass\n\nLink: http://dbbs.wustl
+ .edu/Resources/Pages/calendar_event.aspx?EvID=7088
+DTSTAMP:20190218T123200
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Recognizing the problem\; T cell immunity to Mycobacterium tubercul
+ osis
+END:VEVENT
+BEGIN:VEVENT
 UID:6805@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190305T163000
 DTEND;TZID=America/Chicago:20190305T173000
@@ -2582,6 +2615,17 @@ DESCRIPTION:Speakers:\nJason Held\, Ph.D.\, Washington University in Saint
 DTSTAMP:20190131T140300
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:Context-dependent control of cellular redox biology and signaling
+END:VEVENT
+BEGIN:VEVENT
+UID:7089@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190312T120000
+DTEND;TZID=America/Chicago:20190312T130000
+DESCRIPTION:Speakers:\nDr. Debbie Lenschow\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7089
+DTSTAMP:20190218T123200
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Chikungunya virus arthritis: New insights into pathogensis and trea
+ tment
 END:VEVENT
 BEGIN:VEVENT
 UID:6955@events.dbbs.wustl
@@ -2858,6 +2902,17 @@ SUMMARY:From lipid/detergent-protein interactions to host-pathogen interact
  ions\, how do membrane proteins work?
 END:VEVENT
 BEGIN:VEVENT
+UID:7090@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190326T120000
+DTEND;TZID=America/Chicago:20190326T130000
+DESCRIPTION:Speakers:\nDr. Scott Gray-Owen\, University of Toronto\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7090
+DTSTAMP:20190218T123200
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Playing with fire: The fine line between immunity and immunopathoge
+ nsis
+END:VEVENT
+BEGIN:VEVENT
 UID:6367@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190327T120000
 DTEND;TZID=America/Chicago:20190327T130000
@@ -2950,6 +3005,17 @@ DESCRIPTION:Speakers:\nMichelle Repice\, PhD\, Career Center\n\nLink: http:
 DTSTAMP:20190128T123900
 LOCATION:DUC 248
 SUMMARY:Tailoring CVs and Resumes
+END:VEVENT
+BEGIN:VEVENT
+UID:7091@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190402T120000
+DTEND;TZID=America/Chicago:20190402T130000
+DESCRIPTION:Speakers:\nDr. Darren Higgins\, Harvard Medical School\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7091
+DTSTAMP:20190218T123200
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:From gastroenteristis to meningoenceohalitis: How Listeria Monocyto
+ gens cresses the blood-brain barrier to infect the brain
 END:VEVENT
 BEGIN:VEVENT
 UID:6397@events.dbbs.wustl
@@ -3068,6 +3134,18 @@ DESCRIPTION:Speakers:\nThi Nguyen\, PhD\, Career Center\n\nDescription:\nRS
 DTSTAMP:20190128T123900
 LOCATION:FLTC 402
 SUMMARY:Interviewing and Acing Common Questions
+END:VEVENT
+BEGIN:VEVENT
+UID:7092@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190409T120000
+DTEND;TZID=America/Chicago:20190409T130000
+DESCRIPTION:Speakers:\nDr. Amariliz Rivera\, Rutgers- New Jersey Medical Sc
+ hool\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=7092
+DTSTAMP:20190218T123200
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Type III interferon is a critical regulator of innate antifungal im
+ munity
 END:VEVENT
 BEGIN:VEVENT
 UID:6653@events.dbbs.wustl
@@ -3239,6 +3317,16 @@ LOCATION:FLTC 402
 SUMMARY:Evaluating and Negotiating Job Offers
 END:VEVENT
 BEGIN:VEVENT
+UID:7093@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190416T120000
+DTEND;TZID=America/Chicago:20190416T130000
+DESCRIPTION:Speakers:\nDr. Wei-Shau Hu\, National Institutes of Health\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7093
+DTSTAMP:20190218T123100
+LOCATION:Wohl Clinic- Clopton Auditorium
+SUMMARY:How does HIV-1 transfer its genetic information to progeny?
+END:VEVENT
+BEGIN:VEVENT
 UID:6654@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190416T150000
 DTEND;TZID=America/Chicago:20190416T160000
@@ -3327,6 +3415,17 @@ DESCRIPTION:Speakers:\nPeng Yuan\, Ph.D.\, Washington University in Saint L
 DTSTAMP:20190131T140500
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:Opening of transient receptor potential ion channels
+END:VEVENT
+BEGIN:VEVENT
+UID:7094@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190423T120000
+DTEND;TZID=America/Chicago:20190423T130000
+DESCRIPTION:Speakers:\nDr. Igor Brodsky\, UPenn\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7094
+DTSTAMP:20190218T123100
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Apoptotic and non-apoptotic functions of cell death pathways in ant
+ i-microbial host defense
 END:VEVENT
 BEGIN:VEVENT
 UID:6655@events.dbbs.wustl
@@ -3440,6 +3539,16 @@ DTSTAMP:20190131T140500
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:Potassium channel proteins as ionic conduits: Just how do ions get 
  through them?
+END:VEVENT
+BEGIN:VEVENT
+UID:7095@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190430T120000
+DTEND;TZID=America/Chicago:20190430T130000
+DESCRIPTION:Speakers:\nDr. Joern Coers\, Duke University\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7095
+DTSTAMP:20190218T123100
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Interferon-inducible GTPases in host defense and inflammation
 END:VEVENT
 BEGIN:VEVENT
 UID:6656@events.dbbs.wustl
