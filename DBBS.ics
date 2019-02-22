@@ -2042,10 +2042,10 @@ DTSTART;TZID=America/Chicago:20190221T160000
 DTEND;TZID=America/Chicago:20190221T170000
 DESCRIPTION:Speakers:\nAnn Marie Schmidt\, MD\, NYU School of Medicine\n\nL
  ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6874
-DTSTAMP:20181228T111400
+DTSTAMP:20190221T104700
 LOCATION:801 CSRB North Tower Addition
-SUMMARY:Novel Mitochondrial and Metabolic Mechanisms in Cardiovascular Dise
- ase
+SUMMARY:(Cancelled)Novel Mitochondrial and Metabolic Mechanisms in Cardiova
+ scular Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7036@events.dbbs.wustl
@@ -2380,9 +2380,10 @@ DTEND;TZID=America/Chicago:20190228T125000
 DESCRIPTION:Speakers:\nStephen Pak\, PhD\, Washington University School of 
  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
  x?EvID=6966
-DTSTAMP:20190116T170800
+DTSTAMP:20190221T104800
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Identification of genetic and small molecule modulators of Alpha-1-
+ antitrypsin deficiency
 END:VEVENT
 BEGIN:VEVENT
 UID:7046@events.dbbs.wustl
@@ -2476,9 +2477,9 @@ BEGIN:VEVENT
 UID:7088@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190305T120000
 DTEND;TZID=America/Chicago:20190305T130000
-DESCRIPTION:Speakers:\nDr. Samuel Bebahr\, UMass\n\nLink: http://dbbs.wustl
- .edu/Resources/Pages/calendar_event.aspx?EvID=7088
-DTSTAMP:20190218T123200
+DESCRIPTION:Speakers:\nDr. Samuel Behar\, UMass\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7088
+DTSTAMP:20190221T112400
 LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
 SUMMARY:Recognizing the problem\; T cell immunity to Mycobacterium tubercul
  osis
@@ -2586,6 +2587,18 @@ DESCRIPTION:Speakers:\nJacco Boon\, Washington University School of Medicin
 DTSTAMP:20190212T090000
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7103@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190307T120000
+DTEND;TZID=America/Chicago:20190307T130000
+DESCRIPTION:Speakers:\nDr. Zhoufeng Chen\, Ph.D.\, Washington University\, 
+ Department of Anesthesiology\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=7103
+DTSTAMP:20190221T085400
+LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)\, 2nd floor\, R
+ oom 222
+SUMMARY:GRPR neurons: the good\, the bad and the ugly
 END:VEVENT
 BEGIN:VEVENT
 UID:6451@events.dbbs.wustl
@@ -3231,9 +3244,9 @@ DESCRIPTION:Speakers:\nJames Knierim\, PhD\, Krieger School of Arts & Scien
  ces\, Johns Hopkins University\n\nDescription:\nHosted by: Dr. Edward Han\
  n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=63
  70
-DTSTAMP:20180717T075500
+DTSTAMP:20190221T111300
 LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:What Do Hippocampal Place Cells Tell Us about Episodic Memory?
+SUMMARY:Spatial Coding and Episodic Memory in the Hippocampus
 END:VEVENT
 BEGIN:VEVENT
 UID:6941@events.dbbs.wustl
