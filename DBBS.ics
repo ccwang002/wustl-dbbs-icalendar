@@ -2676,6 +2676,19 @@ SUMMARY:Empowering Your Audience through Visualization: Graphic\, numerical
  \, historical
 END:VEVENT
 BEGIN:VEVENT
+UID:7109@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190308T120000
+DTEND;TZID=America/Chicago:20190308T130000
+DESCRIPTION:Speakers:\nYin Cao\, ScD\, MPH\, Assistant Professor of Surgery
+ \nDepartment of Surgery\, Public Health Sciences Division\nWashington Univ
+ ersity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=7109
+DTSTAMP:20190225T093500
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Addressing the Rising Incidence of Early-Onset Colorectal Cancer: a
+ n Integrated Approach
+END:VEVENT
+BEGIN:VEVENT
 UID:7108@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190308T140000
 DTEND;TZID=America/Chicago:20190308T150000
