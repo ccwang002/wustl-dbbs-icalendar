@@ -2313,8 +2313,8 @@ DTEND;TZID=America/Chicago:20190227T170000
 DESCRIPTION:Speakers:\nCagri Besirli\, MD\, PhD\, Kellogg Eye Center<br>\nU
  niversity of Michigan\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
  dar_event.aspx?EvID=6471
-DTSTAMP:20190129T162600
-LOCATION:Maternity Building\, Room 725
+DTSTAMP:20190226T092700
+LOCATION:East Pavilion Auditorium
 SUMMARY:Metabolic Programming for Photoreceptor Neuroprotection
 END:VEVENT
 BEGIN:VEVENT
@@ -2624,17 +2624,6 @@ LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)\, 2nd floor\, R
 SUMMARY:GRPR neurons: the good\, the bad and the ugly
 END:VEVENT
 BEGIN:VEVENT
-UID:6451@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190307T150000
-DTEND;TZID=America/Chicago:20190307T160000
-DESCRIPTION:Speakers:\nLynne Maquat\, Ph.D.\, University of Rochester Medic
- al Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=6451
-DTSTAMP:20181023T172500
-LOCATION:McDonnell Sciences Building\, Room 426
-SUMMARY:TBD
-END:VEVENT
-BEGIN:VEVENT
 UID:7051@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190307T153000
 DTEND;TZID=America/Chicago:20190307T173000
@@ -2651,6 +2640,17 @@ DESCRIPTION:Speakers:\nStaff\, Becker Library\n\nDescription:\nThis class i
 DTSTAMP:20190205T112200
 LOCATION:Farrell Learning and Teaching Center\, Room 602
 SUMMARY:Getting Organized with EndNote
+END:VEVENT
+BEGIN:VEVENT
+UID:6451@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190307T160000
+DTEND;TZID=America/Chicago:20190307T170000
+DESCRIPTION:Speakers:\nLynne Maquat\, Ph.D.\, University of Rochester Medic
+ al Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=6451
+DTSTAMP:20190226T154700
+LOCATION:Moore Auditorium
+SUMMARY:Nonsense-Mediated mRNA Decay in Health and Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:6848@events.dbbs.wustl
@@ -2711,15 +2711,33 @@ LOCATION:South Building\, Room 3907\, Philip Needleman Library
 SUMMARY:Skeletal Stem Cells
 END:VEVENT
 BEGIN:VEVENT
+UID:7110@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190311T120000
+DTEND;TZID=America/Chicago:20190311T130000
+DESCRIPTION:Speakers:\nNico Dosenbach\, MD\, PhD\, WashU Neurology\n\nDescr
+ iption:\nHope Center Mini-series: Stroke\, Plasticity and Recovery Organiz
+ er\, Jin-Moo\nLee February 18: Jin-Moo Lee (WashU Neurology) February 25: 
+ Gregory Zipfel\n(WashU Neurosurgery) March 4: S. Thomas Carmichael (Univer
+ sity of California\,\nLos Angeles) March 11: Nico Dosenbach (WashU Neurolo
+ gy) The Monday Noon\nseminar series is hosted by the WashU Hope Center for
+  Neurological Disorders\nand the Department of Neurology. Hope Center Mond
+ ay Noon Seminars For\ninquiries contact Cindy Lawrence.\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7110
+DTSTAMP:20190226T091500
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"Precision Functional Mapping of Individual Brains"
+END:VEVENT
+BEGIN:VEVENT
 UID:6819@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190311T161500
 DTEND;TZID=America/Chicago:20190311T171500
 DESCRIPTION:Speakers:\nDr. K. Christopher Garcia\, Howard Hughes Medical In
  stitute\n\nDescription:\nLacy Lecture\n\nLink: http://dbbs.wustl.edu/Resou
  rces/Pages/calendar_event.aspx?EvID=6819
-DTSTAMP:20181128T152600
+DTSTAMP:20190226T092000
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:Exploiting immune receptor structural principles to open new therap
+ eutic doors
 END:VEVENT
 BEGIN:VEVENT
 UID:7101@events.dbbs.wustl
@@ -3117,9 +3135,9 @@ DTSTART;TZID=America/Chicago:20190401T161500
 DTEND;TZID=America/Chicago:20190401T171500
 DESCRIPTION:Speakers:\nDr. Joe Craft\, Yale University\n\nLink: http://dbbs
  .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6822
-DTSTAMP:20181128T152800
+DTSTAMP:20190226T091700
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:T Cells in Time and Space
 END:VEVENT
 BEGIN:VEVENT
 UID:7006@events.dbbs.wustl
@@ -3378,23 +3396,6 @@ DESCRIPTION:Speakers:\nJonathan Cooper\, PhD\, WashU Pediatrics\n\nDescript
 DTSTAMP:20190107T163500
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:The same\, but different: New lessons about Batten disease
-END:VEVENT
-BEGIN:VEVENT
-UID:6911@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190415T120000
-DTEND;TZID=America/Chicago:20190415T130000
-DESCRIPTION:Speakers:\nNico Dosenbach\, MD\, PhD\, WashU Neurology\n\nDescr
- iption:\nHope Center Mini-series: Stroke and Recovery Organizer\, Jin-Moo 
- Lee February\n18: Jin-Moo Lee (WashU Neurology) February 25: Gregory Zipfe
- l (WashU\nNeurosurgery) March 4: Thomas Carmichael (University of Californ
- ia\, Los\nAngeles) March 11: Nico Dosenbach (WashU Neurology) The Monday N
- oon seminar\nseries is hosted by the WashU Hope Center for Neurological Di
- sorders and the\nDepartment of Neurology. Hope Center Monday Noon Seminars
-  For inquiries\ncontact Cindy Lawrence.\n\nLink: http://dbbs.wustl.edu/Res
- ources/Pages/calendar_event.aspx?EvID=6911
-DTSTAMP:20190107T163500
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6824@events.dbbs.wustl
