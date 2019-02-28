@@ -2487,6 +2487,18 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Neural Repair after Stroke: Smart Mice to Smart Humans
 END:VEVENT
 BEGIN:VEVENT
+UID:7112@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190304T120000
+DTEND;TZID=America/Chicago:20190304T130000
+DESCRIPTION:Speakers:\nMarlene Cano\, Washington University\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7112
+DTSTAMP:20190227T091300
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Accelerated Bronchiolitis Obliterans after Lung Transplantation 
+ Promoted by ATG16L1 Deficiency is Coupled to Mitochondrial Dysfunction in 
+ Monocyte-derived Alveolar Macrophages.”
+END:VEVENT
+BEGIN:VEVENT
 UID:6818@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190304T161500
 DTEND;TZID=America/Chicago:20190304T171500
@@ -2550,9 +2562,9 @@ DESCRIPTION:Speakers:\nDr. John Ioannidis\, Stanford University\n\nDescript
  SSOR OF\nMEDICINE\, OF HEALTH RESEARCH AND POLICY (EPIDEMIOLOGY) AND BY CO
  URTESY\, OF\nSTATISTICS AND OF BIOMEDICAL DATA SCIENCE\n\nLink: http://dbb
  s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6399
-DTSTAMP:20180802T115000
+DTSTAMP:20190227T114300
 LOCATION:EPNEC Auditorium
-SUMMARY:TBD
+SUMMARY:Reproducible\, Transparent\, True\, Useful Research
 END:VEVENT
 BEGIN:VEVENT
 UID:7083@events.dbbs.wustl
@@ -2783,6 +2795,17 @@ LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:7113@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190312T140000
+DTEND;TZID=America/Chicago:20190312T140000
+DESCRIPTION:Speakers:\nMs. Jennifer Davis\, Molecular Cell Biology Program\
+ nLab of Dr. Deborah Veis\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
+ lendar_event.aspx?EvID=7113
+DTSTAMP:20190227T152500
+LOCATION:Holden Auditorium
+SUMMARY:The Role of Alternative NF-κB Signaling in Osteogenesis
+END:VEVENT
+BEGIN:VEVENT
 UID:6956@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190312T160000
 DTEND;TZID=America/Chicago:20190312T170000
@@ -2931,6 +2954,20 @@ DESCRIPTION:Speakers:\nKafui Dzirasa\, MD\, PhD\, Duke University School of
 DTSTAMP:20180726T151000
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Discovering structure across brain-wide spatiotemporal dynamics
+END:VEVENT
+BEGIN:VEVENT
+UID:7111@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190320T120000
+DTEND;TZID=America/Chicago:20190320T130000
+DESCRIPTION:Speakers:\nRoss Brownson\, PhD\, Professor and Director\nPreven
+ tion Research Center in St. Louis\nBrown School\, Washington University in
+  St. Louis\nDivision of Public Health Sciences and Siteman Cancer Center\n
+ Washington University School of Medicine\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7111
+DTSTAMP:20190227T091300
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Designing for Dissemination and Impact: In Search of the Holy Grail
 END:VEVENT
 BEGIN:VEVENT
 UID:6918@events.dbbs.wustl
@@ -3125,9 +3162,10 @@ DESCRIPTION:Speakers:\nSuzanne Pfeffer\, PhD\, Emma Pfeiffer Merner Pofesso
  ogy. Hope Center Monday\nNoon Seminars For inquiries contact Cindy Lawrenc
  e.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
  =6905
-DTSTAMP:20190107T163400
+DTSTAMP:20190227T114600
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:TBA
+SUMMARY:Cholesterol and membrane trafficking: implications for Niemann Pick
+  Type C and familial Parkinson’s disease
 END:VEVENT
 BEGIN:VEVENT
 UID:6822@events.dbbs.wustl
