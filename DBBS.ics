@@ -1494,15 +1494,26 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Clonal dynamics of the antibody response
 END:VEVENT
 BEGIN:VEVENT
+UID:7119@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190305T100000
+DTEND;TZID=America/Chicago:20190305T110000
+DESCRIPTION:Speakers:\nJose Ordovas - Montanes\, Massachusetts Institute of
+  Technology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=7119
+DTSTAMP:20190304T121000
+LOCATION:Holden Auditorium
+SUMMARY:Immune Memory Storage in Barrier Tissues
+END:VEVENT
+BEGIN:VEVENT
 UID:7088@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190305T120000
 DTEND;TZID=America/Chicago:20190305T130000
 DESCRIPTION:Speakers:\nDr. Samuel Behar\, UMass\n\nLink: http://dbbs.wustl.
  edu/Resources/Pages/calendar_event.aspx?EvID=7088
-DTSTAMP:20190221T112400
+DTSTAMP:20190305T074700
 LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
-SUMMARY:Recognizing the problem\; T cell immunity to Mycobacterium tubercul
- osis
+SUMMARY:(Cancelled)Recognizing the problem\; T cell immunity to Mycobacteri
+ um tuberculosis
 END:VEVENT
 BEGIN:VEVENT
 UID:6805@events.dbbs.wustl
@@ -1515,16 +1526,6 @@ DTSTAMP:20181126T160000
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  401
 SUMMARY:How should we monitor anticoagulation of patiends
-END:VEVENT
-BEGIN:VEVENT
-UID:7100@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190306T090000
-DTEND;TZID=America/Chicago:20190306T100000
-DESCRIPTION:Speakers:\nJose Ordovas - Montanes\, Tufts University\n\nLink: 
- http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7100
-DTSTAMP:20190219T111900
-LOCATION:room b
-SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6522@events.dbbs.wustl
