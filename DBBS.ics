@@ -2137,6 +2137,19 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Development and Function of Dendritic cell subsets
 END:VEVENT
 BEGIN:VEVENT
+UID:7123@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190326T100000
+DTEND;TZID=America/Chicago:20190326T120000
+DESCRIPTION:Speakers:\nTBA\, Becker Library\n\nDescription:\nMark "CPD" Reg
+ ister here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civicrm/ev
+ ent/info&reset\;=1&id\;=91\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=7123
+DTSTAMP:20190306T093900
+LOCATION:FLTC 304
+SUMMARY:Computing 101 – #1 Tools to Connect and Move Data & Getting Aroun
+ d the Linux Command Line Interface
+END:VEVENT
+BEGIN:VEVENT
 UID:7029@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190326T103000
 DTEND;TZID=America/Chicago:20190326T113000
@@ -2231,6 +2244,18 @@ DESCRIPTION:Speakers:\nDr. Joe Craft\, Yale University\n\nLink: http://dbbs
 DTSTAMP:20190226T091700
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:T Cells in Time and Space
+END:VEVENT
+BEGIN:VEVENT
+UID:7124@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190402T100000
+DTEND;TZID=America/Chicago:20190402T120000
+DESCRIPTION:Speakers:\nTBA\, Becker Library\n\nDescription:\nMark "CPD" Reg
+ ister Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civicrm/ev
+ ent/info&reset\;=1&id\;=92\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=7124
+DTSTAMP:20190306T093800
+LOCATION:FLTC 304
+SUMMARY:Computing 101 – #2 Text Editors and Shell Scripts
 END:VEVENT
 BEGIN:VEVENT
 UID:7006@events.dbbs.wustl
@@ -2360,6 +2385,18 @@ DESCRIPTION:Speakers:\nTBD\, TBD\n\nLink: http://dbbs.wustl.edu/Resources/P
 DTSTAMP:20181203T120000
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7125@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190409T100000
+DTEND;TZID=America/Chicago:20190409T120000
+DESCRIPTION:Speakers:\nTBA\, Becker Library\n\nDescription:\nMark "CPD" Reg
+ ister Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civicrm/ev
+ ent/info&reset\;=1&id\;=93\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=7125
+DTSTAMP:20190306T093800
+LOCATION:FLTC 304
+SUMMARY:Computing 101 – #3 Running Jobs on the CHPC Cluster
 END:VEVENT
 BEGIN:VEVENT
 UID:7030@events.dbbs.wustl
