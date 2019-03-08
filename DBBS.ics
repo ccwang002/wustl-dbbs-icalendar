@@ -1871,6 +1871,26 @@ LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7130@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190314T100000
+DTEND;TZID=America/Chicago:20190314T103000
+DESCRIPTION:Speakers:\nRebecca Morey\, MD\, Washington University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7130
+DTSTAMP:20190307T171000
+LOCATION:728 Southwest Tower
+SUMMARY:Metformin: New Perspectives on an Old Drug
+END:VEVENT
+BEGIN:VEVENT
+UID:7131@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190314T103000
+DTEND;TZID=America/Chicago:20190314T113000
+DESCRIPTION:Speakers:\nJun Yoshino\, MD\, PhD\, Washington University\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7131
+DTSTAMP:20190307T171000
+LOCATION:728 Southwest Tower
+SUMMARY:NAD+ and Thermogenesis
+END:VEVENT
+BEGIN:VEVENT
 UID:6920@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190314T120000
 DTEND;TZID=America/Chicago:20190314T130000
@@ -1907,6 +1927,32 @@ DESCRIPTION:Speakers:\nLauren Broestl\, Washington University School of Med
 DTSTAMP:20190212T090000
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7126@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190314T160000
+DTEND;TZID=America/Chicago:20190314T170000
+DESCRIPTION:Speakers:\nGregory Storch\, MD\, Dr. Storch is the Ruth L. Site
+ man Professor of Pediatrics and Research Integrity Officer (RIO) for Washi
+ ngton University.  He also holds joint appointments in the Departments of
+  Medicine and Molecular Microbiology and is a nationally renowned scholar\
+ , teacher\, and clinician with impressive accomplishments in virology and 
+ the molecular identification of new and emerging pathogens. His current re
+ search interest is in the use of the host response to assist in the diagno
+ sis of infectious diseases. He also continues to work on applications of n
+ ext-generation sequencing for infectious disease diagnosis.\n\nDr. Storch 
+ has proven leadership skills in his storied career at Washington Universit
+ y\, serving as Director of the Divisions of Infectious Diseases and Labora
+ tory Medicine in the Department of Pediatrics\, Director of the Virology a
+ nd Microbiology Laboratories at St. Louis Children’s Hospital\, and past
+ -President of the Pan-American Society for Clinical Virology. He has also 
+ served as chairman for two years on the School of Medicine’s Executive C
+ ommittee of the Faculty Council\, the highest elected position among the m
+ edical school faculty.\n\nDescription:\nFree and open to the public.\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7126
+DTSTAMP:20190307T171000
+LOCATION:King Center - 7th floor library
+SUMMARY:"Why are Vaccines so Controversial?" - 68th Historia Medica
 END:VEVENT
 BEGIN:VEVENT
 UID:7118@events.dbbs.wustl
@@ -2173,6 +2219,16 @@ SUMMARY:Playing with fire: The fine line between immunity and immunopathoge
  nsis
 END:VEVENT
 BEGIN:VEVENT
+UID:7127@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190326T120000
+DTEND;TZID=America/Chicago:20190326T130000
+DESCRIPTION:Speakers:\nTBA\, Career Center\n\nDescription:\nMark "CPD"\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7127
+DTSTAMP:20190307T171300
+LOCATION:Farrell Learning and Teaching Center\, Room 303 A&B
+SUMMARY:Developing Your Professional Network
+END:VEVENT
+BEGIN:VEVENT
 UID:6367@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190327T120000
 DTEND;TZID=America/Chicago:20190327T130000
@@ -2204,6 +2260,16 @@ DTSTAMP:20181217T171600
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  801
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7128@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190329T120000
+DTEND;TZID=America/Chicago:20190329T130000
+DESCRIPTION:Speakers:\nTBA\, Career Center\n\nDescription:\nMark "CPD"\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7128
+DTSTAMP:20190307T171300
+LOCATION:Danforth Campus\, Danforth University Center\, Room 111
+SUMMARY:Developing Your Professional Network
 END:VEVENT
 BEGIN:VEVENT
 UID:6639@events.dbbs.wustl
@@ -2345,6 +2411,16 @@ DESCRIPTION:Speakers:\nRichard Lang\, PhD -- 4th Annual Beebe Lecture\, Uni
 DTSTAMP:20180625T082400
 LOCATION:More details to follow
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7129@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190405T120000
+DTEND;TZID=America/Chicago:20190405T130000
+DESCRIPTION:Speakers:\nTBA\, Career Center\n\nDescription:\nMark CPD\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7129
+DTSTAMP:20190307T171100
+LOCATION:Danforth Campus\, Danforth University Center\, Room 233
+SUMMARY:Tailoring Resumes & Cover Letters
 END:VEVENT
 BEGIN:VEVENT
 UID:6640@events.dbbs.wustl
