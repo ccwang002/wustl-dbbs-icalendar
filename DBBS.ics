@@ -1786,11 +1786,12 @@ BEGIN:VEVENT
 UID:7101@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190312T090000
 DTEND;TZID=America/Chicago:20190312T100000
-DESCRIPTION:Speakers:\nMunir Akkaya\, NIH\n\nLink: http://dbbs.wustl.edu/Re
- sources/Pages/calendar_event.aspx?EvID=7101
-DTSTAMP:20190219T111900
+DESCRIPTION:Speakers:\nBillur Akkaya\, NIH\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7101
+DTSTAMP:20190308T083000
 LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
-SUMMARY:TBA
+SUMMARY:A T-Rex Tale: Antigen-specific suppression by trogocytosis of pepti
+ de-MHCII
 END:VEVENT
 BEGIN:VEVENT
 UID:7027@events.dbbs.wustl
@@ -1864,11 +1865,12 @@ BEGIN:VEVENT
 UID:7102@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190314T090000
 DTEND;TZID=America/Chicago:20190314T100000
-DESCRIPTION:Speakers:\nBillur Akkaya\, NIH\n\nLink: http://dbbs.wustl.edu/R
- esources/Pages/calendar_event.aspx?EvID=7102
-DTSTAMP:20190219T111900
+DESCRIPTION:Speakers:\nMunir Akkaya\, NIH\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7102
+DTSTAMP:20190308T083100
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:TBA
+SUMMARY:How TLR9 Signaling shapes the survival\, differentiation and the me
+ tabolism of B cells
 END:VEVENT
 BEGIN:VEVENT
 UID:7130@events.dbbs.wustl
@@ -1924,9 +1926,10 @@ DESCRIPTION:Speakers:\nLauren Broestl\, Washington University School of Med
  icine\nRubin Lab\nJosh Alinger\, Washington University School of Medicine\
  nFrench Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
  aspx?EvID=7064
-DTSTAMP:20190212T090000
+DTSTAMP:20190308T095000
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Sex Differences in Cellular Senescence: Potential Implications for 
+ Cancer Treatment
 END:VEVENT
 BEGIN:VEVENT
 UID:7126@events.dbbs.wustl
@@ -2254,12 +2257,13 @@ BEGIN:VEVENT
 UID:6851@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190328T160000
 DTEND;TZID=America/Chicago:20190328T170000
-DESCRIPTION:Speakers:\nNada Abumrad\, PhD\, Washington University\n\nLink: 
+DESCRIPTION:Speakers:\nAbhinav Diwan\, MD\, Washington University\n\nLink: 
  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6851
-DTSTAMP:20181217T171600
+DTSTAMP:20190308T144700
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  801
-SUMMARY:TBA
+SUMMARY:Lysosomes in Homeostasis and Cardiac Pathology: The Janitor is the 
+ Undercover Boss!
 END:VEVENT
 BEGIN:VEVENT
 UID:7128@events.dbbs.wustl
