@@ -2137,6 +2137,17 @@ SUMMARY:Drivers of Animal Movement and Some Consequences for Species Intera
  ctions
 END:VEVENT
 BEGIN:VEVENT
+UID:7132@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190321T160000
+DTEND;TZID=America/Chicago:20190321T170000
+DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7132
+DTSTAMP:20190311T091600
+LOCATION:Maternity Building\, Room 725
+RRULE:INTERVAL=1;UNTIL=20211213
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7005@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190322T120000
 DTEND;TZID=America/Chicago:20190322T130000
