@@ -2148,6 +2148,18 @@ RRULE:INTERVAL=1;UNTIL=20211213
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7134@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190322T090000
+DTEND;TZID=America/Chicago:20190322T100000
+DESCRIPTION:Speakers:\nJonathan Brestoff\, MD\, PhD\, MPH\, Teitelbaum Lab\
+ , Department of Pathology and Immunology\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7134
+DTSTAMP:20190312T095000
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Regulation of macrophages and metabolism via intercellular mitochon
+ dria transfer
+END:VEVENT
+BEGIN:VEVENT
 UID:7005@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190322T120000
 DTEND;TZID=America/Chicago:20190322T130000
@@ -2156,6 +2168,17 @@ DESCRIPTION:Speakers:\nMichelle Repice\, PhD\, Career center\n\nLink: http:
 DTSTAMP:20190128T123900
 LOCATION:DUC 248
 SUMMARY:LinkedIn for Job (re)Search [DUC]
+END:VEVENT
+BEGIN:VEVENT
+UID:7133@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190322T120000
+DTEND;TZID=America/Chicago:20190322T130000
+DESCRIPTION:Speakers:\nDavid G. DeNardo\, PhD\, Associate Professor of Medi
+ cine\nDepartment of Pathology & Immunology\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=7133
+DTSTAMP:20190312T095000
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Targeting the Pancreatic Tumor Microenviorment
 END:VEVENT
 BEGIN:VEVENT
 UID:6904@events.dbbs.wustl
