@@ -2084,6 +2084,27 @@ LOCATION:Farrell Learning & Teaching Center - Hearth
 SUMMARY:From grad student to COO: coffee hour with a local entrepreneur
 END:VEVENT
 BEGIN:VEVENT
+UID:7149@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190321T100000
+DTEND;TZID=America/Chicago:20190321T103000
+DESCRIPTION:Speakers:\nCarine Anka\, MD\, Children's Hospital\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7149
+DTSTAMP:20190319T091000
+LOCATION:728 Southwest Tower
+SUMMARY:Diabetes Insipidus
+END:VEVENT
+BEGIN:VEVENT
+UID:7150@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190321T103000
+DTEND;TZID=America/Chicago:20190321T113000
+DESCRIPTION:Speakers:\nXiaochao Wei\, PhD\, Washington University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7150
+DTSTAMP:20190319T091000
+LOCATION:728 Southwest Tower
+SUMMARY:Dynamic Protein Modification by Lipid: A Journey of Studying Depalm
+ itoylation in Endothelial Cells
+END:VEVENT
+BEGIN:VEVENT
 UID:6918@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190321T110000
 DTEND;TZID=America/Chicago:20190321T170000
@@ -3236,6 +3257,18 @@ DESCRIPTION:Speakers:\nCelorrio Navarro\, Washington University School of M
 DTSTAMP:20190212T090400
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7156@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190516T120000
+DTEND;TZID=America/Chicago:20190516T130000
+DESCRIPTION:Speakers:\nKamila Naxerova\, PhD\, Assistant Professor\nCenter 
+ for Systems Biology\nMassachusetts General Hospital\nHarvard Medical Schoo
+ l\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7156
+DTSTAMP:20190319T091000
+LOCATION:Erlanger Auditorium
+SUMMARY:Tracing the evolutionary history of metastatic cancer
 END:VEVENT
 BEGIN:VEVENT
 UID:7057@events.dbbs.wustl
