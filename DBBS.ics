@@ -2257,6 +2257,16 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:Deleted: TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7171@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190324T160000
+DTEND;TZID=America/Chicago:20190324T170000
+DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7171
+DTSTAMP:20190322T090000
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Deleted: TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:6904@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190325T120000
 DTEND;TZID=America/Chicago:20190325T130000
@@ -2295,6 +2305,16 @@ DESCRIPTION:Speakers:\nDr. Bonnie Bartel\, Rice University\n\nLink: http://
 DTSTAMP:20180913T125500
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Peroxisome Dynamics in Arabidopsis
+END:VEVENT
+BEGIN:VEVENT
+UID:7174@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190325T160000
+DTEND;TZID=America/Chicago:20190325T170000
+DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7174
+DTSTAMP:20190322T091200
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Deleted: TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6821@events.dbbs.wustl
@@ -2365,6 +2385,16 @@ LOCATION:Stahl Library (McDonnell Sciences Building\, Room 426)
 SUMMARY:Mural Cells in Vascular Development and Disease
 END:VEVENT
 BEGIN:VEVENT
+UID:7175@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190326T160000
+DTEND;TZID=America/Chicago:20190326T170000
+DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7175
+DTSTAMP:20190322T091300
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Deleted: TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:6367@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190327T120000
 DTEND;TZID=America/Chicago:20190327T130000
@@ -2376,14 +2406,24 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Neural Mechanisms for Dynamic Acoustic Communication in Flies
 END:VEVENT
 BEGIN:VEVENT
+UID:7176@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190327T160000
+DTEND;TZID=America/Chicago:20190327T170000
+DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7176
+DTSTAMP:20190322T091300
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Deleted: TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7166@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190328T100000
 DTEND;TZID=America/Chicago:20190328T103000
 DESCRIPTION:Speakers:\nKelley Williams\, M.D.\, Washington University\n\nLi
  nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7166
-DTSTAMP:20190321T101000
+DTSTAMP:20190322T092400
 LOCATION:728 Southwest Tower
-SUMMARY:TBA
+SUMMARY:Overview of Obesity Management
 END:VEVENT
 BEGIN:VEVENT
 UID:7167@events.dbbs.wustl
@@ -2444,6 +2484,18 @@ RRULE:INTERVAL=1;UNTIL=20190328
 SUMMARY:Repair\, Reuse\, Recycle: The role of Autophagy in vision
 END:VEVENT
 BEGIN:VEVENT
+UID:7170@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190329T090000
+DTEND;TZID=America/Chicago:20190329T100000
+DESCRIPTION:Speakers:\nManoj Arra\, MSTP\, DBBS\, Dept of Orthopaedic Surge
+ ry\, Abu-Amer Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=7170
+DTSTAMP:20190322T091900
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Metabolic Reprogramming in Chondrocytes Regulates the Inflammatory 
+ Response in OA
+END:VEVENT
+BEGIN:VEVENT
 UID:7136@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190329T091500
 DTEND;TZID=America/Chicago:20190329T101500
@@ -2466,6 +2518,18 @@ LOCATION:Danforth Campus\, Danforth University Center\, Room 111
 SUMMARY:Developing Your Professional Network
 END:VEVENT
 BEGIN:VEVENT
+UID:7169@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190329T140000
+DTEND;TZID=America/Chicago:20190329T150000
+DESCRIPTION:Speakers:\nMs. Alexandra Russo\, Neurosciences Program - Lab of
+  Dr. Aaron DiAntonio\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7169
+DTSTAMP:20190322T091900
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Neuronal stress pathways influence synaptic development and nervous
+  system function in Drosophila melanogaster.
+END:VEVENT
+BEGIN:VEVENT
 UID:7145@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190329T160000
 DTEND;TZID=America/Chicago:20190329T170000
@@ -2482,6 +2546,16 @@ DTEND;TZID=America/Chicago:20190330T170000
 DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
  nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7147
 DTSTAMP:20190314T123000
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Deleted: TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7172@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190331T160000
+DTEND;TZID=America/Chicago:20190331T170000
+DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7172
+DTSTAMP:20190322T090200
 LOCATION:Maternity Building\, Room 725
 SUMMARY:Deleted: TBA
 END:VEVENT
@@ -2565,10 +2639,10 @@ DTSTART;TZID=America/Chicago:20190402T120000
 DTEND;TZID=America/Chicago:20190402T130000
 DESCRIPTION:Speakers:\nDr. Darren Higgins\, Harvard Medical School\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7091
-DTSTAMP:20190218T123200
+DTSTAMP:20190322T090600
 LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
-SUMMARY:From gastroenteristis to meningoenceohalitis: How Listeria Monocyto
- gens cresses the blood-brain barrier to infect the brain
+SUMMARY:From gastroenteritis to meningoencephalitis: How Listeria monocytog
+ enes crosses the blood-brain barrier to infect the brain
 END:VEVENT
 BEGIN:VEVENT
 UID:6397@events.dbbs.wustl
@@ -2628,6 +2702,28 @@ LOCATION:More details to follow
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7168@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190405T100000
+DTEND;TZID=America/Chicago:20190405T110000
+DESCRIPTION:Speakers:\nDr. Devon Crawford\, Dr. Devon C. Crawford is a Heal
+ th Program Specialist at the NIH National Institute of Neurological Disord
+ ers and Stroke\, where she primarily performs public education\, portfolio
+  analysis\, and science program and policy activities. Her focus is on imp
+ roving experimental rigor and transparency within the biomedical research 
+ community as well as supporting efforts within the trans-NIH and trans-age
+ ncy Brain Research through Advancing Innovative Neurotechnologies (BRAIN) 
+ Initiative. She also strives to promote mentoring\, diversity\, and career
+  development for trainees. She received her Ph.D. in Neuroscience from Was
+ hington University in St. Louis\, conducted postdoctoral training at the U
+ niversity of Texas Southwestern Medical Center\, and was active in career 
+ development and public outreach efforts throughout her scientific training
+  in synaptic physiology and neurobiology.\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7168
+DTSTAMP:20190322T092000
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Why We Need Experimental Rigor and Transparent Reporting
+END:VEVENT
+BEGIN:VEVENT
 UID:7129@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190405T120000
 DTEND;TZID=America/Chicago:20190405T130000
@@ -2636,6 +2732,16 @@ DESCRIPTION:Speakers:\nTBA\, Career Center\n\nDescription:\nMark CPD\n\nLin
 DTSTAMP:20190307T171100
 LOCATION:Danforth Campus\, Danforth University Center\, Room 233
 SUMMARY:Tailoring Resumes & Cover Letters
+END:VEVENT
+BEGIN:VEVENT
+UID:7173@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190406T160000
+DTEND;TZID=America/Chicago:20190406T170000
+DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7173
+DTSTAMP:20190322T090200
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Deleted: TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6640@events.dbbs.wustl
