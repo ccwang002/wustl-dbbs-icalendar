@@ -2518,6 +2518,19 @@ LOCATION:Danforth Campus\, Danforth University Center\, Room 111
 SUMMARY:Developing Your Professional Network
 END:VEVENT
 BEGIN:VEVENT
+UID:7177@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190329T120000
+DTEND;TZID=America/Chicago:20190329T130000
+DESCRIPTION:Speakers:\nMegan T. Baldridge\, M.D.\, Ph.D\, Assistant Profess
+ or of Medicine\nDivision of Infectious Diseases\nWashington University\nJa
+ ebok Choi\, Ph.D.\, Assistant Professor of Medicine\nDivision of Oncology\
+ nWashington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=7177
+DTSTAMP:20190326T095700
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Regional Regulation of Norovirus Infection by Commensal Bacteria
+END:VEVENT
+BEGIN:VEVENT
 UID:7169@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190329T140000
 DTEND;TZID=America/Chicago:20190329T150000
@@ -2702,6 +2715,19 @@ LOCATION:More details to follow
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7178@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190405T090000
+DTEND;TZID=America/Chicago:20190405T100000
+DESCRIPTION:Speakers:\nDenis Evseenko\, MD\, PhD\, Departments of Orthopaed
+ ic Surgery and Regenerative Medicine\, Keck School of Medicine\, Universit
+ y of Southern California\, Los Angeles\, CA\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7178
+DTSTAMP:20190326T095600
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Innovative solutions for articular cartilage repair and osteoarthri
+ tis
+END:VEVENT
+BEGIN:VEVENT
 UID:7168@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190405T100000
 DTEND;TZID=America/Chicago:20190405T110000
@@ -2732,6 +2758,18 @@ DESCRIPTION:Speakers:\nTBA\, Career Center\n\nDescription:\nMark CPD\n\nLin
 DTSTAMP:20190307T171100
 LOCATION:Danforth Campus\, Danforth University Center\, Room 233
 SUMMARY:Tailoring Resumes & Cover Letters
+END:VEVENT
+BEGIN:VEVENT
+UID:7180@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190405T140000
+DTEND;TZID=America/Chicago:20190405T150000
+DESCRIPTION:Speakers:\nMs. Zeran Li\, Neurosciences Program - Lab of Dr. Ca
+ rlos Cruchaga\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
+ t.aspx?EvID=7180
+DTSTAMP:20190326T145600
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Integrative analysis to investigate complex interactions in Alzheim
+ er's Disease.
 END:VEVENT
 BEGIN:VEVENT
 UID:7173@events.dbbs.wustl
