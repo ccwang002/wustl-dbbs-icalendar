@@ -2181,29 +2181,6 @@ SUMMARY:Drivers of Animal Movement and Some Consequences for Species Intera
  ctions
 END:VEVENT
 BEGIN:VEVENT
-UID:7132@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190321T160000
-DTEND;TZID=America/Chicago:20190321T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7132
-DTSTAMP:20190311T091600
-LOCATION:Maternity Building\, Room 725
-RRULE:INTERVAL=1;UNTIL=20211213
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7143@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190321T160000
-DTEND;TZID=America/Chicago:20190321T170000
-DESCRIPTION:Speakers:\nDavid R. Hyde\, PhD\, University of Notre Dame\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7143
-DTSTAMP:20190314T142400
-LOCATION:Maternity Building\, Room 725
-RRULE:INTERVAL=1;UNTIL=20190321
-SUMMARY:Mechanisms regulating Müller glia reprogramming and retinal regene
- ration in the damaged zebrafish retina
-END:VEVENT
-BEGIN:VEVENT
 UID:7134@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190322T090000
 DTEND;TZID=America/Chicago:20190322T100000
@@ -2235,36 +2212,6 @@ DESCRIPTION:Speakers:\nDavid G. DeNardo\, PhD\, Associate Professor of Medi
 DTSTAMP:20190312T095000
 LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
 SUMMARY:Targeting the Pancreatic Tumor Microenviorment
-END:VEVENT
-BEGIN:VEVENT
-UID:7146@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190322T160000
-DTEND;TZID=America/Chicago:20190322T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7146
-DTSTAMP:20190314T123000
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7142@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190323T160000
-DTEND;TZID=America/Chicago:20190323T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7142
-DTSTAMP:20190314T104700
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7171@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190324T160000
-DTEND;TZID=America/Chicago:20190324T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7171
-DTSTAMP:20190322T090000
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6904@events.dbbs.wustl
@@ -2305,16 +2252,6 @@ DESCRIPTION:Speakers:\nDr. Bonnie Bartel\, Rice University\n\nLink: http://
 DTSTAMP:20180913T125500
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Peroxisome Dynamics in Arabidopsis
-END:VEVENT
-BEGIN:VEVENT
-UID:7174@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190325T160000
-DTEND;TZID=America/Chicago:20190325T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7174
-DTSTAMP:20190322T091200
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6821@events.dbbs.wustl
@@ -2385,16 +2322,6 @@ LOCATION:Stahl Library (McDonnell Sciences Building\, Room 426)
 SUMMARY:Mural Cells in Vascular Development and Disease
 END:VEVENT
 BEGIN:VEVENT
-UID:7175@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190326T160000
-DTEND;TZID=America/Chicago:20190326T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7175
-DTSTAMP:20190322T091300
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
-END:VEVENT
-BEGIN:VEVENT
 UID:6367@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190327T120000
 DTEND;TZID=America/Chicago:20190327T130000
@@ -2404,16 +2331,6 @@ DESCRIPTION:Speakers:\nMala Murthy\, PhD\, Princeton University\n\nDescript
 DTSTAMP:20180716T105700
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Neural Mechanisms for Dynamic Acoustic Communication in Flies
-END:VEVENT
-BEGIN:VEVENT
-UID:7176@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190327T160000
-DTEND;TZID=America/Chicago:20190327T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7176
-DTSTAMP:20190322T091300
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7166@events.dbbs.wustl
@@ -2471,17 +2388,6 @@ DTSTAMP:20190314T103900
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Insights into allergic and classical inflammation from rare monogen
  ic immune disorders
-END:VEVENT
-BEGIN:VEVENT
-UID:7144@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190328T160000
-DTEND;TZID=America/Chicago:20190328T170000
-DESCRIPTION:Speakers:\nThomas Ferguson\, PhD\, Washington Universtiy\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7144
-DTSTAMP:20190314T123000
-LOCATION:Maternity Building\, Room 725
-RRULE:INTERVAL=1;UNTIL=20190328
-SUMMARY:Repair\, Reuse\, Recycle: The role of Autophagy in vision
 END:VEVENT
 BEGIN:VEVENT
 UID:7170@events.dbbs.wustl
@@ -2543,36 +2449,6 @@ SUMMARY:Neuronal stress pathways influence synaptic development and nervous
   system function in Drosophila melanogaster.
 END:VEVENT
 BEGIN:VEVENT
-UID:7145@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190329T160000
-DTEND;TZID=America/Chicago:20190329T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7145
-DTSTAMP:20190314T123000
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7147@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190330T160000
-DTEND;TZID=America/Chicago:20190330T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7147
-DTSTAMP:20190314T123000
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7172@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190331T160000
-DTEND;TZID=America/Chicago:20190331T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7172
-DTSTAMP:20190322T090200
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
-END:VEVENT
-BEGIN:VEVENT
 UID:6639@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190401T120000
 DTEND;TZID=America/Chicago:20190401T130000
@@ -2601,6 +2477,17 @@ DTSTAMP:20190227T114600
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Cholesterol and membrane trafficking: implications for Niemann Pick
   Type C and familial Parkinson’s disease
+END:VEVENT
+BEGIN:VEVENT
+UID:7179@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190401T120000
+DTEND;TZID=America/Chicago:20190401T130000
+DESCRIPTION:Speakers:\nPeter Wang\, Washington University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7179
+DTSTAMP:20190327T091800
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Shared and unique transcriptional programs underlying neuronal r
+ esident macrophages.”
 END:VEVENT
 BEGIN:VEVENT
 UID:6822@events.dbbs.wustl
@@ -2658,6 +2545,17 @@ SUMMARY:From gastroenteritis to meningoencephalitis: How Listeria monocytog
  enes crosses the blood-brain barrier to infect the brain
 END:VEVENT
 BEGIN:VEVENT
+UID:7184@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190402T150000
+DTEND;TZID=America/Chicago:20190402T160000
+DESCRIPTION:Speakers:\nDr. Moe Mahjoub\, Ph.D\, Washington University Schoo
+ l of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
+ t.aspx?EvID=7184
+DTSTAMP:20190327T091000
+LOCATION:426 McDonnell Science (Cell Biology Library)
+SUMMARY:Regulation of Cilia Abundance: Can Cells Count?
+END:VEVENT
+BEGIN:VEVENT
 UID:6397@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190403T120000
 DTEND;TZID=America/Chicago:20190403T130000
@@ -2710,9 +2608,10 @@ DTEND;TZID=America/Chicago:20190404T180000
 DESCRIPTION:Speakers:\nRichard Lang\, PhD -- 4th Annual Beebe Lecture\, Uni
  versity of Cincinnati\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
  dar_event.aspx?EvID=6326
-DTSTAMP:20180625T082400
-LOCATION:More details to follow
-SUMMARY:TBA
+DTSTAMP:20190327T105200
+LOCATION:East Pavilion Auditorium
+SUMMARY:The atypical opsins in development and homeostasis inside and outsi
+ de the eye
 END:VEVENT
 BEGIN:VEVENT
 UID:7178@events.dbbs.wustl
@@ -2770,16 +2669,6 @@ DTSTAMP:20190326T145600
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Integrative analysis to investigate complex interactions in Alzheim
  er's Disease.
-END:VEVENT
-BEGIN:VEVENT
-UID:7173@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190406T160000
-DTEND;TZID=America/Chicago:20190406T170000
-DESCRIPTION:Speakers:\nVision Science Seminar\, Washington Universtiy\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7173
-DTSTAMP:20190322T090200
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Deleted: TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6640@events.dbbs.wustl
@@ -2925,6 +2814,17 @@ DESCRIPTION:Speakers:\nGlenn I Fishman\, MD\, NYU\n\nLink: http://dbbs.wust
 DTSTAMP:20181228T111600
 LOCATION:728 Southwest Tower
 SUMMARY:Transcriptional Regulation in the Ventricular Conduction System
+END:VEVENT
+BEGIN:VEVENT
+UID:7132@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190411T160000
+DTEND;TZID=America/Chicago:20190411T170000
+DESCRIPTION:Speakers:\nTiffany Schmidt\, PhD\, Northwestern University\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7132
+DTSTAMP:20190327T105400
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Melanopisn is Repurposed to Shape the Function of Distinct Visual C
+ ircuits
 END:VEVENT
 BEGIN:VEVENT
 UID:7009@events.dbbs.wustl
@@ -3090,6 +2990,33 @@ DTSTAMP:20181217T171700
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  801
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7185@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190418T160000
+DTEND;TZID=America/Chicago:20190418T170000
+DESCRIPTION:Speakers:\nJoseph Corbo\, MD\, PhD\, WUSM Pathology and Immunol
+ ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7185
+DTSTAMP:20190327T110500
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Cis-regulatory basis of sister cell type divergence in the vertebra
+ te retina
+END:VEVENT
+BEGIN:VEVENT
+UID:7181@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190419T091500
+DTEND;TZID=America/Chicago:20190419T101500
+DESCRIPTION:Speakers:\nRebecca N. Ichord\, MD\, Director\, Pediatric Stroke
+  Program\,\nThe Children's Hospital of Philadelphia\nProfessor of Neurolog
+ y and  Pediatrics\,\nPerelman School of Medicine at the University of Pen
+ nsylvania\n\nDescription:\nThis is a joint Neurology-Pediatrics Grand Roun
+ ds\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =7181
+DTSTAMP:20190327T091000
+LOCATION:Wohl Clinic- Clopton Auditorium
+SUMMARY:10th Annual World Pediatric Stroke Association Lecture: Childhood A
+ rterial Ischemic Stroke:  Progress and Prospects 2019
 END:VEVENT
 BEGIN:VEVENT
 UID:7011@events.dbbs.wustl
