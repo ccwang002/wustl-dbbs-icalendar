@@ -2568,6 +2568,28 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Modeling human brain development and diseases using brain organoids
 END:VEVENT
 BEGIN:VEVENT
+UID:7189@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190404T100000
+DTEND;TZID=America/Chicago:20190404T103000
+DESCRIPTION:Speakers:\nRong Mei Zhang\, MD\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7189
+DTSTAMP:20190328T140100
+LOCATION:728 Southwest Tower
+SUMMARY:Congenital Lipodystrophy
+END:VEVENT
+BEGIN:VEVENT
+UID:7188@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190404T103000
+DTEND;TZID=America/Chicago:20190404T113000
+DESCRIPTION:Speakers:\nRѐmi Rabasa-Lhoret\, MD\, PhD\, McGill University\n
+ Montreal\, Québec\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7188
+DTSTAMP:20190328T140200
+LOCATION:728 Southwest Tower
+SUMMARY:The Artificial Pancreas to Treat Patients Living with Type 1 Diabet
+ es:  Should It Be Single or Dual Hormone?
+END:VEVENT
+BEGIN:VEVENT
 UID:6940@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190404T120000
 DTEND;TZID=America/Chicago:20190404T130000
@@ -2827,6 +2849,18 @@ SUMMARY:Melanopisn is Repurposed to Shape the Function of Distinct Visual C
  ircuits
 END:VEVENT
 BEGIN:VEVENT
+UID:7187@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190412T090000
+DTEND;TZID=America/Chicago:20190412T100000
+DESCRIPTION:Speakers:\nXinming Su\, PhD\, Division of Oncology\, Department
+  of Medicine\, Weilbaecher Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pa
+ ges/calendar_event.aspx?EvID=7187
+DTSTAMP:20190328T140200
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Cytokine signaling crosstalk with metabolic pathways in myeloid cel
+ ls promote breast cancer growth
+END:VEVENT
+BEGIN:VEVENT
 UID:7009@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190412T120000
 DTEND;TZID=America/Chicago:20190412T130000
@@ -2933,6 +2967,18 @@ DESCRIPTION:Speakers:\nDr. Wei-Shau Hu\, National Institutes of Health\n\nL
 DTSTAMP:20190218T123100
 LOCATION:Wohl Clinic- Clopton Auditorium
 SUMMARY:How does HIV-1 transfer its genetic information to progeny?
+END:VEVENT
+BEGIN:VEVENT
+UID:7186@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190416T140000
+DTEND;TZID=America/Chicago:20190416T150000
+DESCRIPTION:Speakers:\nJennifer Soll\, Molecular Genetics and Genomics Prog
+ ram\nLaboratory of Dr. Nima Mosammaparast\nDepartment of Pathology & Immun
+ ology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7186
+DTSTAMP:20190328T140300
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:The Role of the ASCC Complex in the Alkylation Damage Response
 END:VEVENT
 BEGIN:VEVENT
 UID:6654@events.dbbs.wustl
