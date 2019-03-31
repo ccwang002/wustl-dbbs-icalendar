@@ -2512,6 +2512,17 @@ LOCATION:FLTC 304
 SUMMARY:Computing 101 – #2 Text Editors and Shell Scripts
 END:VEVENT
 BEGIN:VEVENT
+UID:7190@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190402T103000
+DTEND;TZID=America/Chicago:20190402T113000
+DESCRIPTION:Speakers:\nRobert Piper\, Ph.D.\, University of Iowa Health Car
+ e\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7190
+DTSTAMP:20190329T105800
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:How ubiquitin controls endocytosis
+END:VEVENT
+BEGIN:VEVENT
 UID:7006@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190402T120000
 DTEND;TZID=America/Chicago:20190402T130000
@@ -2543,6 +2554,27 @@ DTSTAMP:20190322T090600
 LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
 SUMMARY:From gastroenteritis to meningoencephalitis: How Listeria monocytog
  enes crosses the blood-brain barrier to infect the brain
+END:VEVENT
+BEGIN:VEVENT
+UID:7191@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190402T120000
+DTEND;TZID=America/Chicago:20190402T130000
+DESCRIPTION:Speakers:\nDr. Darren Higgins\, Harvard University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7191
+DTSTAMP:20190329T105700
+LOCATION:Erlanger Auditorium
+SUMMARY:From gastroenteristis to meningoenceohalitis: How <i>Listeria Monoc
+ ytogenes</i> crosses the blood-brain barrier to infect the brain
+END:VEVENT
+BEGIN:VEVENT
+UID:7192@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190402T140000
+DTEND;TZID=America/Chicago:20190402T150000
+DESCRIPTION:Speakers:\nDr. Darren Higgins\, Harvard University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7192
+DTSTAMP:20190329T105200
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Career Discussion
 END:VEVENT
 BEGIN:VEVENT
 UID:7184@events.dbbs.wustl
@@ -2849,6 +2881,18 @@ SUMMARY:Melanopisn is Repurposed to Shape the Function of Distinct Visual C
  ircuits
 END:VEVENT
 BEGIN:VEVENT
+UID:7194@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190411T160000
+DTEND;TZID=America/Chicago:20190411T170000
+DESCRIPTION:Speakers:\nVetta Sanders Thompson\, PhD\, Brown School at Washi
+ ngton University in St. Louis\nPaola Rijos-Saitta\, MSW\, LCSW\, Institute
+  for Public Health\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7194
+DTSTAMP:20190329T105300
+LOCATION:Connor Auditorium
+SUMMARY:Minding our Words: Communicating to Mitigate Negative Impact
+END:VEVENT
+BEGIN:VEVENT
 UID:7187@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190412T090000
 DTEND;TZID=America/Chicago:20190412T100000
@@ -3149,6 +3193,19 @@ DTSTAMP:20180716T105700
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Stem cell aging: Functional consequences and rejuvenating strategie
  s
+END:VEVENT
+BEGIN:VEVENT
+UID:7193@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190424T130000
+DTEND;TZID=America/Chicago:20190424T140000
+DESCRIPTION:Speakers:\nLindsay Parnell\, Molecular Genetics and Genomics Pr
+ ogram\nLaboratory of Dr. Indira Mysorekar\nDepartment of Obstetrics and Gy
+ necology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
+ x?EvID=7193
+DTSTAMP:20190329T105100
+LOCATION:BJC-Institute of Health\, Conference Room 10AB (10th floor)
+SUMMARY:Spatial and Functional Characterization of Microbial Residents in t
+ he Human Placenta
 END:VEVENT
 BEGIN:VEVENT
 UID:6943@events.dbbs.wustl
