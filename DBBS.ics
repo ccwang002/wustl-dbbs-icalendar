@@ -1245,6 +1245,18 @@ SUMMARY:The Artificial Pancreas to Treat Patients Living with Type 1 Diabet
  es:  Should It Be Single or Dual Hormone?
 END:VEVENT
 BEGIN:VEVENT
+UID:7195@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190404T113000
+DTEND;TZID=America/Chicago:20190404T133000
+DESCRIPTION:Speakers:\nDenise Leonard\, PhD\, The Teaching Center\n\nDescri
+ ption:\nCPD\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=7195
+DTSTAMP:20190402T094900
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Applying Cognitive Science to Improve Teaching: Interleaving & Spac
+ ing
+END:VEVENT
+BEGIN:VEVENT
 UID:6940@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190404T120000
 DTEND;TZID=America/Chicago:20190404T130000
@@ -1266,6 +1278,17 @@ DESCRIPTION:Speakers:\nBrian Kim\, Washington University School of Medicine
 DTSTAMP:20190212T090200
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7196@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190404T140000
+DTEND;TZID=America/Chicago:20190404T153000
+DESCRIPTION:Speakers:\nWUSTL\, WUSTL IT\n\nDescription:\nRSVP here: https:/
+ /wustl.az1.qualtrics.com/jfe/form/SV_02gKIwXM0USvXmt\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7196
+DTSTAMP:20190402T094900
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Research IT Data Storage\, Management\, & Compute Seminars
 END:VEVENT
 BEGIN:VEVENT
 UID:7075@events.dbbs.wustl
@@ -1378,6 +1401,16 @@ SUMMARY:Click chemistry for studies of cholesterol\, oxysterol and neuroste
  roidbiology
 END:VEVENT
 BEGIN:VEVENT
+UID:7205@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190408T120000
+DTEND;TZID=America/Chicago:20190408T130000
+DESCRIPTION:Speakers:\nDustin Krutsinger\, University of Pennsylvania\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7205
+DTSTAMP:20190402T094500
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:Nudges to promote enrollment in critical care randomized trials.
+END:VEVENT
+BEGIN:VEVENT
 UID:7148@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190408T161500
 DTEND;TZID=America/Chicago:20190408T171500
@@ -1448,6 +1481,17 @@ LOCATION:426 McDonnell Science (Cell Biology Library)
 SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:7197@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190409T153000
+DTEND;TZID=America/Chicago:20190409T170000
+DESCRIPTION:Speakers:\nAlan Leshner\, PhD\, American Association for the Ad
+ vancement of Science\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7197
+DTSTAMP:20190402T094800
+LOCATION:Wohl Auditorium\, Wohl Hospital
+SUMMARY:Career Development Seminar – “Communicating your science”
+END:VEVENT
+BEGIN:VEVENT
 UID:6370@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190410T120000
 DTEND;TZID=America/Chicago:20190410T130000
@@ -1516,6 +1560,19 @@ LOCATION:Connor Auditorium
 SUMMARY:Minding our Words: Communicating to Mitigate Negative Impact
 END:VEVENT
 BEGIN:VEVENT
+UID:7198@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190411T160000
+DTEND;TZID=America/Chicago:20190411T170000
+DESCRIPTION:Speakers:\nPaola Rijos-Saitta\, MSW\, LCSW\, Institute for Publ
+ ic Health\nVetta Sanders Thompson\, PhD\, Brown School\n\nDescription:\nMa
+ rk CPD\; RSVP Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=ci
+ vicrm/event/register&id\;=90&reset\;=1\n\nLink: http://dbbs.wustl.edu/Reso
+ urces/Pages/calendar_event.aspx?EvID=7198
+DTSTAMP:20190402T094700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Minding our Words: Communicating to Mitigate Negative Impact
+END:VEVENT
+BEGIN:VEVENT
 UID:7187@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190412T090000
 DTEND;TZID=America/Chicago:20190412T100000
@@ -1528,6 +1585,20 @@ SUMMARY:Cytokine signaling crosstalk with metabolic pathways in myeloid cel
  ls promote breast cancer growth
 END:VEVENT
 BEGIN:VEVENT
+UID:7199@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190412T113000
+DTEND;TZID=America/Chicago:20190412T160000
+DESCRIPTION:Speakers:\nGregory Storch\, MD\, Research Integrity Officer (RI
+ O)\nAndrew Heath\, D.PHil.\, WUSM\nKoong-Nah Chung\, PhD\nRobert Kranz\, P
+ hD\n\nDescription:\nMark CPD Seating is limited\, Register by April 10th. 
+ Register through\nLearn@Work: https://research.wustl.edu/events/event/perc
+ ss-workshop-2019/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=7199
+DTSTAMP:20190402T094700
+LOCATION:Eric P. Newman Education Center
+SUMMARY:Annual PERCSS RCR Ethics Workshop
+END:VEVENT
+BEGIN:VEVENT
 UID:7009@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190412T120000
 DTEND;TZID=America/Chicago:20190412T130000
@@ -1536,6 +1607,32 @@ DESCRIPTION:Speakers:\nThi Nguyen\, PhD\, Career Center\n\nLink: http://dbb
 DTSTAMP:20190128T123900
 LOCATION:DUC 248
 SUMMARY:Interviewing and Acing Common Questions
+END:VEVENT
+BEGIN:VEVENT
+UID:7206@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190412T120000
+DTEND;TZID=America/Chicago:20190412T130000
+DESCRIPTION:Speakers:\nMark R. Frey\, PhD\, Associate Professor of Pediatri
+ cs and Biochemistry & Molecular Medicine\nThe Saban Research Institute at 
+ Children's Hospital Los Angeles\nUniversity of Southern California\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7206
+DTSTAMP:20190402T094400
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Dynamic regulation of intestinal cell differentiation by growth fac
+ tor-induced signaling
+END:VEVENT
+BEGIN:VEVENT
+UID:7204@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190415T090000
+DTEND;TZID=America/Chicago:20190415T100000
+DESCRIPTION:Speakers:\nMr. Christopher Catano\, Evolution\, Ecology\, and P
+ opulation Biology Program\; Lab of Dr. Jonathan Myers\, Department of Biol
+ ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7204
+DTSTAMP:20190402T094500
+LOCATION:Rebstock Hall 322
+SUMMARY:Environmental change\, beta-diversity\, and the stability of region
+ al ecosystems
 END:VEVENT
 BEGIN:VEVENT
 UID:6641@events.dbbs.wustl
@@ -1853,6 +1950,19 @@ LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7202@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190425T140000
+DTEND;TZID=America/Chicago:20190425T160000
+DESCRIPTION:Speakers:\nMr. Yerdos Ordabayev\, Program in Computational and 
+ Molecular Biophysics\; Lab of Dr. Tim Lohman\, Department of Biochemistry 
+ and Molecular Biophysics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
+ lendar_event.aspx?EvID=7202
+DTSTAMP:20190402T094600
+LOCATION:Erlanger Auditorium
+SUMMARY:Mechanism of Activation of UvrD Helicase by a Processivity Factor M
+ utL
+END:VEVENT
+BEGIN:VEVENT
 UID:6854@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190425T160000
 DTEND;TZID=America/Chicago:20190425T170000
@@ -2006,6 +2116,19 @@ LOCATION:South Building\, Room 3907\, Philip Needleman Library
 SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:7203@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190506T130000
+DTEND;TZID=America/Chicago:20190506T140000
+DESCRIPTION:Speakers:\nDr. Baron Chanda\, Professor of Neuroscience and Bio
+ molecular Chemistry\,\nSchool of Medicine and Public Health\nUniversity of
+  Wisconsin-Madison\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7203
+DTSTAMP:20190402T094500
+LOCATION:BJC-Institute of Health\, West Seminar Room (9th Floor)
+SUMMARY:Biophysical determinants of gating polarity in voltage-gated ion ch
+ annels
+END:VEVENT
+BEGIN:VEVENT
 UID:6827@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190506T161500
 DTEND;TZID=America/Chicago:20190506T171500
@@ -2025,6 +2148,18 @@ DESCRIPTION:Speakers:\nSurya Ganguli\, PhD\, Stanford University\n\nDescrip
 DTSTAMP:20180802T083800
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Emergent elasticity in the neural code for space
+END:VEVENT
+BEGIN:VEVENT
+UID:7201@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190508T160000
+DTEND;TZID=America/Chicago:20190508T173000
+DESCRIPTION:Speakers:\nShow-Ling Shyng\, Ph.D.\, Professor\nBiochemistry an
+ d Molecular Biology\nOregon Health & Science University\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7201
+DTSTAMP:20190402T094600
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:The Molecular Basis of Insulin Secretion and Diabetes Therapy:  KA
+ TP Channels Revealed by Cryo-EM
 END:VEVENT
 BEGIN:VEVENT
 UID:6944@events.dbbs.wustl
