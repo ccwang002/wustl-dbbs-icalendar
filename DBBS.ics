@@ -1411,6 +1411,18 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:Nudges to promote enrollment in critical care randomized trials.
 END:VEVENT
 BEGIN:VEVENT
+UID:7207@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190408T144500
+DTEND;TZID=America/Chicago:20190408T154500
+DESCRIPTION:Speakers:\nDr. Rachel J. Harding\, Structural Genomics Consorti
+ um (SGC)\, University of Toronto\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=7207
+DTSTAMP:20190403T094200
+LOCATION:Brauer Hall 012
+SUMMARY:An open toolkit of Huntington’s disease research resources for bi
+ ochemical investigation of full-length huntingtin
+END:VEVENT
+BEGIN:VEVENT
 UID:7148@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190408T161500
 DTEND;TZID=America/Chicago:20190408T171500
@@ -2308,9 +2320,9 @@ DTSTART;TZID=America/Chicago:20190520T161500
 DTEND;TZID=America/Chicago:20190520T171500
 DESCRIPTION:Speakers:\nDr. Akiko Iwasaki\, Yale University\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6828
-DTSTAMP:20181128T152900
+DTSTAMP:20190403T094300
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:Harnessing insights from antiviral immunity for better vaccines
 END:VEVENT
 BEGIN:VEVENT
 UID:6387@events.dbbs.wustl
