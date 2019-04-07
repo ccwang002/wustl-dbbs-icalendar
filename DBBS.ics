@@ -1823,9 +1823,10 @@ DTEND;TZID=America/Chicago:20190418T130000
 DESCRIPTION:Speakers:\nSally Horne-Badovinac\, PhD\, Associate Professor of
   Molecular Genetics and Cell Biology\, University of Chicago\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6942
-DTSTAMP:20190110T172600
+DTSTAMP:20190405T161200
 LOCATION:Erlanger Auditorium
-SUMMARY:TBA
+SUMMARY:Planar signaling mechanisms that coordinate cell movement for epith
+ elial migration
 END:VEVENT
 BEGIN:VEVENT
 UID:7068@events.dbbs.wustl
