@@ -1539,6 +1539,26 @@ SUMMARY:The degenerating star clock: Circadian clock regulation of astrogli
  osis and implications for Alzheimer’s disease.
 END:VEVENT
 BEGIN:VEVENT
+UID:7222@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190411T100000
+DTEND;TZID=America/Chicago:20190411T103000
+DESCRIPTION:Speakers:\nAswathi Kumar\, M.D.\, Washington University\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7222
+DTSTAMP:20190410T224100
+LOCATION:728 Southwest Tower
+SUMMARY:Renal Osteodystrophy
+END:VEVENT
+BEGIN:VEVENT
+UID:7223@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190411T103000
+DTEND;TZID=America/Chicago:20190411T113000
+DESCRIPTION:Speakers:\nMaamoun Salam\, MD\, Washington University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7223
+DTSTAMP:20190410T224100
+LOCATION:728 Southwest Tower
+SUMMARY:Review of Male Hypogonadism Management Aspects
+END:VEVENT
+BEGIN:VEVENT
 UID:6941@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190411T120000
 DTEND;TZID=America/Chicago:20190411T130000
@@ -1607,6 +1627,17 @@ DESCRIPTION:Speakers:\nPaola Rijos-Saitta\, MSW\, LCSW\, Institute for Publ
 DTSTAMP:20190402T094700
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Minding our Words: Communicating to Mitigate Negative Impact
+END:VEVENT
+BEGIN:VEVENT
+UID:7224@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190411T163000
+DTEND;TZID=America/Chicago:20190411T170000
+DESCRIPTION:Speakers:\nErica Schumacher\, Washington University\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7224
+DTSTAMP:20190410T223900
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Role of Behavioral Novelty in the Evolution of Extreme Encephalizat
+ ion and Brain Reorganization
 END:VEVENT
 BEGIN:VEVENT
 UID:7187@events.dbbs.wustl
@@ -1700,6 +1731,17 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:The same\, but different: New lessons about Batten disease
 END:VEVENT
 BEGIN:VEVENT
+UID:7232@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190415T120000
+DTEND;TZID=America/Chicago:20190415T130000
+DESCRIPTION:Speakers:\nMary Clare McGregor\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7232
+DTSTAMP:20190410T223500
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:Role of IL-13 in differentiation of bronchial epithelial cells from
+  subjects with asthma cultured at air-liquid interface
+END:VEVENT
+BEGIN:VEVENT
 UID:7159@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190415T161500
 DTEND;TZID=America/Chicago:20190415T161500
@@ -1745,6 +1787,17 @@ DTSTAMP:20190116T170500
 LOCATION:Danforth Campus\, Whitaker Hall\, Room 218
 SUMMARY:Human iPSC-based Engineered Micro-Tissues to Study Familial Cardiom
  yopathy
+END:VEVENT
+BEGIN:VEVENT
+UID:7231@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190416T103000
+DTEND;TZID=America/Chicago:20190416T113000
+DESCRIPTION:Speakers:\nDr. Stuart Campbell\, Yale University\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7231
+DTSTAMP:20190410T223600
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Tropomyosin Mutations in Hypertrophic Cardiomyopathy: From Molecula
+ r Properties to Contractile Abnormalities
 END:VEVENT
 BEGIN:VEVENT
 UID:7010@events.dbbs.wustl
@@ -1865,6 +1918,16 @@ SUMMARY:Cis-regulatory basis of sister cell type divergence in the vertebra
  te retina
 END:VEVENT
 BEGIN:VEVENT
+UID:7225@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190418T160000
+DTEND;TZID=America/Chicago:20190418T173000
+DESCRIPTION:Speakers:\nRod Barnet\, Sam Fox School of Design\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7225
+DTSTAMP:20190410T223900
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Biodiversity by Stealth
+END:VEVENT
+BEGIN:VEVENT
 UID:7181@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190419T091500
 DTEND;TZID=America/Chicago:20190419T101500
@@ -1890,6 +1953,18 @@ DESCRIPTION:Speakers:\nArlene Taich\, PhD\, Career Center\n\nDescription:\n
 DTSTAMP:20190125T151500
 LOCATION:DUC 248
 SUMMARY:Evaluating and Negotiating Job Offers
+END:VEVENT
+BEGIN:VEVENT
+UID:7229@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190419T120000
+DTEND;TZID=America/Chicago:20190419T130000
+DESCRIPTION:Speakers:\nMark J. Manary\, MD\, Helene B Roberson Professor of
+  Pediatrics\nDepartment of Pediatrics Emergency Medicine\nWashington Unive
+ rsity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7229
+DTSTAMP:20190410T223700
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Legumes as a Dietary Supplement in African Children
 END:VEVENT
 BEGIN:VEVENT
 UID:7138@events.dbbs.wustl
@@ -1941,6 +2016,31 @@ DTSTAMP:20190218T123100
 LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
 SUMMARY:Apoptotic and non-apoptotic functions of cell death pathways in ant
  i-microbial host defense
+END:VEVENT
+BEGIN:VEVENT
+UID:7213@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190423T120000
+DTEND;TZID=America/Chicago:20190423T130000
+DESCRIPTION:Speakers:\nErin Stampp\, MPP\, Diversity & Inclusion Leader\, O
+ ffice of Diversity\, Equity\, and Inclusion\, Washington University\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7213
+DTSTAMP:20190410T224600
+LOCATION:East Pavilion Auditorium
+SUMMARY:Knight ADRC at Washington University Advancing Inclusion: Disabilit
+ ies 1.0 – Part 2
+END:VEVENT
+BEGIN:VEVENT
+UID:7228@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190423T120000
+DTEND;TZID=America/Chicago:20190423T130000
+DESCRIPTION:Speakers:\nJennifer Stevens- Lapsley\, PT\, PhD\, Director\, Re
+ habilitation Science PhD Program\nPhysical Therapy Program\nUniversity of 
+ Colorado School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=7228
+DTSTAMP:20190410T223700
+LOCATION:4444 Forest Park Ave.\, Room 1235
+SUMMARY:From mechanisms to implementation\; optimizing rehabilitation to ma
+ ximize mobility in older adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:6655@events.dbbs.wustl
@@ -2026,6 +2126,39 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:Immunotherapy for Heart Failure and Other Stories
 END:VEVENT
 BEGIN:VEVENT
+UID:7226@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190425T160000
+DTEND;TZID=America/Chicago:20190425T173000
+DESCRIPTION:Speakers:\nNicole Leitner\, Washington University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7226
+DTSTAMP:20190410T223800
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Plasticity and Constraint in Task Allocation:  How and Why do Ants
+  Choose Tasks
+END:VEVENT
+BEGIN:VEVENT
+UID:7230@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190426T120000
+DTEND;TZID=America/Chicago:20190426T130000
+DESCRIPTION:Speakers:\nAnna Huttenlocher\, University of Wisconsin\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7230
+DTSTAMP:20190410T223600
+LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
+SUMMARY:Being a physician scientist: going forward in reverse
+END:VEVENT
+BEGIN:VEVENT
+UID:7227@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190426T150000
+DTEND;TZID=America/Chicago:20190426T170000
+DESCRIPTION:Speakers:\nMr. Joshua Rackers\, Computational and Molecular Bio
+ physics Program\; Lab of Dr. Jay Ponder\, Department of Chemistry\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7227
+DTSTAMP:20190410T223800
+LOCATION:Louderman 458
+SUMMARY:A Physics-Based Intermolecular Potential for Biomolecular Simulatio
+ n
+END:VEVENT
+BEGIN:VEVENT
 UID:7139@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190429T120000
 DTEND;TZID=America/Chicago:20190429T130000
@@ -2108,6 +2241,17 @@ DESCRIPTION:Speakers:\nDr. Joern Coers\, Duke University\n\nLink: http://db
 DTSTAMP:20190218T123100
 LOCATION:McDonnell Sciences Building\, Erlanger Auditorium
 SUMMARY:Interferon-inducible GTPases in host defense and inflammation
+END:VEVENT
+BEGIN:VEVENT
+UID:7214@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190430T120000
+DTEND;TZID=America/Chicago:20190430T130000
+DESCRIPTION:Speakers:\nCyrus Raji\, MD\, PhD\, Assistant Professor of Radio
+ logy\, Washington University\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=7214
+DTSTAMP:20190410T224500
+LOCATION:East Pavilion Auditorium
+SUMMARY:Preventive Neuroradiology in Brain Aging and Cognitive Decline
 END:VEVENT
 BEGIN:VEVENT
 UID:6656@events.dbbs.wustl
@@ -2289,6 +2433,30 @@ SUMMARY:Dissecting the Mechanism of Familial Cardiomyopathies from the Grou
  nd Up
 END:VEVENT
 BEGIN:VEVENT
+UID:7215@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190514T120000
+DTEND;TZID=America/Chicago:20190514T130000
+DESCRIPTION:Speakers:\nBeau Ances\, MD\, PhD\, Brennan Professor of Neurolo
+ gy\, Washington University\nSusan Stark\, PhD\, OTR/L\, FAOTA\, Associate 
+ Professor of Occupational Therapy and Neurology\, Washington University\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7215
+DTSTAMP:20190410T224500
+LOCATION:East Pavilion Auditorium
+SUMMARY:Falls:  A Marker of Preclinical Alzheimer Disease
+END:VEVENT
+BEGIN:VEVENT
+UID:7233@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190515T090000
+DTEND;TZID=America/Chicago:20190515T110000
+DESCRIPTION:Speakers:\nMr. Nathan Kopp\, Human & Statistical Genetics Progr
+ am - Lab of Joseph Dougherty\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=7233
+DTSTAMP:20190410T223500
+LOCATION:Connor Auditorium
+SUMMARY:Determining the genetic contributions of the Williams syndrome crit
+ ical region to behavior using mouse models and human genetics
+END:VEVENT
+BEGIN:VEVENT
 UID:6408@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190515T120000
 DTEND;TZID=America/Chicago:20190515T130000
@@ -2376,6 +2544,18 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Harnessing insights from antiviral immunity for better vaccines
 END:VEVENT
 BEGIN:VEVENT
+UID:7216@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190521T120000
+DTEND;TZID=America/Chicago:20190521T130000
+DESCRIPTION:Speakers:\nRobyn Klein\, MD\, PhD\, Professor of Medicine\, Int
+ ernal Medicine - Infectious Diseases\, Washington University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7216
+DTSTAMP:20190410T224500
+LOCATION:East Pavilion Auditorium
+SUMMARY:Infectious Origins of Neurodegenerative Diseases: What are the Data
+ ?
+END:VEVENT
+BEGIN:VEVENT
 UID:6387@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190522T120000
 DTEND;TZID=America/Chicago:20190522T130000
@@ -2421,6 +2601,18 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7217@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190528T120000
+DTEND;TZID=America/Chicago:20190528T130000
+DESCRIPTION:Speakers:\nJason Ulrich\, PhD\, TREM2 ImpedeDEas Tau Seeding in
+  Neuritic Amyloid Beta Plaques\nJason Ulrich\, PhD\, Assistant Professor o
+ f Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=7217
+DTSTAMP:20190410T224400
+LOCATION:East Pavilion Auditorium
+SUMMARY:TREM2 Impedes Tau Seeding in Neuritic Amyloid Beta Plaques
+END:VEVENT
+BEGIN:VEVENT
 UID:6857@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190530T160000
 DTEND;TZID=America/Chicago:20190530T170000
@@ -2431,6 +2623,17 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:Immune Activation in Hypertension
 END:VEVENT
 BEGIN:VEVENT
+UID:7218@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190604T120000
+DTEND;TZID=America/Chicago:20190604T130000
+DESCRIPTION:Speakers:\nJohn C. Morris\, MD\, Friedman Distinguished Profess
+ or of Neurology and Director\, Knight ADRC\, Washington University\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7218
+DTSTAMP:20190410T224400
+LOCATION:Connor Auditorium
+SUMMARY:Annual State of the Knight ADRC Lecture
+END:VEVENT
+BEGIN:VEVENT
 UID:6858@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190606T160000
 DTEND;TZID=America/Chicago:20190606T170000
@@ -2439,6 +2642,39 @@ DESCRIPTION:Speakers:\nClinton S. Robbins\, PhD\, Toronto General Hospital
  _event.aspx?EvID=6858
 DTSTAMP:20181217T171800
 LOCATION:801 CSRB North Tower Addition
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7219@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190611T120000
+DTEND;TZID=America/Chicago:20190611T130000
+DESCRIPTION:Speakers:\nAndrea Soranno\, PhD\, Assistant Professor of Bioche
+ mistry and Molecular Biophysics\, Washington University\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7219
+DTSTAMP:20190410T223700
+LOCATION:East Pavilion Auditorium
+SUMMARY:Single-molecule Conformational Analysis of Apolipoprotein E
+END:VEVENT
+BEGIN:VEVENT
+UID:7220@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190618T120000
+DTEND;TZID=America/Chicago:20190618T130000
+DESCRIPTION:Speakers:\nJohn Cirrito\, PhD\, Associate Professor of Neurolog
+ y\, Washington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7220
+DTSTAMP:20190410T224300
+LOCATION:East Pavilion Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7221@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190625T120000
+DTEND;TZID=America/Chicago:20190625T130000
+DESCRIPTION:Speakers:\nEllen Binder\, MD\, Professor of Medicine\, Internal
+  Medicine – Geriatrics\, Washington University\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=7221
+DTSTAMP:20190410T224100
+LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
