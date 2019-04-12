@@ -1928,6 +1928,18 @@ LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Biodiversity by Stealth
 END:VEVENT
 BEGIN:VEVENT
+UID:7234@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190419T090000
+DTEND;TZID=America/Chicago:20190419T100000
+DESCRIPTION:Speakers:\nErica L. Scheller\, DDS\, PhD\, Department of Medici
+ ne\, Division of Bone and Mineral Diseases\nWashington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7234
+DTSTAMP:20190411T172600
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Improving our understanding of nerves in bone: historic lessons and
+  new approaches
+END:VEVENT
+BEGIN:VEVENT
 UID:7181@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190419T091500
 DTEND;TZID=America/Chicago:20190419T101500
