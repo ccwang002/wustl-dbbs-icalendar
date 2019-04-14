@@ -1885,13 +1885,13 @@ BEGIN:VEVENT
 UID:7068@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190418T120000
 DTEND;TZID=America/Chicago:20190418T125000
-DESCRIPTION:Speakers:\nRachel Edwards\, Washington University School of Med
- icine\nOdom John Lab\nNathan Rockwell\, Washington University School of Me
- dicine\nRubin Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
- event.aspx?EvID=7068
-DTSTAMP:20190212T090300
+DESCRIPTION:Speakers:\nWei Tong\, PhD\, Associate Professor of Pediatrics\n
+ Perelman School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=7068
+DTSTAMP:20190412T175000
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Cytokine Signaling in Normal and Malignant Hematopoietic Stem/Proge
+ nitor Cells
 END:VEVENT
 BEGIN:VEVENT
 UID:6853@events.dbbs.wustl
@@ -1977,6 +1977,18 @@ DESCRIPTION:Speakers:\nMark J. Manary\, MD\, Helene B Roberson Professor of
 DTSTAMP:20190410T223700
 LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
 SUMMARY:Legumes as a Dietary Supplement in African Children
+END:VEVENT
+BEGIN:VEVENT
+UID:7235@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190419T133000
+DTEND;TZID=America/Chicago:20190419T153000
+DESCRIPTION:Speakers:\nMs. Julia Alexandra Wagner\, MSTP- Immunology Progra
+ m- Lab of Dr. Todd Fehniger\, Department of Internal Medicine\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7235
+DTSTAMP:20190412T174400
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Mechanisms of Natural Killer Cell Anti-Tumor Function and Homeostas
+ is
 END:VEVENT
 BEGIN:VEVENT
 UID:7138@events.dbbs.wustl
@@ -2105,10 +2117,11 @@ BEGIN:VEVENT
 UID:7069@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190425T120000
 DTEND;TZID=America/Chicago:20190425T125000
-DESCRIPTION:Speakers:\nAna Maria Arbelaez\, Washington University School of
-  Medicine\nEndocrinology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
- lendar_event.aspx?EvID=7069
-DTSTAMP:20190212T090300
+DESCRIPTION:Speakers:\nRachel Edwards\, Washington University School of Med
+ icine\nOdom Jon Lab\nNathan Rockwell\, Washington University School of Med
+ icine\nRubin Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=7069
+DTSTAMP:20190412T174800
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -2395,10 +2408,10 @@ BEGIN:VEVENT
 UID:7071@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190509T120000
 DTEND;TZID=America/Chicago:20190509T125000
-DESCRIPTION:Speakers:\nMary Dinauer\, Washington University School of Medic
- ine\nPeds Hematology/Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pag
- es/calendar_event.aspx?EvID=7071
-DTSTAMP:20190212T090400
+DESCRIPTION:Speakers:\nVikas Dharnidharka\, Washington University School of
+  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7071
+DTSTAMP:20190412T175300
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -2594,10 +2607,10 @@ BEGIN:VEVENT
 UID:7073@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190523T120000
 DTEND;TZID=America/Chicago:20190523T125000
-DESCRIPTION:Speakers:\nVikas Dharnidharka\, Washington University School of
-  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7073
-DTSTAMP:20190212T090400
+DESCRIPTION:Speakers:\nMary Dinauer\, Washington University School of Medic
+ ine\nPeds Hematology/Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pag
+ es/calendar_event.aspx?EvID=7073
+DTSTAMP:20190412T175300
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
