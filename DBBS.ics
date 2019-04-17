@@ -2067,6 +2067,18 @@ SUMMARY:From mechanisms to implementation\; optimizing rehabilitation to ma
  ximize mobility in older adults.
 END:VEVENT
 BEGIN:VEVENT
+UID:7239@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190423T133000
+DTEND;TZID=America/Chicago:20190423T153000
+DESCRIPTION:Speakers:\nMs. Manishi Pandey\, Computational and Systems Biolo
+ gy program - labs of Gary Stormo and Susan Dutcher\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7239
+DTSTAMP:20190416T104500
+LOCATION:Holden Auditorium
+SUMMARY:Systematic Investigation of Alternative Splicing and Conserved Spli
+ ceosome Factors in Chlamydomonas reinhardtii
+END:VEVENT
+BEGIN:VEVENT
 UID:6655@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190423T150000
 DTEND;TZID=America/Chicago:20190423T160000
@@ -2184,6 +2196,18 @@ DESCRIPTION:Speakers:\nGilaad Kaplan\, MD\, MPH\, FRCPC\, Associate Profess
 DTSTAMP:20190415T134900
 LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
 SUMMARY:How Environmental Risk Factors Influence the Epidemiology of IBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7238@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190426T133000
+DTEND;TZID=America/Chicago:20190426T153000
+DESCRIPTION:Speakers:\nMr. Kow Essuman\, MSTP- Molecular Genetics and Genom
+ ics Program- Lab of Dr. Jeffrey Milbrandt\, Department of Genetics\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7238
+DTSTAMP:20190416T104400
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:The Enzymatic Function of the TIR domain: From Axon Degeneration to
+  Innate Immunity
 END:VEVENT
 BEGIN:VEVENT
 UID:7227@events.dbbs.wustl
@@ -2394,6 +2418,19 @@ DESCRIPTION:Speakers:\nDr. Anjana Rao\, LaJolla Institute\n\nLink: http://d
 DTSTAMP:20190314T142300
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TET Methylcytosine oxidases in immune responses and cancer
+END:VEVENT
+BEGIN:VEVENT
+UID:7240@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190507T120000
+DTEND;TZID=America/Chicago:20190507T130000
+DESCRIPTION:Speakers:\nCarolina B. López\, Ph.D.\, Associate Professor of 
+ Microbiology and Immunology\, School of Veterinary Medicine\, University o
+ f Pennsylvania\n\nDescription:\nSpecial BJC Investigator Program Candidate
+  Seminar - Hosted by Drs. David\nPiston and Shabaana Khader\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7240
+DTSTAMP:20190416T152400
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:"Defective viral genomes: shapers of the virus-host interaction"
 END:VEVENT
 BEGIN:VEVENT
 UID:6398@events.dbbs.wustl
