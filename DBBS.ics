@@ -2010,6 +2010,16 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
+UID:7242@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190422T120000
+DTEND;TZID=America/Chicago:20190422T130000
+DESCRIPTION:Speakers:\nDr. Liang Shan\, Washington University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7242
+DTSTAMP:20190417T132200
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Model human immune system in mice.”
+END:VEVENT
+BEGIN:VEVENT
 UID:6825@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190422T161500
 DTEND;TZID=America/Chicago:20190422T171500
@@ -2079,17 +2089,6 @@ SUMMARY:Systematic Investigation of Alternative Splicing and Conserved Spli
  ceosome Factors in Chlamydomonas reinhardtii
 END:VEVENT
 BEGIN:VEVENT
-UID:6655@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190423T150000
-DTEND;TZID=America/Chicago:20190423T160000
-DESCRIPTION:Speakers:\nAmanda Lund\, Ph.D.\, Oregon Health & Sciences Unive
- rsity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=6655
-DTSTAMP:20180920T110500
-LOCATION:426 McDonnell Science (Cell Biology Library)
-SUMMARY:TBD
-END:VEVENT
-BEGIN:VEVENT
 UID:6368@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190424T120000
 DTEND;TZID=America/Chicago:20190424T130000
@@ -2121,9 +2120,9 @@ DTEND;TZID=America/Chicago:20190425T130000
 DESCRIPTION:Speakers:\nBill Bialek\, PhD\, John Archibald Wheeler/Battelle 
  Professor in Physics\, Princeton University\n\nLink: http://dbbs.wustl.edu
  /Resources/Pages/calendar_event.aspx?EvID=6943
-DTSTAMP:20190110T172600
+DTSTAMP:20190417T162800
 LOCATION:Erlanger Auditorium
-SUMMARY:TBA
+SUMMARY:Physics of information flow in a genetic network
 END:VEVENT
 BEGIN:VEVENT
 UID:7069@events.dbbs.wustl
@@ -2238,6 +2237,18 @@ DESCRIPTION:Speakers:\nAlbert Kim\, MD\, PhD\, WashU Neurosurgery\n\nDescri
 DTSTAMP:20190314T103700
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:7241@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190429T150000
+DTEND;TZID=America/Chicago:20190429T170000
+DESCRIPTION:Speakers:\nMs. Sarah Elizabeth Smith\, MSTP- Neurosciences Prog
+ ram- Lab of Dr. Azad Bonni\, Department of Neuroscience\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7241
+DTSTAMP:20190417T132200
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Characterizing a Novel Metabolic Pathogenic Mechanism in Familial H
+ emiplegic Migraine
 END:VEVENT
 BEGIN:VEVENT
 UID:6826@events.dbbs.wustl
@@ -2661,9 +2672,9 @@ DTEND;TZID=America/Chicago:20190523T130000
 DESCRIPTION:Speakers:\nEimear Kenny\, PhD\, Assistant Professor of Genetics
   and Genome Science\, Icahn School of Medicine at Mount Sinai\n\nLink: htt
  p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6946
-DTSTAMP:20190110T172700
+DTSTAMP:20190417T162800
 LOCATION:Erlanger Auditorium
-SUMMARY:TBA
+SUMMARY:Human history and health through the lens of genetics
 END:VEVENT
 BEGIN:VEVENT
 UID:7073@events.dbbs.wustl
