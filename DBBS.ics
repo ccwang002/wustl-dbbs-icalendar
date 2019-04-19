@@ -2114,6 +2114,27 @@ SUMMARY:Spatial and Functional Characterization of Microbial Residents in t
  he Human Placenta
 END:VEVENT
 BEGIN:VEVENT
+UID:7245@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190425T100000
+DTEND;TZID=America/Chicago:20190425T103000
+DESCRIPTION:Speakers:\nHenry Zelada\, MD\, Washington University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7245
+DTSTAMP:20190418T134700
+LOCATION:728 Southwest Tower
+SUMMARY:Abdominal pain\, nausea and vomiting in a T1D patient: Not your typ
+ ical DKA case
+END:VEVENT
+BEGIN:VEVENT
+UID:7246@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190425T103000
+DTEND;TZID=America/Chicago:20190425T113000
+DESCRIPTION:Speakers:\nDmitri Samovski\, PhD\, Washington University\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7246
+DTSTAMP:20190418T134700
+LOCATION:728 Southwest Tower
+SUMMARY:Fatty Acid Sensitive Regulation of Energy Metabolism
+END:VEVENT
+BEGIN:VEVENT
 UID:6943@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190425T120000
 DTEND;TZID=America/Chicago:20190425T130000
@@ -2129,12 +2150,12 @@ UID:7069@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190425T120000
 DTEND;TZID=America/Chicago:20190425T125000
 DESCRIPTION:Speakers:\nRachel Edwards\, Washington University School of Med
- icine\nOdom Jon Lab\nNathan Rockwell\, Washington University School of Med
- icine\nRubin Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
- vent.aspx?EvID=7069
-DTSTAMP:20190412T174800
+ icine\nOdom John Lab\nNathan Rockwell\, Washington University School of Me
+ dicine\nRubin Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=7069
+DTSTAMP:20190418T104200
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Targeting metabolism to treat malaria
 END:VEVENT
 BEGIN:VEVENT
 UID:7202@events.dbbs.wustl
@@ -2171,6 +2192,17 @@ DTSTAMP:20190410T223800
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Plasticity and Constraint in Task Allocation:  How and Why do Ants
   Choose Tasks
+END:VEVENT
+BEGIN:VEVENT
+UID:7243@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190426T090000
+DTEND;TZID=America/Chicago:20190426T100000
+DESCRIPTION:Speakers:\nGabriel Mbalaviele\, PhD\, Division of Bone and Mine
+ ral Diseases\, Department of Medicine\n\nLink: http://dbbs.wustl.edu/Resou
+ rces/Pages/calendar_event.aspx?EvID=7243
+DTSTAMP:20190418T103800
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Omnipresence of inflammasome activities in bone diseases
 END:VEVENT
 BEGIN:VEVENT
 UID:7230@events.dbbs.wustl
@@ -2359,6 +2391,21 @@ DESCRIPTION:Speakers:\nKory Lavine\, Washington University School of Medici
 DTSTAMP:20190212T090300
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7244@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190502T120000
+DTEND;TZID=America/Chicago:20190502T130000
+DESCRIPTION:Speakers:\nDr. Christina Gurnett\, M.D.\, Ph.D.\, Washington Un
+ iversity\, Department of Neurology\nInstitute of Clinical and Translationa
+ l Sciences\nDivision of Pediatric and Developmental Neurology\nSt. Louis C
+ hildren's Hospital\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7244
+DTSTAMP:20190418T134800
+LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)\, 2nd floor\, R
+ oom 222
+SUMMARY:“High-throughput functional testing of human disease gene variant
+ s.”
 END:VEVENT
 BEGIN:VEVENT
 UID:7237@events.dbbs.wustl
