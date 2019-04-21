@@ -2005,9 +2005,10 @@ DESCRIPTION:Speakers:\nAaron DiAntonio\, MD\, PhD\, WashU Developmental Bio
  f Neurology. Hope Center Monday Noon\nSeminars For inquiries contact Cindy
   Lawrence.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.a
  spx?EvID=7138
-DTSTAMP:20190314T103800
+DTSTAMP:20190419T153300
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:"TBA"
+SUMMARY:Axon Degeneration: Mechanistic Insights Yield New Therapeutic Strat
+ egies for Neurodegenerative
 END:VEVENT
 BEGIN:VEVENT
 UID:7242@events.dbbs.wustl
@@ -2075,6 +2076,18 @@ DTSTAMP:20190410T223700
 LOCATION:4444 Forest Park Ave.\, Room 1235
 SUMMARY:From mechanisms to implementation\; optimizing rehabilitation to ma
  ximize mobility in older adults.
+END:VEVENT
+BEGIN:VEVENT
+UID:7249@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190423T120000
+DTEND;TZID=America/Chicago:20190423T130000
+DESCRIPTION:Speakers:\nTrevor Pugh\, PhD\, Assistant Professor\, Department
+  of Medical Biophysics\nUniversity of Toronto\nSenior Scientist and Lead o
+ f the Clinical Genomics Program\nPrincess Margaret Cancer Centre\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7249
+DTSTAMP:20190419T083900
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Precision Medicine at Single Cell Resolution
 END:VEVENT
 BEGIN:VEVENT
 UID:7239@events.dbbs.wustl
@@ -2271,6 +2284,18 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
+UID:7247@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190429T140000
+DTEND;TZID=America/Chicago:20190429T160000
+DESCRIPTION:Speakers:\nMr. Donghoon Lee\, Neurosciences Program - Lab of Dr
+ . Tim Holy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.a
+ spx?EvID=7247
+DTSTAMP:20190419T084000
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:A molecular logic of sensory coding revealed by optical tagging of 
+ physiologically-defined neuronal types.
+END:VEVENT
+BEGIN:VEVENT
 UID:7241@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190429T150000
 DTEND;TZID=America/Chicago:20190429T170000
@@ -2382,6 +2407,18 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:The Opioid Tsunami: Neurobiological Mechanisms Guide New Treatments
 END:VEVENT
 BEGIN:VEVENT
+UID:7248@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190501T140000
+DTEND;TZID=America/Chicago:20190501T160000
+DESCRIPTION:Speakers:\nMr. Ross McKinney\, Neurosciences Program - Lab of D
+ r. Yehuda Ben-Shahar\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7248
+DTSTAMP:20190419T084000
+LOCATION:Rebstock Hall 322
+SUMMARY:Visual and Chemosensory Pathways Associated With Male Courtship Dec
+ isions in Drosophila melanogaster
+END:VEVENT
+BEGIN:VEVENT
 UID:7070@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190502T120000
 DTEND;TZID=America/Chicago:20190502T125000
@@ -2479,14 +2516,14 @@ SUMMARY:TET Methylcytosine oxidases in immune responses and cancer
 END:VEVENT
 BEGIN:VEVENT
 UID:7240@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190507T120000
-DTEND;TZID=America/Chicago:20190507T130000
+DTSTART;TZID=America/Chicago:20190507T130000
+DTEND;TZID=America/Chicago:20190507T140000
 DESCRIPTION:Speakers:\nCarolina B. López\, Ph.D.\, Associate Professor of 
  Microbiology and Immunology\, School of Veterinary Medicine\, University o
  f Pennsylvania\n\nDescription:\nSpecial BJC Investigator Program Candidate
   Seminar - Hosted by Drs. David\nPiston and Shabaana Khader\n\nLink: http:
  //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7240
-DTSTAMP:20190416T152400
+DTSTAMP:20190419T091600
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:"Defective viral genomes: shapers of the virus-host interaction"
 END:VEVENT
