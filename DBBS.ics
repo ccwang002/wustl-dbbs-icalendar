@@ -2407,6 +2407,17 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:The Opioid Tsunami: Neurobiological Mechanisms Guide New Treatments
 END:VEVENT
 BEGIN:VEVENT
+UID:7253@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190501T130000
+DTEND;TZID=America/Chicago:20190501T130000
+DESCRIPTION:Speakers:\nMr. Trent Evans\, Molecular Cell Biology Program\nLa
+ boratory of Dr. Babak Razani\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=7253
+DTSTAMP:20190423T124300
+LOCATION:Moore Auditorium
+SUMMARY:The Autophagy-Lysosome System in Cardiometabolic Disease
+END:VEVENT
+BEGIN:VEVENT
 UID:7248@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190501T140000
 DTEND;TZID=America/Chicago:20190501T160000
@@ -2467,6 +2478,19 @@ DESCRIPTION:Speakers:\nHopi Hoekstra\, PhD\, Howard Hughes Medical Institut
 DTSTAMP:20190213T170400
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:From Mice to Molecules: The genetics of evolutionary change
+END:VEVENT
+BEGIN:VEVENT
+UID:7252@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190502T160000
+DTEND;TZID=America/Chicago:20190502T170000
+DESCRIPTION:Speakers:\nNathaniel Huebsch\, PhD\, Assistant Professor\, Biom
+ edical Engineering\nWashington University\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7252
+DTSTAMP:20190423T124400
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 801
+SUMMARY:"Studying the Synergy between Mechanical Loading and Genetics in Fa
+ milial Cardiomyopathy with iPSC-Based Engineered Heart Tissues"
 END:VEVENT
 BEGIN:VEVENT
 UID:7250@events.dbbs.wustl
@@ -2562,6 +2586,18 @@ DTSTAMP:20190402T094600
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:The Molecular Basis of Insulin Secretion and Diabetes Therapy:  KA
  TP Channels Revealed by Cryo-EM
+END:VEVENT
+BEGIN:VEVENT
+UID:7251@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190509T080000
+DTEND;TZID=America/Chicago:20190509T090000
+DESCRIPTION:Speakers:\nCarmen A. Peralta MD\, MAS\, Chief Medical Officer\,
+  Cricket Health\nAdjunct Professor\, Medicine\nUniversity of California\, 
+ San Francisco of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7251
+DTSTAMP:20190423T124500
+LOCATION:Lower Level - Wohl Clinic
+SUMMARY:"Academia and Entrepreneurship:  An Imperative Collaboration”
 END:VEVENT
 BEGIN:VEVENT
 UID:6944@events.dbbs.wustl
