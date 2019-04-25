@@ -2171,19 +2171,6 @@ LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:Targeting metabolism to treat malaria
 END:VEVENT
 BEGIN:VEVENT
-UID:7202@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190425T140000
-DTEND;TZID=America/Chicago:20190425T160000
-DESCRIPTION:Speakers:\nMr. Yerdos Ordabayev\, Program in Computational and 
- Molecular Biophysics\; Lab of Dr. Tim Lohman\, Department of Biochemistry 
- and Molecular Biophysics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
- lendar_event.aspx?EvID=7202
-DTSTAMP:20190402T094600
-LOCATION:Erlanger Auditorium
-SUMMARY:Mechanism of Activation of UvrD Helicase by a Processivity Factor M
- utL
-END:VEVENT
-BEGIN:VEVENT
 UID:6854@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190425T160000
 DTEND;TZID=America/Chicago:20190425T170000
@@ -2279,9 +2266,9 @@ DESCRIPTION:Speakers:\nAlbert Kim\, MD\, PhD\, WashU Neurosurgery\n\nDescri
  ers \, Department of\nDevelopmental Biology and Department of Neurology. H
  ope Center Monday Noon\nSeminars For inquiries contact Cindy Lawrence.\n\n
  Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7139
-DTSTAMP:20190314T103700
+DTSTAMP:20190424T113700
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:"TBA"
+SUMMARY:Maintenance and modeling of glioblastoma stem-like cells
 END:VEVENT
 BEGIN:VEVENT
 UID:7247@events.dbbs.wustl
@@ -2518,6 +2505,20 @@ LOCATION:Rebstock Hall 322
 SUMMARY:Regulation of AUXIN RESPONSE FACTOR Activity
 END:VEVENT
 BEGIN:VEVENT
+UID:7254@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190503T130000
+DTEND;TZID=America/Chicago:20190503T180000
+DESCRIPTION:Speakers:\nDrs. Joel Geerling\, Mark Knuepfer\, Karen O'Malley\
+ , Clifford Saper & Ruth Stornetta\, Iowa Neuroscience Institute (Geerling)
+ \nSaint Louis University (Knuepfer)\nWashington University (O'Malley)\nHar
+ vard Medical School (Saper)\nUniversity of Virginia (Stornetta)\n\nDescrip
+ tion:\nSeminar Room B\, reception @ 5pm on EPNEC Mezzanine\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7254
+DTSTAMP:20190424T135500
+LOCATION:Eric P. Newman Education Center
+SUMMARY:Loewy Symposium
+END:VEVENT
+BEGIN:VEVENT
 UID:6642@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190506T120000
 DTEND;TZID=America/Chicago:20190506T130000
@@ -2527,6 +2528,19 @@ DESCRIPTION:Speakers:\nJennifer A. Zallen\, Ph.D.\, Sloan Kettering Institu
 DTSTAMP:20180919T150700
 LOCATION:South Building\, Room 3907\, Philip Needleman Library
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7202@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190506T130000
+DTEND;TZID=America/Chicago:20190506T140000
+DESCRIPTION:Speakers:\nMr. Yerdos Ordabayev\, Program in Computational and 
+ Molecular Biophysics\; Lab of Dr. Tim Lohman\, Department of Biochemistry 
+ and Molecular Biophysics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
+ lendar_event.aspx?EvID=7202
+DTSTAMP:20190424T095900
+LOCATION:Erlanger Auditorium
+SUMMARY:Mechanism of Activation of UvrD Helicase by a Processivity Factor M
+ utL
 END:VEVENT
 BEGIN:VEVENT
 UID:7203@events.dbbs.wustl
@@ -2550,6 +2564,18 @@ DESCRIPTION:Speakers:\nDr. Anjana Rao\, LaJolla Institute\n\nLink: http://d
 DTSTAMP:20190314T142300
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TET Methylcytosine oxidases in immune responses and cancer
+END:VEVENT
+BEGIN:VEVENT
+UID:7255@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190507T120000
+DTEND;TZID=America/Chicago:20190507T124000
+DESCRIPTION:Speakers:\nShamim Mollah\, Bioinformatics and Systems Biology\n
+ University of California\, San Diego\n\nLink: http://dbbs.wustl.edu/Resour
+ ces/Pages/calendar_event.aspx?EvID=7255
+DTSTAMP:20190424T135400
+LOCATION:4515 McKinley Research Building\, Room 6001b
+SUMMARY:Determining Therapeutic Efficacy in Breast Cancer Using Network-Bas
+ ed Global Chromatin Profile Fingerprinting
 END:VEVENT
 BEGIN:VEVENT
 UID:7240@events.dbbs.wustl
