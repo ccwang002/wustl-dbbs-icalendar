@@ -2271,6 +2271,16 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Maintenance and modeling of glioblastoma stem-like cells
 END:VEVENT
 BEGIN:VEVENT
+UID:7260@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190429T120000
+DTEND;TZID=America/Chicago:20190429T130000
+DESCRIPTION:Speakers:\nDr. Barry Stripp\, Cedars-Sinai Medical Center\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7260
+DTSTAMP:20190425T123500
+LOCATION:EPNEC Great Room B
+SUMMARY:“Epithelial progenitor cell dysfunction in chronic lung disease”
+END:VEVENT
+BEGIN:VEVENT
 UID:7247@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190429T140000
 DTEND;TZID=America/Chicago:20190429T160000
@@ -2378,9 +2388,10 @@ DTEND;TZID=America/Chicago:20190430T160000
 DESCRIPTION:Speakers:\nManoj Puthenveedu\, Ph.D.\, University of Michigan\n
  \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=665
  6
-DTSTAMP:20180920T110500
+DTSTAMP:20190425T164300
 LOCATION:426 McDonnell Science (Cell Biology Library)
-SUMMARY:TBD
+SUMMARY:Spatial Encoding of Opioid Receptor Function by Membrane Traffickin
+ g
 END:VEVENT
 BEGIN:VEVENT
 UID:6369@events.dbbs.wustl
@@ -2478,6 +2489,18 @@ LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room
  801
 SUMMARY:"Studying the Synergy between Mechanical Loading and Genetics in Fa
  milial Cardiomyopathy with iPSC-Based Engineered Heart Tissues"
+END:VEVENT
+BEGIN:VEVENT
+UID:7256@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190503T090000
+DTEND;TZID=America/Chicago:20190503T100000
+DESCRIPTION:Speakers:\nChristian Weber\, Department of Biomedical Engineeri
+ ng\, Tang Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
+ t.aspx?EvID=7256
+DTSTAMP:20190425T123600
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Factors Predicting Low Back Pain Symptoms in Prolonged Standing: An
+  Observational Cohort Study
 END:VEVENT
 BEGIN:VEVENT
 UID:7250@events.dbbs.wustl
@@ -2648,6 +2671,18 @@ LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7257@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190509T133000
+DTEND;TZID=America/Chicago:20190509T150000
+DESCRIPTION:Speakers:\nWUSTL IT Team\, Washington University IT\n\nDescript
+ ion:\nRegister to Attend:\nhttps://wustl.az1.qualtrics.com/jfe/form/SV_02g
+ KIwXM0USvXmt\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7257
+DTSTAMP:20190425T123600
+LOCATION:Wohl Auditorium\, Wohl Hospital
+SUMMARY:Research Data Storage\, Data Curation\, & Compute Seminars
+END:VEVENT
+BEGIN:VEVENT
 UID:6855@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190509T160000
 DTEND;TZID=America/Chicago:20190509T170000
@@ -2678,6 +2713,18 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
+UID:7258@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190514T100000
+DTEND;TZID=America/Chicago:20190514T120000
+DESCRIPTION:Speakers:\nMath Works Engineer\, Math Works\n\nDescription:\nMa
+ rk DBBS/CPD Register here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM
+ &q\;=civicrm/event/info&reset\;=1&id\;=96\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7258
+DTSTAMP:20190425T123500
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Demystifying Deep Learning: A Practical Approach in MATLAB
+END:VEVENT
+BEGIN:VEVENT
 UID:7033@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190514T103000
 DTEND;TZID=America/Chicago:20190514T113000
@@ -2700,6 +2747,18 @@ DESCRIPTION:Speakers:\nBeau Ances\, MD\, PhD\, Brennan Professor of Neurolo
 DTSTAMP:20190410T224500
 LOCATION:East Pavilion Auditorium
 SUMMARY:Falls:  A Marker of Preclinical Alzheimer Disease
+END:VEVENT
+BEGIN:VEVENT
+UID:7259@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190514T130000
+DTEND;TZID=America/Chicago:20190514T150000
+DESCRIPTION:Speakers:\nWUSTL MATLAB\, Washington University\n\nDescription:
+ \nMark DBBS/CPD Register Here:\nhttps://becker.wustl.edu/civicrm/?page=Civ
+ iCRM&q\;=civicrm/event/info&reset\;=1&id\;=95\n\nLink: http://dbbs.wustl.e
+ du/Resources/Pages/calendar_event.aspx?EvID=7259
+DTSTAMP:20190425T123500
+LOCATION:McDonnell Building\, Room 100
+SUMMARY:Parallel and GPU computing with MATLAB
 END:VEVENT
 BEGIN:VEVENT
 UID:7233@events.dbbs.wustl
