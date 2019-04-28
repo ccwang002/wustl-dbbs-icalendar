@@ -2428,6 +2428,27 @@ SUMMARY:Visual and Chemosensory Pathways Associated With Male Courtship Dec
  isions in Drosophila melanogaster
 END:VEVENT
 BEGIN:VEVENT
+UID:7261@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190502T100000
+DTEND;TZID=America/Chicago:20190502T103000
+DESCRIPTION:Speakers:\nAkashni Bhasin\, MD\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7261
+DTSTAMP:20190426T093000
+LOCATION:728 Southwest Tower
+SUMMARY:Primary Ovarian Insufficiency in Adolescents
+END:VEVENT
+BEGIN:VEVENT
+UID:7262@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190502T103000
+DTEND;TZID=America/Chicago:20190502T113000
+DESCRIPTION:Speakers:\nMaria Remedi\, PhD\, Washington University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7262
+DTSTAMP:20190426T093000
+LOCATION:728 Southwest Tower
+SUMMARY:Loss of β-cell Mass in Diabetes: Can it be prevented/reversed with
+  a bag of SGLT2 Inhibitors?
+END:VEVENT
+BEGIN:VEVENT
 UID:7070@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190502T120000
 DTEND;TZID=America/Chicago:20190502T125000
@@ -2647,6 +2668,19 @@ DESCRIPTION:Speakers:\nCarmen A. Peralta MD\, MAS\, Chief Medical Officer\,
 DTSTAMP:20190423T124500
 LOCATION:Lower Level - Wohl Clinic
 SUMMARY:"Academia and Entrepreneurship:  An Imperative Collaboration”
+END:VEVENT
+BEGIN:VEVENT
+UID:7263@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190509T090000
+DTEND;TZID=America/Chicago:20190509T133000
+DESCRIPTION:Speakers:\nClinical and Research Fellows (9 am - 1:30 pm)\, End
+ ocrinology\, Metabolism & Lipid Research\, Pediatric Endocrinology & Diabe
+ tes\, Nutritional Sciences & Orthopaedic Surgery\n\nDescription:\nPlease n
+ ote that Fellows' Research Day begins at 9:00 am\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=7263
+DTSTAMP:20190426T092900
+LOCATION:728 Southwest Tower
+SUMMARY:Research Day for Clinical and Research Fellows
 END:VEVENT
 BEGIN:VEVENT
 UID:6944@events.dbbs.wustl
