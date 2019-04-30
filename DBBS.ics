@@ -2610,16 +2610,57 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TET Methylcytosine oxidases in immune responses and cancer
 END:VEVENT
 BEGIN:VEVENT
+UID:7264@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190507T090000
+DTEND;TZID=America/Chicago:20190507T120000
+DESCRIPTION:Speakers:\nDr. Benjamin Humphreys\, Chief\, Division of Nephrol
+ ogy\nWashington University\nDr. Blair Madison\, Division of Gastroenterolo
+ gy\nWashington University School of Medicine\nDr. Elizabeth Wiellette\, Dr
+ aper Labs\, Cambridge MA\nDr. Thad Stappenbeck\, Dept of Pathology and Imm
+ unology\nWashington University School of Medicine\n\nDescription:\nSymposi
+ um - Organoid and Tissue Models of Human Diseases\n\nLink: http://dbbs.wus
+ tl.edu/Resources/Pages/calendar_event.aspx?EvID=7264
+DTSTAMP:20190429T104800
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Improving kidney organoid models of development and repair using sc
+ RNA-seq
+END:VEVENT
+BEGIN:VEVENT
+UID:7266@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190507T113000
+DTEND;TZID=America/Chicago:20190507T120000
+DESCRIPTION:Speakers:\nDr. Jeffrey Millman\, Assistant Professor\nDivision 
+ of Endocrinology\nWashington University School of Medicine\n\nDescription:
+ \nSymposium - Organoid and Tissue Models of Human Diseases\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7266
+DTSTAMP:20190429T104700
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Diabetic patient-derived islet organoids
+END:VEVENT
+BEGIN:VEVENT
 UID:7255@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190507T120000
 DTEND;TZID=America/Chicago:20190507T124000
 DESCRIPTION:Speakers:\nShamim Mollah\, Bioinformatics and Systems Biology\n
  University of California\, San Diego\n\nLink: http://dbbs.wustl.edu/Resour
  ces/Pages/calendar_event.aspx?EvID=7255
-DTSTAMP:20190424T135400
-LOCATION:4515 McKinley Research Building\, Room 6001b
+DTSTAMP:20190429T160500
+LOCATION:4515 McKinley Research Building - 4001B
 SUMMARY:Determining Therapeutic Efficacy in Breast Cancer Using Network-Bas
  ed Global Chromatin Profile Fingerprinting
+END:VEVENT
+BEGIN:VEVENT
+UID:7265@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190507T120000
+DTEND;TZID=America/Chicago:20190507T131500
+DESCRIPTION:Speakers:\nDr. Bryan Welm\, Huntsman Cancer Institute and Dept 
+ of Surgery\, University of Utah\n\nDescription:\nSymposium - Organoid and 
+ Tissue Models of Human Diseases\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7265
+DTSTAMP:20190429T104700
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Patient-derived models of breast cancer and functional precision me
+ dicine
 END:VEVENT
 BEGIN:VEVENT
 UID:7240@events.dbbs.wustl
