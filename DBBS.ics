@@ -1746,12 +1746,12 @@ BEGIN:VEVENT
 UID:7071@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190509T120000
 DTEND;TZID=America/Chicago:20190509T125000
-DESCRIPTION:Speakers:\nVikas Dharnidharka\, Washington University School of
-  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7071
-DTSTAMP:20190412T175300
+DESCRIPTION:Speakers:\nChristina Jacobsen\, MD\, PhD\, Assistant Professor 
+ of Pediatrics\nHarvard/Boston Children’s Hospital\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7071
+DTSTAMP:20190501T094100
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:The LRP5 Pathway and Osteoblast Function in Osteogenesis Imperfecta
 END:VEVENT
 BEGIN:VEVENT
 UID:7257@events.dbbs.wustl
@@ -1776,6 +1776,18 @@ DTSTAMP:20190211T150000
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:Load-Dependent Myocardial Adaptations:  New Tools and Translationa
  l Opportunities
+END:VEVENT
+BEGIN:VEVENT
+UID:7273@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190510T090000
+DTEND;TZID=America/Chicago:20190510T100000
+DESCRIPTION:Speakers:\nChia-Lung Wu\, PhD\, Department of Orthopaedic Surge
+ ry\, Guilak Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7273
+DTSTAMP:20190501T091100
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Dissecting human iPSC chondrogenesis at single cell resolution: You
+  can't Wnt them all!
 END:VEVENT
 BEGIN:VEVENT
 UID:7267@events.dbbs.wustl
@@ -1892,6 +1904,19 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:New approaches for manipulating neuronal cell biology with light
 END:VEVENT
 BEGIN:VEVENT
+UID:7275@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190516T100000
+DTEND;TZID=America/Chicago:20190516T120000
+DESCRIPTION:Speakers:\nMs. Cassondra Vernier\, Evolution\, Ecology\, and Po
+ pulation Biology program\; Lab of Dr. Yehuda Ben-Shahar\, Department of Bi
+ ology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7275
+DTSTAMP:20190501T091200
+LOCATION:Rebstock Hall 322
+SUMMARY:Mechanisms of nestmate recognition cue production in the European h
+ oney bee\, Apis mellifera
+END:VEVENT
+BEGIN:VEVENT
 UID:6945@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190516T120000
 DTEND;TZID=America/Chicago:20190516T130000
@@ -1939,6 +1964,17 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:Mitochondrial Dys-dynamism\; Heart and Soul
 END:VEVENT
 BEGIN:VEVENT
+UID:7274@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190517T090000
+DTEND;TZID=America/Chicago:20190517T100000
+DESCRIPTION:Speakers:\nRegis O'Keefe\, MD\, PhD\, Department of Orthopaedic
+  Surgery\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
+ x?EvID=7274
+DTSTAMP:20190501T091100
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Prostaglandin signaling and bone regeneration
+END:VEVENT
+BEGIN:VEVENT
 UID:7141@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190520T120000
 DTEND;TZID=America/Chicago:20190520T130000
@@ -1980,6 +2016,18 @@ SUMMARY:Infectious Origins of Neurodegenerative Diseases: What are the Data
  ?
 END:VEVENT
 BEGIN:VEVENT
+UID:7276@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190522T090000
+DTEND;TZID=America/Chicago:20190522T100000
+DESCRIPTION:Speakers:\nVic Myer\, Chief Technology Officer at Editas\n\nDes
+ cription:\nRSVP Here: https://wustl.az1.qualtrics.com/jfe/form/SV_8o8O09t4
+ ot7vtmB\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
+ ?EvID=7276
+DTSTAMP:20190501T093900
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Science Careers in Industry
+END:VEVENT
+BEGIN:VEVENT
 UID:6387@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190522T120000
 DTEND;TZID=America/Chicago:20190522T130000
@@ -1990,6 +2038,18 @@ DESCRIPTION:Speakers:\nGenia Kozorovitskiy\, PhD\, Weinberg College of Arts
 DTSTAMP:20180726T151000
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Optical approaches to synapse wiring and rapid imaging
+END:VEVENT
+BEGIN:VEVENT
+UID:7277@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190522T120000
+DTEND;TZID=America/Chicago:20190522T130000
+DESCRIPTION:Speakers:\nVic Myer\, Chief Technology Officer at Editas\n\nDes
+ cription:\nLunch will be provided. RSVP Here:\nhttps://wustl.az1.qualtrics
+ .com/jfe/form/SV_4NtoTkn9f8pUrWZ\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=7277
+DTSTAMP:20190501T093900
+LOCATION:Moore Auditorium
+SUMMARY:Science Talk
 END:VEVENT
 BEGIN:VEVENT
 UID:6946@events.dbbs.wustl
