@@ -1634,6 +1634,18 @@ SUMMARY:Improving kidney organoid models of development and repair using sc
  RNA-seq
 END:VEVENT
 BEGIN:VEVENT
+UID:7278@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190507T103000
+DTEND;TZID=America/Chicago:20190507T113000
+DESCRIPTION:Speakers:\nDr. Tracy Johnson\, University of California\, Los A
+ ngeles\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=7278
+DTSTAMP:20190503T093300
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:RNA splicing\, chromatin modification\, and the coordinated control
+  of gene expression
+END:VEVENT
+BEGIN:VEVENT
 UID:7266@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190507T113000
 DTEND;TZID=America/Chicago:20190507T120000
