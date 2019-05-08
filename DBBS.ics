@@ -1790,6 +1790,18 @@ SUMMARY:Load-Dependent Myocardial Adaptations:  New Tools and Translationa
  l Opportunities
 END:VEVENT
 BEGIN:VEVENT
+UID:7280@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190510T083000
+DTEND;TZID=America/Chicago:20190510T160000
+DESCRIPTION:Speakers:\nDr. Teresa Woodruff\, Northwestern University\nDr. K
+ yle Orwig\, University of Pittsburgh\nDr. Paolo Rinaudo\, University of Ca
+ lifornia San Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=7280
+DTSTAMP:20190507T114100
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Engineering Reproduction: From Bench to Bedside to Babies
+END:VEVENT
+BEGIN:VEVENT
 UID:7273@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190510T090000
 DTEND;TZID=America/Chicago:20190510T100000
@@ -1840,9 +1852,9 @@ DESCRIPTION:Speakers:\nCeleste Karch\, PhD\, WashU Psychiatry\n\nDescriptio
  \, Department of\nDevelopmental Biology and Department of Neurology. Hope 
  Center Monday Noon\nSeminars For inquiries contact Cindy Lawrence.\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7140
-DTSTAMP:20190314T103700
+DTSTAMP:20190507T160300
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:"TBA"
+SUMMARY:Modeling tauoapthies in human stem cells
 END:VEVENT
 BEGIN:VEVENT
 UID:7258@events.dbbs.wustl
@@ -2001,9 +2013,10 @@ DESCRIPTION:Speakers:\nJustin Ichida\, PhD\, University of Southern Califor
   Neurology. Hope Center Monday Noon\nSeminars For inquiries contact Cindy 
  Lawrence.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
  px?EvID=7141
-DTSTAMP:20190314T103700
+DTSTAMP:20190507T160300
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:"TBA"
+SUMMARY:Using Cellular Reprogramming to Identify New Therapeutic Targets fo
+ r Neurodegenerative Diseases
 END:VEVENT
 BEGIN:VEVENT
 UID:6828@events.dbbs.wustl
@@ -2092,9 +2105,9 @@ DTEND;TZID=America/Chicago:20190523T170000
 DESCRIPTION:Speakers:\nSteven M. Pogwizd\, MD\, University of Alabama at Bi
  rmingham\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
  x?EvID=6856
-DTSTAMP:20181217T171700
+DTSTAMP:20190507T160200
 LOCATION:801 CSRB North Tower Addition
-SUMMARY:TBA
+SUMMARY:Mechanisms of Ventricular Tachycardia in the Failing Heart
 END:VEVENT
 BEGIN:VEVENT
 UID:7217@events.dbbs.wustl
