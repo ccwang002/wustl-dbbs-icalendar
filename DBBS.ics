@@ -2099,6 +2099,17 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:Mechanisms of Ventricular Tachycardia in the Failing Heart
 END:VEVENT
 BEGIN:VEVENT
+UID:7286@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190524T090000
+DTEND;TZID=America/Chicago:20190524T100000
+DESCRIPTION:Speakers:\nM. Farooq Rai\, PhD\, Department of Orthopaedic Surg
+ ery\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7286
+DTSTAMP:20190515T093800
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Periostin in the Synovial Joint: Friend or Foe?
+END:VEVENT
+BEGIN:VEVENT
 UID:7217@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190528T120000
 DTEND;TZID=America/Chicago:20190528T130000
@@ -2111,6 +2122,20 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:TREM2 Impedes Tau Seeding in Neuritic Amyloid Beta Plaques
 END:VEVENT
 BEGIN:VEVENT
+UID:7282@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190529T120000
+DTEND;TZID=America/Chicago:20190529T130000
+DESCRIPTION:Speakers:\nPolly M. Fordyce\, Ph.D.\, Assistant Professor\, Dep
+ artments of Genetics and Bioengineering\nFellow\, ChEM-H Institute\nCo-Dir
+ ector\, Stanford Microfluidics Foundry\nStanford University\n\nDescription
+ :\nBJC Investigator Program Special Seminar\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7282
+DTSTAMP:20190515T093900
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:"New Microfluidic Platforms for High-throughput\, Quantitative Biop
+ hysics and Biochemistry"
+END:VEVENT
+BEGIN:VEVENT
 UID:6857@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190530T160000
 DTEND;TZID=America/Chicago:20190530T170000
@@ -2119,6 +2144,18 @@ DESCRIPTION:Speakers:\nDavid G. Harrison\, MD\, Vanderbilt University\n\nLi
 DTSTAMP:20181217T171800
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:Immune Activation in Hypertension
+END:VEVENT
+BEGIN:VEVENT
+UID:7283@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190603T130000
+DTEND;TZID=America/Chicago:20190603T170000
+DESCRIPTION:Speakers:\nStory Colliders Workshop\, Story Colliders\n\nDescri
+ ption:\nSeating is Limited. Registration is required.\nhttps://wustl.az1.q
+ ualtrics.com/jfe/form/SV_0NbHaRmz38ACi4R\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7283
+DTSTAMP:20190515T093900
+LOCATION:Schwarz conference Room\, McMillan
+SUMMARY:Storytelling Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:7218@events.dbbs.wustl
@@ -2141,6 +2178,17 @@ DESCRIPTION:Speakers:\nClinton S. Robbins\, PhD\, Toronto General Hospital
 DTSTAMP:20181217T171800
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7287@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190607T160000
+DTEND;TZID=America/Chicago:20190607T170000
+DESCRIPTION:Speakers:\nDora Angelaki\, PhD\, Tandon School of Engineering N
+ ew York University\n\nDescription:\nHosted by: Dr. Azad Bonni\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7287
+DTSTAMP:20190515T093800
+LOCATION:Holden Auditorium
+SUMMARY:A gravity-based three-dimensional compass in the mouse brain
 END:VEVENT
 BEGIN:VEVENT
 UID:7219@events.dbbs.wustl
