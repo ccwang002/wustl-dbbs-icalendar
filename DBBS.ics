@@ -2008,6 +2008,19 @@ SUMMARY:Using Cellular Reprogramming to Identify New Therapeutic Targets fo
  r Neurodegenerative Diseases
 END:VEVENT
 BEGIN:VEVENT
+UID:7288@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190520T150000
+DTEND;TZID=America/Chicago:20190520T160000
+DESCRIPTION:Speakers:\nJuan Valdez\, University of Maryland\, Baltimore Cou
+ nty\n\nDescription:\nJuan Valdez is visiting Washington University as a pr
+ ospective postdoctoral\nfellow in the lab of Dr. Vladimir Kefalov\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7288
+DTSTAMP:20190516T120500
+LOCATION:McMillian Building Room 725
+SUMMARY:Molecular Determinants of Melanopsin Activation\, Deactivation\, an
+ d Re-sensitization
+END:VEVENT
+BEGIN:VEVENT
 UID:6828@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190520T161500
 DTEND;TZID=America/Chicago:20190520T171500
@@ -2066,6 +2079,18 @@ LOCATION:Moore Auditorium
 SUMMARY:Science Talk
 END:VEVENT
 BEGIN:VEVENT
+UID:7290@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190522T130000
+DTEND;TZID=America/Chicago:20190522T140000
+DESCRIPTION:Speakers:\nMr. Andrew Fishell\, Neurosciences Program - Lab of 
+ Dr. Joseph Culver\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=7290
+DTSTAMP:20190516T120400
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:High-Density Diffuse Optical Tomography During Passive Movie Viewin
+ g: A Platform for Naturalistic Functional Brain Mapping
+END:VEVENT
+BEGIN:VEVENT
 UID:6946@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190523T120000
 DTEND;TZID=America/Chicago:20190523T130000
@@ -2108,6 +2133,30 @@ DESCRIPTION:Speakers:\nM. Farooq Rai\, PhD\, Department of Orthopaedic Surg
 DTSTAMP:20190515T093800
 LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Periostin in the Synovial Joint: Friend or Foe?
+END:VEVENT
+BEGIN:VEVENT
+UID:7293@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190524T120000
+DTEND;TZID=America/Chicago:20190524T130000
+DESCRIPTION:Speakers:\nSandeep Tripathy\, MD\, PhD\, Assistant Professor of
+  Medicine\nDivision of Gastroenterology\n\nLink: http://dbbs.wustl.edu/Res
+ ources/Pages/calendar_event.aspx?EvID=7293
+DTSTAMP:20190516T120400
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Understanding How Continuous Engagement of Activating Receptors on 
+ NK Cells Results in Decreased in Vivo Response
+END:VEVENT
+BEGIN:VEVENT
+UID:7289@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190524T140000
+DTEND;TZID=America/Chicago:20190524T140000
+DESCRIPTION:Speakers:\nCaitlin Purman\, Molecular Genetics and Genomics Pro
+ gram\nLaboratory of Dr. Gene Oltz\nDepartment of Pathology & Immunology\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7289
+DTSTAMP:20190516T120500
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Determining the local transcriptional response to DNA double-strand
+  breaks
 END:VEVENT
 BEGIN:VEVENT
 UID:7217@events.dbbs.wustl
@@ -2169,6 +2218,18 @@ LOCATION:Connor Auditorium
 SUMMARY:Annual State of the Knight ADRC Lecture
 END:VEVENT
 BEGIN:VEVENT
+UID:7292@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190606T120000
+DTEND;TZID=America/Chicago:20190606T130000
+DESCRIPTION:Speakers:\nAnna Ballard\, Molecular Genetics and Genomics Progr
+ am\nLaboratory of Dr. Deborah Veis\nDepartment of Internal Medicine - Bone
+  & Mineral Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=7292
+DTSTAMP:20190516T120400
+LOCATION:Holden Auditorium
+SUMMARY:The Role of Mitofusins in the Osteoclast Lineage
+END:VEVENT
+BEGIN:VEVENT
 UID:6858@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190606T160000
 DTEND;TZID=America/Chicago:20190606T170000
@@ -2189,6 +2250,17 @@ DESCRIPTION:Speakers:\nDora Angelaki\, PhD\, Tandon School of Engineering N
 DTSTAMP:20190515T093800
 LOCATION:Holden Auditorium
 SUMMARY:A gravity-based three-dimensional compass in the mouse brain
+END:VEVENT
+BEGIN:VEVENT
+UID:7291@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190611T100000
+DTEND;TZID=America/Chicago:20190611T100000
+DESCRIPTION:Speakers:\nMadison Mack\, Immunology Program\nLaboratory of Dr.
+  Brian Kim\nDepartment of Internal Medicine - Dermatology\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7291
+DTSTAMP:20190516T120400
+LOCATION:Holden Auditorium
+SUMMARY:The Role of Natural Killer Cells in Atopic Dermatitis
 END:VEVENT
 BEGIN:VEVENT
 UID:7219@events.dbbs.wustl
