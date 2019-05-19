@@ -2236,9 +2236,9 @@ DTEND;TZID=America/Chicago:20190606T170000
 DESCRIPTION:Speakers:\nClinton S. Robbins\, PhD\, Toronto General Hospital 
  Research Institute\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
  _event.aspx?EvID=6858
-DTSTAMP:20181217T171800
+DTSTAMP:20190517T104200
 LOCATION:801 CSRB North Tower Addition
-SUMMARY:TBA
+SUMMARY:Vascular Macrophages in Health and Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7287@events.dbbs.wustl
