@@ -34,26 +34,6 @@ END:DAYLIGHT
 END:VTIMEZONE
 TZID:America/Chicago
 BEGIN:VEVENT
-UID:2019-04-05 custom event 4@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190405T160000
-DTEND;TZID=America/Chicago:20190405T170000
-DESCRIPTION:Speakers:\nMax Staller (Cohen)\nJustin Melendez (Mitra)\n\n\nLi
- nk: None
-DTSTAMP:20190215T060000Z
-LOCATION:Couch Biomedical Research Building Room 6001B
-SUMMARY:Genetics Research Talk
-END:VEVENT
-BEGIN:VEVENT
-UID:2019-04-19 custom event 5@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190419T160000
-DTEND;TZID=America/Chicago:20190419T170000
-DESCRIPTION:Speakers:\nXiaoyu Zhuo (Wang)\nMatt Mosley (Pincus)\n\n\nLink: 
- None
-DTSTAMP:20190215T060000Z
-LOCATION:Couch Biomedical Research Building Room 6001B
-SUMMARY:Genetics Research Talk
-END:VEVENT
-BEGIN:VEVENT
 UID:2019-05-03 custom event 6@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190503T160000
 DTEND;TZID=America/Chicago:20190503T170000
