@@ -474,6 +474,17 @@ LOCATION:Connor Auditorium
 SUMMARY:Annual State of the Knight ADRC Lecture
 END:VEVENT
 BEGIN:VEVENT
+UID:7254@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190606T120000
+DTEND;TZID=America/Chicago:20190606T130000
+DESCRIPTION:Speakers:\nDr. Karen O'Malley\, Ph.D.\, Department of Neuroscie
+ nce\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7254
+DTSTAMP:20190604T155000
+LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
+SUMMARY:“Intracellular GPCR signaling in vitro\, ex vivo and in vivo.”
+END:VEVENT
+BEGIN:VEVENT
 UID:6858@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190606T160000
 DTEND;TZID=America/Chicago:20190606T170000
@@ -485,6 +496,53 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7252@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190607T100000
+DTEND;TZID=America/Chicago:20190607T120000
+DESCRIPTION:Speakers:\nMr. Andrew Jezewski\, Molecular Microbiology and Mic
+ robial Pathogenesis Program - Lab of Dr. Audrey Odom John\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7252
+DTSTAMP:20190604T112200
+LOCATION:Holden Auditorium
+SUMMARY:Coordinated Control of Carbon Metabolism in Plasmodium falciparum
+END:VEVENT
+BEGIN:VEVENT
+UID:7256@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190607T150000
+DTEND;TZID=America/Chicago:20190607T170000
+DESCRIPTION:Speakers:\nMs. Chuner Guo\, MSTP- Molecular Cell Biology Progra
+ m- Lab of Dr. Samantha Morris\, Department of Developmental Biology\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7256
+DTSTAMP:20190604T154900
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
+SUMMARY:Single-cell resolution mechanistic analyses of direct lineage repro
+ gramming
+END:VEVENT
+BEGIN:VEVENT
+UID:7255@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190610T093000
+DTEND;TZID=America/Chicago:20190610T103000
+DESCRIPTION:Speakers:\nDr. Vsevolod (Seva) Katritch\, Ph.D.\, University of
+  Southern California\; Department of Biological Sciences\, Molecular & Com
+ putational Biology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7255
+DTSTAMP:20190604T154900
+LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
+SUMMARY:“Computational Modeling of GPCRs: Towards Understanding Receptor 
+ Signaling for Biology and Drug Discovery.”
+END:VEVENT
+BEGIN:VEVENT
+UID:7257@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190610T120000
+DTEND;TZID=America/Chicago:20190610T130000
+DESCRIPTION:Speakers:\nChris Mallow\, Pulmonary and Critical Care Medicine 
+ Fellow at John Hopkins Medicine\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7257
+DTSTAMP:20190604T154900
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Videogames in Medicine”
+END:VEVENT
+BEGIN:VEVENT
 UID:7219@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190611T120000
 DTEND;TZID=America/Chicago:20190611T130000
@@ -494,6 +552,19 @@ DESCRIPTION:Speakers:\nAndrea Soranno\, PhD\, Assistant Professor of Bioche
 DTSTAMP:20190410T223700
 LOCATION:East Pavilion Auditorium
 SUMMARY:Single-molecule Conformational Analysis of Apolipoprotein E
+END:VEVENT
+BEGIN:VEVENT
+UID:7253@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190614T093000
+DTEND;TZID=America/Chicago:20190614T113000
+DESCRIPTION:Speakers:\nMs. Katherine Geist\, Program in Evolution\, Ecology
+ \, and Population Biology\; Lab of Drs. David Queller and Joan Strassmann\
+ , Department of Biology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=7253
+DTSTAMP:20190604T155000
+LOCATION:Rebstock Hall 322
+SUMMARY:Genomic Signatures of Conflict and Cooperation in Plants and Social
+  Amoebae
 END:VEVENT
 BEGIN:VEVENT
 UID:7220@events.dbbs.wustl
