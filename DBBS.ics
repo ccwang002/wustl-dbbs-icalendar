@@ -543,6 +543,17 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:“Videogames in Medicine”
 END:VEVENT
 BEGIN:VEVENT
+UID:7262@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190611T100000
+DTEND;TZID=America/Chicago:20190611T100000
+DESCRIPTION:Speakers:\nMadison Mack\, Immunology Program\nLaboratory of Dr.
+  Brian Kim\nDepartment of Internal Medicine - Dermatology\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7262
+DTSTAMP:20190607T163400
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:The Role of Natural Killer Cells in Atopic Dermatitis
+END:VEVENT
+BEGIN:VEVENT
 UID:7219@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190611T120000
 DTEND;TZID=America/Chicago:20190611T130000
@@ -552,6 +563,19 @@ DESCRIPTION:Speakers:\nAndrea Soranno\, PhD\, Assistant Professor of Bioche
 DTSTAMP:20190410T223700
 LOCATION:East Pavilion Auditorium
 SUMMARY:Single-molecule Conformational Analysis of Apolipoprotein E
+END:VEVENT
+BEGIN:VEVENT
+UID:7261@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190612T100000
+DTEND;TZID=America/Chicago:20190612T100000
+DESCRIPTION:Speakers:\nZuzana Kocsisova\, Molecular Genetics and Genomics P
+ rogram\nLaboratory of Dr. Kerry Kornfeld\nDepartment of Developmental Biol
+ ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7261
+DTSTAMP:20190607T163500
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Aging of the reproductive system and of germline stem cells in Caen
+ orhabditis
 END:VEVENT
 BEGIN:VEVENT
 UID:7253@events.dbbs.wustl
@@ -578,6 +602,44 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7258@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190620T100000
+DTEND;TZID=America/Chicago:20190620T100000
+DESCRIPTION:Speakers:\nGavriel Matt\, Molecular Genetics and Genomics Progr
+ am\nLaboratory of Dr. James Umen\nDonald Danforth Plant Science Center\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7258
+DTSTAMP:20190607T163500
+LOCATION:Donald Danforth Plant Science Center Room 60/61
+SUMMARY:Deciphering the origins of cell-type differentiation using the simp
+ le multicellular green alga Volvox carteri
+END:VEVENT
+BEGIN:VEVENT
+UID:7259@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190621T140000
+DTEND;TZID=America/Chicago:20190621T140000
+DESCRIPTION:Speakers:\nChristina Mikulka\, Molecular Genetics and Genomics 
+ Program\nLaboratory of Dr. Mark Sands\nDepartment of Internal Medicine-Onc
+ ology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7259
+DTSTAMP:20190607T163500
+LOCATION:4444 Forest Park - OT Auditorium 1st Floor
+SUMMARY:Substrate reduction therapy for Krabbe disease and a new murine mod
+ el for cell-autonomous expression of lysosomal hydrolases
+END:VEVENT
+BEGIN:VEVENT
+UID:7260@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190621T140000
+DTEND;TZID=America/Chicago:20190621T140000
+DESCRIPTION:Speakers:\nJames Allen\, Molecular Genetics and Genomics Progra
+ m\nLaboratory of Dr. Jim Skeath and the late Dr. Steve Johnson\nDepartment
+  of Genetics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7260
+DTSTAMP:20190607T163500
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Molecular Regulation of Vertebrate Pigmentation and Stem Cell Quies
+ cence in Larval Zebrafish
+END:VEVENT
+BEGIN:VEVENT
 UID:7221@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190625T120000
 DTEND;TZID=America/Chicago:20190625T130000
@@ -587,6 +649,18 @@ DESCRIPTION:Speakers:\nEllen Binder\, MD\, Professor of Medicine\, Internal
 DTSTAMP:20190410T224100
 LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7264@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190626T150000
+DTEND;TZID=America/Chicago:20190626T170000
+DESCRIPTION:Speakers:\nMr. Shahriyar Majidi\, MSTP- Neurosciences Program- 
+ Lab of Dr. Azad Bonni\, Department of Neuroscience\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7264
+DTSTAMP:20190607T163400
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Transcriptional and Epigenetic Regulation of Neural Development and
+  Function
 END:VEVENT
 BEGIN:VEVENT
 UID:2019-05-03 custom event 6@events.dbbs.wustl
