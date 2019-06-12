@@ -578,6 +578,19 @@ SUMMARY:Aging of the reproductive system and of germline stem cells in Caen
  orhabditis
 END:VEVENT
 BEGIN:VEVENT
+UID:7268@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190612T120000
+DTEND;TZID=America/Chicago:20190612T130000
+DESCRIPTION:Speakers:\nRandi Foraker\, PhD\, MA\, FAHA\, Associate Professo
+ r of Medicine\nDirector\, Center for Population Health Informatics (CPHI)\
+ n\nDescription:\nRSVP by 12:00pm Tuesday\, June 11th. https://doodle.com/p
+ oll/ctv68btgau57834a\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7268
+DTSTAMP:20190611T131800
+LOCATION:Bernard Becker Medical Library\, Room 405
+SUMMARY:Population Health
+END:VEVENT
+BEGIN:VEVENT
 UID:7253@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190614T093000
 DTEND;TZID=America/Chicago:20190614T113000
@@ -589,6 +602,16 @@ DTSTAMP:20190604T155000
 LOCATION:Rebstock Hall 322
 SUMMARY:Genomic Signatures of Conflict and Cooperation in Plants and Social
   Amoebae
+END:VEVENT
+BEGIN:VEVENT
+UID:7267@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190617T120000
+DTEND;TZID=America/Chicago:20190617T130000
+DESCRIPTION:Speakers:\nNinecia Scott\, Washington University\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7267
+DTSTAMP:20190611T131900
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:"Calprotectin (S100A8/A9) promotes Tuberculosis susceptibility"
 END:VEVENT
 BEGIN:VEVENT
 UID:7220@events.dbbs.wustl
