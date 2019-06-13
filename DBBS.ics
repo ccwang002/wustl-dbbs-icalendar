@@ -642,9 +642,9 @@ DTSTART;TZID=America/Chicago:20190620T161500
 DTEND;TZID=America/Chicago:20190620T171500
 DESCRIPTION:Speakers:\nDr. Enrique DeLaCruz\, Yale University\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7265
-DTSTAMP:20190610T094900
+DTSTAMP:20190612T111000
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:TBD
+SUMMARY:How Cells Break the Bones that Power their Movement
 END:VEVENT
 BEGIN:VEVENT
 UID:7259@events.dbbs.wustl
@@ -691,9 +691,9 @@ DESCRIPTION:Speakers:\nDr. Ahmet Yildiz\, Associate Professor Department of
   Physics and Molecular Cell Biology\, University of California\, Berkeley\
  n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=72
  66
-DTSTAMP:20190610T094900
+DTSTAMP:20190612T111100
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:TBD
+SUMMARY:Single Molecule Studies of Macromolecular Complexes
 END:VEVENT
 BEGIN:VEVENT
 UID:7264@events.dbbs.wustl
