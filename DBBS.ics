@@ -708,6 +708,19 @@ SUMMARY:Transcriptional and Epigenetic Regulation of Neural Development and
   Function
 END:VEVENT
 BEGIN:VEVENT
+UID:7269@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190701T100000
+DTEND;TZID=America/Chicago:20190701T120000
+DESCRIPTION:Speakers:\nMs. Rebecca Cunningham\, Developmental\, Regenerativ
+ e an Stem Cell Biology Program - Lab of Dr. Charles Kaufman and Dr. Kelly 
+ Monk\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=7269
+DTSTAMP:20190614T091900
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:From Schwann cells to melanoma: neural crest derived cells in devel
+ opment and disease.
+END:VEVENT
+BEGIN:VEVENT
 UID:2019-05-03 custom event 6@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190503T160000
 DTEND;TZID=America/Chicago:20190503T170000
