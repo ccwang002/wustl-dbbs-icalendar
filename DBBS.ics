@@ -625,6 +625,18 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7272@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190619T120000
+DTEND;TZID=America/Chicago:20190619T130000
+DESCRIPTION:Speakers:\nKelley Foyil\, Institute for Informatics\n\nDescript
+ ion:\nRSVP: https://doodle.com/poll/765u2uertftc2g7c\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7272
+DTSTAMP:20190619T091300
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Biomedical Informatics & Data Science @ I2 Lunch & Learn Summer Ser
+ ies
+END:VEVENT
+BEGIN:VEVENT
 UID:7258@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190620T100000
 DTEND;TZID=America/Chicago:20190620T100000
@@ -671,6 +683,17 @@ DTSTAMP:20190607T163500
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Molecular Regulation of Vertebrate Pigmentation and Stem Cell Quies
  cence in Larval Zebrafish
+END:VEVENT
+BEGIN:VEVENT
+UID:7271@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190624T120000
+DTEND;TZID=America/Chicago:20190624T130000
+DESCRIPTION:Speakers:\nBen Gerovac\, Washington University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7271
+DTSTAMP:20190619T091200
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:"Novel Mechanisms for New Kinase Inhibitors in Airway Disease and C
+ ancer.”
 END:VEVENT
 BEGIN:VEVENT
 UID:7221@events.dbbs.wustl
