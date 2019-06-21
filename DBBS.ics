@@ -744,6 +744,18 @@ SUMMARY:From Schwann cells to melanoma: neural crest derived cells in devel
  opment and disease.
 END:VEVENT
 BEGIN:VEVENT
+UID:7273@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190701T110000
+DTEND;TZID=America/Chicago:20190701T110000
+DESCRIPTION:Speakers:\nPrachi Bagadia\, Immunology Program\nLaboratory of D
+ r. Ken Murphy\nDepartment of Pathology & Immunology\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7273
+DTSTAMP:20190620T102300
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Understanding the Transcriptional Mechanisms Underlying Dendritic C
+ ell Development
+END:VEVENT
+BEGIN:VEVENT
 UID:2019-05-03 custom event 6@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190503T160000
 DTEND;TZID=America/Chicago:20190503T170000
