@@ -756,6 +756,40 @@ SUMMARY:Understanding the Transcriptional Mechanisms Underlying Dendritic C
  ell Development
 END:VEVENT
 BEGIN:VEVENT
+UID:7274@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190702T120000
+DTEND;TZID=America/Chicago:20190702T130000
+DESCRIPTION:Speakers:\nNico Dosenbach\, MD\, PhD\, Assistant Professor of N
+ eurology\, Washington University\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=7274
+DTSTAMP:20190621T130800
+LOCATION:East Pavilion
+SUMMARY:Disuse-driven Plasticity of Human Functional Brain Networks
+END:VEVENT
+BEGIN:VEVENT
+UID:7275@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190709T113000
+DTEND;TZID=America/Chicago:20190709T130000
+DESCRIPTION:Speakers:\nKnight ADRC-Affiliated Investigators\, Knight ADRC a
+ t Washington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=7275
+DTSTAMP:20190621T130700
+LOCATION:Farrell Learning & Teaching Center - Hearth
+SUMMARY:Pre-AAIC Poster Preview Session
+END:VEVENT
+BEGIN:VEVENT
+UID:7276@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190723T120000
+DTEND;TZID=America/Chicago:20190723T130000
+DESCRIPTION:Speakers:\nGuoqiao (Peter) Wang\, PhD\, Assistant Professor\, D
+ ivision of Biostatistics\, Washington University\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=7276
+DTSTAMP:20190621T130700
+LOCATION:East Pavilion Auditorium
+SUMMARY:Estimating Years to Symptom Onset for Sporadic AD:  Possible but C
+ hallenging
+END:VEVENT
+BEGIN:VEVENT
 UID:2019-05-03 custom event 6@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190503T160000
 DTEND;TZID=America/Chicago:20190503T170000
