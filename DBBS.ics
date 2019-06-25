@@ -731,6 +731,18 @@ SUMMARY:Transcriptional and Epigenetic Regulation of Neural Development and
   Function
 END:VEVENT
 BEGIN:VEVENT
+UID:7277@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190627T150000
+DTEND;TZID=America/Chicago:20190627T160000
+DESCRIPTION:Speakers:\nMs. Min Jung\, Human and Statistical Genetics Progra
+ m - Lab of Dr. Donald Conrad and Dr. Heather Lawson\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7277
+DTSTAMP:20190624T123900
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:From single cells to human disease: high-resolution phenotyping of 
+ male infertility models using single-cell RNA sequencing
+END:VEVENT
+BEGIN:VEVENT
 UID:7269@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190701T100000
 DTEND;TZID=America/Chicago:20190701T120000
