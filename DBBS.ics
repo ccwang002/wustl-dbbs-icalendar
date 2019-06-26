@@ -790,6 +790,19 @@ LOCATION:Farrell Learning & Teaching Center - Hearth
 SUMMARY:Pre-AAIC Poster Preview Session
 END:VEVENT
 BEGIN:VEVENT
+UID:7278@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190711T100000
+DTEND;TZID=America/Chicago:20190711T100000
+DESCRIPTION:Speakers:\nMr. Arshag Mooradian\, Molecular Cell Biology Progra
+ m\nLaboratory of Dr. Jason Held\nDepartment of Internal Medicine\nDivision
+  of Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7278
+DTSTAMP:20190625T123200
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Computational Approaches for Multispecies and Metaproteomic Analyse
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:7276@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190723T120000
 DTEND;TZID=America/Chicago:20190723T130000
@@ -800,6 +813,48 @@ DTSTAMP:20190621T130700
 LOCATION:East Pavilion Auditorium
 SUMMARY:Estimating Years to Symptom Onset for Sporadic AD:  Possible but C
  hallenging
+END:VEVENT
+BEGIN:VEVENT
+UID:7279@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190724T113000
+DTEND;TZID=America/Chicago:20190724T140000
+DESCRIPTION:Speakers:\nGALNACS\, For more details visit: https://bit.ly/2WM
+ HrRm\n\nDescription:\nDear members of the WUSTL community\, The Graduate A
+ ssociation of Latinx\,\nNative American and Caribbean Students (GALNACS) i
+ s proud to present the 1st\nAnnual Gastronomic Festival and Art Show. We a
+ re thrilled to highlight the\nculture and expertise of members in our comm
+ unity through their culinary\nabilities. For that reason\, we are providin
+ g a space for people to showcase\ntheir best dishes in a culinary competit
+ ion in a variety of categories. Prizes\nwill go to the winners\, which wil
+ l include art from artists of South and\nCentral America\, Native America\
+ , and the Caribbean. We will also have an art\nshow exposing the talent of
+  Latinx\, Native American\, and Caribbean artists.\nEveryone is encouraged
+  to participate\, even if you do not identify as Latinx\,\nNative American
+  or Caribbean Islander. The event will take place on Wednesday\,\nJuly 24t
+ h\, 2019 from 11:30 am to 2:00 pm in the King Center\, 7th floor Becker\nL
+ ibrary (Medical Campus). Categories: Dessert Main entree Appetizer Drink\n
+ (non-alcoholic) Each category will be awarded based on the following sub-\
+ ncategories: Most popular Best depiction of a science/art concept Best ove
+ rall\nAll dishes/drinks will be judged by GALNACS board members\, with the
+  exception\nof the Most Popular sub-category which will be awarded based o
+ n popular vote.\nRules for submitting a dish/drink for the competition. El
+ igibility: To be\neligible to participate in the competition\, you must be
+  a student\, staff or\nfaculty from Washington University in St. Louis. Ev
+ eryone is welcome to\nparticipate in this event (i.e. you don’t need to 
+ identify as Latinx\, Native\nAmerican or Caribbean Islander to participate
+ ). Requirements: Submit the name\,\ncategory and a short description of yo
+ ur dish/drink with any allergens here\n(https://forms.gle/Hyqgdv9YdS2EH3LV
+ 9). Note: Alcoholic beverages will not be\naccepted at the event (Wash. U.
+  policy). You are free to submit more than one\ndish/drink\, but make sure
+  to fill out a form for each one of them. **Have your\ndish/drink ready fo
+ r consumption between 10:30 am - 11:30 am on July 24th\,\n2019. Winners of
+  each subcategory will get a wonderful piece of art from the\nart show\, a
+ nd other items from Latinx\, Native American\, and Caribbean artists.\nWe 
+ hope to see you all there. Warm regards\, GALNACS board members\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7279
+DTSTAMP:20190625T123000
+LOCATION:King Center - 7th floor library
+SUMMARY:1st Annual Gastronomic Festival/Art Show
 END:VEVENT
 BEGIN:VEVENT
 UID:2019-05-03 custom event 6@events.dbbs.wustl
