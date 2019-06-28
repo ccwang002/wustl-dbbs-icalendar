@@ -803,6 +803,25 @@ SUMMARY:Computational Approaches for Multispecies and Metaproteomic Analyse
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:7280@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190711T120000
+DTEND;TZID=America/Chicago:20190711T133000
+DESCRIPTION:Speakers:\nThi Nguyen\, Ph.D.\, WUSTL Career Center\n\nDescript
+ ion:\nParticipate in a 4-part mini course called Business Concepts for Lif
+ e\nScientists on Thursdays starting July 11 on the med campus. Participant
+ s will\nlearn and apply basic concepts of business strategy to academic an
+ d industry\nsettings. You can become a better scientists. This workshop is
+  geared towards\ngraduate students and postdocs pursuing a career in indus
+ try or business of\nscience\, or planning to start an academic lab. The wo
+ rkshop is offered at no\ncost. Space is limited. Register at: http://bit.l
+ y/Strategy4DBBS\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7280
+DTSTAMP:20190627T091500
+LOCATION:FLTC-TBA
+RRULE:BYDAY=TH;INTERVAL=1;FREQ=WEEKLY;UNTIL=20190801
+SUMMARY:Business Strategy. For Scientists.
+END:VEVENT
+BEGIN:VEVENT
 UID:7276@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190723T120000
 DTEND;TZID=America/Chicago:20190723T130000
@@ -855,6 +874,18 @@ DESCRIPTION:Speakers:\nGALNACS\, For more details visit: https://bit.ly/2WM
 DTSTAMP:20190625T123000
 LOCATION:King Center - 7th floor library
 SUMMARY:1st Annual Gastronomic Festival/Art Show
+END:VEVENT
+BEGIN:VEVENT
+UID:7281@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190809T110000
+DTEND;TZID=America/Chicago:20190809T130000
+DESCRIPTION:Speakers:\nMr. Joshua Brandon Alinger\, MSTP- Molecular Microbi
+ ology & Microbial Pathogenesis Program- Lab of Dr. Anthony French\, Depart
+ ment of Pediatrics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7281
+DTSTAMP:20190627T091400
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Human PLCG2 Haploinsufficiency Results in a Novel Immunodeficiency
 END:VEVENT
 BEGIN:VEVENT
 UID:2019-05-03 custom event 6@events.dbbs.wustl
