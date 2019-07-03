@@ -483,6 +483,18 @@ SUMMARY:Cyanogenesis and the genetics of local adaptation in white clover (
  Trifolium repens L.)
 END:VEVENT
 BEGIN:VEVENT
+UID:7288@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190729T120000
+DTEND;TZID=America/Chicago:20190729T130000
+DESCRIPTION:Speakers:\nMichael Guzman\, Molecular Genetics and Genomics Pro
+ gram\nLaboratory of Dr. Arpita Bose\nDepartment of Biology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7288
+DTSTAMP:20190702T091700
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Understanding the Physiology of Extracellular Electron Uptake in Pu
+ rple Nonsulfur Bacteria
+END:VEVENT
+BEGIN:VEVENT
 UID:7283@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190730T140000
 DTEND;TZID=America/Chicago:20190730T160000
