@@ -416,6 +416,24 @@ RRULE:BYDAY=TH;INTERVAL=1;FREQ=WEEKLY;UNTIL=20190801
 SUMMARY:Business Strategy. For Scientists.
 END:VEVENT
 BEGIN:VEVENT
+UID:7295@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190718T163000
+DTEND;TZID=America/Chicago:20190718T173000
+DESCRIPTION:Speakers:\nKathleen Meacham\, M.D.\, Ph.D.\, Assistant Professo
+ r of Anesthesiology\, Pain Management\nWashington University in St. Louis\
+ nRobert Gereau IV\, Ph.D.\, Professor of Anesthesiology & Director of Wash
+ ington University Pain Center\nWashington University in St. Louis\n\nDescr
+ iption:\nGrab a drink\, attend a talk\, meet other innovators\, and make t
+ hings happen.\nFor more information visit the ICTS Precision Medicine webs
+ ite\;\nhttps://ictspm.wustl.edu/calendar_event/kathleen-meacham-md-phd-rob
+ ert-gereau-\niv-phd/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7295
+DTSTAMP:20190709T103600
+LOCATION:@4240 Building\, 4240 Duncan Avenue
+SUMMARY:Bridging the gap: using electronic medicine to unlock mechanisms in
+  pain neuromodulation
+END:VEVENT
+BEGIN:VEVENT
 UID:7276@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190723T120000
 DTEND;TZID=America/Chicago:20190723T130000
