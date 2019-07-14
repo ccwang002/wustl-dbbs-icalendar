@@ -416,6 +416,17 @@ RRULE:BYDAY=TH;INTERVAL=1;FREQ=WEEKLY;UNTIL=20190801
 SUMMARY:Business Strategy. For Scientists.
 END:VEVENT
 BEGIN:VEVENT
+UID:7332@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190716T160000
+DTEND;TZID=America/Chicago:20190716T170000
+DESCRIPTION:Speakers:\nSarah Elgin\, Ph.D.\, Professor\nDepartment of Biolo
+ gy\nWashington University in St. Louis\n\nLink: http://dbbs.wustl.edu/Reso
+ urces/Pages/calendar_event.aspx?EvID=7332
+DTSTAMP:20190712T135000
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Living with your Genome:  A Fly’s Eye View of Dealing with Repeats
+END:VEVENT
+BEGIN:VEVENT
 UID:7295@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190718T163000
 DTEND;TZID=America/Chicago:20190718T173000
@@ -432,6 +443,23 @@ DTSTAMP:20190709T103600
 LOCATION:@4240 Building\, 4240 Duncan Avenue
 SUMMARY:Bridging the gap: using electronic medicine to unlock mechanisms in
   pain neuromodulation
+END:VEVENT
+BEGIN:VEVENT
+UID:7334@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190719T150000
+DTEND;TZID=America/Chicago:20190719T160000
+DESCRIPTION:Speakers:\nDr. Becky Miller\, Becky Miller\, PhD\, Director of 
+ the NIH Office of Strategic Coordination and program officer for the NIH D
+ irector’s Early Independence Award\, will be here for a site visit to th
+ e lab of Carl DeSelm\, MD\, PhD who received the NIH Director’s Early In
+ dependence Award for his innovative cancer research.\n\nDescription:\nWe a
+ lso have Seminar Room A booked in case there is overflow. Dr. Carl DeSelm\
+ nrequested to share this seminar with the students in the DBBS program. Th
+ ank\nyou!\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7334
+DTSTAMP:20190712T143000
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:High-Risk\, High-Reward Seminar
 END:VEVENT
 BEGIN:VEVENT
 UID:7276@events.dbbs.wustl
@@ -537,6 +565,18 @@ SUMMARY:The impact of mRNA structural alterations on tRNA selection and rib
  osome rescue
 END:VEVENT
 BEGIN:VEVENT
+UID:7360@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190801T130000
+DTEND;TZID=America/Chicago:20190801T150000
+DESCRIPTION:Speakers:\nMr. Jerry Fong\, MSTP- Computational & Systems Biolo
+ gy Program- Lab of Dr. John Edwards\, Department of Internal Medicine\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7360
+DTSTAMP:20190712T124700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Identifying Subpopulation-level Methylation Patterns in Hematologic
+ al Malignancies
+END:VEVENT
+BEGIN:VEVENT
 UID:7293@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190801T150000
 DTEND;TZID=America/Chicago:20190801T160000
@@ -570,6 +610,38 @@ DESCRIPTION:Speakers:\nMr. Joshua Brandon Alinger\, MSTP- Molecular Microbi
 DTSTAMP:20190627T091400
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Human PLCG2 Haploinsufficiency Results in a Novel Immunodeficiency
+END:VEVENT
+BEGIN:VEVENT
+UID:7296@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190904T120000
+DTEND;TZID=America/Chicago:20190904T130000
+DESCRIPTION:Speakers:\nJohn Hogenesch\, PhD\, Cincinnati Children's Hospita
+ l Medical Center\n\nDescription:\nHosted by Dr. Paul Taghert\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7296
+DTSTAMP:20190712T140300
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Building circadian medicine in a pediatric hospital
+END:VEVENT
+BEGIN:VEVENT
+UID:7297@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190904T120000
+DTEND;TZID=America/Chicago:20190904T130000
+DESCRIPTION:Speakers:\nJohn Hogenesch\, PhD\, Cincinnati Children's Hospita
+ l Medical Center\n\nDescription:\nHosted by: Dr. Paul Taghert\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7297
+DTSTAMP:20190712T141500
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Building circadian medicine in a pediatric hospital
+END:VEVENT
+BEGIN:VEVENT
+UID:7317@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190905T160000
+DTEND;TZID=America/Chicago:20190905T170000
+DESCRIPTION:Speakers:\nDr. Charles Zorumski\, Washington University\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7317
+DTSTAMP:20190712T134800
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6880@events.dbbs.wustl
