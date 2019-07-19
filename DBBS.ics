@@ -589,6 +589,19 @@ SUMMARY:Secretory IgA enhances gut B cells priming and systemic IgG respons
  es towards commensals
 END:VEVENT
 BEGIN:VEVENT
+UID:7370@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190802T150000
+DTEND;TZID=America/Chicago:20190802T170000
+DESCRIPTION:Speakers:\nMr. Jared V. Goodman\, MSTP- Molecular Genetics & Ge
+ nomics Program- Labs of Dr. Azad Bonni & Dr. Harrison Gabel\, Department o
+ f Neuroscience\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_eve
+ nt.aspx?EvID=7370
+DTSTAMP:20190718T163800
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Regulation of genome architecture by chromatin remodeling in the br
+ ain
+END:VEVENT
+BEGIN:VEVENT
 UID:7284@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190805T120000
 DTEND;TZID=America/Chicago:20190805T130000
@@ -610,6 +623,18 @@ DESCRIPTION:Speakers:\nMr. Joshua Brandon Alinger\, MSTP- Molecular Microbi
 DTSTAMP:20190627T091400
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Human PLCG2 Haploinsufficiency Results in a Novel Immunodeficiency
+END:VEVENT
+BEGIN:VEVENT
+UID:7369@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190814T140000
+DTEND;TZID=America/Chicago:20190814T160000
+DESCRIPTION:Speakers:\nMr. Maxwell Zimmerman\, Computational and Molecular 
+ Biophysics Program\; Laboratory of Dr. Greg Bowman\, Department of Biochem
+ istry and Molecular Biophysics\n\nLink: http://dbbs.wustl.edu/Resources/Pa
+ ges/calendar_event.aspx?EvID=7369
+DTSTAMP:20190718T163800
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:FAST Forward Protein Folding and Design
 END:VEVENT
 BEGIN:VEVENT
 UID:7296@events.dbbs.wustl
@@ -642,6 +667,17 @@ DESCRIPTION:Speakers:\nDr. Charles Zorumski\, Washington University\n\nLink
 DTSTAMP:20190712T134800
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7364@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190911T120000
+DTEND;TZID=America/Chicago:20190911T130000
+DESCRIPTION:Speakers:\nAlicia Izquierdo\, PhD\, The Brain Research Institut
+ e @ UCLA\n\nDescription:\nHosted by: Dr. Ilya Monosov\n\nLink: http://dbbs
+ .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7364
+DTSTAMP:20190718T164100
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Frontocortical circuits in reinforcement learning under uncertainty
 END:VEVENT
 BEGIN:VEVENT
 UID:6880@events.dbbs.wustl
