@@ -637,6 +637,19 @@ LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:FAST Forward Protein Folding and Design
 END:VEVENT
 BEGIN:VEVENT
+UID:7375@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190827T133000
+DTEND;TZID=America/Chicago:20190827T133000
+DESCRIPTION:Speakers:\nMr. Ji Woong Park\, Program in Molecular Cell Biolog
+ y\nLaboratory of Dr. Timothy Peterson\nDepartment of Internal Medicine\nDi
+ vision of Bone & Mineral Diseases\n\nLink: http://dbbs.wustl.edu/Resources
+ /Pages/calendar_event.aspx?EvID=7375
+DTSTAMP:20190722T124100
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:A molecular and computational approach to investigate understudied 
+ human genes
+END:VEVENT
+BEGIN:VEVENT
 UID:7296@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190904T120000
 DTEND;TZID=America/Chicago:20190904T130000
