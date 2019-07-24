@@ -625,6 +625,17 @@ LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Human PLCG2 Haploinsufficiency Results in a Novel Immunodeficiency
 END:VEVENT
 BEGIN:VEVENT
+UID:7378@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190813T150000
+DTEND;TZID=America/Chicago:20190813T150000
+DESCRIPTION:Speakers:\nChin-Wen Lai\, Immunology Program\nLaboratory of Dr.
+  Thad Stappenbeck\nDepartment of Pathology & Immunology\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7378
+DTSTAMP:20190723T091900
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Mesothelium-derived factors shape tissue resident macrophages
+END:VEVENT
+BEGIN:VEVENT
 UID:7369@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190814T140000
 DTEND;TZID=America/Chicago:20190814T160000
@@ -635,6 +646,18 @@ DESCRIPTION:Speakers:\nMr. Maxwell Zimmerman\, Computational and Molecular
 DTSTAMP:20190718T163800
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:FAST Forward Protein Folding and Design
+END:VEVENT
+BEGIN:VEVENT
+UID:7379@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190819T110000
+DTEND;TZID=America/Chicago:20190819T110000
+DESCRIPTION:Speakers:\nNicholas Jarjour\, Immunology Program\nLaboratory of
+  Dr. Brian Edelson\nDepartment of Pathology & Immunology\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7379
+DTSTAMP:20190723T091800
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:The transcription factor Bhlhe40 regulates tissue-resident macropha
+ ges and type 2 immunity
 END:VEVENT
 BEGIN:VEVENT
 UID:7375@events.dbbs.wustl
