@@ -565,6 +565,18 @@ SUMMARY:The impact of mRNA structural alterations on tRNA selection and rib
  osome rescue
 END:VEVENT
 BEGIN:VEVENT
+UID:7391@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190801T120000
+DTEND;TZID=America/Chicago:20190801T130000
+DESCRIPTION:Speakers:\nDavid Sprinzak\, Ph.D.\, Principal investigator\nDep
+ artment of Biochemistry and Molecular Biology\nTel Aviv University\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7391
+DTSTAMP:20190724T103300
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Precise patterning in the inner ear - the interplay between signali
+ ng and forces
+END:VEVENT
+BEGIN:VEVENT
 UID:7360@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190801T130000
 DTEND;TZID=America/Chicago:20190801T150000
@@ -587,6 +599,22 @@ DTSTAMP:20190708T142300
 LOCATION:Eric P. Newman Education Center-Seminar Room A
 SUMMARY:Secretory IgA enhances gut B cells priming and systemic IgG respons
  es towards commensals
+END:VEVENT
+BEGIN:VEVENT
+UID:7390@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190802T100000
+DTEND;TZID=America/Chicago:20190802T120000
+DESCRIPTION:Speakers:\nAmgen\, BioMedRAP & BP-Endure Summer Scholars\, DBBS
+  Summer Research Programs\n\nDescription:\nSummer Research Poster Symposiu
+ m showcases the research conducted this summer\nby undergraduate students 
+ in the Amgen Scholars Program\, The Biomedical\nResearch Apprenticeship Pr
+ ogram\, and the BP-Endure Neuroscience Pipeline\nProgram. Please join us t
+ o celebrate the research projects of these hard-\nworking and talented sch
+ olars.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=7390
+DTSTAMP:20190724T092000
+LOCATION:Farrell Learning and Teaching Center Atrium
+SUMMARY:Summer Research Poster Symposium
 END:VEVENT
 BEGIN:VEVENT
 UID:7370@events.dbbs.wustl
@@ -660,6 +688,18 @@ SUMMARY:The transcription factor Bhlhe40 regulates tissue-resident macropha
  ges and type 2 immunity
 END:VEVENT
 BEGIN:VEVENT
+UID:7380@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190827T120000
+DTEND;TZID=America/Chicago:20190827T130000
+DESCRIPTION:Speakers:\nLori Setton\, PhD\, Lopata Distinguished Professor &
+  Chair of Biomedical Engineering\, Washington Univesity in St. Louis.\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7380
+DTSTAMP:20190724T085200
+LOCATION:4444 Forest Park Ave\, Room 1235
+SUMMARY:Functional changes and treatment of injury-induced intervertebral d
+ isc pathology in pre-clinical models
+END:VEVENT
+BEGIN:VEVENT
 UID:7375@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190827T133000
 DTEND;TZID=America/Chicago:20190827T133000
@@ -679,18 +719,7 @@ DTEND;TZID=America/Chicago:20190904T130000
 DESCRIPTION:Speakers:\nJohn Hogenesch\, PhD\, Cincinnati Children's Hospita
  l Medical Center\n\nDescription:\nHosted by Dr. Paul Taghert\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7296
-DTSTAMP:20190712T140300
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Building circadian medicine in a pediatric hospital
-END:VEVENT
-BEGIN:VEVENT
-UID:7297@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190904T120000
-DTEND;TZID=America/Chicago:20190904T130000
-DESCRIPTION:Speakers:\nJohn Hogenesch\, PhD\, Cincinnati Children's Hospita
- l Medical Center\n\nDescription:\nHosted by: Dr. Paul Taghert\n\nLink: htt
- p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7297
-DTSTAMP:20190712T141500
+DTSTAMP:20190724T103400
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Building circadian medicine in a pediatric hospital
 END:VEVENT
@@ -698,11 +727,24 @@ BEGIN:VEVENT
 UID:7317@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190905T160000
 DTEND;TZID=America/Chicago:20190905T170000
-DESCRIPTION:Speakers:\nDr. Charles Zorumski\, Washington University\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7317
-DTSTAMP:20190712T134800
+DESCRIPTION:Speakers:\nDr. Charles Zorumski. M.D.\, Washington University\n
+ \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=731
+ 7
+DTSTAMP:20190724T155300
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:Neurosteroids & Glaucoma: Relevance to Psychiatry?
+END:VEVENT
+BEGIN:VEVENT
+UID:7381@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190910T120000
+DTEND;TZID=America/Chicago:20190910T130000
+DESCRIPTION:Speakers:\nChelsey Dunham\, Ph.D. Candidate\, Department of Bio
+ medical Engineering\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=7381
+DTSTAMP:20190724T085100
+LOCATION:4444 Forest Park Ave.\, Room 1235
+SUMMARY:Guiding cell-based therapies to prevent fibrosis and joint contract
+ ure
 END:VEVENT
 BEGIN:VEVENT
 UID:7364@events.dbbs.wustl
@@ -727,6 +769,16 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7392@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190912T160000
+DTEND;TZID=America/Chicago:20190912T170000
+DESCRIPTION:Speakers:\nAmber Stratman\, Ph.D.\, Washington University\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7392
+DTSTAMP:20190724T160000
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Regulation of Vascular Development by Hemodynamic Forces
+END:VEVENT
+BEGIN:VEVENT
 UID:7163@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190924T120000
 DTEND;TZID=America/Chicago:20190924T130000
@@ -736,5 +788,17 @@ DESCRIPTION:Speakers:\nDr. Juan Martinez\, Louisiana State University Veter
 DTSTAMP:20190321T100800
 LOCATION:Clopton Auditorium
 SUMMARY:Associate Professor
+END:VEVENT
+BEGIN:VEVENT
+UID:7382@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190924T120000
+DTEND;TZID=America/Chicago:20190924T130000
+DESCRIPTION:Speakers:\nTanya Wildes\, MD\, MSCI\, Associate Professor of Me
+ dicine\, WUSM\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
+ t.aspx?EvID=7382
+DTSTAMP:20190724T085100
+LOCATION:4444 Forest Park Ave.\, Room 1235
+SUMMARY:Falls in older adults with cancer: from risk prediction to preventi
+ on
 END:VEVENT
 END:VCALENDAR
