@@ -676,6 +676,19 @@ LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:FAST Forward Protein Folding and Design
 END:VEVENT
 BEGIN:VEVENT
+UID:7399@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190815T130000
+DTEND;TZID=America/Chicago:20190815T150000
+DESCRIPTION:Speakers:\nMs. Ninecia Scott\, Molecular Microbiology and Micro
+ bial Pathogenesis Program - Lab of Dr. Shabaana Khader\, Department of Mol
+ ecular Microbiology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=7399
+DTSTAMP:20190729T182900
+LOCATION:Holden Auditorium
+SUMMARY:Identifying and determining neutrophilic mediators of Mtb infection
+  and TB disease through the Mtb-mouse model system
+END:VEVENT
+BEGIN:VEVENT
 UID:7379@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190819T110000
 DTEND;TZID=America/Chicago:20190819T110000
@@ -724,6 +737,17 @@ DTSTAMP:20190722T124100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:A molecular and computational approach to investigate understudied 
  human genes
+END:VEVENT
+BEGIN:VEVENT
+UID:7398@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190903T130000
+DTEND;TZID=America/Chicago:20190903T150000
+DESCRIPTION:Speakers:\nMs. Renee Sears\, Human and Statistical Genetics Pro
+ gram - Lab of Dr. Ting Wang\, Department of Genetics\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7398
+DTSTAMP:20190729T182800
+LOCATION:Holden Auditorium
+SUMMARY:An Evolving Epigenome that Determines Tissue and Cell Specificity
 END:VEVENT
 BEGIN:VEVENT
 UID:7296@events.dbbs.wustl
