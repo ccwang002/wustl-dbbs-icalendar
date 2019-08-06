@@ -421,6 +421,21 @@ SUMMARY:The transcription factor Bhlhe40 regulates tissue-resident macropha
  ges and type 2 immunity
 END:VEVENT
 BEGIN:VEVENT
+UID:7409@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190820T150000
+DTEND;TZID=America/Chicago:20190820T180000
+DESCRIPTION:Speakers:\nFaculty Members of the Division of Biology & Biomedi
+ cal Sciences\, Washington University in St. Louis\n\nDescription:\nThis po
+ ster session introduces students to the vast array of research being\ncond
+ ucted by members of the Division of Biology & Biomedical Sciences. 100+\nl
+ abs from 11 DBBS Graduate Programs will be represented during two poster\n
+ session\; 3:00-4:00 & 5:00-6:00\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7409
+DTSTAMP:20190805T145700
+LOCATION:Eric P. Newman Education Center
+SUMMARY:DBBS Faculty Poster Session
+END:VEVENT
+BEGIN:VEVENT
 UID:7397@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190826T100000
 DTEND;TZID=America/Chicago:20190826T120000
@@ -663,8 +678,8 @@ DTEND;TZID=America/Chicago:20191015T130000
 DESCRIPTION:Speakers:\nDr. Daniel Portnoy\, University of California\, Berk
  eley\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
  ID=7294
-DTSTAMP:20190709T103500
-LOCATION:Clopton Auditorium
+DTSTAMP:20190805T091000
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:How intracellular pathogens sense the host cell and vice versa and 
  the serendipitous discovery that Listeria monocytogenes is electrogenic
 END:VEVENT
