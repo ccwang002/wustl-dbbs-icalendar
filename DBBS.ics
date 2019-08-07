@@ -436,6 +436,18 @@ LOCATION:Eric P. Newman Education Center
 SUMMARY:DBBS Faculty Poster Session
 END:VEVENT
 BEGIN:VEVENT
+UID:7420@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190822T151500
+DTEND;TZID=America/Chicago:20190822T171500
+DESCRIPTION:Speakers:\nMr. Benjamin Seitzman\, Neurosciences Program - Lab 
+ of Dr. Steven Petersen\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=7420
+DTSTAMP:20190807T075000
+LOCATION:East Imaging Room 2311\, NIL Large Conference Room
+SUMMARY:Individual differences in human brain functional network organizati
+ on.
+END:VEVENT
+BEGIN:VEVENT
 UID:7397@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190826T100000
 DTEND;TZID=America/Chicago:20190826T120000
@@ -530,6 +542,18 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Frontocortical circuits in reinforcement learning under uncertainty
 END:VEVENT
 BEGIN:VEVENT
+UID:7413@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190912T120000
+DTEND;TZID=America/Chicago:20190912T130000
+DESCRIPTION:Speakers:\nHunter Fraser\, PhD\, Associate Professor of Biology
+ \nStanford University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7413
+DTSTAMP:20190806T094500
+LOCATION:Clopton Auditorium
+SUMMARY:Functional genetic variants revealed by massively parallel precise 
+ genome editing
+END:VEVENT
+BEGIN:VEVENT
 UID:6880@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190912T160000
 DTEND;TZID=America/Chicago:20190912T170000
@@ -570,6 +594,31 @@ SUMMARY:“Emerging Neurotechnologies: From Research to Clinical Applicatio
  n”
 END:VEVENT
 BEGIN:VEVENT
+UID:7421@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190918T120000
+DTEND;TZID=America/Chicago:20190918T130000
+DESCRIPTION:Speakers:\nAryn Gittis\, PhD\, Carnegie Mellon University\n\nDe
+ scription:\nHosted by: Dr. Martha Bagnall\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7421
+DTSTAMP:20190807T075000
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Cell-Specific Pallidal Intervention Induces Long-Lasting Motor Resc
+ ue In a Mouse Model of Parkinson's Disease
+END:VEVENT
+BEGIN:VEVENT
+UID:7415@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T120000
+DTEND;TZID=America/Chicago:20190919T130000
+DESCRIPTION:Speakers:\nAdam Siepel\, PhD\, Chair\, Simons Center for Quanti
+ tative Biology\nProfessor\, Watson School of Biological Sciences\nCold Spr
+ ing Harbor Laboratory\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7415
+DTSTAMP:20190806T094500
+LOCATION:Clopton Auditorium
+SUMMARY:Applications of nascent RNA-sequencing: transcriptional regulation\
+ , RNA stability\, and regulatory evolution
+END:VEVENT
+BEGIN:VEVENT
 UID:7163@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190924T120000
 DTEND;TZID=America/Chicago:20190924T130000
@@ -602,6 +651,18 @@ DESCRIPTION:Speakers:\nMichael Hasselmo\, DPhil\, Boston University\n\nDesc
 DTSTAMP:20190718T163900
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Coding of space and time in cortical circuits
+END:VEVENT
+BEGIN:VEVENT
+UID:7417@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191003T120000
+DTEND;TZID=America/Chicago:20191003T130000
+DESCRIPTION:Speakers:\nAravinda Chakravarti\, PhD\, Director\, Center for H
+ uman Genetics and Genomics\nProfessor of Medicine\nNew York University Sch
+ ool of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7417
+DTSTAMP:20190806T094500
+LOCATION:Clopton Auditorium
+SUMMARY:The genetic basis for Hirschsprung Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7320@events.dbbs.wustl
@@ -670,6 +731,18 @@ DESCRIPTION:Speakers:\nLeslie Leinwand\, PhD\, Chief Scientific Officer of
 DTSTAMP:20181228T111700
 LOCATION:Eric P. Newman Education Center
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7419@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191010T120000
+DTEND;TZID=America/Chicago:20191010T130000
+DESCRIPTION:Speakers:\nNasser Rusan\, PhD\, Senior Investigator\, Cell Biol
+ ogy and Physiology Center\nNational Heart\, Lung\, and Blood Institute\nNa
+ tional Institutes of Health\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=7419
+DTSTAMP:20190806T094400
+LOCATION:Clopton Auditorium
+SUMMARY:Building tissue spcific centrosomes
 END:VEVENT
 BEGIN:VEVENT
 UID:7294@events.dbbs.wustl
