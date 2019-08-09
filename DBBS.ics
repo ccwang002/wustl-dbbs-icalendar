@@ -436,6 +436,19 @@ LOCATION:Eric P. Newman Education Center
 SUMMARY:DBBS Faculty Poster Session
 END:VEVENT
 BEGIN:VEVENT
+UID:7422@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190822T140000
+DTEND;TZID=America/Chicago:20190822T140000
+DESCRIPTION:Speakers:\nTayte Campbell\, Program in Plant and Microbial Bios
+ ciences\nLaboratory of Dr. Gautam Dantas\nDept of Pathology & Immunology\n
+ \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=742
+ 2
+DTSTAMP:20190808T085500
+LOCATION:Moore Auditorium
+SUMMARY:Multi-omic understanding of the evolution of xenobiotic tolerance i
+ n bacterial isolates and communities
+END:VEVENT
+BEGIN:VEVENT
 UID:7420@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190822T151500
 DTEND;TZID=America/Chicago:20190822T171500
