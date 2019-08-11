@@ -409,6 +409,17 @@ SUMMARY:A Path Made Clear: The elucidation of the role of S100A8/A9 in chro
  nic pulmonary Tuberculosis
 END:VEVENT
 BEGIN:VEVENT
+UID:7426@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190816T090000
+DTEND;TZID=America/Chicago:20190816T100000
+DESCRIPTION:Speakers:\nRoberto Civitelli\, M.D.\, Dept of Medicine\, Divisi
+ on of Bone and Mineral Diseases\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7426
+DTSTAMP:20190809T084900
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:"Transparency and Rigor in Data Analysis and Presentation"
+END:VEVENT
+BEGIN:VEVENT
 UID:7379@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190819T110000
 DTEND;TZID=America/Chicago:20190819T110000
@@ -419,6 +430,19 @@ DTSTAMP:20190723T091800
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:The transcription factor Bhlhe40 regulates tissue-resident macropha
  ges and type 2 immunity
+END:VEVENT
+BEGIN:VEVENT
+UID:7425@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190820T130000
+DTEND;TZID=America/Chicago:20190820T140000
+DESCRIPTION:Speakers:\nFASEB Representatives\, Federation of American Socie
+ ties for Experimental Biology\n\nDescription:\nMust RSVP: https://register
+ .gotowebinar.com/register/6510018532951164429\n\nLink: http://dbbs.wustl.e
+ du/Resources/Pages/calendar_event.aspx?EvID=7425
+DTSTAMP:20190809T085200
+LOCATION:Online
+SUMMARY:Upcoming FASEB Webinar: Do Longer Hours Equal High Productivity and
+  Increased Passion?
 END:VEVENT
 BEGIN:VEVENT
 UID:7409@events.dbbs.wustl
@@ -542,6 +566,19 @@ DTSTAMP:20190724T085100
 LOCATION:4444 Forest Park Ave.\, Room 1235
 SUMMARY:Guiding cell-based therapies to prevent fibrosis and joint contract
  ure
+END:VEVENT
+BEGIN:VEVENT
+UID:7424@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190910T150000
+DTEND;TZID=America/Chicago:20190910T160000
+DESCRIPTION:Speakers:\nPatrick J. Hu\, M.D.\, Ph.D.\, Associate Professor o
+ f Medicine and Cell and Developmental Biology\nDirector\, Harrison Society
+ \nVanderbilt University Medical Center\n\nLink: http://dbbs.wustl.edu/Reso
+ urces/Pages/calendar_event.aspx?EvID=7424
+DTSTAMP:20190809T085200
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"Role of TRAPalpha/SSR1 in insulin biogenesis and endoplasmic retic
+ ulum homeostasis"
 END:VEVENT
 BEGIN:VEVENT
 UID:7364@events.dbbs.wustl
