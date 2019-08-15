@@ -445,6 +445,17 @@ SUMMARY:Upcoming FASEB Webinar: Do Longer Hours Equal High Productivity and
   Increased Passion?
 END:VEVENT
 BEGIN:VEVENT
+UID:7435@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190820T140000
+DTEND;TZID=America/Chicago:20190820T150000
+DESCRIPTION:Speakers:\nMs. Sarem Seifu Hailemariam\, Molecular Cell Biology
+  Program\nLaboratory of Dr. Peter Burgers\nDepartment of Biochemistry\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7435
+DTSTAMP:20190814T112700
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Regulation of the yeast checkpoint kinase Tel1
+END:VEVENT
+BEGIN:VEVENT
 UID:7409@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190820T150000
 DTEND;TZID=America/Chicago:20190820T180000
@@ -460,6 +471,18 @@ LOCATION:Eric P. Newman Education Center
 SUMMARY:DBBS Faculty Poster Session
 END:VEVENT
 BEGIN:VEVENT
+UID:7434@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190822T120000
+DTEND;TZID=America/Chicago:20190822T130000
+DESCRIPTION:Speakers:\nPrajakta Adsul\, PhD\, MBBS\, MPH\, Cancer Preventio
+ n Fellow\, Implementation Science\nNational Cancer Institute\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7434
+DTSTAMP:20190814T112700
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; Richmond Room
+SUMMARY:"Studying the Implementation of Evidence-based Interventions for Ca
+ ncer Prevention in Under-resourced Settings."
+END:VEVENT
+BEGIN:VEVENT
 UID:7422@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190822T140000
 DTEND;TZID=America/Chicago:20190822T140000
@@ -473,6 +496,18 @@ SUMMARY:Multi-omic understanding of the evolution of xenobiotic tolerance i
  n bacterial isolates and communities
 END:VEVENT
 BEGIN:VEVENT
+UID:7431@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190822T150000
+DTEND;TZID=America/Chicago:20190822T160000
+DESCRIPTION:Speakers:\nEileen M. Shore\, PhD\, Perelman School of Medicine\
+ , University of Pennsylvania\, Philadelphia\, PA\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=7431
+DTSTAMP:20190814T114300
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Heterotopic Ossification in Fibrodysplasia Ossificans Progressiva (
+ FOP) – Understanding How One Tissue Becomes Another
+END:VEVENT
+BEGIN:VEVENT
 UID:7420@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190822T151500
 DTEND;TZID=America/Chicago:20190822T171500
@@ -483,6 +518,17 @@ DTSTAMP:20190807T075000
 LOCATION:East Imaging Room 2311\, NIL Large Conference Room
 SUMMARY:Individual differences in human brain functional network organizati
  on.
+END:VEVENT
+BEGIN:VEVENT
+UID:7430@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190823T090000
+DTEND;TZID=America/Chicago:20190823T100000
+DESCRIPTION:Speakers:\nEileen M. Shore\, PhD\, Perelman School of Medicine\
+ , University of Pennsylvania\, Philadelphia\, PA\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=7430
+DTSTAMP:20190814T114400
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Heterotopic Ossification – Bone Formation Outside the Skeleton
 END:VEVENT
 BEGIN:VEVENT
 UID:7397@events.dbbs.wustl
@@ -521,6 +567,17 @@ DTSTAMP:20190722T124100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:A molecular and computational approach to investigate understudied 
  human genes
+END:VEVENT
+BEGIN:VEVENT
+UID:7432@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190828T060000
+DTEND;TZID=America/Chicago:20190829T120000
+DESCRIPTION:Speakers:\ndomino\, <a href="http://1dominoqq.com/">More info</
+ a>\n\nDescription:\nMore info\n\nLink: http://dbbs.wustl.edu/Resources/Pag
+ es/calendar_event.aspx?EvID=7432
+DTSTAMP:20190814T112800
+LOCATION:Online
+SUMMARY:Pkv Games Online
 END:VEVENT
 BEGIN:VEVENT
 UID:7398@events.dbbs.wustl
@@ -623,6 +680,22 @@ DESCRIPTION:Speakers:\nAmber Stratman\, Ph.D.\, Washington University\n\nLi
 DTSTAMP:20190724T160000
 LOCATION:Maternity Building\, Room 725
 SUMMARY:Regulation of Vascular Development by Hemodynamic Forces
+END:VEVENT
+BEGIN:VEVENT
+UID:7436@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190913T143000
+DTEND;TZID=America/Chicago:20190913T153000
+DESCRIPTION:Speakers:\nDr. Becky Miller\, Becky Miller\, PhD\, Director of 
+ the NIH Office of Strategic Coordination and program officer for the NIH D
+ irector’s Early Independence Award\, will be here for a site visit to th
+ e lab of Carl DeSelm\, MD\, PhD who received the NIH Director’s Early In
+ dependence Award for his innovative cancer research.  This program suppor
+ ts high-risk ideas with high-impact potential and encourages exceptional c
+ reativity and thinking outside the box.\n\nLink: http://dbbs.wustl.edu/Res
+ ources/Pages/calendar_event.aspx?EvID=7436
+DTSTAMP:20190814T112700
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:High-Risk\, High-Reward Reserach Program Seminar
 END:VEVENT
 BEGIN:VEVENT
 UID:7406@events.dbbs.wustl
