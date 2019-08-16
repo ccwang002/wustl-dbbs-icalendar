@@ -531,6 +531,19 @@ LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Heterotopic Ossification – Bone Formation Outside the Skeleton
 END:VEVENT
 BEGIN:VEVENT
+UID:7438@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190823T140000
+DTEND;TZID=America/Chicago:20190823T160000
+DESCRIPTION:Speakers:\nMr. Umber Dube\, MSTP- Neurosciences Program- Labs o
+ f Dr. Carlos Cruchaga\, Department of Psychiatry & Dr. Brad Racette\, Depa
+ rtment of Neurology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=7438
+DTSTAMP:20190815T110900
+LOCATION:Eric P. Newman Education Center-Seminar Room A
+SUMMARY:Polygenic and Transcriptomic Studies in Neurodegeneration: Towards 
+ More Precise Medicine
+END:VEVENT
+BEGIN:VEVENT
 UID:7397@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190826T100000
 DTEND;TZID=America/Chicago:20190826T120000
@@ -578,6 +591,40 @@ DESCRIPTION:Speakers:\ndomino\, <a href="http://1dominoqq.com/">More info</
 DTSTAMP:20190814T112800
 LOCATION:Online
 SUMMARY:Pkv Games Online
+END:VEVENT
+BEGIN:VEVENT
+UID:7439@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190830T090000
+DTEND;TZID=America/Chicago:20190830T100000
+DESCRIPTION:Speakers:\nNancy Bloom\, PT\, DPT\, MSOT\, Program in Physical 
+ Therapy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
+ ?EvID=7439
+DTSTAMP:20190815T110900
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Mechanism-based Classification of Pain and Clinical Implications
+END:VEVENT
+BEGIN:VEVENT
+UID:7442@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190830T130000
+DTEND;TZID=America/Chicago:20190830T150000
+DESCRIPTION:Speakers:\nMs. Hannah Leigh Miller\, MSTP- Immunology Program- 
+ Lab of Dr. Marco Colonna\, Department of Pathology and Immunology\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7442
+DTSTAMP:20190815T121700
+LOCATION:Eric P. Newman Education Center-Seminar Room A
+SUMMARY:"A Novel Function of Plasmacytoid Dendritic Cells in Regulating Typ
+ e 2 Immune Responses"
+END:VEVENT
+BEGIN:VEVENT
+UID:7440@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190830T140000
+DTEND;TZID=America/Chicago:20190830T160000
+DESCRIPTION:Speakers:\nMr. Moises William Arriaga\, MSTP- Neurosciences Pro
+ gram- Lab of Dr. Edward Han\, Department of Neuroscience\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7440
+DTSTAMP:20190815T110800
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Dedicated Interneuronal Microcircuits Regulated by Behavioral State
 END:VEVENT
 BEGIN:VEVENT
 UID:7398@events.dbbs.wustl
@@ -717,6 +764,19 @@ SUMMARY:“Emerging Neurotechnologies: From Research to Clinical Applicatio
  n”
 END:VEVENT
 BEGIN:VEVENT
+UID:7437@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190917T150000
+DTEND;TZID=America/Chicago:20190917T160000
+DESCRIPTION:Speakers:\nHelen Piwnica-Worms\, Ph.D.\, Professor of Experimen
+ tal Radiation Oncology\nDivision of Radiation Oncology\nThe University of 
+ Texas MD Anderson Cancer Center\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7437
+DTSTAMP:20190815T122000
+LOCATION:Stahl Library (McDonnell Sciences Building\, Room 426)
+SUMMARY:Identifying and targeting vulnerabilities in chemotherapy-resistant
+  triple negative breast cancer
+END:VEVENT
+BEGIN:VEVENT
 UID:7421@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190918T120000
 DTEND;TZID=America/Chicago:20190918T130000
@@ -763,6 +823,17 @@ DTSTAMP:20190724T085100
 LOCATION:4444 Forest Park Ave.\, Room 1235
 SUMMARY:Falls in older adults with cancer: from risk prediction to preventi
  on
+END:VEVENT
+BEGIN:VEVENT
+UID:7441@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191001T120000
+DTEND;TZID=America/Chicago:20191001T130000
+DESCRIPTION:Speakers:\nDr. Mario Feldman\, Department of Molecular Microbio
+ logy\nWashington University - School of Medicine\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=7441
+DTSTAMP:20190815T121800
+LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
+SUMMARY:Associate Professor
 END:VEVENT
 BEGIN:VEVENT
 UID:7367@events.dbbs.wustl
