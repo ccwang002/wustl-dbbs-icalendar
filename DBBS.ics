@@ -604,6 +604,19 @@ LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Mechanism-based Classification of Pain and Clinical Implications
 END:VEVENT
 BEGIN:VEVENT
+UID:7504@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190830T100000
+DTEND;TZID=America/Chicago:20190830T120000
+DESCRIPTION:Speakers:\nMs. Nicole Howard\, Molecular Microbiology and Micro
+ bial Pathogenesis Program - Lab of Dr. Shabaana Khader\, Department of Mol
+ ecular Microbiology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=7504
+DTSTAMP:20190820T094100
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:The role of rifampicin resistance mutations in host immune modulati
+ on by Mycobacterium tuberculosis
+END:VEVENT
+BEGIN:VEVENT
 UID:7442@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190830T130000
 DTEND;TZID=America/Chicago:20190830T150000
