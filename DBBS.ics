@@ -685,6 +685,17 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:Neurosteroids & Glaucoma: Relevance to Psychiatry?
 END:VEVENT
 BEGIN:VEVENT
+UID:7559@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190905T160000
+DTEND;TZID=America/Chicago:20190905T170000
+DESCRIPTION:Speakers:\nJason Yi\, PhD\, Assistant Professor\nDepartment of 
+ Neuroscience\nWashington University School of Medicine\n\nLink: http://dbb
+ s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7559
+DTSTAMP:20190822T144200
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Valence and variance in neurodevelopment disorders
+END:VEVENT
+BEGIN:VEVENT
 UID:7444@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190909T161500
 DTEND;TZID=America/Chicago:20190909T161500
@@ -766,6 +777,22 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:Regulation of Vascular Development by Hemodynamic Forces
 END:VEVENT
 BEGIN:VEVENT
+UID:7515@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190912T160000
+DTEND;TZID=America/Chicago:20190912T170000
+DESCRIPTION:Speakers:\nHoward Rockman\, MD\, Edward S Orgain Professor of C
+ ardiology                                
+   Professor of Medicine\, Cell Biology and Molecular Genetics      
+                                      
+                                  Director\
+ , Cardiovascular Research Center\nDuke University Medical Center\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7515
+DTSTAMP:20190822T090800
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:"Biased G Protein-Coupled Receptor Signaling"
+END:VEVENT
+BEGIN:VEVENT
 UID:7436@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190913T143000
 DTEND;TZID=America/Chicago:20190913T153000
@@ -801,6 +828,31 @@ SUMMARY:“Emerging Neurotechnologies: From Research to Clinical Applicatio
  n”
 END:VEVENT
 BEGIN:VEVENT
+UID:7511@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190916T120000
+DTEND;TZID=America/Chicago:20190916T130000
+DESCRIPTION:Speakers:\nMarina Reeves\, PhD\, Deputy Associate Dean and Asso
+ ciate Professor\nSchool of Public Health\nUniversity of Queensland\, Austr
+ alia\n\nDescription:\nEvidence associates physical inactivity and excess b
+ ody weight with poor\noutcomes in women with early-stage breast cancer\, a
+ nd some studies support\nweight loss interven-tions following treatment\, 
+ however limited evidence is\navailable on the broader benefits of such int
+ erventions. Moreover\, women\ndiagnosed with stage IV or metastatic breast
+  cancer are mostly excluded from\nthese studies\, so no recommendations ex
+ ist regarding physical activity\, diet\,\nor weight management. This prese
+ ntation will provide an over-view of Dr.\nReeves’ research on diet and p
+ hysical activity in women with early-stage and\nwomen with metastatic brea
+ st cancer. For more information\, contact: Tammie\nRepko at repkot@wustl.e
+ du.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7511
+DTSTAMP:20190822T090800
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Living Well and Optimizing Care after Breast Cancer: Supporting Wom
+ en with Early-Stage and Metastatic Breast Cancer with Diet and Physical Ac
+ tivity
+END:VEVENT
+BEGIN:VEVENT
 UID:7446@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190916T161500
 DTEND;TZID=America/Chicago:20190916T161500
@@ -810,6 +862,40 @@ DESCRIPTION:Speakers:\nDr. Wayne Yokoyama\, WUSM\nDepartment of Internal Me
 DTSTAMP:20190816T095000
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:WUSM – Department of Internal Medicine - Rheumatology
+END:VEVENT
+BEGIN:VEVENT
+UID:7532@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190916T171500
+DTEND;TZID=America/Chicago:20190916T181500
+DESCRIPTION:Speakers:\nSteven O. Marx\, M.D.\, Herbert and Florence Irving 
+ Professor of Cardiology\nProfessor of Medicine (in Pharmacology)\nColumbia
+  University College of Physicians and Surgeons\nDirector\, Cardiovascular 
+ Fellowship Program\nColumbia University Irving Medical Center\n\nDescripti
+ on:\nSteven O. Marx\, M.D. is the Herbert and Florence Irving Professor of
+ \nCardiology at Columbia University Irving Medical Center. He is also Dire
+ ctor\nof the Cardiovascular Fellowship Program at Columbia University Medi
+ cal\nCenter/NewYork-Presbyterian Hospital. Dr. Marx's research program in\
+ ncardiovascular diseases at Columbia has been focused in two major areas:\
+ nmolecular cardiology\, particularly the regulation of ion channels in nor
+ mal\nand pathological conditions in the heart\, and vascular biology\, par
+ ticularly\nthe molecular mechanisms of vascular smooth muscle proliferatio
+ n\, migration\nand contractility. Working with others at Columbia\, Dr. Ma
+ rx has identified\nrapamycin (sirolimus) as a therapeutic agent for preven
+ ting restenosis after\nangioplasty/stent implantation. He also characteriz
+ ed the dysfunction of the\nryanodine receptor in heart failure. A major fo
+ cus of Dr. Marx's current\nresearch is the regulation of arterial contract
+ ility and blood pressure by the\nion channels. See Dr. Marx's: Abstract | 
+ Biography | Research | Flyer\nRefreshments will be Served NOTE: Parking is
+  available outside of Whitaker\nHall in the new East End Garage. Parking r
+ amps are free of charge after 5 pm\nclick here for the map. If taking the 
+ subway\, the nearest metrolink stop is\nSkinker. *See map: http://cbac.wus
+ tl.edu/Seminars/MAP3.pdf* *Please contact\nhbnguyen@wustl.edu for more inf
+ ormation*\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7532
+DTSTAMP:20190822T104200
+LOCATION:Danforth Campus\, Whitaker Hall\, Room 218
+SUMMARY:CBAC Seminar-Unravelling the Mechanisms of Fight or Flight: It’s 
+ All About the Neighborhood
 END:VEVENT
 BEGIN:VEVENT
 UID:7437@events.dbbs.wustl
@@ -837,6 +923,18 @@ SUMMARY:Cell-Specific Pallidal Intervention Induces Long-Lasting Motor Resc
  ue In a Mouse Model of Parkinson's Disease
 END:VEVENT
 BEGIN:VEVENT
+UID:7560@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190918T120000
+DTEND;TZID=America/Chicago:20190918T124500
+DESCRIPTION:Speakers:\nBecker Library\, Becker Library: Researcher Workshop
+  Series\n\nDescription:\nCPD RSVP required:\nhttps://mailingsresponse.wust
+ l.edu/trk/click?ref=z1030up2e7_2-e950x3113e0x0437&\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7560
+DTSTAMP:20190822T144300
+LOCATION:Farrell Learning and Teaching Center\, room 204
+SUMMARY:The New My Bibliography
+END:VEVENT
+BEGIN:VEVENT
 UID:7415@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190919T120000
 DTEND;TZID=America/Chicago:20190919T130000
@@ -848,6 +946,49 @@ DTSTAMP:20190806T094500
 LOCATION:Clopton Auditorium
 SUMMARY:Applications of nascent RNA-sequencing: transcriptional regulation\
  , RNA stability\, and regulatory evolution
+END:VEVENT
+BEGIN:VEVENT
+UID:7510@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T120000
+DTEND;TZID=America/Chicago:20190919T130000
+DESCRIPTION:Speakers:\nYousuf Zafar\, MD\, MHS\, FASCO\, Associate Professo
+ r of Medicine\, Public Policy\, and Population Science\nDirector of Health
+ care Innovation\nDuke Cancer Institute\n\nDescription:\nMore information: 
+ Cancer treatment has become more expensive over the past\ndecade\, sometim
+ es costing tens of thousands of dollars a month. In many cases\,\na growin
+ g portion of these costs are being shifted to patients\, resulting in\ntre
+ atment-related financial distress. Due to insurmountable bills\, patients\
+ nexperience worse quality of life\, adherence\, and outcomes. What can we 
+ do to\nreduce the financial toxicity of cancer care? The solution involves
+  policy-\,\nprovider-\, and patient-level interventions.\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7510
+DTSTAMP:20190822T090700
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Intervening on the Financial Toxicity of Cancer Care
+END:VEVENT
+BEGIN:VEVENT
+UID:7508@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T160000
+DTEND;TZID=America/Chicago:20190919T170000
+DESCRIPTION:Speakers:\nDr. Chao Zhou\, Wash U\n\nLink: http://dbbs.wustl.ed
+ u/Resources/Pages/calendar_event.aspx?EvID=7508
+DTSTAMP:20190822T090700
+LOCATION:Maternity Building\, Room 725
+SUMMARY:High-speed space-division multiplexing optical coherence tomography
+END:VEVENT
+BEGIN:VEVENT
+UID:7517@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T160000
+DTEND;TZID=America/Chicago:20190919T170000
+DESCRIPTION:Speakers:\nThorold Theunissen\, PhD\, Assistant Professor of De
+ velopmental Biology\nWashington University\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=7517
+DTSTAMP:20190822T103900
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:"Understanding Human Pluripotent Stem Cell States and Their Applica
+ tions"
 END:VEVENT
 BEGIN:VEVENT
 UID:7447@events.dbbs.wustl
@@ -897,6 +1038,18 @@ SUMMARY:Proteomic identification of replication-coupled DNA repair mechanis
  ms
 END:VEVENT
 BEGIN:VEVENT
+UID:7519@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190926T160000
+DTEND;TZID=America/Chicago:20190926T170000
+DESCRIPTION:Speakers:\nAmber Stratman\, PhD\, Assistant Professor of Cell B
+ iology and Physiology\nWashington University\n\nLink: http://dbbs.wustl.ed
+ u/Resources/Pages/calendar_event.aspx?EvID=7519
+DTSTAMP:20190822T104300
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:"Regulation of Vascular Development by Hemodynamic Forces"
+END:VEVENT
+BEGIN:VEVENT
 UID:7441@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191001T120000
 DTEND;TZID=America/Chicago:20191001T130000
@@ -939,6 +1092,21 @@ DESCRIPTION:Speakers:\nDr. Mae Gordon\, Washington University\n\nLink: http
 DTSTAMP:20190712T144500
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7520@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191003T160000
+DTEND;TZID=America/Chicago:20191003T170000
+DESCRIPTION:Speakers:\nLev Becker\, PhD\, Assistant Professor\, Ben May Dep
+ artment for Cancer Research                       
+                                    Unive
+ rsity of Chicago\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=7520
+DTSTAMP:20190822T104300
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:"Obesity and Insulin Resistance Promote Atherogenesis through an 
+ IFNgamma-regulated Macrophage Protein Network”.
 END:VEVENT
 BEGIN:VEVENT
 UID:7401@events.dbbs.wustl
@@ -1001,13 +1169,15 @@ BEGIN:VEVENT
 UID:6881@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191010T000000
 DTEND;TZID=America/Chicago:20191010T235900
-DESCRIPTION:Speakers:\nLeslie Leinwand\, PhD\, Chief Scientific Officer of 
- the BioFrontiers Institute\nUniversity of Colorado Boulder\n\nDescription:
- \nEighth Annual Cardiovascular Research Day\n\nLink: http://dbbs.wustl.edu
- /Resources/Pages/calendar_event.aspx?EvID=6881
-DTSTAMP:20181228T111700
-LOCATION:Eric P. Newman Education Center
-SUMMARY:TBA
+DESCRIPTION:Speakers:\nLeslie Leinwand\, PhD\, Professor of the Department 
+ of Molecular\, Cellular and Developmental Biology\nChief Scientific Office
+ r of the BioFrontiers Institute\nUniversity of Colorado Boulder\n\nDescrip
+ tion:\nEighth Annual Cardiovascular Research Day\n\nLink: http://dbbs.wust
+ l.edu/Resources/Pages/calendar_event.aspx?EvID=6881
+DTSTAMP:20190822T150900
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Myosin Myopathies: Mechanisms of Pathogenesis and Paths to Therapeu
+ tics
 END:VEVENT
 BEGIN:VEVENT
 UID:7419@events.dbbs.wustl
@@ -1080,6 +1250,18 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7525@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191017T160000
+DTEND;TZID=America/Chicago:20191017T170000
+DESCRIPTION:Speakers:\nPhillip Cuculich\, MD\, Associate Professor of Medic
+ ine\, Cardiovascular Division\nWashington University\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7525
+DTSTAMP:20190822T104400
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7453@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191021T161500
 DTEND;TZID=America/Chicago:20191021T161500
@@ -1125,6 +1307,37 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7556@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191028T171500
+DTEND;TZID=America/Chicago:20191028T181500
+DESCRIPTION:Speakers:\nIra S. Cohen\, M.D.\, Ph.D.\, Distinguished Professo
+ r\nDepartment of Physiology & Biophysics\nRenaissance School of Medicine\n
+ Stony Brook University\n\nDescription:\nIra S. Cohen\, M.D.\, Ph.D. is the
+  Distinguished Professor in the Department of\nPhysiology and Biophysics R
+ enaissance School of Medicine at Stony Brook\nUniversity. Dr. Cohen as one
+  of the leading electrophysiologists in the world\n– has made seminal co
+ ntributions to our understanding of the pacemaker and\,\nmore recently\, b
+ egan designing ‘biological pacemakers\,’ which are cell-based\nvectors
+  that normalize cardiac arrhythmias. Dr. Cohen's research focuses on\nthe 
+ physiology and pharmacology of isolated cardiac myocytes from various\nreg
+ ions (SA node\, atrium\, ventricle\, Purkinje system) of the mammalian hea
+ rt.\nSee Dr. Cohen's: Biography | Research | Flyer Refreshments will be Se
+ rved\nNOTE: If arriving by car\, the underground parking ramp is available
+  by\nWhitaker Hall. The entrance is on Hoyt Drive turning in from Forest P
+ ark\nParkway. parking ramps are free of charge after 5 p.m. See map. If ta
+ king the\nmetro from the Medical School campus\, take the blue line Shrews
+ bury Landsdowne\nI-44 train to Skinker (two stops). The nearest metrolink 
+ stop is Skinker.\nEnter through the doors on the right at Green Hall. Go t
+ o the second floor of\nGreen Hall and walk through Brauer Hall and Whitake
+ r Hall. Room 218 is at the\nend of Whitaker Hall on the left of the librar
+ y conference room. See map.\n**Please contact Huyen (Gwen) Nguyen at hbngu
+ yen@wustl.edu for more\ninformation**\n\nLink: http://dbbs.wustl.edu/Resou
+ rces/Pages/calendar_event.aspx?EvID=7556
+DTSTAMP:20190822T090300
+LOCATION:Danforth Campus\, Whitaker Hall\, Room 218
+SUMMARY:From Biological Pacemakers to Cancer Therapy
+END:VEVENT
+BEGIN:VEVENT
 UID:7388@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191029T120000
 DTEND;TZID=America/Chicago:20191029T130000
@@ -1165,5 +1378,22 @@ DESCRIPTION:Speakers:\nDr. Steve Bassnett\, Washington University\n\nLink:
 DTSTAMP:20190712T144500
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7527@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191031T160000
+DTEND;TZID=America/Chicago:20191031T170000
+DESCRIPTION:Speakers:\nSusan Smyth\, MD\, PhD\, Jeff Gill Professor of Card
+ iology                                  
+                Director\, Gill Heart & Vascular Institute 
+                                      
+   Chief\, Division of Cardiovascular Medicine              
+                 University of  Kentucky\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7527
+DTSTAMP:20190822T104400
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:"Functional Validation of Novel Genetic Predictors of Coronary Arte
+ ry Disease"
 END:VEVENT
 END:VCALENDAR
