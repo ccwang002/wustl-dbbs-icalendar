@@ -605,6 +605,18 @@ LOCATION:Southwest Tower 7th Floor\, Conference Room 728
 SUMMARY:Expression and function of snoRNAs in Acute Myeloid Leukemia
 END:VEVENT
 BEGIN:VEVENT
+UID:7579@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190829T160000
+DTEND;TZID=America/Chicago:20190829T170000
+DESCRIPTION:Speakers:\nJane Melville\, Museums Victoria\, Melbourne\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7579
+DTSTAMP:20190823T092900
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:An Integrative Approach using Phylogenomics and High-resolution X-r
+ ay Computed Tomography (CT) for Species Delimitation in Cryptic Earless Dr
+ agon Lizards (Genus Tympanocryptis) from Australia
+END:VEVENT
+BEGIN:VEVENT
 UID:7439@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190830T090000
 DTEND;TZID=America/Chicago:20190830T100000
@@ -694,6 +706,19 @@ DESCRIPTION:Speakers:\nJason Yi\, PhD\, Assistant Professor\nDepartment of
 DTSTAMP:20190822T144200
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Valence and variance in neurodevelopment disorders
+END:VEVENT
+BEGIN:VEVENT
+UID:7565@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190909T120000
+DTEND;TZID=America/Chicago:20190909T130000
+DESCRIPTION:Speakers:\nDavid Ornitz\, M.D.\, Ph.D.\, Alumni Endowed Profess
+ or\nDepartment of Developmental Biology\nWashington University School of M
+ edicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
+ ?EvID=7565
+DTSTAMP:20190823T093300
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:“Lung Development\, Alveologenesis\, and Pulmonary Hypertension: 
+ an FGF Story”
 END:VEVENT
 BEGIN:VEVENT
 UID:7444@events.dbbs.wustl
@@ -853,6 +878,17 @@ SUMMARY:Living Well and Optimizing Care after Breast Cancer: Supporting Wom
  tivity
 END:VEVENT
 BEGIN:VEVENT
+UID:7567@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190916T120000
+DTEND;TZID=America/Chicago:20190916T130000
+DESCRIPTION:Speakers:\nJennifer Garrison\, Ph.D.\, Assistant Professor\nBuc
+ k Institute for Research on Aging\n\nLink: http://dbbs.wustl.edu/Resources
+ /Pages/calendar_event.aspx?EvID=7567
+DTSTAMP:20190823T093200
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Investigating the role of neuropeptide signaling in aging
+END:VEVENT
+BEGIN:VEVENT
 UID:7446@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190916T161500
 DTEND;TZID=America/Chicago:20190916T161500
@@ -991,6 +1027,29 @@ SUMMARY:"Understanding Human Pluripotent Stem Cell States and Their Applica
  tions"
 END:VEVENT
 BEGIN:VEVENT
+UID:7569@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190923T120000
+DTEND;TZID=America/Chicago:20190923T130000
+DESCRIPTION:Speakers:\nThorold Theunissen\, PhD\, Assistant Professor\nDepa
+ rtment of Developmental Biology\nWashington University School of Medicine\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=75
+ 69
+DTSTAMP:20190823T093200
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:“Understanding human pluripotent states and their applications”
+END:VEVENT
+BEGIN:VEVENT
+UID:7563@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190923T130000
+DTEND;TZID=America/Chicago:20190923T140000
+DESCRIPTION:Speakers:\nDr. Darryl Bornhop\, Vanderbilt University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7563
+DTSTAMP:20190823T093300
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:“Compensated Interferometry Enables Improved Lung Cancer Diagnosi
+ s”
+END:VEVENT
+BEGIN:VEVENT
 UID:7447@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190923T161500
 DTEND;TZID=America/Chicago:20190923T161500
@@ -1048,6 +1107,30 @@ DTSTAMP:20190822T104300
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:"Regulation of Vascular Development by Hemodynamic Forces"
+END:VEVENT
+BEGIN:VEVENT
+UID:7570@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190930T120000
+DTEND;TZID=America/Chicago:20190930T130000
+DESCRIPTION:Speakers:\nLaura Schuettpelz\, M.D\, Ph.D.\, Assistant Professo
+ r\nDepartment of Pediatrics\, Hematology and Oncology\nWashington Universi
+ ty School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7570
+DTSTAMP:20190823T093000
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7571@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190930T120000
+DTEND;TZID=America/Chicago:20190930T130000
+DESCRIPTION:Speakers:\nLaura Schuettpelz\, M.D\, Ph.D.\, Assistant Professo
+ r\nDepartment of Pediatrics\, Hematology and Oncology\nWashington Universi
+ ty School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7571
+DTSTAMP:20190823T093200
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:7441@events.dbbs.wustl
@@ -1121,6 +1204,18 @@ LOCATION:4515 McKinley Research Building\, Room 6001b
 SUMMARY:3D Genome Organization & Transcription Regulation
 END:VEVENT
 BEGIN:VEVENT
+UID:7573@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191007T120000
+DTEND;TZID=America/Chicago:20191007T130000
+DESCRIPTION:Speakers:\nCigall Kadoch\, Ph.D.\, Assistant Professor\nDepartm
+ ent of Pediatric Oncology\nDana-Farber Cancer Institute\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7573
+DTSTAMP:20190823T093100
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:“Structure and Function of Mammalian SWI/SNF Chromatin Remodeling
+  Complexes in Human Cancer”
+END:VEVENT
+BEGIN:VEVENT
 UID:7449@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191007T161500
 DTEND;TZID=America/Chicago:20191007T161500
@@ -1190,6 +1285,19 @@ DESCRIPTION:Speakers:\nNasser Rusan\, PhD\, Senior Investigator\, Cell Biol
 DTSTAMP:20190806T094400
 LOCATION:Clopton Auditorium
 SUMMARY:Building tissue spcific centrosomes
+END:VEVENT
+BEGIN:VEVENT
+UID:7575@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191014T120000
+DTEND;TZID=America/Chicago:20191014T130000
+DESCRIPTION:Speakers:\nUrsula Jakob\, Ph.D.\, Patricia S. Yaeger Collegiate
+  Professor\nDepartment of Molecular\, Cellular\, & Developmental Biology\n
+ University of Michigan\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=7575
+DTSTAMP:20190823T093100
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:“Reactive Oxygen Species Target Histone Methylation to Individual
+ ize Stress Resistance and Lifespan”
 END:VEVENT
 BEGIN:VEVENT
 UID:7451@events.dbbs.wustl
@@ -1262,6 +1370,17 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7577@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191021T120000
+DTEND;TZID=America/Chicago:20191021T130000
+DESCRIPTION:Speakers:\nStacey L. Rentschler\, MD\, PhD\, Associate Professo
+ r\nDepartment of Medicine\, Cardiovascular Division\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7577
+DTSTAMP:20190823T093000
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
 UID:7453@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191021T161500
 DTEND;TZID=America/Chicago:20191021T161500
@@ -1294,6 +1413,18 @@ LOCATION:4444 Forest Park Ave.\, Room 1235
 SUMMARY:Physical therapy management of a young competitive Irish Dancer wit
  h ankle instability and metatarsal fracture with MSI diagnosis of toe flex
  ion syndrome.
+END:VEVENT
+BEGIN:VEVENT
+UID:7578@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191028T120000
+DTEND;TZID=America/Chicago:20191028T130000
+DESCRIPTION:Speakers:\nAmander Clark\, PhD\, Professor and Chair of the Dep
+ artment of Molecular Cell and Developmental Biology\nUniversity of Califor
+ nia Los Angeles\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7578
+DTSTAMP:20190823T093000
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:7455@events.dbbs.wustl
