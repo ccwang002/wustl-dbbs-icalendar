@@ -582,17 +582,6 @@ SUMMARY:A molecular and computational approach to investigate understudied
  human genes
 END:VEVENT
 BEGIN:VEVENT
-UID:7432@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190828T060000
-DTEND;TZID=America/Chicago:20190829T120000
-DESCRIPTION:Speakers:\ndomino\, <a href="http://1dominoqq.com/">More info</
- a>\n\nDescription:\nMore info\n\nLink: http://dbbs.wustl.edu/Resources/Pag
- es/calendar_event.aspx?EvID=7432
-DTSTAMP:20190814T112800
-LOCATION:Online
-SUMMARY:Pkv Games Online
-END:VEVENT
-BEGIN:VEVENT
 UID:7505@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190829T140000
 DTEND;TZID=America/Chicago:20190829T140000
