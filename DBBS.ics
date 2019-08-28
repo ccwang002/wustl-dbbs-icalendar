@@ -675,6 +675,16 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Building circadian medicine in a pediatric hospital
 END:VEVENT
 BEGIN:VEVENT
+UID:7598@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190905T120000
+DTEND;TZID=America/Chicago:20190905T125000
+DESCRIPTION:Speakers:\nJason Newland\, Wash U - Peds\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7598
+DTSTAMP:20190827T130700
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:Improving Antimicrobial Use in Children’s Hospitals
+END:VEVENT
+BEGIN:VEVENT
 UID:7317@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190905T160000
 DTEND;TZID=America/Chicago:20190905T170000
@@ -720,6 +730,18 @@ DTSTAMP:20190816T094900
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Upstream regulation of autoimmunity and cancer via human dendritic 
  cell subsets
+END:VEVENT
+BEGIN:VEVENT
+UID:7589@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190910T103000
+DTEND;TZID=America/Chicago:20190910T113000
+DESCRIPTION:Speakers:\nChris Chipot\, PhD\, University of Illinois at Urban
+ a-Champaign\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=7589
+DTSTAMP:20190827T104000
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:From mitochondrial carriers to ATPases. Insights from computer simu
+ lations
 END:VEVENT
 BEGIN:VEVENT
 UID:7381@events.dbbs.wustl
@@ -923,6 +945,18 @@ SUMMARY:CBAC Seminar-Unravelling the Mechanisms of Fight or Flight: It’s
  All About the Neighborhood
 END:VEVENT
 BEGIN:VEVENT
+UID:7590@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190917T103000
+DTEND;TZID=America/Chicago:20190917T113000
+DESCRIPTION:Speakers:\nMagdalena Gebala\, Ph.D.\, Stanford School of Medici
+ ne\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =7590
+DTSTAMP:20190827T104000
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Dissecting nucleic acid electrostatics—at the interface of theory
+  and experiments
+END:VEVENT
+BEGIN:VEVENT
 UID:7437@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190917T150000
 DTEND;TZID=America/Chicago:20190917T160000
@@ -1016,6 +1050,28 @@ SUMMARY:"Understanding Human Pluripotent Stem Cell States and Their Applica
  tions"
 END:VEVENT
 BEGIN:VEVENT
+UID:7594@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190920T120000
+DTEND;TZID=America/Chicago:20190920T130000
+DESCRIPTION:Speakers:\nRulla Tamimi\, ScD\, Associate Professor of Medicine
+  at the Harvard Medical School\nAssociate Professor of Epidemiology in the
+  Harvard T.H. Chan School of Public Health\n\nDescription:\nTamimi will sh
+ are data examining circulating biomarkers\, tissue markers and\nradiologic
+  features in relation to breast cancer risk. Using data from the\nNurses
+ ’ Health Studies\, her group examines the association between lifestyle\
+ nfactors and molecular markers to better understand how these influence ri
+ sk of\nbreast cancer. Looking at novel mammographic features related to br
+ east cancer\nrisk\, she demonstrates that incorporating germline genetics\
+ , circulating\nhormones and mammographic density into risk prediction mode
+ ls significantly\nimproves breast cancer risk prediction.\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7594
+DTSTAMP:20190827T104100
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Integration of Molecular Epidemiology and Imaging: Interdisciplinar
+ y Approach to Understanding the Pathogenesis of Breast Cancer
+END:VEVENT
+BEGIN:VEVENT
 UID:7569@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190923T120000
 DTEND;TZID=America/Chicago:20190923T130000
@@ -1048,6 +1104,26 @@ DESCRIPTION:Speakers:\nDr. Kory Lavine\, WUSM\nDepartment of Internal Medic
 DTSTAMP:20190816T095000
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Immune Cell Diversity in the Healthy and Diseased Heart
+END:VEVENT
+BEGIN:VEVENT
+UID:7595@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190923T163000
+DTEND;TZID=America/Chicago:20190923T173000
+DESCRIPTION:Speakers:\nMartha Hickey\, MD\, Professor and Vice-Chair of OBG
+ YN\nUniversity of Melbourne\n\nDescription:\nProfessor Hickey is vice-chai
+ r of OBGYN at the University of Melbourne and an\ninternational leader in 
+ reproductive endocrinology and early life origins of\nreproductive health.
+  She served as department head from 2013 to 2018. Dr.\nHickey will present
+  the new model of multidisciplinary care that she has\ndeveloped for manag
+ ing women cancer survivors. Co-developed with patients and\noncologists\, 
+ this service manages menopausal symptoms\, sexual dysfunction\,\nmood and 
+ sleep disturbance in one place. She will describe the model and how\nit wo
+ rks and present data from this service\, now implemented internationally.\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=75
+ 95
+DTSTAMP:20190827T104100
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Managing Menopause after Cancer: A New Model of Care
 END:VEVENT
 BEGIN:VEVENT
 UID:7163@events.dbbs.wustl
@@ -1120,6 +1196,17 @@ DESCRIPTION:Speakers:\nLaura Schuettpelz\, M.D\, Ph.D.\, Assistant Professo
 DTSTAMP:20190823T093200
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7591@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191001T103000
+DTEND;TZID=America/Chicago:20191001T113000
+DESCRIPTION:Speakers:\nMaria Spies\, Ph.D.\, University of Iowa\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7591
+DTSTAMP:20190827T104000
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Molecular choreography of the RPA-DNA-RAD52 complex during DNA repl
+ ication\, recombination and repair
 END:VEVENT
 BEGIN:VEVENT
 UID:7441@events.dbbs.wustl
