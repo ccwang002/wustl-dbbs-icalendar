@@ -769,6 +769,18 @@ SUMMARY:"Role of TRAPalpha/SSR1 in insulin biogenesis and endoplasmic retic
  ulum homeostasis"
 END:VEVENT
 BEGIN:VEVENT
+UID:7607@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190910T150000
+DTEND;TZID=America/Chicago:20190910T160000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, The Teaching 
+ Center\n\nDescription:\nCPD\; RSVP required -\nhttp://teachingcenter.wustl
+ .edu/9_10_19_facilitatingchallengingconversations/\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7607
+DTSTAMP:20190828T141900
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Facilitating Challenging Conversations
+END:VEVENT
+BEGIN:VEVENT
 UID:7364@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190911T120000
 DTEND;TZID=America/Chicago:20190911T130000
@@ -790,6 +802,16 @@ DTSTAMP:20190806T094500
 LOCATION:Clopton Auditorium
 SUMMARY:Functional genetic variants revealed by massively parallel precise 
  genome editing
+END:VEVENT
+BEGIN:VEVENT
+UID:7600@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190912T120000
+DTEND;TZID=America/Chicago:20190912T125000
+DESCRIPTION:Speakers:\nBrian DeBosch\, WUSTL Dept. of Peds\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7600
+DTSTAMP:20190828T102400
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:6880@events.dbbs.wustl
@@ -1027,6 +1049,16 @@ LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching
 SUMMARY:Intervening on the Financial Toxicity of Cancer Care
 END:VEVENT
 BEGIN:VEVENT
+UID:7602@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T120000
+DTEND;TZID=America/Chicago:20190919T125000
+DESCRIPTION:Speakers:\nStuart Friess\, WUSTL Dept. of Peds\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7602
+DTSTAMP:20190828T102400
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7508@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190919T160000
 DTEND;TZID=America/Chicago:20190919T170000
@@ -1070,6 +1102,18 @@ LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching
  Room 2131
 SUMMARY:Integration of Molecular Epidemiology and Imaging: Interdisciplinar
  y Approach to Understanding the Pathogenesis of Breast Cancer
+END:VEVENT
+BEGIN:VEVENT
+UID:7608@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190920T120000
+DTEND;TZID=America/Chicago:20190920T130000
+DESCRIPTION:Speakers:\nTeaching Center Staff\, Teaching Center Staff\n\nDes
+ cription:\nCPD\; RSVP required -\nhttp://teachingcenter.wustl.edu/fall_201
+ 9_gspd_reading_community/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7608
+DTSTAMP:20190828T141900
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Fall 2019 Grad Student & Postdoc Reading Community
 END:VEVENT
 BEGIN:VEVENT
 UID:7569@events.dbbs.wustl
