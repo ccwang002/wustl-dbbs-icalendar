@@ -792,6 +792,41 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Frontocortical circuits in reinforcement learning under uncertainty
 END:VEVENT
 BEGIN:VEVENT
+UID:7611@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190911T150000
+DTEND;TZID=America/Chicago:20190911T160000
+DESCRIPTION:Speakers:\nAllan Jones\, PhD\, President and CEO\, Allen Instit
+ ute for Brain Science\n\nDescription:\nThe inaugural Distinguished Alumni 
+ Seminar\, hosted by the Division of Biology\nand Biomedical Sciences\, wil
+ l feature Dr. Allan Jones\, President and CEO of\nthe Allen Institute for 
+ Brain Science and alumnus of the Developmental Biology\nprogram. Dr. Jones
+  will give a talk titled “Big\, team\, open science at the\nAllen Instit
+ ute” from 3-4pm\, followed by a reception and student poster\nsession fr
+ om 4-6pm in the FLTC Atrium. The event is free and all are welcome\nto att
+ end.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=7611
+DTSTAMP:20190829T150700
+LOCATION:Moore Auditorium
+SUMMARY:Big\, team\, open science at the Allen Institute
+END:VEVENT
+BEGIN:VEVENT
+UID:7612@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190911T160000
+DTEND;TZID=America/Chicago:20190911T180000
+DESCRIPTION:Speakers:\nVarious\, DBBS\n\nDescription:\nThe inaugural Distin
+ guished Alumni Seminar\, hosted by the Division of Biology\nand Biomedical
+  Sciences\, will feature Dr. Allan Jones\, President and CEO of\nthe Allen
+  Institute for Brain Science and alumnus of the Developmental Biology\npro
+ gram. Dr. Jones will give a talk titled “Big\, team\, open science at th
+ e\nAllen Institute” from 3-4pm\, followed by a reception and student pos
+ ter\nsession from 4-6pm in the FLTC Atrium. The event is free and all are 
+ welcome\nto attend.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=7612
+DTSTAMP:20190829T150600
+LOCATION:Farrell Learning and Teaching Center Atrium
+SUMMARY:Distinguished Alumni Seminar Reception and Student Poster Session
+END:VEVENT
+BEGIN:VEVENT
 UID:7413@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190912T120000
 DTEND;TZID=America/Chicago:20190912T130000
@@ -1262,6 +1297,18 @@ DESCRIPTION:Speakers:\nDr. Mario Feldman\, Department of Molecular Microbio
 DTSTAMP:20190815T121800
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:Associate Professor
+END:VEVENT
+BEGIN:VEVENT
+UID:7609@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191001T150000
+DTEND;TZID=America/Chicago:20191001T160000
+DESCRIPTION:Speakers:\nIvan Topisirovic\, M.D.\, Ph.D.\, Investigator\, Lad
+ y Davis Institute\, Associate Professor\, Gerald Bronfman Department of On
+ cology\, McGill University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=7609
+DTSTAMP:20190829T110100
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Translation\, Metabolism and Cancer
 END:VEVENT
 BEGIN:VEVENT
 UID:7367@events.dbbs.wustl
