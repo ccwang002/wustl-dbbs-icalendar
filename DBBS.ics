@@ -468,6 +468,16 @@ SUMMARY:Avian Ecology and Pest Reduction Services in a Temperate Agroecosys
  tem: Inferences for Conservation and Farming
 END:VEVENT
 BEGIN:VEVENT
+UID:7617@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190906T090000
+DTEND;TZID=America/Chicago:20190906T100000
+DESCRIPTION:Speakers:\nYu-Qing Cao\, PhD\, WU Pain Center\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7617
+DTSTAMP:20190902T163100
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Introduction to Basic Science Mechanisms of Pain
+END:VEVENT
+BEGIN:VEVENT
 UID:7565@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190909T120000
 DTEND;TZID=America/Chicago:20190909T130000
@@ -540,6 +550,19 @@ DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, The Teaching
 DTSTAMP:20190828T141900
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Facilitating Challenging Conversations
+END:VEVENT
+BEGIN:VEVENT
+UID:7618@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190910T150000
+DTEND;TZID=America/Chicago:20190910T160000
+DESCRIPTION:Speakers:\nBeth Prusaczyk\, PhD\, Center for Population Health 
+ Informatics (CPHI)\nInstitute for Informatics\nWashington University in St
+ . Louis\, School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=7618
+DTSTAMP:20190902T163000
+LOCATION:Couch Research Building 4001B
+SUMMARY:The BOLD Act: Creating Alzheimer's and Related Dementias Public Hea
+ lth Centers of Excellence
 END:VEVENT
 BEGIN:VEVENT
 UID:7364@events.dbbs.wustl
