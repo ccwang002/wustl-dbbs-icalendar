@@ -434,6 +434,19 @@ LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:Improving Antimicrobial Use in Children’s Hospitals
 END:VEVENT
 BEGIN:VEVENT
+UID:7619@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190905T150000
+DTEND;TZID=America/Chicago:20190905T163000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director of Academic Ser
+ vices\, The Teaching Center\n\nDescription:\nCPD\; More information -\nhtt
+ ps://teachingcenter.wustl.edu/events/2019_09_05_fall_jumpstart/\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7619
+DTSTAMP:20190903T101500
+LOCATION:The Teaching Center\, Danforth Campus
+RRULE:BYDAY=TH;INTERVAL=1;FREQ=WEEKLY;UNTIL=20190926
+SUMMARY:Jump-Start to Writing a Teaching Philosophy Statement Program
+END:VEVENT
+BEGIN:VEVENT
 UID:7317@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190905T160000
 DTEND;TZID=America/Chicago:20190905T170000
@@ -565,6 +578,19 @@ SUMMARY:The BOLD Act: Creating Alzheimer's and Related Dementias Public Hea
  lth Centers of Excellence
 END:VEVENT
 BEGIN:VEVENT
+UID:7620@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190911T113000
+DTEND;TZID=America/Chicago:20190911T130000
+DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director of Academic S
+ ervices\, The Teaching Center\n\nDescription:\nCPD\; registration required
+  -\nhttps://teachingcenter.wustl.edu/events/introduction-to-team-based-lea
+ rning/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=7620
+DTSTAMP:20190903T104500
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Introduction to Team-Based Learning
+END:VEVENT
+BEGIN:VEVENT
 UID:7364@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190911T120000
 DTEND;TZID=America/Chicago:20190911T130000
@@ -628,9 +654,9 @@ DTSTART;TZID=America/Chicago:20190912T120000
 DTEND;TZID=America/Chicago:20190912T125000
 DESCRIPTION:Speakers:\nBrian DeBosch\, WUSTL Dept. of Peds\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7600
-DTSTAMP:20190828T102400
+DTSTAMP:20190903T104600
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:A FAST-er Pathway to Metabolic Health
 END:VEVENT
 BEGIN:VEVENT
 UID:7613@events.dbbs.wustl
