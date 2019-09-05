@@ -504,6 +504,16 @@ SUMMARY:“Lung Development\, Alveologenesis\, and Pulmonary Hypertension:
  an FGF Story”
 END:VEVENT
 BEGIN:VEVENT
+UID:7621@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190909T120000
+DTEND;TZID=America/Chicago:20190909T130000
+DESCRIPTION:Speakers:\nDr. Jeff Haspel\, Washington University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7621
+DTSTAMP:20190904T111700
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:"Research Review: Circadian Signatures in Chronic Lung Disease."
+END:VEVENT
+BEGIN:VEVENT
 UID:7444@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190909T161500
 DTEND;TZID=America/Chicago:20190909T161500
@@ -719,6 +729,20 @@ DESCRIPTION:Speakers:\nCelia Santi\, MD\, PhD\, Associate Professor\nDepart
 DTSTAMP:20190830T105700
 LOCATION:BJC-Institute of Health\, Conference Room 10AB (10th floor)
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7630@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190913T120000
+DTEND;TZID=America/Chicago:20190913T130000
+DESCRIPTION:Speakers:\nRodney D. Newberry\, MD\, Professor of Medicine\nDiv
+ ision of Gastroenterology\nWashington University\nDeborah C. Rubin\, MD\, 
+ AGAF\, William B. Kountz Professor of Medicine\nDivision of Gastroenterolo
+ gy\nWashington University\nMatthew Ciorba\, MD\, Associate Professor of Me
+ dicine\nDivision of Gastroenterology\nWashington University\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7630
+DTSTAMP:20190904T111300
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Using the DDRCC Cores to Advance your Scientific Research Program
 END:VEVENT
 BEGIN:VEVENT
 UID:7436@events.dbbs.wustl
@@ -1117,6 +1141,18 @@ SUMMARY:Phylogenetic and Genomic Characterization of the Host-Pathogen Arms
   Race Between Bacterial Pathogens and Gossypium hirsutum
 END:VEVENT
 BEGIN:VEVENT
+UID:7629@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190930T100000
+DTEND;TZID=America/Chicago:20190930T110000
+DESCRIPTION:Speakers:\nMr. Chieh-Hsiang Tan\, Developmental\, Regenerative 
+ and Stem Cell Biology Program - Lab of Dr. Kerry Kornfeld\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7629
+DTSTAMP:20190904T111200
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:ZIPT-7.1 and zinc signaling in sperm activation of Caenorhabditis e
+ legans
+END:VEVENT
+BEGIN:VEVENT
 UID:7570@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190930T120000
 DTEND;TZID=America/Chicago:20190930T130000
@@ -1139,6 +1175,24 @@ DESCRIPTION:Speakers:\nLaura Schuettpelz\, M.D\, Ph.D.\, Assistant Professo
 DTSTAMP:20190823T093200
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7623@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190930T120000
+DTEND;TZID=America/Chicago:20190930T130000
+DESCRIPTION:Speakers:\nSheila Stewart\, PhD\, WashU Cell Biology & Physiolo
+ gy\n\nDescription:\nHope Center Mini-series: Senescent cells in health and
+  disease Organizer\,\nJason Ulrich September 30: Sheila Stewart (WashU Cel
+ l Biology & Physiology)\nOctober 7: Miranda Orr (Wake Forest University) O
+ ctober 28: Darren Baker (Mayo\nClinic) November 4: Shin-ichiro Imai (WashU
+  Developmental Biology) The Monday\nNoon seminar series is hosted by the W
+ ashU Hope Center for Neurological\nDisorders and the Department of Neurolo
+ gy. Hope Center Monday Noon Seminars\nFor inquiries contact Cindy Lawrence
+ .\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7623
+DTSTAMP:20190904T111600
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"Age-related stomal changes drive tumorigenesis"
 END:VEVENT
 BEGIN:VEVENT
 UID:7591@events.dbbs.wustl
@@ -1245,6 +1299,24 @@ DTSTAMP:20190823T093100
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:“Structure and Function of Mammalian SWI/SNF Chromatin Remodeling
   Complexes in Human Cancer”
+END:VEVENT
+BEGIN:VEVENT
+UID:7625@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191007T120000
+DTEND;TZID=America/Chicago:20191007T130000
+DESCRIPTION:Speakers:\nMiranda Orr\, PhD\, Wake Forest University\n\nDescri
+ ption:\nHope Center Mini-series: Senescent cells in health and disease Org
+ anizer\,\nJason Ulrich September 30: Sheila Stewart (WashU Cell Biology & 
+ Physiology)\nOctober 7: Miranda Orr (Wake Forest University) October 28: D
+ arren Baker (Mayo\nClinic) November 4: Shin-ichiro Imai (WashU Development
+ al Biology) The Monday\nNoon seminar series is hosted by the WashU Hope Ce
+ nter for Neurological\nDisorders and the Department of Neurology. Hope Cen
+ ter Monday Noon Seminars\nFor inquiries contact Cindy Lawrence.\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7625
+DTSTAMP:20190904T111500
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"Targeting tau-associated cellular senescence to mitigate neurodege
+ neration and cognitive impairment in age-associated brain diseases”
 END:VEVENT
 BEGIN:VEVENT
 UID:7449@events.dbbs.wustl
@@ -1458,6 +1530,23 @@ LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:7627@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191028T120000
+DTEND;TZID=America/Chicago:20191028T130000
+DESCRIPTION:Speakers:\nDarren Baker\, PhD\, Mayo Clinic\n\nDescription:\nHo
+ pe Center Mini-series: Senescent cells in health and disease Organizer\,\n
+ Jason Ulrich September 30: Sheila Stewart (WashU Cell Biology & Physiology
+ )\nOctober 7: Miranda Orr (Wake Forest University) October 28: Darren Bake
+ r (Mayo\nClinic) November 4: Shin-ichiro Imai (WashU Developmental Biology
+ ) The Monday\nNoon seminar series is hosted by the WashU Hope Center for N
+ eurological\nDisorders and the Department of Neurology. Hope Center Monday
+  Noon Seminars\nFor inquiries contact Cindy Lawrence.\n\nLink: http://dbbs
+ .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7627
+DTSTAMP:20190904T111400
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"Neurodegenerative Disease Driven by Senescent Cells"
+END:VEVENT
+BEGIN:VEVENT
 UID:7455@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191028T161500
 DTEND;TZID=America/Chicago:20191028T161500
@@ -1557,6 +1646,24 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:"Functional Validation of Novel Genetic Predictors of Coronary Arte
  ry Disease"
+END:VEVENT
+BEGIN:VEVENT
+UID:7628@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191104T120000
+DTEND;TZID=America/Chicago:20191104T130000
+DESCRIPTION:Speakers:\nShin-ichiro Imai\, MD\, PhD\, WashU Developmental Bi
+ ology\n\nDescription:\nHope Center Mini-series: Senescent cells in health 
+ and disease Organizer\,\nJason Ulrich September 30: Sheila Stewart (WashU 
+ Cell Biology & Physiology)\nOctober 7: Miranda Orr (Wake Forest University
+ ) October 28: Darren Baker (Mayo\nClinic) November 4: Shin-ichiro Imai (Wa
+ shU Developmental Biology) The Monday\nNoon seminar series is hosted by th
+ e WashU Hope Center for Neurological\nDisorders and the Department of Neur
+ ology. Hope Center Monday Noon Seminars\nFor inquiries contact Cindy Lawre
+ nce.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=7628
+DTSTAMP:20190904T111300
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7457@events.dbbs.wustl
