@@ -682,6 +682,18 @@ LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
 SUMMARY:“Structural insights into the dynamic process of GPCR activation”
 END:VEVENT
 BEGIN:VEVENT
+UID:7633@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190912T130000
+DTEND;TZID=America/Chicago:20190912T150000
+DESCRIPTION:Speakers:\nMs. Emilie V. Russler-Germain\, MSTP- Immunology Pro
+ gram- Lab of Dr. Chyi-Song Hsieh\, Department of Internal Medicine\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7633
+DTSTAMP:20190905T120700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Regulation of Gut Commensal-Specific T Cell Differentiation by Dend
+ ritic Cell Subsets
+END:VEVENT
+BEGIN:VEVENT
 UID:6880@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190912T160000
 DTEND;TZID=America/Chicago:20190912T170000
@@ -814,6 +826,17 @@ DESCRIPTION:Speakers:\nJennifer Garrison\, Ph.D.\, Assistant Professor\nBuc
 DTSTAMP:20190823T093200
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Investigating the role of neuropeptide signaling in aging
+END:VEVENT
+BEGIN:VEVENT
+UID:7631@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190916T160000
+DTEND;TZID=America/Chicago:20190916T173000
+DESCRIPTION:Speakers:\nInPrint\, InPrint\n\nDescription:\nhttps://inprintsc
+ ience.wustl.edu/calendar_event/vector-graphic-workshop-\ninkscape/\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7631
+DTSTAMP:20190905T120700
+LOCATION:Holden Auditorium
+SUMMARY:Vector Graphics Workshop: Inkscape
 END:VEVENT
 BEGIN:VEVENT
 UID:7446@events.dbbs.wustl
@@ -974,6 +997,17 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:"Understanding Human Pluripotent Stem Cell States and Their Applica
  tions"
+END:VEVENT
+BEGIN:VEVENT
+UID:7632@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T160000
+DTEND;TZID=America/Chicago:20190919T173000
+DESCRIPTION:Speakers:\nInPrint\, InPrint\n\nDescription:\nhttps://inprintsc
+ ience.wustl.edu/calendar_event/vector-graphics-workshop-\nillustrator/\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7632
+DTSTAMP:20190905T120700
+LOCATION:Connor Auditorium
+SUMMARY:Vector Graphics Workshop: Adobe Illustrator
 END:VEVENT
 BEGIN:VEVENT
 UID:7615@events.dbbs.wustl
