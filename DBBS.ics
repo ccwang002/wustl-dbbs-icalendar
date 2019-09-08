@@ -647,6 +647,16 @@ LOCATION:Farrell Learning and Teaching Center Atrium
 SUMMARY:Distinguished Alumni Seminar Reception and Student Poster Session
 END:VEVENT
 BEGIN:VEVENT
+UID:7392@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190912T120000
+DTEND;TZID=America/Chicago:20190912T130000
+DESCRIPTION:Speakers:\nAmber Stratman\, Ph.D.\, Washington University\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7392
+DTSTAMP:20190906T090500
+LOCATION:Maternity Building\, Room 725
+SUMMARY:Regulation of Vascular Development by Hemodynamic Forces
+END:VEVENT
+BEGIN:VEVENT
 UID:7413@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190912T120000
 DTEND;TZID=America/Chicago:20190912T130000
@@ -705,16 +715,6 @@ LOCATION:801 CSRB North Tower Addition
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:7392@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190912T160000
-DTEND;TZID=America/Chicago:20190912T170000
-DESCRIPTION:Speakers:\nAmber Stratman\, Ph.D.\, Washington University\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7392
-DTSTAMP:20190724T160000
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Regulation of Vascular Development by Hemodynamic Forces
-END:VEVENT
-BEGIN:VEVENT
 UID:7515@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190912T160000
 DTEND;TZID=America/Chicago:20190912T170000
@@ -741,6 +741,17 @@ DESCRIPTION:Speakers:\nCelia Santi\, MD\, PhD\, Associate Professor\nDepart
 DTSTAMP:20190830T105700
 LOCATION:BJC-Institute of Health\, Conference Room 10AB (10th floor)
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7637@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190913T090000
+DTEND;TZID=America/Chicago:20190913T100000
+DESCRIPTION:Speakers:\nNaga Yalla\, M.D.\, Dept. of Medicine\, Division of 
+ Bone and Mineral Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7637
+DTSTAMP:20190906T090300
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Treatments for Osteoporosis: What We Have and What We Need
 END:VEVENT
 BEGIN:VEVENT
 UID:7630@events.dbbs.wustl
@@ -946,6 +957,16 @@ SUMMARY:Applications of nascent RNA-sequencing: transcriptional regulation\
  , RNA stability\, and regulatory evolution
 END:VEVENT
 BEGIN:VEVENT
+UID:7508@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T120000
+DTEND;TZID=America/Chicago:20190919T130000
+DESCRIPTION:Speakers:\nDr. Chao Zhou\, Wash U\n\nLink: http://dbbs.wustl.ed
+ u/Resources/Pages/calendar_event.aspx?EvID=7508
+DTSTAMP:20190906T090500
+LOCATION:Maternity Building\, Room 725
+SUMMARY:High-speed space-division multiplexing optical coherence tomography
+END:VEVENT
+BEGIN:VEVENT
 UID:7510@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190919T120000
 DTEND;TZID=America/Chicago:20190919T130000
@@ -974,16 +995,6 @@ DESCRIPTION:Speakers:\nStuart Friess\, WUSTL Dept. of Peds\n\nLink: http://
 DTSTAMP:20190828T102400
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7508@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20190919T160000
-DTEND;TZID=America/Chicago:20190919T170000
-DESCRIPTION:Speakers:\nDr. Chao Zhou\, Wash U\n\nLink: http://dbbs.wustl.ed
- u/Resources/Pages/calendar_event.aspx?EvID=7508
-DTSTAMP:20190822T090700
-LOCATION:Maternity Building\, Room 725
-SUMMARY:High-speed space-division multiplexing optical coherence tomography
 END:VEVENT
 BEGIN:VEVENT
 UID:7517@events.dbbs.wustl
@@ -1151,6 +1162,18 @@ SUMMARY:Proteomic identification of replication-coupled DNA repair mechanis
  ms
 END:VEVENT
 BEGIN:VEVENT
+UID:7635@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190925T100000
+DTEND;TZID=America/Chicago:20190925T120000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nRegistration required:\nhttps://becker.wustl.edu/civicrm/?pag
+ e=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=134\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7635
+DTSTAMP:20190906T090300
+LOCATION:McDonnell Medical Sciences Building\, Room 100
+SUMMARY:Introduction to Python: #1 Getting Started with Python
+END:VEVENT
+BEGIN:VEVENT
 UID:7519@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190926T160000
 DTEND;TZID=America/Chicago:20190926T170000
@@ -1274,6 +1297,16 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Coding of space and time in cortical circuits
 END:VEVENT
 BEGIN:VEVENT
+UID:7320@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191003T120000
+DTEND;TZID=America/Chicago:20191003T130000
+DESCRIPTION:Speakers:\nDr. Mae Gordon\, Washington University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7320
+DTSTAMP:20190906T090600
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7417@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191003T120000
 DTEND;TZID=America/Chicago:20191003T130000
@@ -1284,16 +1317,6 @@ DESCRIPTION:Speakers:\nAravinda Chakravarti\, PhD\, Director\, Center for H
 DTSTAMP:20190806T094500
 LOCATION:Clopton Auditorium
 SUMMARY:The genetic basis for Hirschsprung Disease
-END:VEVENT
-BEGIN:VEVENT
-UID:7320@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191003T160000
-DTEND;TZID=America/Chicago:20191003T170000
-DESCRIPTION:Speakers:\nDr. Mae Gordon\, Washington University\n\nLink: http
- ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7320
-DTSTAMP:20190712T144500
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7520@events.dbbs.wustl
@@ -1473,6 +1496,29 @@ SUMMARY:GABAergic control of the dendrites\, soma\, and axons of midbrain d
  opaminergic neurons
 END:VEVENT
 BEGIN:VEVENT
+UID:7322@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191017T120000
+DTEND;TZID=America/Chicago:20191017T130000
+DESCRIPTION:Speakers:\nDr. Botir Sagdullaev\, Cornell University School of 
+ Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
+ x?EvID=7322
+DTSTAMP:20190906T090600
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7634@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191017T120000
+DTEND;TZID=America/Chicago:20191017T124500
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civicrm/ev
+ ent/info&reset\;=1&id\;=119\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=7634
+DTSTAMP:20190906T090200
+LOCATION:Farrell Learning and Teaching Center\, room 204
+SUMMARY:NIH and Other Public Access Policies
+END:VEVENT
+BEGIN:VEVENT
 UID:7321@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191017T160000
 DTEND;TZID=America/Chicago:20191017T170000
@@ -1480,17 +1526,6 @@ DESCRIPTION:Speakers:\nDr. Botir Sagdullaev\, Cornell University School of
  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
  x?EvID=7321
 DTSTAMP:20190712T134900
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7322@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191017T160000
-DTEND;TZID=America/Chicago:20191017T170000
-DESCRIPTION:Speakers:\nDr. Botir Sagdullaev\, Cornell University School of 
- Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
- x?EvID=7322
-DTSTAMP:20190712T144500
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
@@ -1644,6 +1679,16 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Cortico-striatal control over movement and reinforcement
 END:VEVENT
 BEGIN:VEVENT
+UID:7324@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191031T120000
+DTEND;TZID=America/Chicago:20191031T130000
+DESCRIPTION:Speakers:\nDr. Steve Bassnett\, Washington University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7324
+DTSTAMP:20190906T090600
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:6933@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191031T150000
 DTEND;TZID=America/Chicago:20191031T160000
@@ -1652,16 +1697,6 @@ DESCRIPTION:Speakers:\nLaurie Glimcher\, Richard and Susan Smith Professor
  k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6933
 DTSTAMP:20190109T161800
 LOCATION:EPNEC\, Great Room\, 1st Floor
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7324@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191031T160000
-DTEND;TZID=America/Chicago:20191031T170000
-DESCRIPTION:Speakers:\nDr. Steve Bassnett\, Washington University\n\nLink: 
- http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7324
-DTSTAMP:20190712T144500
-LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
@@ -1784,11 +1819,11 @@ SUMMARY:NIH and Other Public Access Policies
 END:VEVENT
 BEGIN:VEVENT
 UID:7326@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191107T160000
-DTEND;TZID=America/Chicago:20191107T170000
+DTSTART;TZID=America/Chicago:20191107T120000
+DTEND;TZID=America/Chicago:20191107T130000
 DESCRIPTION:Speakers:\nDr. Beata Jastrzebska\, Case Western\n\nLink: http:/
  /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7326
-DTSTAMP:20190712T144600
+DTSTAMP:20190906T090700
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
@@ -1883,11 +1918,11 @@ SUMMARY:Linking cognitive changes in sensory responses to perception
 END:VEVENT
 BEGIN:VEVENT
 UID:7327@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191121T160000
-DTEND;TZID=America/Chicago:20191121T170000
+DTSTART;TZID=America/Chicago:20191121T120000
+DTEND;TZID=America/Chicago:20191121T130000
 DESCRIPTION:Speakers:\nDr. Robert Johnson\, Johns Hopkins\n\nLink: http://d
  bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7327
-DTSTAMP:20190712T144600
+DTSTAMP:20190906T090700
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
