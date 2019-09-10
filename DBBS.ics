@@ -550,6 +550,17 @@ SUMMARY:Guiding cell-based therapies to prevent fibrosis and joint contract
  ure
 END:VEVENT
 BEGIN:VEVENT
+UID:7640@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190910T120000
+DTEND;TZID=America/Chicago:20190910T130000
+DESCRIPTION:Speakers:\nDr. Ramon Jin\, Laboratory of Dr. Jason Mills\nWashi
+ ngton University School of Medicine\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=7640
+DTSTAMP:20190909T105400
+LOCATION:CSRB- North Tower\, 9th Floor\, Alpers Conference Room
+SUMMARY:Organoids to Study Upper GI Cancer
+END:VEVENT
+BEGIN:VEVENT
 UID:7424@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190910T150000
 DTEND;TZID=America/Chicago:20190910T160000
@@ -570,7 +581,7 @@ DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, The Teaching
  Center\n\nDescription:\nCPD\; RSVP required -\nhttp://teachingcenter.wustl
  .edu/9_10_19_facilitatingchallengingconversations/\n\nLink: http://dbbs.wu
  stl.edu/Resources/Pages/calendar_event.aspx?EvID=7607
-DTSTAMP:20190828T141900
+DTSTAMP:20190909T082600
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Facilitating Challenging Conversations
 END:VEVENT
@@ -596,7 +607,7 @@ DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director of Academic S
   -\nhttps://teachingcenter.wustl.edu/events/introduction-to-team-based-lea
  rning/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
  EvID=7620
-DTSTAMP:20190903T104500
+DTSTAMP:20190909T082600
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Introduction to Team-Based Learning
 END:VEVENT
@@ -907,6 +918,17 @@ SUMMARY:Dissecting nucleic acid electrostatics—at the interface of theory
   and experiments
 END:VEVENT
 BEGIN:VEVENT
+UID:7642@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190917T130000
+DTEND;TZID=America/Chicago:20190917T140000
+DESCRIPTION:Speakers:\nMarcus Mahar\, Developmental\, Regenerative and Stem
+  Cell Biology Program - Lab of Valeria Cavalli\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7642
+DTSTAMP:20190909T105400
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Transcriptional and Epigenetic Regulation of Axon Regeneration
+END:VEVENT
+BEGIN:VEVENT
 UID:7437@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190917T150000
 DTEND;TZID=America/Chicago:20190917T160000
@@ -939,9 +961,20 @@ DESCRIPTION:Speakers:\nBecker Library\, Becker Library: Researcher Workshop
   Series\n\nDescription:\nCPD RSVP required:\nhttps://mailingsresponse.wust
  l.edu/trk/click?ref=z1030up2e7_2-e950x3113e0x0437&\n\nLink: http://dbbs.wu
  stl.edu/Resources/Pages/calendar_event.aspx?EvID=7560
-DTSTAMP:20190822T144300
+DTSTAMP:20190909T082600
 LOCATION:Farrell Learning and Teaching Center\, room 204
 SUMMARY:The New My Bibliography
+END:VEVENT
+BEGIN:VEVENT
+UID:7638@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190918T140000
+DTEND;TZID=America/Chicago:20190918T150000
+DESCRIPTION:Speakers:\nDr. Broder Schmidt\, Stanford University\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7638
+DTSTAMP:20190909T105200
+LOCATION:Danforth Campus\, McDonnell 212
+SUMMARY:‘Phasing in’ on the properties and functions of sticky disorder
+ ed proteins
 END:VEVENT
 BEGIN:VEVENT
 UID:7415@events.dbbs.wustl
@@ -1067,9 +1100,21 @@ DESCRIPTION:Speakers:\nTeaching Center Staff\, Teaching Center Staff\n\nDes
  cription:\nCPD\; RSVP required -\nhttp://teachingcenter.wustl.edu/fall_201
  9_gspd_reading_community/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
  alendar_event.aspx?EvID=7608
-DTSTAMP:20190828T141900
+DTSTAMP:20190909T082700
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Fall 2019 Grad Student & Postdoc Reading Community
+END:VEVENT
+BEGIN:VEVENT
+UID:7645@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190920T120000
+DTEND;TZID=America/Chicago:20190920T130000
+DESCRIPTION:Speakers:\nJason C. Mills\, MD\, PhD\, Professor of Medicine\nD
+ ivision of Gastroenterology\nWashington University\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7645
+DTSTAMP:20190909T123700
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Mechanisms that Mediate Metaplasia: the Conserved Cellular Program 
+ of Paligenosis
 END:VEVENT
 BEGIN:VEVENT
 UID:7569@events.dbbs.wustl
@@ -1093,6 +1138,17 @@ DTSTAMP:20190823T093300
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:“Compensated Interferometry Enables Improved Lung Cancer Diagnosi
  s”
+END:VEVENT
+BEGIN:VEVENT
+UID:7641@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190923T160000
+DTEND;TZID=America/Chicago:20190923T160000
+DESCRIPTION:Speakers:\nBruce Carlson\, Washington University\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7641
+DTSTAMP:20190909T105400
+LOCATION:Rebstock Hall 322
+SUMMARY:Linking evolutionary change in sensory perception to its cellular a
+ nd network  substrates in weakly electric fish
 END:VEVENT
 BEGIN:VEVENT
 UID:7447@events.dbbs.wustl
@@ -1250,6 +1306,16 @@ DESCRIPTION:Speakers:\nSheila Stewart\, PhD\, WashU Cell Biology & Physiolo
 DTSTAMP:20190904T111600
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"Age-related stomal changes drive tumorigenesis"
+END:VEVENT
+BEGIN:VEVENT
+UID:7644@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190930T160000
+DTEND;TZID=America/Chicago:20190930T160000
+DESCRIPTION:Speakers:\nArianna Maffei\, SUNY-Stoney brook\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7644
+DTSTAMP:20190909T123700
+LOCATION:Rebstock Hall 322
+SUMMARY:Circuit mechanisms for learning in sensory cortex
 END:VEVENT
 BEGIN:VEVENT
 UID:7591@events.dbbs.wustl
@@ -1869,7 +1935,7 @@ DESCRIPTION:Speakers:\nBecker Library\, Becker Library\n\nDescription:\nCPD
  \; RSVP required -\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civ
  icrm/event/info&reset\;=1&id\;=121\n\nLink: http://dbbs.wustl.edu/Resource
  s/Pages/calendar_event.aspx?EvID=7606
-DTSTAMP:20190828T141900
+DTSTAMP:20190909T082700
 LOCATION:FLTC 204
 SUMMARY:NIH Biosketch and NCBI SciENcv
 END:VEVENT
