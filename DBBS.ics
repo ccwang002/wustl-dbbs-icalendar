@@ -814,6 +814,18 @@ SUMMARY:“Emerging Neurotechnologies: From Research to Clinical Applicatio
  n”
 END:VEVENT
 BEGIN:VEVENT
+UID:7647@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190916T000000
+DTEND;TZID=America/Chicago:20190916T235900
+DESCRIPTION:Speakers:\nDr. James Krings\, Washington University\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7647
+DTSTAMP:20190910T114900
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“In adults with asthma baseline quantitative computed tomographic
+  imaging can predict both future lung function decline and future asthma m
+ orbidity.”
+END:VEVENT
+BEGIN:VEVENT
 UID:7511@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190916T120000
 DTEND;TZID=America/Chicago:20190916T130000
@@ -1025,9 +1037,9 @@ DTSTART;TZID=America/Chicago:20190919T120000
 DTEND;TZID=America/Chicago:20190919T125000
 DESCRIPTION:Speakers:\nStuart Friess\, WUSTL Dept. of Peds\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7602
-DTSTAMP:20190828T102400
+DTSTAMP:20190910T151000
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Antibiotics in Traumatic Brain Injury: A New Secondary insult?
 END:VEVENT
 BEGIN:VEVENT
 UID:7517@events.dbbs.wustl
@@ -1240,6 +1252,17 @@ DTSTAMP:20190822T104300
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:"Regulation of Vascular Development by Hemodynamic Forces"
+END:VEVENT
+BEGIN:VEVENT
+UID:7649@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190927T090000
+DTEND;TZID=America/Chicago:20190927T100000
+DESCRIPTION:Speakers:\nTim R. Peterson\, PhD\, Dept. of Medicine\, Division
+  of Bone and Mineral Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pag
+ es/calendar_event.aspx?EvID=7649
+DTSTAMP:20190910T150900
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Pharmacogenomics for the Musculoskeletal System and in General
 END:VEVENT
 BEGIN:VEVENT
 UID:7616@events.dbbs.wustl
