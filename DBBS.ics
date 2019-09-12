@@ -441,9 +441,8 @@ DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director of Academic Ser
  vices\, The Teaching Center\n\nDescription:\nCPD\; More information -\nhtt
  ps://teachingcenter.wustl.edu/events/2019_09_05_fall_jumpstart/\n\nLink: h
  ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7619
-DTSTAMP:20190903T101500
+DTSTAMP:20190911T104700
 LOCATION:The Teaching Center\, Danforth Campus
-RRULE:BYDAY=TH;INTERVAL=1;FREQ=WEEKLY;UNTIL=20190926
 SUMMARY:Jump-Start to Writing a Teaching Philosophy Statement Program
 END:VEVENT
 BEGIN:VEVENT
@@ -641,6 +640,20 @@ LOCATION:Moore Auditorium
 SUMMARY:Big\, team\, open science at the Allen Institute
 END:VEVENT
 BEGIN:VEVENT
+UID:7655@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190911T150000
+DTEND;TZID=America/Chicago:20190911T163000
+DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director\, Academic Se
+ rvices\, The Teaching Center\n\nDescription:\nCPD\; Registration required 
+ - https://teachingcenter.wustl.edu/events/teaching-\nstudents-how-to-read-
+ and-critically-evaluate-scientific-literature/\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7655
+DTSTAMP:20190911T134200
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Teaching Students How to Read and Critically Evaluate Scientific Li
+ terature
+END:VEVENT
+BEGIN:VEVENT
 UID:7612@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190911T160000
 DTEND;TZID=America/Chicago:20190911T180000
@@ -713,6 +726,17 @@ DTSTAMP:20190905T120700
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Regulation of Gut Commensal-Specific T Cell Differentiation by Dend
  ritic Cell Subsets
+END:VEVENT
+BEGIN:VEVENT
+UID:7652@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190912T150000
+DTEND;TZID=America/Chicago:20190912T163000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director of Academic Ser
+ vices\, The Teaching Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=7652
+DTSTAMP:20190911T105200
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Jump-Start to Writing a Teaching Philosophy Statement Program
 END:VEVENT
 BEGIN:VEVENT
 UID:6880@events.dbbs.wustl
@@ -868,7 +892,7 @@ DTEND;TZID=America/Chicago:20190916T173000
 DESCRIPTION:Speakers:\nInPrint\, InPrint\n\nDescription:\nhttps://inprintsc
  ience.wustl.edu/calendar_event/vector-graphic-workshop-\ninkscape/\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7631
-DTSTAMP:20190905T120700
+DTSTAMP:20190911T101600
 LOCATION:Holden Auditorium
 SUMMARY:Vector Graphics Workshop: Inkscape
 END:VEVENT
@@ -928,6 +952,19 @@ DTSTAMP:20190827T104000
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:Dissecting nucleic acid electrostatics—at the interface of theory
   and experiments
+END:VEVENT
+BEGIN:VEVENT
+UID:7654@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190917T103000
+DTEND;TZID=America/Chicago:20190917T120000
+DESCRIPTION:Speakers:\nDr. Meg Gregory and Dr. Julia Johnson\, The Teaching
+  Center\n\nDescription:\nCPD\; Registration required - https://teachingcen
+ ter.wustl.edu/events/asking-\nquestions-to-improve-learning-medical-campus
+ -morning/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7654
+DTSTAMP:20190911T134200
+LOCATION:Medical Campus
+SUMMARY:Asking Questions to Improve Learning
 END:VEVENT
 BEGIN:VEVENT
 UID:7642@events.dbbs.wustl
@@ -1042,6 +1079,17 @@ LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:Antibiotics in Traumatic Brain Injury: A New Secondary insult?
 END:VEVENT
 BEGIN:VEVENT
+UID:7650@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T150000
+DTEND;TZID=America/Chicago:20190919T160000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director of Academic Ser
+ vices\, The Teaching Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=7650
+DTSTAMP:20190911T103500
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Jump-Start to Writing a Teaching Philosophy Statement Program
+END:VEVENT
+BEGIN:VEVENT
 UID:7517@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190919T160000
 DTEND;TZID=America/Chicago:20190919T170000
@@ -1061,7 +1109,7 @@ DTEND;TZID=America/Chicago:20190919T173000
 DESCRIPTION:Speakers:\nInPrint\, InPrint\n\nDescription:\nhttps://inprintsc
  ience.wustl.edu/calendar_event/vector-graphics-workshop-\nillustrator/\n\n
  Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7632
-DTSTAMP:20190905T120700
+DTSTAMP:20190911T101600
 LOCATION:Connor Auditorium
 SUMMARY:Vector Graphics Workshop: Adobe Illustrator
 END:VEVENT
@@ -1194,6 +1242,18 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Managing Menopause after Cancer: A New Model of Care
 END:VEVENT
 BEGIN:VEVENT
+UID:7656@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190924T100000
+DTEND;TZID=America/Chicago:20190924T120000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nCPD\; Registration Required -\nhttps://becker.wustl.edu/civic
+ rm/?page=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=130\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7656
+DTSTAMP:20190911T134300
+LOCATION:McDonnell Medical Sciences Building\, Room 100
+SUMMARY:REDCap Workshop – Introduction to REDCap
+END:VEVENT
+BEGIN:VEVENT
 UID:7163@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190924T120000
 DTEND;TZID=America/Chicago:20190924T130000
@@ -1237,9 +1297,33 @@ DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
  escription:\nRegistration required:\nhttps://becker.wustl.edu/civicrm/?pag
  e=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=134\n\nLink: http://dbbs.w
  ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7635
-DTSTAMP:20190906T090300
+DTSTAMP:20190911T102700
 LOCATION:McDonnell Medical Sciences Building\, Room 100
 SUMMARY:Introduction to Python: #1 Getting Started with Python
+END:VEVENT
+BEGIN:VEVENT
+UID:7657@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190926T100000
+DTEND;TZID=America/Chicago:20190926T120000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nCPD\; Registration required -\nhttps://becker.wustl.edu/civic
+ rm/?page=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=149\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7657
+DTSTAMP:20190911T134300
+LOCATION:McDonnell Medical Sciences Building\, Room 100
+SUMMARY:Introduction to Python – #1 Getting Started with Python
+END:VEVENT
+BEGIN:VEVENT
+UID:7651@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190926T150000
+DTEND;TZID=America/Chicago:20190926T163000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director of Academic Ser
+ vices\n\nDescription:\nCPD\; More information -\nhttps://teachingcenter.wu
+ stl.edu/events/2019_09_05_fall_jumpstart/\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7651
+DTSTAMP:20190911T104100
+LOCATION:The Teaching Center\, Danforth Campus
+SUMMARY:Jump-Start to Writing a Teaching Philosophy Statement Program
 END:VEVENT
 BEGIN:VEVENT
 UID:7519@events.dbbs.wustl
@@ -1252,6 +1336,18 @@ DTSTAMP:20190822T104300
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:"Regulation of Vascular Development by Hemodynamic Forces"
+END:VEVENT
+BEGIN:VEVENT
+UID:7653@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190926T160000
+DTEND;TZID=America/Chicago:20190926T170000
+DESCRIPTION:Speakers:\nJustin Gerke\, PhD\, Senior Research Scientist\nCort
+ eva Agriscience\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7653
+DTSTAMP:20190911T134100
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"Genotype to phenotype prediction and the use of genomic data in ag
+ riculture"
 END:VEVENT
 BEGIN:VEVENT
 UID:7649@events.dbbs.wustl
@@ -1386,14 +1482,26 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Coding of space and time in cortical circuits
 END:VEVENT
 BEGIN:VEVENT
+UID:7658@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191003T100000
+DTEND;TZID=America/Chicago:20191003T120000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nCPD\; Registration required -\nhttps://becker.wustl.edu/civic
+ rm/?page=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=150\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7658
+DTSTAMP:20190911T134400
+LOCATION:McDonnell Medical Sciences Building\, Room 100
+SUMMARY:Introduction to Python – #2 Using Python for Data Analysis
+END:VEVENT
+BEGIN:VEVENT
 UID:7320@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191003T120000
 DTEND;TZID=America/Chicago:20191003T130000
 DESCRIPTION:Speakers:\nDr. Mae Gordon\, Washington University\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7320
-DTSTAMP:20190906T090600
+DTSTAMP:20190911T134800
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:Pilot Trial Results of 5% Betadine for Adenoviral Conjunctivitis
 END:VEVENT
 BEGIN:VEVENT
 UID:7417@events.dbbs.wustl
@@ -1614,9 +1722,9 @@ DTEND;TZID=America/Chicago:20191017T170000
 DESCRIPTION:Speakers:\nDr. Botir Sagdullaev\, Cornell University School of 
  Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
  x?EvID=7321
-DTSTAMP:20190712T134900
+DTSTAMP:20190911T134800
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:Of Neurons and Pericytes: Neurovascular Approach to Retinal Repair
 END:VEVENT
 BEGIN:VEVENT
 UID:7525@events.dbbs.wustl
@@ -1773,9 +1881,9 @@ DTSTART;TZID=America/Chicago:20191031T120000
 DTEND;TZID=America/Chicago:20191031T130000
 DESCRIPTION:Speakers:\nDr. Steve Bassnett\, Washington University\n\nLink: 
  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7324
-DTSTAMP:20190906T090600
+DTSTAMP:20190911T134900
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:No Strings Attached –  Modeling Ectopia Lentis in Mice
 END:VEVENT
 BEGIN:VEVENT
 UID:6933@events.dbbs.wustl
