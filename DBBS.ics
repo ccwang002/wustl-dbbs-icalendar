@@ -1361,6 +1361,19 @@ LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Pharmacogenomics for the Musculoskeletal System and in General
 END:VEVENT
 BEGIN:VEVENT
+UID:7661@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190927T120000
+DTEND;TZID=America/Chicago:20190927T140000
+DESCRIPTION:Speakers:\nMs. Erica Kay Barnell\, MSTP- Molecular Genetics and
+  Genomics Program- Lab of Dr. Obi Griffith\, Department of Internal Medici
+ ne\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =7661
+DTSTAMP:20190913T091700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Bioinformatic tools to alleviate the annotation bottleneck within p
+ recision oncology
+END:VEVENT
+BEGIN:VEVENT
 UID:7616@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190927T150000
 DTEND;TZID=America/Chicago:20190927T160000
@@ -1770,6 +1783,20 @@ LOCATION:4444 Forest Park Ave.\, Room 1235
 SUMMARY:Physical therapy management of a young competitive Irish Dancer wit
  h ankle instability and metatarsal fracture with MSI diagnosis of toe flex
  ion syndrome.
+END:VEVENT
+BEGIN:VEVENT
+UID:7660@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191024T160000
+DTEND;TZID=America/Chicago:20191024T170000
+DESCRIPTION:Speakers:\nAndrew McMahon-39th Annual Lowry Lecture\, W. M. Kec
+ k Provost and University Professor of Stem Cell Biology and Regenerative M
+ edicine\nChair\, Department of Stem Cell Biology and Regenerative Medicine
+ \nDirector\, Eli and Edythe Broad Center for Regenerative Medicine and Ste
+ m Cell Research at USC\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=7660
+DTSTAMP:20190913T091700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Developmental Strategizing towards the treatment of kidney disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7578@events.dbbs.wustl
