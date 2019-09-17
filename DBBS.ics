@@ -1026,6 +1026,27 @@ SUMMARY:‘Phasing in’ on the properties and functions of sticky disorder
  ed proteins
 END:VEVENT
 BEGIN:VEVENT
+UID:7663@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T100000
+DTEND;TZID=America/Chicago:20190919T103000
+DESCRIPTION:Speakers:\nAswathi Kumar\, MD\, Washington University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7663
+DTSTAMP:20190916T094700
+LOCATION:728 Southwest Tower
+SUMMARY:Adjunctive therapies in type 1 diabetes
+END:VEVENT
+BEGIN:VEVENT
+UID:7662@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T103000
+DTEND;TZID=America/Chicago:20190919T113000
+DESCRIPTION:Speakers:\nJeffrey Horowitz\, PhD\, University of Michigan\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7662
+DTSTAMP:20190916T094600
+LOCATION:728 Southwest Tower
+SUMMARY:Exercise Effects on Fatty Acid Metabolism in Obesity: Impact on Ins
+ ulin Resistance
+END:VEVENT
+BEGIN:VEVENT
 UID:7415@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190919T120000
 DTEND;TZID=America/Chicago:20190919T130000
@@ -1177,6 +1198,18 @@ SUMMARY:Mechanisms that Mediate Metaplasia: the Conserved Cellular Program
  of Paligenosis
 END:VEVENT
 BEGIN:VEVENT
+UID:7664@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190920T120000
+DTEND;TZID=America/Chicago:20190920T130000
+DESCRIPTION:Speakers:\nSeiji Ono\, PhD\, Faculty of Health and Sports Scien
+ ces\nUniversity of Tsukaba\nTsukaba\, Ibaraki\, Japan\n\nDescription:\n9th
+  floor\, Ogura Learning Center Lunch will be provided\n\nLink: http://dbbs
+ .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7664
+DTSTAMP:20190916T094700
+LOCATION:9917 McMillan Hospital
+SUMMARY:Plasticity of cortical-brainstem pathways for eye-head movements
+END:VEVENT
+BEGIN:VEVENT
 UID:7569@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190923T120000
 DTEND;TZID=America/Chicago:20190923T130000
@@ -1198,6 +1231,18 @@ DTSTAMP:20190823T093300
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:“Compensated Interferometry Enables Improved Lung Cancer Diagnosi
  s”
+END:VEVENT
+BEGIN:VEVENT
+UID:7666@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190923T150000
+DTEND;TZID=America/Chicago:20190923T160000
+DESCRIPTION:Speakers:\nEric Lenze\, MD\, Wallace and Lucille Renard Profess
+ or of Psychiatry\nDirecotr\, Healty Mind Lab\nDirector\, mHealth Research 
+ Core\nWashington University School of Medicine\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7666
+DTSTAMP:20190916T094800
+LOCATION:Couch Research Building 4001B
+SUMMARY:mHealth Research Core at Washington University
 END:VEVENT
 BEGIN:VEVENT
 UID:7641@events.dbbs.wustl
