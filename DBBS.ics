@@ -1135,6 +1135,17 @@ LOCATION:Connor Auditorium
 SUMMARY:Vector Graphics Workshop: Adobe Illustrator
 END:VEVENT
 BEGIN:VEVENT
+UID:7673@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190919T160000
+DTEND;TZID=America/Chicago:20190919T170000
+DESCRIPTION:Speakers:\nBrett Seymoure\, The Living Earth Collaborative\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7673
+DTSTAMP:20190917T091400
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Lighting up Biodiversity:  The Visual Ecology of a Natural and Ant
+ hropogenic Light Cycles
+END:VEVENT
+BEGIN:VEVENT
 UID:7615@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190919T163000
 DTEND;TZID=America/Chicago:20190919T173000
@@ -1347,6 +1358,18 @@ LOCATION:McDonnell Medical Sciences Building\, Room 100
 SUMMARY:Introduction to Python: #1 Getting Started with Python
 END:VEVENT
 BEGIN:VEVENT
+UID:7671@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190926T083000
+DTEND;TZID=America/Chicago:20190926T100000
+DESCRIPTION:Speakers:\nDr. Erin Heckler\, Office of Postdoctoral Affairs\n\
+ nDescription:\nRegistration required -\nhttps://wustl.az1.qualtrics.com/jf
+ e/form/SV_7UovjATPs0FSDVb\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7671
+DTSTAMP:20190917T091400
+LOCATION:Bernard Becker Medical Library\, Room 405
+SUMMARY:Building a Mentoring Team
+END:VEVENT
+BEGIN:VEVENT
 UID:7657@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190926T100000
 DTEND;TZID=America/Chicago:20190926T120000
@@ -1395,6 +1418,16 @@ SUMMARY:"Genotype to phenotype prediction and the use of genomic data in ag
  riculture"
 END:VEVENT
 BEGIN:VEVENT
+UID:7674@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190926T160000
+DTEND;TZID=America/Chicago:20190926T170000
+DESCRIPTION:Speakers:\nMichael Moore\, Living Earth Collaborative\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7674
+DTSTAMP:20190917T091500
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Temperature and the Evolution of Breeding Coloration
+END:VEVENT
+BEGIN:VEVENT
 UID:7649@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190927T090000
 DTEND;TZID=America/Chicago:20190927T100000
@@ -1417,6 +1450,18 @@ DTSTAMP:20190913T091700
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Bioinformatic tools to alleviate the annotation bottleneck within p
  recision oncology
+END:VEVENT
+BEGIN:VEVENT
+UID:7676@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190927T120000
+DTEND;TZID=America/Chicago:20190927T130000
+DESCRIPTION:Speakers:\nGwendalyn J. Randolph\, PhD\, Emil R. Unanue Profess
+ or\, Pathology & Immunology\nDepartment of Pathology and Immunology\nWashi
+ ngton University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=7676
+DTSTAMP:20190917T171100
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Lymphatic Vessel Transport in Small Bowel Crohn's Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7616@events.dbbs.wustl
@@ -1619,6 +1664,16 @@ SUMMARY:"Targeting tau-associated cellular senescence to mitigate neurodege
  neration and cognitive impairment in age-associated brain diseases”
 END:VEVENT
 BEGIN:VEVENT
+UID:7668@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191007T160000
+DTEND;TZID=America/Chicago:20191007T170000
+DESCRIPTION:Speakers:\nYehuda Ben-Shahar\, Washington University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7668
+DTSTAMP:20190917T091200
+LOCATION:Rebstock Hall 322
+SUMMARY:“The genetics of neuronal robustness”
+END:VEVENT
+BEGIN:VEVENT
 UID:7449@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191007T161500
 DTEND;TZID=America/Chicago:20191007T161500
@@ -1651,6 +1706,20 @@ DTSTAMP:20190729T183100
 LOCATION:4515 McKinley Research Building\, Room 6001b
 SUMMARY:Genome Structure\, Transcriptional Silencing in Development and Can
  cer Progression
+END:VEVENT
+BEGIN:VEVENT
+UID:7672@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191008T160000
+DTEND;TZID=America/Chicago:20191008T170000
+DESCRIPTION:Speakers:\nDr. Jennifer Knight\, Associate Professor\, Departme
+ nt of Molecular\, Cellular and Developmental Biology\; University of Color
+ ado-Boulder\n\nDescription:\nhttps://circle.wustl.edu/events/speaker-serie
+ s/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =7672
+DTSTAMP:20190917T091400
+LOCATION:Wilson Hall Room 214\, 1 Brookings Drive
+SUMMARY:Understanding Students’ In-Class Experiences Can Help Shape Effec
+ tive Instructional Practices
 END:VEVENT
 BEGIN:VEVENT
 UID:7366@events.dbbs.wustl
@@ -1779,10 +1848,11 @@ DTEND;TZID=America/Chicago:20191017T170000
 DESCRIPTION:Speakers:\nPhillip Cuculich\, MD\, Associate Professor of Medic
  ine\, Cardiovascular Division\nWashington University\n\nLink: http://dbbs.
  wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7525
-DTSTAMP:20190822T104400
+DTSTAMP:20190917T171200
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:Noninvasive Cardiac Radioablation: More of the Same? Or New Paradig
+ m in Arrhythmia Therapeutics?
 END:VEVENT
 BEGIN:VEVENT
 UID:7577@events.dbbs.wustl
@@ -1794,6 +1864,16 @@ DESCRIPTION:Speakers:\nStacey L. Rentschler\, MD\, PhD\, Associate Professo
 DTSTAMP:20190823T093000
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7669@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191021T160000
+DTEND;TZID=America/Chicago:20191021T160000
+DESCRIPTION:Speakers:\nMeredith Jackrel\, Washington University\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7669
+DTSTAMP:20190917T091300
+LOCATION:Rebstock Hall 322
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7453@events.dbbs.wustl
@@ -1873,15 +1953,26 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"Neurodegenerative Disease Driven by Senescent Cells"
 END:VEVENT
 BEGIN:VEVENT
+UID:7670@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191028T160000
+DTEND;TZID=America/Chicago:20191028T160000
+DESCRIPTION:Speakers:\nSuresh Damodaran\, Washington University\nMolly Shal
+ low\, Wahington University\n\nDescription:\nBioforum\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7670
+DTSTAMP:20190917T091300
+LOCATION:Rebstock Hall 322
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
 UID:7455@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191028T161500
 DTEND;TZID=America/Chicago:20191028T161500
 DESCRIPTION:Speakers:\nDr. Dan Barouch\, Harvard Medical School\n\nDescript
  ion:\nThe is co-sponsored with CHiiPs\n\nLink: http://dbbs.wustl.edu/Resou
  rces/Pages/calendar_event.aspx?EvID=7455
-DTSTAMP:20190816T095300
+DTSTAMP:20190917T100100
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:Novel HIV Vaccine and Cure Strategies
 END:VEVENT
 BEGIN:VEVENT
 UID:7556@events.dbbs.wustl
@@ -2129,6 +2220,21 @@ DESCRIPTION:Speakers:\nBecker Library\, Becker Library\n\nDescription:\nCPD
 DTSTAMP:20190909T082700
 LOCATION:FLTC 204
 SUMMARY:NIH Biosketch and NCBI SciENcv
+END:VEVENT
+BEGIN:VEVENT
+UID:7675@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191115T130000
+DTEND;TZID=America/Chicago:20191115T160000
+DESCRIPTION:Speakers:\nGhazal Ashrafi\, PhD\, Assistant Professor of Cell B
+ iology and Genetics\nWashington University School of Medicine\nAaron DiAnt
+ onio\, MD\, PhD\, Professor of Developmental Biology\nWashington Universit
+ y School of Medicine\nRajesh Devraj\, PhD\, Disarm Therapeutics\nKeynote S
+ peaker: Thomas Schwarz\, PhD\, Harvard University\n\nLink: http://dbbs.wus
+ tl.edu/Resources/Pages/calendar_event.aspx?EvID=7675
+DTSTAMP:20190917T091500
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Calcium-dependent Regulation of Mitochondrial Metabolism in Nerve T
+ erminals
 END:VEVENT
 BEGIN:VEVENT
 UID:7461@events.dbbs.wustl
