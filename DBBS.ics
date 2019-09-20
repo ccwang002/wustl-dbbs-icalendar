@@ -1233,6 +1233,17 @@ LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:“Understanding human pluripotent states and their applications”
 END:VEVENT
 BEGIN:VEVENT
+UID:7683@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190923T120000
+DTEND;TZID=America/Chicago:20190923T130000
+DESCRIPTION:Speakers:\nKayla Berry\, Washington University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7683
+DTSTAMP:20190919T104100
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:"Using CLCA1 vWA domain to activate alternate anion currents in cys
+ tic fibrosis airway."
+END:VEVENT
+BEGIN:VEVENT
 UID:7563@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190923T130000
 DTEND;TZID=America/Chicago:20190923T140000
@@ -1331,6 +1342,18 @@ DTSTAMP:20190724T085100
 LOCATION:4444 Forest Park Ave.\, Room 1235
 SUMMARY:Falls in older adults with cancer: from risk prediction to preventi
  on
+END:VEVENT
+BEGIN:VEVENT
+UID:7684@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190924T120000
+DTEND;TZID=America/Chicago:20190924T130000
+DESCRIPTION:Speakers:\nCareer Center\, Career Center\n\nDescription:\nCPD\;
+  https://postdoc.wustl.edu/calendar_event/tailoring-resumes-cover-letters-
+ \nmedical-campus/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=7684
+DTSTAMP:20190919T104000
+LOCATION:Becker Medical Library\, Room 405
+SUMMARY:Tailoring Resumes & Cover Letters
 END:VEVENT
 BEGIN:VEVENT
 UID:7507@events.dbbs.wustl
