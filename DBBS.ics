@@ -1405,6 +1405,17 @@ LOCATION:McDonnell Medical Sciences Building\, Room 100
 SUMMARY:Introduction to Python – #1 Getting Started with Python
 END:VEVENT
 BEGIN:VEVENT
+UID:7686@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20190926T120000
+DTEND;TZID=America/Chicago:20190926T125000
+DESCRIPTION:Speakers:\nVikas Dharnidharka\, Pediatrics\n\nLink: http://dbbs
+ .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7686
+DTSTAMP:20190920T085900
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:Metagenomic shotgun sequencing for microbial DNA in post-transplant
+  lymphoproliferative disorders
+END:VEVENT
+BEGIN:VEVENT
 UID:7651@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20190926T150000
 DTEND;TZID=America/Chicago:20190926T163000
@@ -1630,6 +1641,16 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:Pilot Trial Results of 5% Betadine for Adenoviral Conjunctivitis
 END:VEVENT
 BEGIN:VEVENT
+UID:7687@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191003T120000
+DTEND;TZID=America/Chicago:20191003T125000
+DESCRIPTION:Speakers:\nRodney Newberry\, WUSM - Professor of Medicine\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7687
+DTSTAMP:20190920T090200
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7520@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191003T160000
 DTEND;TZID=America/Chicago:20191003T170000
@@ -1782,6 +1803,16 @@ LOCATION:Clopton Auditorium
 SUMMARY:Building tissue spcific centrosomes
 END:VEVENT
 BEGIN:VEVENT
+UID:7689@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191010T120000
+DTEND;TZID=America/Chicago:20191010T125000
+DESCRIPTION:Speakers:\nJen Ikle\, Pediatrics\nSteven Stone\, Pediatrics\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7689
+DTSTAMP:20190920T090200
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7575@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191014T120000
 DTEND;TZID=America/Chicago:20191014T130000
@@ -1852,6 +1883,16 @@ DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
 DTSTAMP:20190906T090200
 LOCATION:Farrell Learning and Teaching Center\, room 204
 SUMMARY:NIH and Other Public Access Policies
+END:VEVENT
+BEGIN:VEVENT
+UID:7692@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191017T120000
+DTEND;TZID=America/Chicago:20191017T125000
+DESCRIPTION:Speakers:\nRon Rubenstein\, CHOP - Professor of Pediatrics\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7692
+DTSTAMP:20190920T092200
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7321@events.dbbs.wustl
@@ -1931,6 +1972,16 @@ LOCATION:4444 Forest Park Ave.\, Room 1235
 SUMMARY:Physical therapy management of a young competitive Irish Dancer wit
  h ankle instability and metatarsal fracture with MSI diagnosis of toe flex
  ion syndrome.
+END:VEVENT
+BEGIN:VEVENT
+UID:7693@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191024T120000
+DTEND;TZID=America/Chicago:20191024T125000
+DESCRIPTION:Speakers:\nStuart Sweet\, Pediatrics\n\nLink: http://dbbs.wustl
+ .edu/Resources/Pages/calendar_event.aspx?EvID=7693
+DTSTAMP:20190920T092200
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7660@events.dbbs.wustl
@@ -2060,6 +2111,16 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:No Strings Attached –  Modeling Ectopia Lentis in Mice
 END:VEVENT
 BEGIN:VEVENT
+UID:7695@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191031T120000
+DTEND;TZID=America/Chicago:20191031T125000
+DESCRIPTION:Speakers:\nBarb Warner\, Pediatrics\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7695
+DTSTAMP:20190920T090300
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:6933@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191031T150000
 DTEND;TZID=America/Chicago:20191031T160000
@@ -2184,9 +2245,9 @@ DESCRIPTION:Speakers:\nBecker Library\, Becker Library\n\nDescription:\nCPD
  \; RSVP required -\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civ
  icrm/event/info&reset\;=1&id\;=120\n\nLink: http://dbbs.wustl.edu/Resource
  s/Pages/calendar_event.aspx?EvID=7604
-DTSTAMP:20190828T142000
+DTSTAMP:20190920T132200
 LOCATION:FLTC 204
-SUMMARY:NIH and Other Public Access Policies
+SUMMARY:NCBI Tools: PubMed and My Bibliography
 END:VEVENT
 BEGIN:VEVENT
 UID:7326@events.dbbs.wustl
