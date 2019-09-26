@@ -1790,6 +1790,18 @@ SUMMARY:Genome Structure\, Transcriptional Silencing in Development and Can
  cer Progression
 END:VEVENT
 BEGIN:VEVENT
+UID:7726@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191008T150000
+DTEND;TZID=America/Chicago:20191008T160000
+DESCRIPTION:Speakers:\nShan Li\, Ph.D.\, Department of Cell Biology & Physi
+ ology\, WUSM\nMichael Onken\, Ph.D.\, Department of Biochemistry & Molecul
+ ar Biophysics\, WUSM\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7726
+DTSTAMP:20190925T100700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:The Calcium Signaling Safeguards Replications Forks
+END:VEVENT
+BEGIN:VEVENT
 UID:7672@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191008T160000
 DTEND;TZID=America/Chicago:20191008T170000
@@ -2163,6 +2175,17 @@ DTSTAMP:20190924T095100
 LOCATION:East Pavilion Auditorium
 SUMMARY:Update on AD Clinical Trials and the Knight ADRC Clinical Trials Un
  it (KACTU)
+END:VEVENT
+BEGIN:VEVENT
+UID:7727@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191022T150000
+DTEND;TZID=America/Chicago:20191022T160000
+DESCRIPTION:Speakers:\nDaniel J. Lew\, Ph.D.\, James B. Duke Professor of P
+ harmacology and Cancer Biology\nDuke University Medical Center\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7727
+DTSTAMP:20190925T100700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Cell polarity and the decoding of chemical gradients
 END:VEVENT
 BEGIN:VEVENT
 UID:7709@events.dbbs.wustl
