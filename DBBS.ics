@@ -1552,9 +1552,9 @@ DTSTART;TZID=America/Chicago:20191010T120000
 DTEND;TZID=America/Chicago:20191010T125000
 DESCRIPTION:Speakers:\nJen Ikle\, Pediatrics\nSteven Stone\, Pediatrics\n\n
  Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7689
-DTSTAMP:20190920T090200
+DTSTAMP:20191001T094500
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Using zebrafish to understand disorders of insulin secretion
 END:VEVENT
 BEGIN:VEVENT
 UID:7705@events.dbbs.wustl
@@ -1760,9 +1760,10 @@ DTSTART;TZID=America/Chicago:20191017T120000
 DTEND;TZID=America/Chicago:20191017T125000
 DESCRIPTION:Speakers:\nRon Rubenstein\, CHOP - Professor of Pediatrics\n\nL
  ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7692
-DTSTAMP:20190920T092200
+DTSTAMP:20191001T094600
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:From Phenylbutyrate to Exit from the Endoplasmic Reticulum\; CFTR\,
+  ENaC\, and More
 END:VEVENT
 BEGIN:VEVENT
 UID:7724@events.dbbs.wustl
@@ -1985,9 +1986,10 @@ DTSTART;TZID=America/Chicago:20191024T120000
 DTEND;TZID=America/Chicago:20191024T125000
 DESCRIPTION:Speakers:\nStuart Sweet\, Pediatrics\n\nLink: http://dbbs.wustl
  .edu/Resources/Pages/calendar_event.aspx?EvID=7693
-DTSTAMP:20190920T092200
+DTSTAMP:20191001T094600
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:The Impact of Respiratory Viral Infections on Outcomes in Pediatric
+  Lung Transplant Recipients
 END:VEVENT
 BEGIN:VEVENT
 UID:7660@events.dbbs.wustl
@@ -2362,6 +2364,18 @@ DESCRIPTION:Speakers:\nDr. Eric Fournier\, Director\, Academic Services\, T
 DTSTAMP:20190927T095400
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Engaging Students as Partners in Learning
+END:VEVENT
+BEGIN:VEVENT
+UID:7759@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191111T160000
+DTEND;TZID=America/Chicago:20191111T160000
+DESCRIPTION:Speakers:\nJason Gallant Assistant Professor\, Michigan State U
+ niversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7759
+DTSTAMP:20191001T094400
+LOCATION:Rebstock Hall 322
+SUMMARY:"The genomic basis of communication signal variation in electric fi
+ sh"
 END:VEVENT
 BEGIN:VEVENT
 UID:7459@events.dbbs.wustl
