@@ -1389,6 +1389,17 @@ SUMMARY:"Targeting tau-associated cellular senescence to mitigate neurodege
  neration and cognitive impairment in age-associated brain diseases”
 END:VEVENT
 BEGIN:VEVENT
+UID:7760@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191007T120000
+DTEND;TZID=America/Chicago:20191007T130000
+DESCRIPTION:Speakers:\nDr. Ben Major\, Washington University\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7760
+DTSTAMP:20191002T094100
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“KEAP1 and NRF2 Oxidative Stress Response Signaling in Lung Cance
+ r.”
+END:VEVENT
+BEGIN:VEVENT
 UID:7743@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191007T130000
 DTEND;TZID=America/Chicago:20191007T140000
@@ -1455,6 +1466,18 @@ DESCRIPTION:Speakers:\nCareer Center\, Career Center\n\nDescription:\nCPD\;
 DTSTAMP:20190930T151400
 LOCATION:Becker Medical Library\, Room 405
 SUMMARY:Evaluating & Negotiating Job Offers
+END:VEVENT
+BEGIN:VEVENT
+UID:7769@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191008T120000
+DTEND;TZID=America/Chicago:20191008T130000
+DESCRIPTION:Speakers:\nRon Bose MD\, PhD\, Associate Professor\, Division o
+ f Oncology\, Department of Medicine and Alvin J. Siteman Cancer Center\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7769
+DTSTAMP:20191002T094400
+LOCATION:CSRB- North Tower\, 9th Floor\, Alpers Conference Room
+SUMMARY:Using Organoids to Study HER2 Mutations in Breast and Colorectal Ca
+ ncer
 END:VEVENT
 BEGIN:VEVENT
 UID:7726@events.dbbs.wustl
@@ -1596,6 +1619,18 @@ SUMMARY:Alignment and Activism: Fostering Research Participation Among Afri
  can Americans Through Resistance\, Resilience\, and Representation
 END:VEVENT
 BEGIN:VEVENT
+UID:7761@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191010T160000
+DTEND;TZID=America/Chicago:20191010T170000
+DESCRIPTION:Speakers:\nKirstin Winchell\, Washington University\, Departmen
+ t of Biology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7761
+DTSTAMP:20191002T094200
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Models for Urban Evolution:  Adaptation\, Tolerance and Convergenc
+ e in Anolis Lizards
+END:VEVENT
+BEGIN:VEVENT
 UID:7755@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191011T120000
 DTEND;TZID=America/Chicago:20191011T130000
@@ -1606,6 +1641,29 @@ DESCRIPTION:Speakers:\nCareer Center\, Career Center\n\nDescription:\nCPD\;
 DTSTAMP:20190930T151400
 LOCATION:DUC 276
 SUMMARY:Evaluating & Negotiating Job Offers
+END:VEVENT
+BEGIN:VEVENT
+UID:7770@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191011T120000
+DTEND;TZID=America/Chicago:20191011T130000
+DESCRIPTION:Speakers:\nMarco Colonna\, MD\, Robert Rock Belliveau MD Profes
+ sor\nDeparment of Pathology & Immunology\nWashington University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7770
+DTSTAMP:20191002T094400
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Circadian Clock and Gut Immune Responses
+END:VEVENT
+BEGIN:VEVENT
+UID:7766@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191011T133000
+DTEND;TZID=America/Chicago:20191011T143000
+DESCRIPTION:Speakers:\nJoel Boerckel\, PhD\, University of Pennsylvania\, P
+ hiladelphia\, PA\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=7766
+DTSTAMP:20191002T094300
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Mimicking morphogenesis for regeneration: a choose your own adventu
+ re talk
 END:VEVENT
 BEGIN:VEVENT
 UID:7696@events.dbbs.wustl
@@ -1654,6 +1712,17 @@ DESCRIPTION:Speakers:\nMultiple Invited Speakers\, Register here:\n\nhttps:
 DTSTAMP:20190927T101400
 LOCATION:EPNEC Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7768@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191015T103000
+DTEND;TZID=America/Chicago:20191015T113000
+DESCRIPTION:Speakers:\nDr. Yu Chen\, University of South Florida\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7768
+DTSTAMP:20191002T094400
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Tracking proton transfer in beta-lactamase catalysis using ultrahig
+ h resolution X-ray crystallography
 END:VEVENT
 BEGIN:VEVENT
 UID:7294@events.dbbs.wustl
@@ -1825,6 +1894,16 @@ DESCRIPTION:Speakers:\nJennifer Phillips-Cremins\, PhD\, Assistant Professo
 DTSTAMP:20190927T101500
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Genome folding\, unfolding\, and refolding in the mammalian brain
+END:VEVENT
+BEGIN:VEVENT
+UID:7762@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191017T160000
+DTEND;TZID=America/Chicago:20191017T170000
+DESCRIPTION:Speakers:\nWilliam Farfan-Rios\, Living Earth Collaborative\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7762
+DTSTAMP:20191002T094200
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:What Happens When Andean-Amazonian Forests Get Hotter?
 END:VEVENT
 BEGIN:VEVENT
 UID:7729@events.dbbs.wustl
@@ -2031,6 +2110,17 @@ LOCATION:Moore Auditorium
 SUMMARY:From Genes and Genomes to Biology and Health
 END:VEVENT
 BEGIN:VEVENT
+UID:7763@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191024T160000
+DTEND;TZID=America/Chicago:20191024T170000
+DESCRIPTION:Speakers:\nElizabeth Carlen\, Fordham University\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7763
+DTSTAMP:20191002T094200
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:From City to Megalopolis:  The Ecology and Evolution of Feral Pige
+ ons in the Northeastern United States
+END:VEVENT
+BEGIN:VEVENT
 UID:7578@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191028T120000
 DTEND;TZID=America/Chicago:20191028T130000
@@ -2216,6 +2306,30 @@ DTSTAMP:20190927T101600
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:A spatiotemporal organ-wide gene expression and cell atlas of the d
  eveloping human heart
+END:VEVENT
+BEGIN:VEVENT
+UID:7764@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191031T160000
+DTEND;TZID=America/Chicago:20191031T170000
+DESCRIPTION:Speakers:\nAndres Lopez-Sepulchre\, Washington University\, Dep
+ artment of Biology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7764
+DTSTAMP:20191002T094300
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Using Isotope Tracer Additions to Understand the Effects of Organis
+ ms on Ecosystems:   A New Analytical Toolbox
+END:VEVENT
+BEGIN:VEVENT
+UID:7767@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191101T090000
+DTEND;TZID=America/Chicago:20191101T100000
+DESCRIPTION:Speakers:\nTamara Alliston\, PhD\, University of California\, S
+ an Francisco\, CA\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=7767
+DTSTAMP:20191002T094300
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Bone/Cartilage Crosstalk in Joint Disease: Multiscale Mechanobiolog
+ y of TGF-beta
 END:VEVENT
 BEGIN:VEVENT
 UID:7628@events.dbbs.wustl
