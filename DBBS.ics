@@ -1412,6 +1412,18 @@ SUMMARY:Principles of Allosteric Modulation of  Mammalian P-glycoprotein b
  y Transport Substrates and Inhibitors
 END:VEVENT
 BEGIN:VEVENT
+UID:7773@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191007T143000
+DTEND;TZID=America/Chicago:20191007T153000
+DESCRIPTION:Speakers:\nAshish Sharma\, PhD\, Associate Professor\nDepartmen
+ t of Biom edical Informatics\nEmory University\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7773
+DTSTAMP:20191003T112200
+LOCATION:Eric P. Newman Education Center-Seminar Room A
+SUMMARY:Data Engineering & Systems for Biomedical Research & Precision Medi
+ cine
+END:VEVENT
+BEGIN:VEVENT
 UID:7668@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191007T160000
 DTEND;TZID=America/Chicago:20191007T170000
@@ -1689,6 +1701,19 @@ DTSTAMP:20190823T093100
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:“Reactive Oxygen Species Target Histone Methylation to Individual
  ize Stress Resistance and Lifespan”
+END:VEVENT
+BEGIN:VEVENT
+UID:7771@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191014T130000
+DTEND;TZID=America/Chicago:20191014T130000
+DESCRIPTION:Speakers:\nKirsten Brenner\, Molecular Genetics and Genomics Pr
+ ogram\nLaboratory of Dr. Luis Batista\nDepartment of Internal Medicine - H
+ ematology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7771
+DTSTAMP:20191003T112200
+LOCATION:McDonnell Sciences Room 100 Training Room
+SUMMARY:A noncanonical function of the telomerase RNA component in human em
+ bryonic stem cells
 END:VEVENT
 BEGIN:VEVENT
 UID:7451@events.dbbs.wustl
@@ -2119,6 +2144,18 @@ DTSTAMP:20191002T094200
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:From City to Megalopolis:  The Ecology and Evolution of Feral Pige
  ons in the Northeastern United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7772@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191028T110000
+DTEND;TZID=America/Chicago:20191028T120000
+DESCRIPTION:Speakers:\nJana Kainerstorfer\, PhD\, Carnege Mellon University
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7
+ 772
+DTSTAMP:20191003T112200
+LOCATION:4515 McKinley Research Building\, Room 6001b
+SUMMARY:Neuro-Vascular Coupling and Changes in Cerebral Hemodynamics Measur
+ ed with Near-Infrared Light in the Context of Brain Injury
 END:VEVENT
 BEGIN:VEVENT
 UID:7578@events.dbbs.wustl
