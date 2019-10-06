@@ -1569,6 +1569,16 @@ SUMMARY:Myosin Myopathies: Mechanisms of Pathogenesis and Paths to Therapeu
  tics
 END:VEVENT
 BEGIN:VEVENT
+UID:7786@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191010T103000
+DTEND;TZID=America/Chicago:20191010T113000
+DESCRIPTION:Speakers:\nIrfan Lodhi\, PhD\, Washington University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7786
+DTSTAMP:20191004T145900
+LOCATION:728 Southwest Tower
+SUMMARY:Organelle Crosstalk Regulating Adiposity and Lipid Metabolism
+END:VEVENT
+BEGIN:VEVENT
 UID:7704@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191010T113000
 DTEND;TZID=America/Chicago:20191010T130000
@@ -1716,6 +1726,19 @@ SUMMARY:A noncanonical function of the telomerase RNA component in human em
  bryonic stem cells
 END:VEVENT
 BEGIN:VEVENT
+UID:7784@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191014T130000
+DTEND;TZID=America/Chicago:20191014T140000
+DESCRIPTION:Speakers:\nEthan M. Goldberg\, PhD\, Assistant Professor of Neu
+ rology\, The Perelman\nSchool of Medicine at The University of Pennsylvani
+ a\nDirector\, The CHOP Epilepsy Neurogenetics Initiative (ENGIN)\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7784
+DTSTAMP:20191004T145900
+LOCATION:BJC-Institute of Health\, West Seminar Room (9th Floor)
+SUMMARY:Mechanisms of Cellular Dysfunction in Childhood Epilepsies Caused b
+ y Mutation of Sodium Channel Genes
+END:VEVENT
+BEGIN:VEVENT
 UID:7451@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191014T161500
 DTEND;TZID=America/Chicago:20191014T161500
@@ -1775,6 +1798,18 @@ LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:New mass spectrometry technology to drive biomedical research
 END:VEVENT
 BEGIN:VEVENT
+UID:7776@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191015T120000
+DTEND;TZID=America/Chicago:20191015T130000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nCPD\;\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civ
+ icrm/event/info&reset\;=1&id\;=151\n\nLink: http://dbbs.wustl.edu/Resource
+ s/Pages/calendar_event.aspx?EvID=7776
+DTSTAMP:20191004T105300
+LOCATION:Farrell Learning and Teaching Center\, Room 205
+SUMMARY:Data Management Planning and Practice
+END:VEVENT
+BEGIN:VEVENT
 UID:7728@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191015T150000
 DTEND;TZID=America/Chicago:20191015T160000
@@ -1811,6 +1846,29 @@ DTSTAMP:20190718T163900
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:GABAergic control of the dendrites\, soma\, and axons of midbrain d
  opaminergic neurons
+END:VEVENT
+BEGIN:VEVENT
+UID:7785@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191016T150000
+DTEND;TZID=America/Chicago:20191016T160000
+DESCRIPTION:Speakers:\nCynthia Wichelman\, MD\, Associate Professor of Emer
+ gency Medicine\nErik Herzog\, PhD\, Professor of Biology\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7785
+DTSTAMP:20191004T145900
+LOCATION:Moore Auditorium
+SUMMARY:Taking it to the Masses: Building Science Outreach Programs
+END:VEVENT
+BEGIN:VEVENT
+UID:7781@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191016T160000
+DTEND;TZID=America/Chicago:20191016T170000
+DESCRIPTION:Speakers:\nLiberman Graduate Center\, Liberman Graduate Center\
+ n\nDescription:\nCPD\; RSVP - https://graduateschool.wustl.edu/events/3mt-
+ competition-\nfall?d=2019-10-16\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7781
+DTSTAMP:20191004T105200
+LOCATION:Goldberg Lounge\, DUC 2nd FL
+SUMMARY:3MT Competition: Fall
 END:VEVENT
 BEGIN:VEVENT
 UID:7706@events.dbbs.wustl
@@ -2001,6 +2059,19 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Unravelling Antigen Presentation Pathways in Diabetic Autoimmunity
 END:VEVENT
 BEGIN:VEVENT
+UID:7777@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191022T110000
+DTEND;TZID=America/Chicago:20191022T120000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nCPD\; Learn the basics of study design and methods as a basis
+  for how to read\nresearch articles with a critical eye\, and decipher str
+ ength of evidence and\nclinical applicability.\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7777
+DTSTAMP:20191004T105300
+LOCATION:Becker Medical Library\, Room 400
+SUMMARY:Critical Appraisal - The Basics
+END:VEVENT
+BEGIN:VEVENT
 UID:7164@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191022T120000
 DTEND;TZID=America/Chicago:20191022T130000
@@ -2047,6 +2118,21 @@ DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Academic Serv
 DTSTAMP:20190927T095300
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Fostering Engaging Discussions
+END:VEVENT
+BEGIN:VEVENT
+UID:7778@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191022T120000
+DTEND;TZID=America/Chicago:20191022T130000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nCPD\; An overview of data sharing requirements\, preparing da
+ ta to be shared\,\nfinding a repository and the FAIR (Findable\, Accessibl
+ e\, Interoperable\,\nReproducible) principles for data sharing. Registrati
+ on -\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civicrm/event/inf
+ o&reset\;=1&id\;=152\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7778
+DTSTAMP:20191004T105300
+LOCATION:Becker Medical Library\, Room 405
+SUMMARY:Data Sharing and FAIRness
 END:VEVENT
 BEGIN:VEVENT
 UID:7727@events.dbbs.wustl
@@ -2240,6 +2326,23 @@ LOCATION:Danforth Campus\, Whitaker Hall\, Room 218
 SUMMARY:From Biological Pacemakers to Cancer Therapy
 END:VEVENT
 BEGIN:VEVENT
+UID:7779@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191029T090000
+DTEND;TZID=America/Chicago:20191029T160000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nCPD\; Learn easy\, practical steps to increase the reproducib
+ ility of your work.\nFor graduate students\, postdocs\, and faculty in any
+  discipline. Hosted by Ian\nSullivan\, Center for Open Science. Register f
+ or Morning Session -\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=c
+ ivicrm/event/info&reset\;=1&id\;=157\nRegister for Afternoon Session -\nht
+ tps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civicrm/event/info&reset\
+ ;=1&id\;=159\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7779
+DTSTAMP:20191004T105300
+LOCATION:Eric P. Newman Education Center-Seminar Room A
+SUMMARY:Open Science Framework Workshop
+END:VEVENT
+BEGIN:VEVENT
 UID:7388@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191029T120000
 DTEND;TZID=America/Chicago:20191029T130000
@@ -2272,6 +2375,18 @@ DESCRIPTION:Speakers:\nCommunication Series\, Office of Faculty Affairs\n\n
 DTSTAMP:20190924T094900
 LOCATION:Schwarz Auditorium\, Maternity Hosp.\, 1st Floor
 SUMMARY:Strategies for Writing a Successful Journal Article-How to Begin
+END:VEVENT
+BEGIN:VEVENT
+UID:7780@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191030T090000
+DTEND;TZID=America/Chicago:20191030T160000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Hosted by Ian Sullivan\, Ce
+ nter for Open Science\n\nDescription:\nCPD\; Registration - https://wustl.
+ libcal.com/calendar/researchcenter/osf\n\nLink: http://dbbs.wustl.edu/Reso
+ urces/Pages/calendar_event.aspx?EvID=7780
+DTSTAMP:20191004T105300
+LOCATION:Olin Library\, Instruction Room 3 (Danforth Campus)
+SUMMARY:Open Science Framework Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:7400@events.dbbs.wustl
@@ -2385,6 +2500,19 @@ DESCRIPTION:Speakers:\nShin-ichiro Imai\, MD\, PhD\, WashU Developmental Bi
 DTSTAMP:20190904T111300
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:7783@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191104T130000
+DTEND;TZID=America/Chicago:20191104T140000
+DESCRIPTION:Speakers:\nDipayan Chaudhuri\, MD PhD\, Assistant Professor\nDi
+ vision of Cardiovascular Medicine\, Department of Internal Medicine\nNora 
+ Eccles Harrison Cardiovascular Research and Training Institute\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7783
+DTSTAMP:20191004T145800
+LOCATION:BJC-Institute of Health\, West Seminar Room (9th Floor)
+SUMMARY:Mitochondrial Calcium Uptake is Essential for Survival in Mitochond
+ rial Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7698@events.dbbs.wustl
