@@ -87,7 +87,7 @@ async def fetch_event(session, event_id):
     if m:
         last_modified = parse(m.group(1))
     else:
-        last_modified = None
+        last_modified = CST.localize(datetime.now())
 
     link = (
         'http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?'
