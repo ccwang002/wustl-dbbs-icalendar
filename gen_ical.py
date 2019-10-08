@@ -146,9 +146,11 @@ def main(now=None, month_shifts=(0, 1)):
     if now is None:
         now = pendulum.now('America/Chicago')
 
+    months = [now.add(months=mo_shift) for mo_shift in month_shifts]
     timestamps = [
-        now.add(months=mo_shift).format('YYYYMM01T000000\Z')
-        for mo_shift in month_shifts
+        # Always search for the 1st of every month
+        dt.format('YYYYMM01T') + '000000Z'
+        for dt in months
     ]
     event_list_urls = [
         'http://dbbs.wustl.edu/Lists/Events/MyItems.aspx?Paged=Next'
@@ -159,11 +161,11 @@ def main(now=None, month_shifts=(0, 1)):
 
     # Set up aiohttp and asyncio
     loop = asyncio.get_event_loop()
-    resolver = AsyncResolver(nameservers=["8.8.8.8", "8.8.4.4"])
+    resolver = AsyncResolver(nameservers=["1.1.1.1", "8.8.8.8", "8.8.4.4"])
 
     logger.info(
-        'Retreieving events from the following months: {:s}'
-        .format(', '.join(month_reprs))
+        'Retrieving events from the following months: {:s}'
+        .format(', '.join(timestamps))
     )
     conn = aiohttp.TCPConnector(limit=5, resolver=resolver)
     event_ids = loop.run_until_complete(retrieve_all_event_ids(event_list_urls, conn))
