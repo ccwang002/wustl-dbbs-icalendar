@@ -31,12 +31,13 @@ CST = pytz.timezone('America/Chicago')
 async def parse_event_id(session, url):
     r = await session.get(url)
     d = pq(await r.text())
-    a_doms = d('#calendar_list li > h1 a')
-    # print(dir(a_doms[0]))
-    return [
-        re.search(r'\?EvID=(\d+)', a.attrib['href']).group(1)
-        for a in a_doms
-    ]
+    a_doms = d('.ms-vb.itx a')
+    event_ids = []
+    for a in a_doms:
+        m = re.search(r'&ID=(\d+)', a.attrib['href'])
+        if m:
+            event_ids.append(m.group(1))
+    return event_ids
 
 
 async def retrieve_all_event_ids(event_list_urls, conn):
@@ -81,11 +82,13 @@ async def fetch_event(session, event_id):
                 speaker_entry = table[s_col]
             speaker_info.append(speaker_entry)
     speaker = '\n'.join(speaker_info)
-    last_modified = parse(
-        re.match(
-            r'^Last modified at (.*) by ', d('#onetidinfoblock2').text()
-        ).group(1)
-    )
+
+    m = re.match(r'^Last modified at (.*) by ', d('#onetidinfoblock2').text())
+    if m:
+        last_modified = parse(m.group(1))
+    else:
+        last_modified = None
+
     link = (
         'http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?'
         f'EvID={event_id}'
@@ -131,7 +134,7 @@ def add_custom_events(acceptable_months):
     return filtered_events
 
 
-def main(now=None, month_shifts=(-1, 0, 1, 2)):
+def main(now=None, month_shifts=(0, 1)):
     """
     Calculating which months of the calendar to parse and generate their
     event list URLs.
@@ -143,16 +146,15 @@ def main(now=None, month_shifts=(-1, 0, 1, 2)):
     if now is None:
         now = pendulum.now('America/Chicago')
 
-    months = [
-        now.add(months=offset) for offset in [-1, 0, 1, 2]
-    ]
-    month_reprs = [
-        mo.format('MMM[%2C][%20]YYYY', locale='en')
-        for mo in months
+    timestamps = [
+        now.add(months=mo_shift).format('YYYYMM01T000000\Z')
+        for mo_shift in month_shifts
     ]
     event_list_urls = [
-        f'http://dbbs.wustl.edu/Pages/Print-Events.aspx?dt={month_repr}'
-        for month_repr in month_reprs
+        'http://dbbs.wustl.edu/Lists/Events/MyItems.aspx?Paged=Next'
+        f'&p_StartTimeUTC={timestamp}'
+        '&View={860A9BEF-2D95-4524-8732-DB3328186BCB}'
+        for timestamp in timestamps
     ]
 
     # Set up aiohttp and asyncio

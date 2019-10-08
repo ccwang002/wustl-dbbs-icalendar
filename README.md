@@ -25,7 +25,7 @@ See [it runs in action](https://blog.liang2.tw/wustl-dbbs-icalendar/) which embe
     - pendulum
 - iCalendar generation:
     - vobject
-    - [recurrent (py3k compat fork)](https://github.com/eyesee1/recurrent)
+    - recurrent
 - Misc:
     - tqdm
     - ghp-import
