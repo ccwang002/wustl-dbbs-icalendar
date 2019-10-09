@@ -34,79 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7291@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191008T120000
-DTEND;TZID=America/Chicago:20191008T130000
-DESCRIPTION:Speakers:\nDr. Juan Alfonzo\, Ohio State University\n\nLink: ht
- tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7291
-DTSTAMP:20190708T094300
-LOCATION:Clopton Auditorium
-SUMMARY:Dynamic interplay between tRNA transport and processing: On the pos
- sibility of tunable modifications
-END:VEVENT
-BEGIN:VEVENT
-UID:7403@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191008T120000
-DTEND;TZID=America/Chicago:20191008T130000
-DESCRIPTION:Speakers:\nChia-Lin Wei\, PhD\, Director\, Genome Technologies\
- nThe Jackson Laboratory for Genomic Medicine\n\nLink: http://dbbs.wustl.ed
- u/Resources/Pages/calendar_event.aspx?EvID=7403
-DTSTAMP:20190729T183100
-LOCATION:4515 McKinley Research Building\, Room 6001b
-SUMMARY:Genome Structure\, Transcriptional Silencing in Development and Can
- cer Progression
-END:VEVENT
-BEGIN:VEVENT
-UID:7756@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191008T120000
-DTEND;TZID=America/Chicago:20191008T130000
-DESCRIPTION:Speakers:\nCareer Center\, Career Center\n\nDescription:\nCPD\;
-  Registration requested -\nhttps://postdoc.wustl.edu/calendar_event/evalua
- ting-negotiating-job-offers-\nmedical-campus/\n\nLink: http://dbbs.wustl.e
- du/Resources/Pages/calendar_event.aspx?EvID=7756
-DTSTAMP:20190930T151400
-LOCATION:Becker Medical Library\, Room 405
-SUMMARY:Evaluating & Negotiating Job Offers
-END:VEVENT
-BEGIN:VEVENT
-UID:7769@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191008T120000
-DTEND;TZID=America/Chicago:20191008T130000
-DESCRIPTION:Speakers:\nRon Bose MD\, PhD\, Associate Professor\, Division o
- f Oncology\, Department of Medicine and Alvin J. Siteman Cancer Center\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7769
-DTSTAMP:20191002T094400
-LOCATION:CSRB- North Tower\, 9th Floor\, Alpers Conference Room
-SUMMARY:Using Organoids to Study HER2 Mutations in Breast and Colorectal Ca
- ncer
-END:VEVENT
-BEGIN:VEVENT
-UID:7726@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191008T150000
-DTEND;TZID=America/Chicago:20191008T160000
-DESCRIPTION:Speakers:\nShan Li\, Ph.D.\, Department of Cell Biology & Physi
- ology\, WUSM\nMichael Onken\, Ph.D.\, Department of Biochemistry & Molecul
- ar Biophysics\, WUSM\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
- ar_event.aspx?EvID=7726
-DTSTAMP:20190925T100700
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:The Calcium Signaling Safeguards Replications Forks
-END:VEVENT
-BEGIN:VEVENT
-UID:7672@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191008T160000
-DTEND;TZID=America/Chicago:20191008T170000
-DESCRIPTION:Speakers:\nDr. Jennifer Knight\, Associate Professor\, Departme
- nt of Molecular\, Cellular and Developmental Biology\; University of Color
- ado-Boulder\n\nDescription:\nhttps://circle.wustl.edu/events/speaker-serie
- s/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
- =7672
-DTSTAMP:20190930T151500
-LOCATION:Wilson Hall Room 214\, 1 Brookings Drive
-SUMMARY:Understanding Students’ In-Class Experiences Can Help Shape Effec
- tive Instructional Practices
-END:VEVENT
-BEGIN:VEVENT
 UID:7702@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191009T113000
 DTEND;TZID=America/Chicago:20191009T130000
@@ -300,6 +227,17 @@ DTSTAMP:20190823T093100
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:“Reactive Oxygen Species Target Histone Methylation to Individual
  ize Stress Resistance and Lifespan”
+END:VEVENT
+BEGIN:VEVENT
+UID:7792@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191014T120000
+DTEND;TZID=America/Chicago:20191014T130000
+DESCRIPTION:Speakers:\nDr. Ashley Egan\, Mayo College of Medicine and Scien
+ ce\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =7792
+DTSTAMP:20191009T130934Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“The Role of B Cells in Fibrotic Lung Disease.”
 END:VEVENT
 BEGIN:VEVENT
 UID:7771@events.dbbs.wustl
@@ -1287,6 +1225,63 @@ DESCRIPTION:Speakers:\nDr. Eric Fournier\, Director\, Academic Services\, T
 DTSTAMP:20190927T095400
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Engaging Students as Partners in Learning
+END:VEVENT
+BEGIN:VEVENT
+UID:7759@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191111T160000
+DTEND;TZID=America/Chicago:20191111T160000
+DESCRIPTION:Speakers:\nJason Gallant Assistant Professor\, Michigan State U
+ niversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7759
+DTSTAMP:20191001T094400
+LOCATION:Rebstock Hall 322
+SUMMARY:"The genomic basis of communication signal variation in electric fi
+ sh"
+END:VEVENT
+BEGIN:VEVENT
+UID:7459@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191111T161500
+DTEND;TZID=America/Chicago:20191111T161500
+DESCRIPTION:Speakers:\nDr. Megan Baldridge\, WUSM\nDepartment of Internal M
+ edicine – Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7459
+DTSTAMP:20190816T120500
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Interferon-mediated control of viruses in the gut
+END:VEVENT
+BEGIN:VEVENT
+UID:7376@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191112T120000
+DTEND;TZID=America/Chicago:20191112T130000
+DESCRIPTION:Speakers:\nDr. Barbara Rehermann\, National Insitutes of Health
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7
+ 376
+DTSTAMP:20190723T091900
+LOCATION:Clopton Auditorium
+SUMMARY:Natural versus laboratory world: Wild mouse microbiota improve host
+  fitness and preclinical models
+END:VEVENT
+BEGIN:VEVENT
+UID:7714@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191112T120000
+DTEND;TZID=America/Chicago:20191112T130000
+DESCRIPTION:Speakers:\nManu Goyal\, MD MSc\, Assistant Professor of Radiolo
+ gy and Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7714
+DTSTAMP:20190924T095000
+LOCATION:East Pavilion Auditorium
+SUMMARY:Amyloid and Aerobic Glycolysis
+END:VEVENT
+BEGIN:VEVENT
+UID:7365@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191112T160000
+DTEND;TZID=America/Chicago:20191112T173000
+DESCRIPTION:Speakers:\nDr. Helen H. Hobbs\, UT Southwestern Medical Center/
+  Howard Hughes Medical Institute\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=7365
+DTSTAMP:20190718T164000
+LOCATION:Moore Auditorium
+SUMMARY:Carl Moore Lecture
 END:VEVENT
 BEGIN:VEVENT
 UID:7767@events.dbbs.wustl
