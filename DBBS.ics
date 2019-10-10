@@ -34,43 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7702@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191009T113000
-DTEND;TZID=America/Chicago:20191009T130000
-DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Academic Serv
- ices\, The Teaching Center\n\nDescription:\nCPD\; Registration required -\
- nhttps://teachingcenter.wustl.edu/events/constructing-effective-collaborat
- ive-\nlearning-opportunities/\n\nLink: http://dbbs.wustl.edu/Resources/Pag
- es/calendar_event.aspx?EvID=7702
-DTSTAMP:20190924T095400
-LOCATION:The Teaching Center\, Danforth Campus
-SUMMARY:Constructing Effective Collaborative Learning Opportunities
-END:VEVENT
-BEGIN:VEVENT
-UID:7366@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191009T120000
-DTEND;TZID=America/Chicago:20191009T130000
-DESCRIPTION:Speakers:\nJason Shepherd\, PhD\, University of Utah School of 
- Medicine\n\nDescription:\nHosted by: Dr. Jason Yi\n\nLink: http://dbbs.wus
- tl.edu/Resources/Pages/calendar_event.aspx?EvID=7366
-DTSTAMP:20190718T164000
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Virus-like intercellular communication in the nervous system
-END:VEVENT
-BEGIN:VEVENT
-UID:7703@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191009T150000
-DTEND;TZID=America/Chicago:20191009T163000
-DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
- ervices\, The Teaching Center\n\nDescription:\nCPD\; Registration required
-  - https://teachingcenter.wustl.edu/events/design-\nand-deliver-a-lecture/
- \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7
- 703
-DTSTAMP:20190924T095500
-LOCATION:The Teaching Center\, Danforth Campus
-SUMMARY:Design and Deliver a Lecture
-END:VEVENT
-BEGIN:VEVENT
 UID:7786@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191010T103000
 DTEND;TZID=America/Chicago:20191010T113000
@@ -235,7 +198,7 @@ DTEND;TZID=America/Chicago:20191014T130000
 DESCRIPTION:Speakers:\nDr. Ashley Egan\, Mayo College of Medicine and Scien
  ce\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
  =7792
-DTSTAMP:20191009T130934Z
+DTSTAMP:20191009T090000
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:“The Role of B Cells in Fibrotic Lung Disease.”
 END:VEVENT
@@ -1282,6 +1245,45 @@ DESCRIPTION:Speakers:\nDr. Helen H. Hobbs\, UT Southwestern Medical Center/
 DTSTAMP:20190718T164000
 LOCATION:Moore Auditorium
 SUMMARY:Carl Moore Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:7722@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191112T160000
+DTEND;TZID=America/Chicago:20191112T170000
+DESCRIPTION:Speakers:\nCommunication Series\, Office of Faculty Affairs\n\n
+ Description:\nCPD\; https://facultyaffairs.med.wustl.edu/calendar_event/st
+ rategies-for-\nwriting-a-nih-career-development-k-proposal/\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7722
+DTSTAMP:20190924T094800
+LOCATION:EPNEC\, Room 303
+SUMMARY:Strategies for Writing a NIH Career Development (K) Proposal
+END:VEVENT
+BEGIN:VEVENT
+UID:7606@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191115T120000
+DTEND;TZID=America/Chicago:20191115T124500
+DESCRIPTION:Speakers:\nBecker Library\, Becker Library\n\nDescription:\nCPD
+ \; RSVP required -\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civ
+ icrm/event/info&reset\;=1&id\;=121\n\nLink: http://dbbs.wustl.edu/Resource
+ s/Pages/calendar_event.aspx?EvID=7606
+DTSTAMP:20190909T082700
+LOCATION:FLTC 204
+SUMMARY:NIH Biosketch and NCBI SciENcv
+END:VEVENT
+BEGIN:VEVENT
+UID:7675@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191115T130000
+DTEND;TZID=America/Chicago:20191115T160000
+DESCRIPTION:Speakers:\nGhazal Ashrafi\, PhD\, Assistant Professor of Cell B
+ iology and Genetics\nWashington University School of Medicine\nAaron DiAnt
+ onio\, MD\, PhD\, Professor of Developmental Biology\nWashington Universit
+ y School of Medicine\nRajesh Devraj\, PhD\, Disarm Therapeutics\nKeynote S
+ peaker: Thomas Schwarz\, PhD\, Harvard University\n\nLink: http://dbbs.wus
+ tl.edu/Resources/Pages/calendar_event.aspx?EvID=7675
+DTSTAMP:20190917T091500
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Calcium-dependent Regulation of Mitochondrial Metabolism in Nerve T
+ erminals
 END:VEVENT
 BEGIN:VEVENT
 UID:7767@events.dbbs.wustl
