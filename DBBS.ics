@@ -34,104 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7786@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T103000
-DTEND;TZID=America/Chicago:20191010T113000
-DESCRIPTION:Speakers:\nIrfan Lodhi\, PhD\, Washington University\n\nLink: h
- ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7786
-DTSTAMP:20191004T145900
-LOCATION:728 Southwest Tower
-SUMMARY:Organelle Crosstalk Regulating Adiposity and Lipid Metabolism
-END:VEVENT
-BEGIN:VEVENT
-UID:7704@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T113000
-DTEND;TZID=America/Chicago:20191010T130000
-DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
- ervices\, The Teaching Center\n\nDescription:\nCPD\; Registration required
-  - https://teachingcenter.wustl.edu/events/design-\nand-deliver-a-lecture-
- med-campus-morning/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
- r_event.aspx?EvID=7704
-DTSTAMP:20190924T095500
-LOCATION:Medical Campus\, TBD
-SUMMARY:Design and Deliver a Lecture
-END:VEVENT
-BEGIN:VEVENT
-UID:7689@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T120000
-DTEND;TZID=America/Chicago:20191010T125000
-DESCRIPTION:Speakers:\nJen Ikle\, Pediatrics\nSteven Stone\, Pediatrics\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7689
-DTSTAMP:20191001T094500
-LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:Using zebrafish to understand disorders of insulin secretion
-END:VEVENT
-BEGIN:VEVENT
-UID:7705@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T150000
-DTEND;TZID=America/Chicago:20191010T163000
-DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
- ervices\, The Teaching Center\n\nDescription:\nCPD\; Registration required
-  - Design and Deliver a Lecture (Med Campus\nAfternoon)\n\nLink: http://db
- bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7705
-DTSTAMP:20190924T095500
-LOCATION:Medical Campus\, TBD
-SUMMARY:Design and Deliver a Lecture (Med Campus Afternoon)
-END:VEVENT
-BEGIN:VEVENT
-UID:7419@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T160000
-DTEND;TZID=America/Chicago:20191010T170000
-DESCRIPTION:Speakers:\nNasser Rusan\, PhD\, Senior Investigator\, Cell Biol
- ogy and Physiology Center\nNational Heart\, Lung\, and Blood Institute\nNa
- tional Institutes of Health\n\nLink: http://dbbs.wustl.edu/Resources/Pages
- /calendar_event.aspx?EvID=7419
-DTSTAMP:20190927T101600
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Building tissue spcific centrosomes
-END:VEVENT
-BEGIN:VEVENT
-UID:7710@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T160000
-DTEND;TZID=America/Chicago:20191010T170000
-DESCRIPTION:Speakers:\nCrystal M. Glover\, PhD\, Assistant Professor and Le
- ader–Outreach and Recruitment Core\, Rush Alzheimer Disease Center\n\nDe
- scription:\nRegister online at: https://knightadrc.wustl.edu/Education/Sea
- y.htm\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=7710
-DTSTAMP:20190924T095100
-LOCATION:Hyatt Regency Saint Louis at the Arch\, 315 Chestnut Street\, Sain
- t Louis\, MO 63102
-SUMMARY:Alignment and Activism: Fostering Research Participation Among Afri
- can Americans Through Resistance\, Resilience\, and Representation
-END:VEVENT
-BEGIN:VEVENT
-UID:7761@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T160000
-DTEND;TZID=America/Chicago:20191010T170000
-DESCRIPTION:Speakers:\nKirstin Winchell\, Washington University\, Departmen
- t of Biology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
- .aspx?EvID=7761
-DTSTAMP:20191002T094200
-LOCATION:Danforth Campus\, Rebstock\, Room 322
-SUMMARY:Models for Urban Evolution:  Adaptation\, Tolerance and Convergenc
- e in Anolis Lizards
-END:VEVENT
-BEGIN:VEVENT
-UID:6881@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191010T163000
-DTEND;TZID=America/Chicago:20191010T173000
-DESCRIPTION:Speakers:\nLeslie Leinwand\, PhD\, Professor of the Department 
- of Molecular\, Cellular and Developmental Biology\nChief Scientific Office
- r of the BioFrontiers Institute\nUniversity of Colorado Boulder\n\nDescrip
- tion:\nEighth Annual Cardiovascular Research Day\n\nLink: http://dbbs.wust
- l.edu/Resources/Pages/calendar_event.aspx?EvID=6881
-DTSTAMP:20191007T092600
-LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:Myosin Myopathies: Mechanisms of Pathogenesis and Paths to Therapeu
- tics
-END:VEVENT
-BEGIN:VEVENT
 UID:7755@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191011T120000
 DTEND;TZID=America/Chicago:20191011T130000
@@ -924,6 +826,30 @@ LOCATION:Olin Library\, Instruction Room 3 (Danforth Campus)
 SUMMARY:Open Science Framework Workshop
 END:VEVENT
 BEGIN:VEVENT
+UID:7793@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191030T100000
+DTEND;TZID=America/Chicago:20191030T120000
+DESCRIPTION:Speakers:\nBecker Library Staff\, WUSM\n\nDescription:\nRegistr
+ ation is Required: https://becker.wustl.edu/services/research-\ncomputing/
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7
+ 793
+DTSTAMP:20191011T130936Z
+LOCATION:McDonnell Medical Bldg 100
+SUMMARY:Introduction to R – #1
+END:VEVENT
+BEGIN:VEVENT
+UID:7794@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191030T100000
+DTEND;TZID=America/Chicago:20191030T120000
+DESCRIPTION:Speakers:\nBecker Library Staff\, WUSM\n\nDescription:\nRegistr
+ ation is Required: https://becker.wustl.edu/services/research-\ncomputing/
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7
+ 794
+DTSTAMP:20191011T130936Z
+LOCATION:McDonnell Medical Bldg 100
+SUMMARY:Introduction to R – #1
+END:VEVENT
+BEGIN:VEVENT
 UID:7400@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191030T120000
 DTEND;TZID=America/Chicago:20191030T130000
@@ -1167,6 +1093,30 @@ LOCATION:FLTC 204
 SUMMARY:NCBI Tools: PubMed and My Bibliography
 END:VEVENT
 BEGIN:VEVENT
+UID:7795@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191106T120000
+DTEND;TZID=America/Chicago:20191106T130000
+DESCRIPTION:Speakers:\nBecker Staff\, WUSTL / WUSM/ Becker Library\n\nDescr
+ iption:\nRegister Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\
+ ;=civicrm/event/register&id\;=170&reset\;=1\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7795
+DTSTAMP:20191011T130937Z
+LOCATION:McDonnell\, 100
+SUMMARY:Introduction to R – #2
+END:VEVENT
+BEGIN:VEVENT
+UID:7796@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191106T120000
+DTEND;TZID=America/Chicago:20191106T130000
+DESCRIPTION:Speakers:\nBecker Staff\, WUSTL / WUSM/ Becker Library\n\nDescr
+ iption:\nRegister Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\
+ ;=civicrm/event/register&id\;=170&reset\;=1\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7796
+DTSTAMP:20191011T130937Z
+LOCATION:McDonnell\, 100
+SUMMARY:Introduction to R – #2
+END:VEVENT
+BEGIN:VEVENT
 UID:7326@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191107T120000
 DTEND;TZID=America/Chicago:20191107T130000
@@ -1259,6 +1209,18 @@ LOCATION:EPNEC\, Room 303
 SUMMARY:Strategies for Writing a NIH Career Development (K) Proposal
 END:VEVENT
 BEGIN:VEVENT
+UID:7797@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191113T100000
+DTEND;TZID=America/Chicago:20191113T120000
+DESCRIPTION:Speakers:\nBecker Library Staff\, WUSTL\, WUSM\, Becker Library
+ \n\nDescription:\nRegister here:\nhttps://becker.wustl.edu/civicrm/?page=C
+ iviCRM&q\;=civicrm/event/register&id\;=172&reset\;=1\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7797
+DTSTAMP:20191011T130937Z
+LOCATION:McDonnell\, 100
+SUMMARY:Introduction to R – #3
+END:VEVENT
+BEGIN:VEVENT
 UID:7606@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191115T120000
 DTEND;TZID=America/Chicago:20191115T124500
@@ -1284,6 +1246,36 @@ DTSTAMP:20190917T091500
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Calcium-dependent Regulation of Mitochondrial Metabolism in Nerve T
  erminals
+END:VEVENT
+BEGIN:VEVENT
+UID:7789@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191118T160000
+DTEND;TZID=America/Chicago:20191118T160000
+DESCRIPTION:Speakers:\nKeith Hengen\, Washington University\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7789
+DTSTAMP:20191007T092300
+LOCATION:Rebstock Hall 322
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:7461@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191118T161500
+DTEND;TZID=America/Chicago:20191118T161500
+DESCRIPTION:Speakers:\nDr. Laura Solt\, Scripps Research\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7461
+DTSTAMP:20190816T120500
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:Nuclear Receptors and the Regulation of Th17-mediated Inflammation
+END:VEVENT
+BEGIN:VEVENT
+UID:7377@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191119T120000
+DTEND;TZID=America/Chicago:20191119T130000
+DESCRIPTION:Speakers:\nDr. Adam Burgener\, Univeristy of Manitoba\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7377
+DTSTAMP:20190723T091900
+LOCATION:Clopton Auditorium
+SUMMARY:The microbiome in mucosal immunity and HIV Transmission
 END:VEVENT
 BEGIN:VEVENT
 UID:7767@events.dbbs.wustl
@@ -1446,6 +1438,30 @@ LOCATION:FLTC 204
 SUMMARY:NCBI Tools: PubMed and My Bibliography
 END:VEVENT
 BEGIN:VEVENT
+UID:7795@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191106T120000
+DTEND;TZID=America/Chicago:20191106T130000
+DESCRIPTION:Speakers:\nBecker Staff\, WUSTL / WUSM/ Becker Library\n\nDescr
+ iption:\nRegister Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\
+ ;=civicrm/event/register&id\;=170&reset\;=1\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7795
+DTSTAMP:20191011T130938Z
+LOCATION:McDonnell\, 100
+SUMMARY:Introduction to R – #2
+END:VEVENT
+BEGIN:VEVENT
+UID:7796@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191106T120000
+DTEND;TZID=America/Chicago:20191106T130000
+DESCRIPTION:Speakers:\nBecker Staff\, WUSTL / WUSM/ Becker Library\n\nDescr
+ iption:\nRegister Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\
+ ;=civicrm/event/register&id\;=170&reset\;=1\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7796
+DTSTAMP:20191011T130938Z
+LOCATION:McDonnell\, 100
+SUMMARY:Introduction to R – #2
+END:VEVENT
+BEGIN:VEVENT
 UID:7326@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191107T120000
 DTEND;TZID=America/Chicago:20191107T130000
@@ -1536,6 +1552,18 @@ DESCRIPTION:Speakers:\nCommunication Series\, Office of Faculty Affairs\n\n
 DTSTAMP:20190924T094800
 LOCATION:EPNEC\, Room 303
 SUMMARY:Strategies for Writing a NIH Career Development (K) Proposal
+END:VEVENT
+BEGIN:VEVENT
+UID:7797@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191113T100000
+DTEND;TZID=America/Chicago:20191113T120000
+DESCRIPTION:Speakers:\nBecker Library Staff\, WUSTL\, WUSM\, Becker Library
+ \n\nDescription:\nRegister here:\nhttps://becker.wustl.edu/civicrm/?page=C
+ iviCRM&q\;=civicrm/event/register&id\;=172&reset\;=1\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7797
+DTSTAMP:20191011T130938Z
+LOCATION:McDonnell\, 100
+SUMMARY:Introduction to R – #3
 END:VEVENT
 BEGIN:VEVENT
 UID:7606@events.dbbs.wustl
@@ -2474,38 +2502,6 @@ DESCRIPTION:Speakers:\nCarey Lumeng\, MD\, PhD\, Frederick G.L. Huetwell Pr
 DTSTAMP:20190917T171000
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7489@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200323T161500
-DTEND;TZID=America/Chicago:20200323T161500
-DESCRIPTION:Speakers:\nDr. Elizabeth Grice\, University of Pennsylvania\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7489
-DTSTAMP:20190816T131000
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7306@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200325T120000
-DTEND;TZID=America/Chicago:20200325T130000
-DESCRIPTION:Speakers:\nEdward Callaway\, PhD\, The Salk Institute for Biolo
- gical Studies\n\nDescription:\nHosted by: Dr. Harrison Gabel\n\nLink: http
- ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7306
-DTSTAMP:20190712T142800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Functional Micro-Architecture and Joint Encoding of Shape and Color
-  in Primate Primary Visual Cortex
-END:VEVENT
-BEGIN:VEVENT
-UID:7352@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200326T120000
-DTEND;TZID=America/Chicago:20200326T130000
-DESCRIPTION:Speakers:\nDr. Peter Lukasiewicz\, Washington University\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7352
-DTSTAMP:20190906T091400
-LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
 END:VCALENDAR
