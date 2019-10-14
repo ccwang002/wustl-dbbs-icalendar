@@ -233,7 +233,7 @@ DTSTART;TZID=America/Chicago:20191017T100000
 DTEND;TZID=America/Chicago:20191017T103000
 DESCRIPTION:Speakers:\nMei Zhang\, MD\, Washington University\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7799
-DTSTAMP:20191013T130933Z
+DTSTAMP:20191014T130933Z
 LOCATION:728 Southwest Tower
 SUMMARY:Endocrinopathies After Cancer Therapy
 END:VEVENT
@@ -243,7 +243,7 @@ DTSTART;TZID=America/Chicago:20191017T103000
 DTEND;TZID=America/Chicago:20191017T113000
 DESCRIPTION:Speakers:\nAmy Clark\, DO\, Washington University\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7798
-DTSTAMP:20191013T130933Z
+DTSTAMP:20191014T130933Z
 LOCATION:728 Southwest Tower
 SUMMARY:The Role of Obesity and Autophagy in Type 1 Diabetes
 END:VEVENT
@@ -465,7 +465,7 @@ DTSTART;TZID=America/Chicago:20191021T130000
 DTEND;TZID=America/Chicago:20191021T140000
 DESCRIPTION:Speakers:\nXiaoxia Cui\, PhD\, Genetics\n\nLink: http://dbbs.wu
  stl.edu/Resources/Pages/calendar_event.aspx?EvID=7804
-DTSTAMP:20191013T130934Z
+DTSTAMP:20191014T130934Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Building Accurate Research Models with the Genome Engineering Cente
  r
@@ -713,7 +713,7 @@ DESCRIPTION:Speakers:\nJoshua Brickner\, Program in Molecular Cell Biology\
  nLaboratory of Dr. Nima Mosammaparast\nDepartment of Pathology and Immunol
  ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
  D=7803
-DTSTAMP:20191013T130935Z
+DTSTAMP:20191014T130935Z
 LOCATION:Moore Auditorium
 SUMMARY:Activation and Regulation of the ASCC-ALKBH3 Alkylation Repair Path
  way
@@ -1131,7 +1131,7 @@ DTEND;TZID=America/Chicago:20191107T170000
 DESCRIPTION:Speakers:\nSabrina Spencer\, PhD\, Assistant Professor of Chemi
  stry and Biochemistry\nUniversity of Colorado-Boulder\n\nLink: http://dbbs
  .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7800
-DTSTAMP:20191013T130937Z
+DTSTAMP:20191014T130936Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Single-cell analysis of heterogeneity in proliferation-quiescence d
  ecisions
@@ -1143,7 +1143,7 @@ DTEND;TZID=America/Chicago:20191107T170000
 DESCRIPTION:Speakers:\nSabrina Spencer\, PhD\, Assistant Professor of Chemi
  stry and Biochemistry\nUniversity of Colorado-Boulder\n\nLink: http://dbbs
  .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7801
-DTSTAMP:20191013T130937Z
+DTSTAMP:20191014T130936Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Single-cell analysis of heterogeneity in proliferation-quiescence d
  ecisions
@@ -1236,7 +1236,7 @@ DTEND;TZID=America/Chicago:20191114T170000
 DESCRIPTION:Speakers:\nStephen Montgomery\, PhD\, Associate Professor of Pa
  thology and Genetics\nStanford University School of Medicine\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7802
-DTSTAMP:20191013T130937Z
+DTSTAMP:20191014T130937Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Using functional genomics to interpret genetic disease
 END:VEVENT
@@ -1479,7 +1479,7 @@ DTEND;TZID=America/Chicago:20191107T170000
 DESCRIPTION:Speakers:\nSabrina Spencer\, PhD\, Assistant Professor of Chemi
  stry and Biochemistry\nUniversity of Colorado-Boulder\n\nLink: http://dbbs
  .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7800
-DTSTAMP:20191013T130937Z
+DTSTAMP:20191014T130937Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Single-cell analysis of heterogeneity in proliferation-quiescence d
  ecisions
@@ -1491,7 +1491,7 @@ DTEND;TZID=America/Chicago:20191107T170000
 DESCRIPTION:Speakers:\nSabrina Spencer\, PhD\, Assistant Professor of Chemi
  stry and Biochemistry\nUniversity of Colorado-Boulder\n\nLink: http://dbbs
  .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7801
-DTSTAMP:20191013T130938Z
+DTSTAMP:20191014T130937Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Single-cell analysis of heterogeneity in proliferation-quiescence d
  ecisions
@@ -1584,7 +1584,7 @@ DTEND;TZID=America/Chicago:20191114T170000
 DESCRIPTION:Speakers:\nStephen Montgomery\, PhD\, Associate Professor of Pa
  thology and Genetics\nStanford University School of Medicine\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7802
-DTSTAMP:20191013T130938Z
+DTSTAMP:20191014T130937Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Using functional genomics to interpret genetic disease
 END:VEVENT
