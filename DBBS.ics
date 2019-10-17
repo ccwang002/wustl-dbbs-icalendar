@@ -34,42 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7368@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191016T120000
-DTEND;TZID=America/Chicago:20191016T130000
-DESCRIPTION:Speakers:\nZayd Khaliq\, PhD\, National Institute of Neurologic
- al Disorders and Stroke (NINDS-NIH)\n\nDescription:\nHosted by: Dr. Jason 
- Yi\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
- =7368
-DTSTAMP:20190718T163900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:GABAergic control of the dendrites\, soma\, and axons of midbrain d
- opaminergic neurons
-END:VEVENT
-BEGIN:VEVENT
-UID:7785@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191016T150000
-DTEND;TZID=America/Chicago:20191016T160000
-DESCRIPTION:Speakers:\nCynthia Wichelman\, MD\, Associate Professor of Emer
- gency Medicine\nErik Herzog\, PhD\, Professor of Biology\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7785
-DTSTAMP:20191004T145900
-LOCATION:Moore Auditorium
-SUMMARY:Taking it to the Masses: Building Science Outreach Programs
-END:VEVENT
-BEGIN:VEVENT
-UID:7781@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191016T160000
-DTEND;TZID=America/Chicago:20191016T170000
-DESCRIPTION:Speakers:\nLiberman Graduate Center\, Liberman Graduate Center\
- n\nDescription:\nCPD\; RSVP - https://graduateschool.wustl.edu/events/3mt-
- competition-\nfall?d=2019-10-16\n\nLink: http://dbbs.wustl.edu/Resources/P
- ages/calendar_event.aspx?EvID=7781
-DTSTAMP:20191004T105200
-LOCATION:Goldberg Lounge\, DUC 2nd FL
-SUMMARY:3MT Competition: Fall
-END:VEVENT
-BEGIN:VEVENT
 UID:7799@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191017T100000
 DTEND;TZID=America/Chicago:20191017T103000
@@ -289,6 +253,17 @@ DESCRIPTION:Speakers:\nStacey L. Rentschler\, MD\, PhD\, Associate Professo
 DTSTAMP:20190823T093000
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7806@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191021T120000
+DTEND;TZID=America/Chicago:20191021T130000
+DESCRIPTION:Speakers:\nDr. Richard J. Cote\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7806
+DTSTAMP:20191016T160700
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Circulating Tumor Cell Capture\, Interrogation\, Imaging\, Autom
+ ated Analysis and Culture: New Tools and Biologic Insights.”
 END:VEVENT
 BEGIN:VEVENT
 UID:7804@events.dbbs.wustl
@@ -1060,6 +1035,18 @@ LOCATION:McDonnell\, 100
 SUMMARY:Introduction to R – #3
 END:VEVENT
 BEGIN:VEVENT
+UID:7807@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T100000
+DTEND;TZID=America/Chicago:20191114T100000
+DESCRIPTION:Speakers:\nFiona Ruiz\, Molecular Cell Biology Program\nLaborat
+ ory of Dr. Julie Schwarz\nDepartment of Radiation Oncology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7807
+DTSTAMP:20191016T160600
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Investigating biological mechanisms of radiation resistance in an a
+ dvanced stage cervical cancer
+END:VEVENT
+BEGIN:VEVENT
 UID:7802@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191114T160000
 DTEND;TZID=America/Chicago:20191114T170000
@@ -1276,6 +1263,17 @@ DTSTAMP:20191014T124200
 LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
 SUMMARY:Structures of the HIV genome: Insights into regulation of reverse t
  ranscription\, transcription and translation.
+END:VEVENT
+BEGIN:VEVENT
+UID:7716@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191126T120000
+DTEND;TZID=America/Chicago:20191126T130000
+DESCRIPTION:Speakers:\nBrad Racette\, MD\, Professor and Executive Vice-Cha
+ irman of Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=7716
+DTSTAMP:20190924T095000
+LOCATION:East Pavilion Auditorium
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7767@events.dbbs.wustl
@@ -1564,6 +1562,18 @@ DESCRIPTION:Speakers:\nBecker Library Staff\, WUSTL\, WUSM\, Becker Library
 DTSTAMP:20191011T092000
 LOCATION:McDonnell\, 100
 SUMMARY:Introduction to R – #3
+END:VEVENT
+BEGIN:VEVENT
+UID:7807@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T100000
+DTEND;TZID=America/Chicago:20191114T100000
+DESCRIPTION:Speakers:\nFiona Ruiz\, Molecular Cell Biology Program\nLaborat
+ ory of Dr. Julie Schwarz\nDepartment of Radiation Oncology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7807
+DTSTAMP:20191016T160600
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Investigating biological mechanisms of radiation resistance in an a
+ dvanced stage cervical cancer
 END:VEVENT
 BEGIN:VEVENT
 UID:7802@events.dbbs.wustl
@@ -2487,22 +2497,5 @@ DESCRIPTION:Speakers:\nBosiljka Tasic\, PhD\, Allen Institute for Brain Sci
 DTSTAMP:20190712T141700
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Cell types of adult mouse cortex and hippocampus
-END:VEVENT
-BEGIN:VEVENT
-UID:7682@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200319T160000
-DTEND;TZID=America/Chicago:20200319T170000
-DESCRIPTION:Speakers:\nCarey Lumeng\, MD\, PhD\, Frederick G.L. Huetwell Pr
- ofessor for the Cure and Prevention of  Birth Defects          
-                                      
-                                  Associate
-  Professor\nDepartment of Pediatrics                   
-                                      
-      University of Michigan Medical School\n\nLink: http://dbbs.wustl.
- edu/Resources/Pages/calendar_event.aspx?EvID=7682
-DTSTAMP:20190917T171000
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
 END:VEVENT
 END:VCALENDAR
