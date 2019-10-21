@@ -105,7 +105,7 @@ DTSTART;TZID=America/Chicago:20191022T103000
 DTEND;TZID=America/Chicago:20191022T113000
 DESCRIPTION:Speakers:\nDr. David Gresham\, New York University\n\nLink: htt
  p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7816
-DTSTAMP:20191020T130933Z
+DTSTAMP:20191021T130933Z
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:Evolution and Gene Expression  One Cell at a Time
 END:VEVENT
@@ -478,7 +478,7 @@ DTEND;TZID=America/Chicago:20191029T160000
 DESCRIPTION:Speakers:\nMarija Zanic\, Ph.D.\, Assistant Professor of Cell a
  nd Developmental Biology\nVanderbilt University Medical Center\n\nLink: ht
  tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7818
-DTSTAMP:20191020T130934Z
+DTSTAMP:20191021T130934Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
@@ -767,7 +767,7 @@ DTEND;TZID=America/Chicago:20191105T160000
 DESCRIPTION:Speakers:\nThomas J. Papouin\, Ph.D.\, Assistant Professor\, De
  partment of Neuroscience\nWashington University School of Medicine\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7817
-DTSTAMP:20191020T130935Z
+DTSTAMP:20191021T130935Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Cognitive deficits in neuropsychiatric disorders: Is the answer in 
  the stars?
@@ -1417,7 +1417,7 @@ DTEND;TZID=America/Chicago:20191105T160000
 DESCRIPTION:Speakers:\nThomas J. Papouin\, Ph.D.\, Assistant Professor\, De
  partment of Neuroscience\nWashington University School of Medicine\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7817
-DTSTAMP:20191020T130937Z
+DTSTAMP:20191021T130937Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Cognitive deficits in neuropsychiatric disorders: Is the answer in 
  the stars?
