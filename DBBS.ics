@@ -34,29 +34,70 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7732@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191023T113000
-DTEND;TZID=America/Chicago:20191023T130000
-DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Academic Serv
- ices\, The Teaching Center\n\nDescription:\nCPD\; Registration required -\
- nhttps://teachingcenter.wustl.edu/events/addressing-diversity-and-inclusio
- n-in-\njob-market-materials/\n\nLink: http://dbbs.wustl.edu/Resources/Page
- s/calendar_event.aspx?EvID=7732
-DTSTAMP:20190927T095400
-LOCATION:Medical Campus\, TBA
-SUMMARY:Addressing Diversity and Inclusion in Job Market Materials (Med Cam
- pus)
+UID:7827@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191024T000000
+DTEND;TZID=America/Chicago:20191231T010000
+DESCRIPTION:Speakers:\nhttps://aline.vn/\, http://hdnd.baclieu.gov.vn/Lists
+ /GopyDB/DispForm.aspx?ID=25\nhttp://hdnd.baclieu.gov.vn/Lists/GopyDB/DispF
+ orm.aspx?ID=26\nhttp://sgtvt.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=
+ 32\nhttp://sgtvt.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=33\nhttp://s
+ khcn.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=31\nhttp://skhcn.baclieu
+ .gov.vn/Lists/GopyDB/DispForm.aspx?ID=32\nhttp://hoabinh.baclieu.gov.vn/Li
+ sts/GopyDB/DispForm.aspx?ID=23\nhttp://hoabinh.baclieu.gov.vn/Lists/GopyDB
+ /DispForm.aspx?ID=24\nhttp://tpbl.baclieu.gov.vn/Lists/GopyDB/DispForm.asp
+ x?ID=11\nhttp://tpbl.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=12\nhttp
+ ://lhhvhnt.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=50\nhttp://ttptqnd
+ .baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=11\nhttp://stp.baclieu.gov.v
+ n/Lists/GopyDB/DispForm.aspx?ID=14\nhttp://snn.baclieu.gov.vn/Lists/GopyDB
+ /DispForm.aspx?ID=12\nhttp://snv.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx
+ ?ID=5\n\nDescription:\nCÔNG TY TNHH KIẾN TRÚC & NỘI THẤT ALINE VI
+ ỆT NAM chuyên cung cấp dịch vụ thiết\nkế văn phòng trọn g
+ ói\, tư vấn giải pháp cải tạo và sửa chữa văn phòng giá
+  rẻ\ncho doanh nghiệp. Công ty chúng tôi có những đội ngũ nh
+ ân viên thiết kế giàu\nkinh nghiệm\, năng động kết hợp nh
+ à xưởng sản xuất công nghệ hiện đại\, tiên\ntiến nhất
+  luôn đảm bảo tiến độ cho mọi dự án. Nếu bạn đang có
+  nhưu cầu thiết\nkế văn phòng tại hà nội hoặc thiết kế
+  nội thất văn phòng tại tphcm thì có thể\nliên hệ với ch
+ úng tôi theo số Hotline: 0966.375.899 để được tư vấn và h
+ ỗ trợ\nmột cách nhanh chóng. Nguồn: https://aline.vn\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7827
+DTSTAMP:20191024T130933Z
+LOCATION:Becker Medical Library\, Room 400
+SUMMARY:Thiet ke noi that van phong tron goi
 END:VEVENT
 BEGIN:VEVENT
-UID:7709@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191023T160000
-DTEND;TZID=America/Chicago:20191023T170000
-DESCRIPTION:Speakers:\nAJ Robinson\, Subject Librarian\; Olin Library\n\nDe
- scription:\nCPD\; Registration - https://wustl.libcal.com/event/5744613\n\
- nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7709
-DTSTAMP:20190924T095200
-LOCATION:Olin Library\, Instruction Room 2 (Lab)
-SUMMARY:Planning Your Literature Review
+UID:7828@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191024T000000
+DTEND;TZID=America/Chicago:20191231T010000
+DESCRIPTION:Speakers:\nhttps://aline.vn/\, http://hdnd.baclieu.gov.vn/Lists
+ /GopyDB/DispForm.aspx?ID=25\nhttp://hdnd.baclieu.gov.vn/Lists/GopyDB/DispF
+ orm.aspx?ID=26\nhttp://sgtvt.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=
+ 32\nhttp://sgtvt.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=33\nhttp://s
+ khcn.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=31\nhttp://skhcn.baclieu
+ .gov.vn/Lists/GopyDB/DispForm.aspx?ID=32\nhttp://hoabinh.baclieu.gov.vn/Li
+ sts/GopyDB/DispForm.aspx?ID=23\nhttp://hoabinh.baclieu.gov.vn/Lists/GopyDB
+ /DispForm.aspx?ID=24\nhttp://tpbl.baclieu.gov.vn/Lists/GopyDB/DispForm.asp
+ x?ID=11\nhttp://tpbl.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=12\nhttp
+ ://lhhvhnt.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=50\nhttp://ttptqnd
+ .baclieu.gov.vn/Lists/GopyDB/DispForm.aspx?ID=11\nhttp://stp.baclieu.gov.v
+ n/Lists/GopyDB/DispForm.aspx?ID=14\nhttp://snn.baclieu.gov.vn/Lists/GopyDB
+ /DispForm.aspx?ID=12\nhttp://snv.baclieu.gov.vn/Lists/GopyDB/DispForm.aspx
+ ?ID=5\n\nDescription:\nCÔNG TY TNHH KIẾN TRÚC & NỘI THẤT ALINE VI
+ ỆT NAM chuyên cung cấp dịch vụ thiết\nkế văn phòng trọn g
+ ói\, tư vấn giải pháp cải tạo và sửa chữa văn phòng giá
+  rẻ\ncho doanh nghiệp. Công ty chúng tôi có những đội ngũ nh
+ ân viên thiết kế giàu\nkinh nghiệm\, năng động kết hợp nh
+ à xưởng sản xuất công nghệ hiện đại\, tiên\ntiến nhất
+  luôn đảm bảo tiến độ cho mọi dự án. Nếu bạn đang có
+  nhưu cầu thiết\nkế văn phòng tại hà nội hoặc thiết kế
+  nội thất văn phòng tại tphcm thì có thể\nliên hệ với ch
+ úng tôi theo số Hotline: 0966.375.899 để được tư vấn và h
+ ỗ trợ\nmột cách nhanh chóng. Nguồn: https://aline.vn\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7828
+DTSTAMP:20191024T130933Z
+LOCATION:Becker Medical Library\, Room 400
+SUMMARY:Thiet ke noi that van phong tron goi
 END:VEVENT
 BEGIN:VEVENT
 UID:7810@events.dbbs.wustl
@@ -202,6 +243,17 @@ DESCRIPTION:Speakers:\nDarren Baker\, PhD\, Mayo Clinic\n\nDescription:\nHo
 DTSTAMP:20190904T111400
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"Neurodegenerative Disease Driven by Senescent Cells"
+END:VEVENT
+BEGIN:VEVENT
+UID:7825@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191028T120000
+DTEND;TZID=America/Chicago:20191028T130000
+DESCRIPTION:Speakers:\nMaanasi Samant\, Washington University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7825
+DTSTAMP:20191024T130934Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Identifying Responders to Bronchial Thermoplasty in Severe Asthm
+ a"
 END:VEVENT
 BEGIN:VEVENT
 UID:7803@events.dbbs.wustl
@@ -1025,6 +1077,18 @@ LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Improvisation in Your Teaching (Danforth Campus)
 END:VEVENT
 BEGIN:VEVENT
+UID:7826@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191121T090000
+DTEND;TZID=America/Chicago:20191121T090000
+DESCRIPTION:Speakers:\nWing Hing Wong\, Molecular Genetics and Genomics Pro
+ gram\nLaboratory of Dr. Todd Druley\nDepartment of Pediatrics - Hematology
+ /Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7826
+DTSTAMP:20191024T130936Z
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Clonal profiling in different disease states
+END:VEVENT
+BEGIN:VEVENT
 UID:7736@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191121T113000
 DTEND;TZID=America/Chicago:20191121T130000
@@ -1292,28 +1356,6 @@ DESCRIPTION:Speakers:\nDr. Russell Vance\, University of California – Ber
 DTSTAMP:20190816T130000
 LOCATION:Moore Auditorium
 SUMMARY:Cytosolic detection of intracellular bacterial pathogens
-END:VEVENT
-BEGIN:VEVENT
-UID:7718@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191210T120000
-DTEND;TZID=America/Chicago:20191210T130000
-DESCRIPTION:Speakers:\nMaud Gratuze\, PhD\, Holtzman Lab\, Washington Unive
- rsity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=7718
-DTSTAMP:20190924T094900
-LOCATION:East Pavilion Auditorium
-SUMMARY:Functions of AD-associated TREM2 Variant on Tau Pathology
-END:VEVENT
-BEGIN:VEVENT
-UID:7562@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191210T123000
-DTEND;TZID=America/Chicago:20191210T130000
-DESCRIPTION:Speakers:\nDr. Florian Krammer\, Icahn School of Medicine at Mo
- unt Sinai\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7562
-DTSTAMP:20191014T124200
-LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
-SUMMARY:Professor
 END:VEVENT
 BEGIN:VEVENT
 UID:7767@events.dbbs.wustl
@@ -1814,6 +1856,18 @@ DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
 DTSTAMP:20190927T101300
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Improvisation in Your Teaching (Danforth Campus)
+END:VEVENT
+BEGIN:VEVENT
+UID:7826@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191121T090000
+DTEND;TZID=America/Chicago:20191121T090000
+DESCRIPTION:Speakers:\nWing Hing Wong\, Molecular Genetics and Genomics Pro
+ gram\nLaboratory of Dr. Todd Druley\nDepartment of Pediatrics - Hematology
+ /Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7826
+DTSTAMP:20191024T130938Z
+LOCATION:Eric P. Newman Education Center\, Seminar Room B
+SUMMARY:Clonal profiling in different disease states
 END:VEVENT
 BEGIN:VEVENT
 UID:7736@events.dbbs.wustl
@@ -2537,15 +2591,5 @@ DTSTAMP:20190712T141300
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Mouse models of inherited peripheral neuropathy: determining how ho
  usekeeping genes cause cell-type-specific axon degeneration
-END:VEVENT
-BEGIN:VEVENT
-UID:7351@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200305T120000
-DTEND;TZID=America/Chicago:20200305T130000
-DESCRIPTION:Speakers:\nDr. Chinfei Chen\, Harvard University\n\nLink: http:
- //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7351
-DTSTAMP:20190906T091300
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
 END:VEVENT
 END:VCALENDAR
