@@ -34,29 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7808@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191025T090000
-DTEND;TZID=America/Chicago:20191025T100000
-DESCRIPTION:Speakers:\nSteven C. Ghivizzani\, PhD\, University of Florida C
- ollege of Medicine\, Gainesville\, FL\n\nLink: http://dbbs.wustl.edu/Resou
- rces/Pages/calendar_event.aspx?EvID=7808
-DTSTAMP:20191017T163000
-LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
-SUMMARY:Development of Gene Therapies or Osteoarthritis & Other Connective 
- Tissue Disorders
-END:VEVENT
-BEGIN:VEVENT
-UID:7805@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191025T120000
-DTEND;TZID=America/Chicago:20191025T130000
-DESCRIPTION:Speakers:\nJae-Sung Kim\, PhD\, Professor of Surgery\nDepartmen
- t of Surgery\nWashington University\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7805
-DTSTAMP:20191014T155000
-LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
-SUMMARY:Autophagy in Ischemic Aged Livers
-END:VEVENT
-BEGIN:VEVENT
 UID:7772@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191028T110000
 DTEND;TZID=America/Chicago:20191028T120000
@@ -590,6 +567,17 @@ SUMMARY:Cognitive deficits in neuropsychiatric disorders: Is the answer in
  the stars?
 END:VEVENT
 BEGIN:VEVENT
+UID:7835@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191105T150000
+DTEND;TZID=America/Chicago:20191105T160000
+DESCRIPTION:Speakers:\nMichael Avidan\, MBBCh\, Department of Anesthesiolog
+ y\nWashington University School of Medicine\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7835
+DTSTAMP:20191027T130935Z
+LOCATION:Couch Research Building 4001B
+SUMMARY:The promise of perioperative telehealth
+END:VEVENT
+BEGIN:VEVENT
 UID:7361@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191106T120000
 DTEND;TZID=America/Chicago:20191106T130000
@@ -743,6 +731,18 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:Amyloid and Aerobic Glycolysis
 END:VEVENT
 BEGIN:VEVENT
+UID:7836@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191112T150000
+DTEND;TZID=America/Chicago:20191112T150000
+DESCRIPTION:Speakers:\nMegan Agajanian\, Visiting Researcher (Laboratory of
+  Ben Major)\nDepartment of Cell Biology & Physiology\nWashington Universit
+ y School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7836
+DTSTAMP:20191027T130935Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Temporal dynamics of WNT signaling
+END:VEVENT
+BEGIN:VEVENT
 UID:7365@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191112T160000
 DTEND;TZID=America/Chicago:20191112T173000
@@ -788,6 +788,52 @@ DTSTAMP:20191016T160600
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Investigating biological mechanisms of radiation resistance in an a
  dvanced stage cervical cancer
+END:VEVENT
+BEGIN:VEVENT
+UID:7831@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T120000
+DTEND;TZID=America/Chicago:20191114T130000
+DESCRIPTION:Speakers:\nNikola Zaharakis\, PhD\, NIDA T32 Postdoctoral Fello
+ w\nREACH Institute\, Dept. of Psychology\nArizona State University\n\nDesc
+ ription:\nMobile health (mHealth) methods are innovative\, inexpensive and
+  readily\navailable ways to disseminate and implement evidence-based inter
+ ventions\n(EBIs) with minimal resources. My research addresses two questio
+ ns: (1) How\ncan we use technology to optimize and sustain EBI effects?\, 
+ and (2) Which\ntechnology strategies most improve the reach and uptake of 
+ EBIs\, particularly\nfor underserved populations? I will present two studi
+ es that applied\nimplementation science methods to mHealth to consider ind
+ icators of\nparticipant responsiveness and satisfaction in relation to int
+ ervention\noutcomes. I discuss implications in the context of my ongoing a
+ nd future work.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7831
+DTSTAMP:20191027T130935Z
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Improving Implementation and Extending Effects: Optimizing Evidence
+ -based Interventions with mHealth
+END:VEVENT
+BEGIN:VEVENT
+UID:7832@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T120000
+DTEND;TZID=America/Chicago:20191114T130000
+DESCRIPTION:Speakers:\nNikola Zaharakis\, PhD\, NIDA T32 Postdoctoral Fello
+ w\nREACH Institute\, Dept. of Psychology\nArizona State University\n\nDesc
+ ription:\nMobile health (mHealth) methods are innovative\, inexpensive and
+  readily\navailable ways to disseminate and implement evidence-based inter
+ ventions\n(EBIs) with minimal resources. My research addresses two questio
+ ns: (1) How\ncan we use technology to optimize and sustain EBI effects?\, 
+ and (2) Which\ntechnology strategies most improve the reach and uptake of 
+ EBIs\, particularly\nfor underserved populations? I will present two studi
+ es that applied\nimplementation science methods to mHealth to consider ind
+ icators of\nparticipant responsiveness and satisfaction in relation to int
+ ervention\noutcomes. I discuss implications in the context of my ongoing a
+ nd future work.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7832
+DTSTAMP:20191027T130935Z
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Improving Implementation and Extending Effects: Optimizing Evidence
+ -based Interventions with mHealth
 END:VEVENT
 BEGIN:VEVENT
 UID:7809@events.dbbs.wustl
@@ -906,6 +952,17 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:Investigating Aberrant Epigenetic Regulation in ALS/FTD
 END:VEVENT
 BEGIN:VEVENT
+UID:7834@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191119T150000
+DTEND;TZID=America/Chicago:20191119T160000
+DESCRIPTION:Speakers:\nMayssa Mokalled\, Ph.D.\, Department of Developmenta
+ l Biology\nWashington University School of Medicine\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7834
+DTSTAMP:20191027T130936Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Zebrafish inspired approaches for spinal cord repair
+END:VEVENT
+BEGIN:VEVENT
 UID:7735@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191119T153000
 DTEND;TZID=America/Chicago:20191119T170000
@@ -1007,6 +1064,26 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:Tissue Engineered Vascular Grafts for use in Children: From the Ben
  ch to the Bedside and Back Again
+END:VEVENT
+BEGIN:VEVENT
+UID:7833@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191122T100000
+DTEND;TZID=America/Chicago:20191122T110000
+DESCRIPTION:Speakers:\nElizabeth Salerno\, PhD\, MPH\, Cancer Prevention Fe
+ llow\nNational Cancer Institute\, NIH\n\nDescription:\nThis talk will high
+ light unique health challenges in cancer and aging and how\nphysical activ
+ ity may improve cognitive\, physical\, and psychosocial function\nduring c
+ ancer survivorship. Dr. Salerno will discuss findings from physical\nactiv
+ ity interventions and the modifiable health indicators that may be\namenab
+ le to such interventions in a large cohort of diverse cancer\npopulations.
+  This talk will span behavioral science\, kinesiology\, and\nepidemiology 
+ to highlight the need for scalable\, community-based physical\nactivity pr
+ ograms that can be implemented into the standard of care after\ncancer.\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7833
+DTSTAMP:20191027T130936Z
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; Richmond Room
+SUMMARY:Physical Activity at the Intersection of Cancer & Aging: Implicatio
+ ns for Public Health
 END:VEVENT
 BEGIN:VEVENT
 UID:7737@events.dbbs.wustl
@@ -1270,57 +1347,6 @@ SUMMARY:Experience and activity-dependent regulation of cortical circuits b
  y genes linked to neurodevelopmental disorders
 END:VEVENT
 BEGIN:VEVENT
-UID:7330@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191212T120000
-DTEND;TZID=America/Chicago:20191212T130000
-DESCRIPTION:Speakers:\nDr. Daniel Kerscheinsteiner\, Washington University\
- n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=73
- 30
-DTSTAMP:20190906T090800
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7533@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191212T160000
-DTEND;TZID=America/Chicago:20191212T170000
-DESCRIPTION:Speakers:\nJulio Chirinos\, MD\, PhD\, Associate Professor of M
- edicine                                 
-                 Adjunct Faculty\, Center for Magnetic Reson
- ance and Optical Imaging                         
-                                     Uni
- versity of Pennsylvania Perelman School of Medicine\n\nLink: http://dbbs.w
- ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7533
-DTSTAMP:20190822T104100
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:Targeting the Arterial Tree in Heart Failure with Preserved Ejectio
- n Fraction
-END:VEVENT
-BEGIN:VEVENT
-UID:7699@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191213T120000
-DTEND;TZID=America/Chicago:20191213T133000
-DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
- escription:\nCPD\; Registration required -\nhttps://becker.wustl.edu/civic
- rm/?page=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=139\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7699
-DTSTAMP:20190924T095400
-LOCATION:Farrell Learning and Teaching Center\, Room 602
-SUMMARY:Getting Organized with EndNote
-END:VEVENT
-BEGIN:VEVENT
-UID:7468@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191216T150000
-DTEND;TZID=America/Chicago:20191216T160000
-DESCRIPTION:Speakers:\nDr. Juliane Bubeck Wardenburg\, WUSM\nDepartment of 
- Pediatrics - Critical Care\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
- calendar_event.aspx?EvID=7468
-DTSTAMP:20190816T130300
-LOCATION:Moore Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
 UID:7767@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191101T090000
 DTEND;TZID=America/Chicago:20191101T100000
@@ -1468,6 +1494,17 @@ DTSTAMP:20191021T094300
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Cognitive deficits in neuropsychiatric disorders: Is the answer in 
  the stars?
+END:VEVENT
+BEGIN:VEVENT
+UID:7835@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191105T150000
+DTEND;TZID=America/Chicago:20191105T160000
+DESCRIPTION:Speakers:\nMichael Avidan\, MBBCh\, Department of Anesthesiolog
+ y\nWashington University School of Medicine\n\nLink: http://dbbs.wustl.edu
+ /Resources/Pages/calendar_event.aspx?EvID=7835
+DTSTAMP:20191027T130937Z
+LOCATION:Couch Research Building 4001B
+SUMMARY:The promise of perioperative telehealth
 END:VEVENT
 BEGIN:VEVENT
 UID:7361@events.dbbs.wustl
@@ -1623,6 +1660,18 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:Amyloid and Aerobic Glycolysis
 END:VEVENT
 BEGIN:VEVENT
+UID:7836@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191112T150000
+DTEND;TZID=America/Chicago:20191112T150000
+DESCRIPTION:Speakers:\nMegan Agajanian\, Visiting Researcher (Laboratory of
+  Ben Major)\nDepartment of Cell Biology & Physiology\nWashington Universit
+ y School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=7836
+DTSTAMP:20191027T130938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Temporal dynamics of WNT signaling
+END:VEVENT
+BEGIN:VEVENT
 UID:7365@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191112T160000
 DTEND;TZID=America/Chicago:20191112T173000
@@ -1668,6 +1717,52 @@ DTSTAMP:20191016T160600
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Investigating biological mechanisms of radiation resistance in an a
  dvanced stage cervical cancer
+END:VEVENT
+BEGIN:VEVENT
+UID:7831@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T120000
+DTEND;TZID=America/Chicago:20191114T130000
+DESCRIPTION:Speakers:\nNikola Zaharakis\, PhD\, NIDA T32 Postdoctoral Fello
+ w\nREACH Institute\, Dept. of Psychology\nArizona State University\n\nDesc
+ ription:\nMobile health (mHealth) methods are innovative\, inexpensive and
+  readily\navailable ways to disseminate and implement evidence-based inter
+ ventions\n(EBIs) with minimal resources. My research addresses two questio
+ ns: (1) How\ncan we use technology to optimize and sustain EBI effects?\, 
+ and (2) Which\ntechnology strategies most improve the reach and uptake of 
+ EBIs\, particularly\nfor underserved populations? I will present two studi
+ es that applied\nimplementation science methods to mHealth to consider ind
+ icators of\nparticipant responsiveness and satisfaction in relation to int
+ ervention\noutcomes. I discuss implications in the context of my ongoing a
+ nd future work.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7831
+DTSTAMP:20191027T130938Z
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Improving Implementation and Extending Effects: Optimizing Evidence
+ -based Interventions with mHealth
+END:VEVENT
+BEGIN:VEVENT
+UID:7832@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T120000
+DTEND;TZID=America/Chicago:20191114T130000
+DESCRIPTION:Speakers:\nNikola Zaharakis\, PhD\, NIDA T32 Postdoctoral Fello
+ w\nREACH Institute\, Dept. of Psychology\nArizona State University\n\nDesc
+ ription:\nMobile health (mHealth) methods are innovative\, inexpensive and
+  readily\navailable ways to disseminate and implement evidence-based inter
+ ventions\n(EBIs) with minimal resources. My research addresses two questio
+ ns: (1) How\ncan we use technology to optimize and sustain EBI effects?\, 
+ and (2) Which\ntechnology strategies most improve the reach and uptake of 
+ EBIs\, particularly\nfor underserved populations? I will present two studi
+ es that applied\nimplementation science methods to mHealth to consider ind
+ icators of\nparticipant responsiveness and satisfaction in relation to int
+ ervention\noutcomes. I discuss implications in the context of my ongoing a
+ nd future work.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=7832
+DTSTAMP:20191027T130938Z
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Improving Implementation and Extending Effects: Optimizing Evidence
+ -based Interventions with mHealth
 END:VEVENT
 BEGIN:VEVENT
 UID:7809@events.dbbs.wustl
@@ -1786,6 +1881,17 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:Investigating Aberrant Epigenetic Regulation in ALS/FTD
 END:VEVENT
 BEGIN:VEVENT
+UID:7834@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191119T150000
+DTEND;TZID=America/Chicago:20191119T160000
+DESCRIPTION:Speakers:\nMayssa Mokalled\, Ph.D.\, Department of Developmenta
+ l Biology\nWashington University School of Medicine\n\nLink: http://dbbs.w
+ ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7834
+DTSTAMP:20191027T130938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Zebrafish inspired approaches for spinal cord repair
+END:VEVENT
+BEGIN:VEVENT
 UID:7735@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191119T153000
 DTEND;TZID=America/Chicago:20191119T170000
@@ -1887,6 +1993,26 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:Tissue Engineered Vascular Grafts for use in Children: From the Ben
  ch to the Bedside and Back Again
+END:VEVENT
+BEGIN:VEVENT
+UID:7833@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191122T100000
+DTEND;TZID=America/Chicago:20191122T110000
+DESCRIPTION:Speakers:\nElizabeth Salerno\, PhD\, MPH\, Cancer Prevention Fe
+ llow\nNational Cancer Institute\, NIH\n\nDescription:\nThis talk will high
+ light unique health challenges in cancer and aging and how\nphysical activ
+ ity may improve cognitive\, physical\, and psychosocial function\nduring c
+ ancer survivorship. Dr. Salerno will discuss findings from physical\nactiv
+ ity interventions and the modifiable health indicators that may be\namenab
+ le to such interventions in a large cohort of diverse cancer\npopulations.
+  This talk will span behavioral science\, kinesiology\, and\nepidemiology 
+ to highlight the need for scalable\, community-based physical\nactivity pr
+ ograms that can be implemented into the standard of care after\ncancer.\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7833
+DTSTAMP:20191027T130939Z
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; Richmond Room
+SUMMARY:Physical Activity at the Intersection of Cancer & Aging: Implicatio
+ ns for Public Health
 END:VEVENT
 BEGIN:VEVENT
 UID:7737@events.dbbs.wustl
@@ -2481,79 +2607,6 @@ DESCRIPTION:Speakers:\nDr. Thad Stappenbeck\, WUSM\nDepartment of Pathology
   & Immunology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
  t.aspx?EvID=7479
 DTSTAMP:20190816T130800
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7678@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200220T160000
-DTEND;TZID=America/Chicago:20200220T170000
-DESCRIPTION:Speakers:\nGwendalyn Randolph\, PhD\, Emil R. Unanue Distinguis
- hed Professor\, Department of Pathology and Immunology\nWashington Univers
- ity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
- D=7678
-DTSTAMP:20190917T171100
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7481@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200224T161500
-DTEND;TZID=America/Chicago:20200224T161500
-DESCRIPTION:Speakers:\nDr. Carl June\, University of Pennsylvania Perelman 
- School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
- _event.aspx?EvID=7481
-DTSTAMP:20190816T130900
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7639@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200226T170000
-DTEND;TZID=America/Chicago:20200226T180000
-DESCRIPTION:Speakers:\nJoseph Carroll\, PhD\, Ruth Works Professor of Ophth
- almology Professor of Ophthalmology & Visual Sciences\, Biophysics\, and C
- ell Biology\, Neurobiology and Anatomy Director\, Advanced Ocular Imaging 
- Program\nMedical College of Wisconsin\n\nLink: http://dbbs.wustl.edu/Resou
- rces/Pages/calendar_event.aspx?EvID=7639
-DTSTAMP:20190909T105300
-LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7349@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200227T120000
-DTEND;TZID=America/Chicago:20200227T130000
-DESCRIPTION:Speakers:\nDr. Josh Morgan\, Washington University\n\nLink: htt
- p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7349
-DTSTAMP:20190906T091300
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBD
-END:VEVENT
-BEGIN:VEVENT
-UID:7679@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200227T160000
-DTEND;TZID=America/Chicago:20200227T170000
-DESCRIPTION:Speakers:\nJeanne Nerbonne\, PhD\, Alumni Endowed Professor Dep
- artments of Medicine and Developmental Biology              
-                                      
-              Director\, Center for Cardiovascular Research\nWa
- shington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
- r_event.aspx?EvID=7679
-DTSTAMP:20190917T171000
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7483@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200302T161500
-DTEND;TZID=America/Chicago:20200302T161500
-DESCRIPTION:Speakers:\nDr. Katharine Hsu\, Memorial Sloan Kettering Cancer 
- Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
- EvID=7483
-DTSTAMP:20190816T130900
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
