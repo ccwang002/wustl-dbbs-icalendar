@@ -34,85 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7780@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191030T090000
-DTEND;TZID=America/Chicago:20191030T160000
-DESCRIPTION:Speakers:\nBecker Medical Library\, Hosted by Ian Sullivan\, Ce
- nter for Open Science\n\nDescription:\nCPD\; Registration - https://wustl.
- libcal.com/calendar/researchcenter/osf\n\nLink: http://dbbs.wustl.edu/Reso
- urces/Pages/calendar_event.aspx?EvID=7780
-DTSTAMP:20191004T105300
-LOCATION:Olin Library\, Instruction Room 3 (Danforth Campus)
-SUMMARY:Open Science Framework Workshop
-END:VEVENT
-BEGIN:VEVENT
-UID:7794@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191030T100000
-DTEND;TZID=America/Chicago:20191030T120000
-DESCRIPTION:Speakers:\nBecker Library Staff\, WUSM\n\nDescription:\nRegistr
- ation is Required: https://becker.wustl.edu/services/research-\ncomputing/
- \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7
- 794
-DTSTAMP:20191011T092000
-LOCATION:McDonnell Medical Bldg 100
-SUMMARY:Introduction to R – #1
-END:VEVENT
-BEGIN:VEVENT
-UID:7400@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191030T120000
-DTEND;TZID=America/Chicago:20191030T130000
-DESCRIPTION:Speakers:\nAlexxai Kravitz\, PhD\, Washington University School
-  of Medicine\n\nDescription:\nHosted by: Dr. Yao Chen\n\nLink: http://dbbs
- .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7400
-DTSTAMP:20190729T182900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Cortico-striatal control over movement and reinforcement
-END:VEVENT
-BEGIN:VEVENT
-UID:7839@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191030T120000
-DTEND;TZID=America/Chicago:20191030T130000
-DESCRIPTION:Speakers:\nThi Nguyen\, PhD\, Associate Dean for Graduate Caree
- r and Professional Development\n\nDescription:\nPlease bring a pen or penc
- il.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
- D=7839
-DTSTAMP:20191029T120700
-LOCATION:Needleman Library\, Cnf Room 3907
-SUMMARY:“Strategic Goal Setting and Time Management Tips”
-END:VEVENT
-BEGIN:VEVENT
-UID:7819@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191030T160000
-DTEND;TZID=America/Chicago:20191030T170000
-DESCRIPTION:Speakers:\nProfessor Eleni Katifori\, University of Pennsylvani
- a\n\nDescription:\nComplex life larger than a humble nematode would not be
-  possible without a\ncirculatory system. Plants\, fungi\, and animals have
-  developed vascular systems\nof striking complexity to solve problems of l
- ong distance nutrient delivery\,\nwaste removal\, and information exchange
- . These disparate vascular systems are\nconstrained by the same physics an
- d their structure is governed by the common\nuniversal principles such as 
- a hierarchy in the vessel diameters and the\nexistence of multiple loops. 
- Typically\, biological transport networks have to\nsatisfy competing deman
- ds to operate efficiently and robustly while confronted\nwith an ever-chan
- ging environment. The architecture of these networks\, as\ndefined by the 
- topology and edge weights\, determines how efficiently the\nnetworks perfo
- rm their function. In this talk we present several examples that\nhighligh
- t how\, in both plants and animals\, the circulatory networks self-\norgan
- ize in order to optimally achieve their intended function\, such as\ndeliv
- ering fluid and nutrients to the tissue efficiently and homogeneously.\nTh
- is network remodeling and self-organization takes place using only local\n
- information (each vessel only remodels based on mechanical or other local\
- ncues) in order to achieve or improve on the collective performance of the
- \nnetwork in issues like dissipation or nutrient delivery. We consider\nth
- eoretical models that describe such remodeling\, and discuss how these mod
- els\ncan provide inspiration for the design of functional artificial\nmicr
- ovasculature and other engineering applications.\n\nLink: http://dbbs.wust
- l.edu/Resources/Pages/calendar_event.aspx?EvID=7819
-DTSTAMP:20191021T094200
-LOCATION:Danforth Campus\, Crow 204\, Physics Department
-SUMMARY:Self-Organization in Living Flow Networks
-END:VEVENT
-BEGIN:VEVENT
 UID:7812@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191031T100000
 DTEND;TZID=America/Chicago:20191031T103000
@@ -161,9 +82,9 @@ DTEND;TZID=America/Chicago:20191031T160000
 DESCRIPTION:Speakers:\nLaurie Glimcher\, Richard and Susan Smith Professor 
  of Medicine\, Dana-Farber Cancer Institute\, Harvard Medical School\n\nLin
  k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=6933
-DTSTAMP:20190109T161800
+DTSTAMP:20191031T031600
 LOCATION:EPNEC\, Great Room\, 1st Floor
-SUMMARY:TBA
+SUMMARY:ER Stress: Reprogamming the Tumor Microenvironment
 END:VEVENT
 BEGIN:VEVENT
 UID:7527@events.dbbs.wustl
@@ -494,6 +415,17 @@ SUMMARY:Assembling Plant Communities:  The Role of History\, Chance and Lo
  cal Species Interactions
 END:VEVENT
 BEGIN:VEVENT
+UID:7849@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191108T090000
+DTEND;TZID=America/Chicago:20191108T100000
+DESCRIPTION:Speakers:\nAnn Schwartz\, PhD\, MPH\, Department of Epidemiolog
+ y and Biostatistics\nUniversity of California San Francisco\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7849
+DTSTAMP:20191030T145500
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Diabetes and Skeletal Health
+END:VEVENT
+BEGIN:VEVENT
 UID:7829@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191111T120000
 DTEND;TZID=America/Chicago:20191111T130000
@@ -721,6 +653,19 @@ DTSTAMP:20190917T091500
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Calcium-dependent Regulation of Mitochondrial Metabolism in Nerve T
  erminals
+END:VEVENT
+BEGIN:VEVENT
+UID:7850@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191115T140000
+DTEND;TZID=America/Chicago:20191115T160000
+DESCRIPTION:Speakers:\nMr. Deng Pan\, MSTP- Developmental\, Regenerative an
+ d Stem Cell Biology Program- Lab of Dr. Susan Mackinnon\, Department of Su
+ rgery\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7850
+DTSTAMP:20191031T025300
+LOCATION:Farrell Learning and Teaching Center\, Room 201
+SUMMARY:T cell regulation of regenerative environment in acellular nerve al
+ lograft repaired peripheral nerves
 END:VEVENT
 BEGIN:VEVENT
 UID:7821@events.dbbs.wustl
@@ -1300,6 +1245,41 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7337@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200109T120000
+DTEND;TZID=America/Chicago:20200109T130000
+DESCRIPTION:Speakers:\nDr. Carla Siegfried\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7337
+DTSTAMP:20190906T090900
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7536@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200109T160000
+DTEND;TZID=America/Chicago:20200109T170000
+DESCRIPTION:Speakers:\nJanice Huss\, PhD\, Associate Professor\, Department
+  of Molecular and Cellular Endicrinology\, Beckman Research Institute  
+                                    City 
+ of Hope\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
+ ?EvID=7536
+DTSTAMP:20190822T104500
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7471@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T161500
+DTEND;TZID=America/Chicago:20200113T161500
+DESCRIPTION:Speakers:\nDr. Jessica Hamerman\, Benaroya Research Institute\n
+ \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=747
+ 1
+DTSTAMP:20190816T130700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7767@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191101T090000
 DTEND;TZID=America/Chicago:20191101T100000
@@ -1587,6 +1567,17 @@ SUMMARY:Assembling Plant Communities:  The Role of History\, Chance and Lo
  cal Species Interactions
 END:VEVENT
 BEGIN:VEVENT
+UID:7849@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191108T090000
+DTEND;TZID=America/Chicago:20191108T100000
+DESCRIPTION:Speakers:\nAnn Schwartz\, PhD\, MPH\, Department of Epidemiolog
+ y and Biostatistics\nUniversity of California San Francisco\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7849
+DTSTAMP:20191030T145500
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Diabetes and Skeletal Health
+END:VEVENT
+BEGIN:VEVENT
 UID:7829@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191111T120000
 DTEND;TZID=America/Chicago:20191111T130000
@@ -1814,6 +1805,19 @@ DTSTAMP:20190917T091500
 LOCATION:Eric P. Newman Education Center\, Seminar Room B
 SUMMARY:Calcium-dependent Regulation of Mitochondrial Metabolism in Nerve T
  erminals
+END:VEVENT
+BEGIN:VEVENT
+UID:7850@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191115T140000
+DTEND;TZID=America/Chicago:20191115T160000
+DESCRIPTION:Speakers:\nMr. Deng Pan\, MSTP- Developmental\, Regenerative an
+ d Stem Cell Biology Program- Lab of Dr. Susan Mackinnon\, Department of Su
+ rgery\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7850
+DTSTAMP:20191031T025300
+LOCATION:Farrell Learning and Teaching Center\, Room 201
+SUMMARY:T cell regulation of regenerative environment in acellular nerve al
+ lograft repaired peripheral nerves
 END:VEVENT
 BEGIN:VEVENT
 UID:7821@events.dbbs.wustl
@@ -2506,10 +2510,11 @@ DESCRIPTION:Speakers:\nAlison Kohan\, PhD\, Assocaite Professor of Medicine
                                      Uni
  versity of Pittsburgh\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
  dar_event.aspx?EvID=7580
-DTSTAMP:20190826T094100
+DTSTAMP:20191031T025400
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:ApoC-III and Treg Lipid Metabolism: What is Good for the Heart May 
+ not be Good for the Gut
 END:VEVENT
 BEGIN:VEVENT
 UID:7473@events.dbbs.wustl
@@ -2520,28 +2525,6 @@ DESCRIPTION:Speakers:\nDr. Keisuke Chris Nagao\, National Institute of Arth
  sources/Pages/calendar_event.aspx?EvID=7473
 DTSTAMP:20190816T130700
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7428@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200129T120000
-DTEND;TZID=America/Chicago:20200129T130000
-DESCRIPTION:Speakers:\nShiNung Ching\, PhD\, Washington University in St. L
- ouis-Engineering\n\nDescription:\nHosted by: Dr. Camillo Padoa Schioppa\n\
- nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7428
-DTSTAMP:20190813T095800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Systems-theoretic analysis and normative modeling of neural circuit
- s
-END:VEVENT
-BEGIN:VEVENT
-UID:7342@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200130T120000
-DTEND;TZID=America/Chicago:20200130T130000
-DESCRIPTION:Speakers:\nDr. Helen McNeill\, Washington University\n\nLink: h
- ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7342
-DTSTAMP:20190906T090900
-LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
 END:VCALENDAR
