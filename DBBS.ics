@@ -34,76 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7857@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191105T103000
-DTEND;TZID=America/Chicago:20191105T113000
-DESCRIPTION:Speakers:\nMichael Regnier\, Ph.D.\, University of Washington\n
- \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=785
- 7
-DTSTAMP:20191104T082300
-LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
-SUMMARY:Two short stories: 1) Mechanistic studies of the myosin activator 2
- -deoxy-ATP and 2) hiPSC models of cardiac disease
-END:VEVENT
-BEGIN:VEVENT
-UID:7385@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191105T120000
-DTEND;TZID=America/Chicago:20191105T130000
-DESCRIPTION:Speakers:\nDoug Larsen\, Associate Professor of Neurology & Ped
- iatrics\, Department of Neurology\, WUSM\n\nLink: http://dbbs.wustl.edu/Re
- sources/Pages/calendar_event.aspx?EvID=7385
-DTSTAMP:20190724T085100
-LOCATION:4444 Forest Park Ave.\, Room 1235
-SUMMARY:Retrieval practice for long-term retention
-END:VEVENT
-BEGIN:VEVENT
-UID:7389@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191105T120000
-DTEND;TZID=America/Chicago:20191105T130000
-DESCRIPTION:Speakers:\nDr. Samuel Behar\, University of Massachusetts Medic
- al School\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7389
-DTSTAMP:20191029T120700
-LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
-SUMMARY:Recognizing the Problem: T cell recognition of Mycobacterium tuberc
- ulosis infected macrophages
-END:VEVENT
-BEGIN:VEVENT
-UID:7713@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191105T120000
-DTEND;TZID=America/Chicago:20191105T130000
-DESCRIPTION:Speakers:\nNaresha Saligrama\, PhD\, Assistant Professor of Neu
- rology\, Division of Multiple Sclerosis\, Washington University\n\nLink: h
- ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7713
-DTSTAMP:20190924T095100
-LOCATION:East Pavilion Auditorium
-SUMMARY:From T Cell Receptor to Antigen\; Systems Approaches to Discovering
-  T Cell Antigen(s) in Neurological Diseases
-END:VEVENT
-BEGIN:VEVENT
-UID:7817@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191105T150000
-DTEND;TZID=America/Chicago:20191105T160000
-DESCRIPTION:Speakers:\nThomas J. Papouin\, Ph.D.\, Assistant Professor\, De
- partment of Neuroscience\nWashington University School of Medicine\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7817
-DTSTAMP:20191021T094300
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Cognitive deficits in neuropsychiatric disorders: Is the answer in 
- the stars?
-END:VEVENT
-BEGIN:VEVENT
-UID:7835@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191105T150000
-DTEND;TZID=America/Chicago:20191105T160000
-DESCRIPTION:Speakers:\nMichael Avidan\, MBBCh\, Department of Anesthesiolog
- y\nWashington University School of Medicine\n\nLink: http://dbbs.wustl.edu
- /Resources/Pages/calendar_event.aspx?EvID=7835
-DTSTAMP:20191028T092800
-LOCATION:Couch Research Building 4001B
-SUMMARY:The promise of perioperative telehealth
-END:VEVENT
-BEGIN:VEVENT
 UID:7361@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191106T120000
 DTEND;TZID=America/Chicago:20191106T130000
@@ -480,6 +410,18 @@ LOCATION:FLTC 204
 SUMMARY:NIH Biosketch and NCBI SciENcv
 END:VEVENT
 BEGIN:VEVENT
+UID:7862@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191115T120000
+DTEND;TZID=America/Chicago:20191115T130000
+DESCRIPTION:Speakers:\nRajan Sah\, MD\, PhD\, Associate Professor of Medici
+ ne\nCardiovascular Division\nWashington University\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7862
+DTSTAMP:20191106T140934Z
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Dysfunctional Adipocyte Mechano-Sensing Contributes to non-Alcoholi
+ c Fatty Liver Disease
+END:VEVENT
+BEGIN:VEVENT
 UID:7675@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191115T130000
 DTEND;TZID=America/Chicago:20191115T160000
@@ -666,6 +608,38 @@ DESCRIPTION:Speakers:\nDr. Robert Johnson\, Johns Hopkins\n\nLink: http://d
 DTSTAMP:20190906T090700
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7863@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191121T120000
+DTEND;TZID=America/Chicago:20191121T130000
+DESCRIPTION:Speakers:\nJohn D. Carpten\, PhD\, Professor and Chair\nDepartm
+ ent of Translational Genomics\nProfessor\, Deartment of Urology\nCo-Direct
+ or\, USC Institute for Translational Genomics\nDireector\, USC Molecular G
+ enomics Core\n\nDescription:\nPrecision Medicine is gaining popularity in 
+ oncology. The ability to rapidly\nsequence the tumor and germline DNA and 
+ RNA of an individual could\nrevolutionize our ability to match targeted th
+ erapies to tumors harboring\nbiologically associated genetic biomarkers. A
+ lthough many groups are\nimplementing precision medicine in selecting trea
+ tment for cancer patients\,\nthe diversity of both the population and tumo
+ rs makes it difficult to\ndetermine the most optimized and appropriate app
+ roaches. This is particularly\nimportant as many tumor types disproportion
+ ately affect individuals from\nunderrepresented populations. We are invest
+ igating population heterogeneity\nand cancer genomics to determine if spec
+ ific somatic alterations are enriched\nin underrepresented populations\, w
+ hich might in part explain differences in\nincidence and outcomes in these
+  groups. Furthermore\, we are uncovering aspects\nof tumor heterogeneity t
+ hat can affect treatment selection and response to\nspecific targeted ther
+ apies. Optimizing Precision Medicine by better\nunderstanding and controll
+ ing population and tumor heterogeneity will allow\nfor more specific and s
+ ensitive testing in hopes of applying the most\nappropriate clinical manag
+ ement for all patients.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=7863
+DTSTAMP:20191106T140935Z
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:The Impact of Population and Tumor Heterogeneity in Cancer Genome S
+ cience
 END:VEVENT
 BEGIN:VEVENT
 UID:7529@events.dbbs.wustl
@@ -1264,6 +1238,53 @@ DTSTAMP:20190813T095800
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Systems-theoretic analysis and normative modeling of neural circuit
  s
+END:VEVENT
+BEGIN:VEVENT
+UID:7342@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200130T120000
+DTEND;TZID=America/Chicago:20200130T130000
+DESCRIPTION:Speakers:\nDr. Helen McNeill\, Washington University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7342
+DTSTAMP:20190906T090900
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7539@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200130T160000
+DTEND;TZID=America/Chicago:20200130T170000
+DESCRIPTION:Speakers:\nGuillermo Torre-Amione\, MD\, PhD\, Professor of Car
+ diology\, Institute for Academic Medicine                
+                                      
+   Houston Methodist                           
+                                      
+       Weill Cornell Medical College\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7539
+DTSTAMP:20190822T104600
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7475@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T161500
+DTEND;TZID=America/Chicago:20200203T161500
+DESCRIPTION:Speakers:\nDr. Kate Fitzgerald\, University of Massachusetts Me
+ dical School\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7475
+DTSTAMP:20190816T130700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7344@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T120000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Usha Andley\, Washington University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7344
+DTSTAMP:20190906T091000
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:7845@events.dbbs.wustl
