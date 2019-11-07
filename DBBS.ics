@@ -34,41 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7361@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191106T120000
-DTEND;TZID=America/Chicago:20191106T130000
-DESCRIPTION:Speakers:\nMichael Long\, PhD\, New York University School of M
- edicine\n\nDescription:\nHosted by Russell Moore and DON Trainees\n\nLink:
-  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7361
-DTSTAMP:20190712T142000
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Comparative Neurobiology of Vocal Communication
-END:VEVENT
-BEGIN:VEVENT
-UID:7604@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191106T120000
-DTEND;TZID=America/Chicago:20191106T124500
-DESCRIPTION:Speakers:\nBecker Library\, Becker Library\n\nDescription:\nCPD
- \; RSVP required -\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civ
- icrm/event/info&reset\;=1&id\;=120\n\nLink: http://dbbs.wustl.edu/Resource
- s/Pages/calendar_event.aspx?EvID=7604
-DTSTAMP:20190920T132200
-LOCATION:FLTC 204
-SUMMARY:NCBI Tools: PubMed and My Bibliography
-END:VEVENT
-BEGIN:VEVENT
-UID:7796@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191106T120000
-DTEND;TZID=America/Chicago:20191106T130000
-DESCRIPTION:Speakers:\nBecker Staff\, WUSTL / WUSM/ Becker Library\n\nDescr
- iption:\nRegister Here:\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\
- ;=civicrm/event/register&id\;=170&reset\;=1\n\nLink: http://dbbs.wustl.edu
- /Resources/Pages/calendar_event.aspx?EvID=7796
-DTSTAMP:20191011T092000
-LOCATION:McDonnell\, 100
-SUMMARY:Introduction to R – #2
-END:VEVENT
-BEGIN:VEVENT
 UID:7814@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191107T100000
 DTEND;TZID=America/Chicago:20191107T120000
@@ -182,6 +147,17 @@ DESCRIPTION:Speakers:\nMatthew Ishahak\, Rita Levi-Montalcini Postdocotral
 DTSTAMP:20191104T082000
 LOCATION:Couch Research Building 4001B
 SUMMARY:Engineering Microfluidic Systems to Recapitulate Human Physiology
+END:VEVENT
+BEGIN:VEVENT
+UID:7866@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191111T000000
+DTEND;TZID=America/Chicago:20191111T235900
+DESCRIPTION:Speakers:\nDr. Stephan Grill\, Max Planck Institute of Molecula
+ r Cell Biology and Genetics\n\nLink: http://dbbs.wustl.edu/Resources/Pages
+ /calendar_event.aspx?EvID=7866
+DTSTAMP:20191107T140934Z
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Physics of Life
 END:VEVENT
 BEGIN:VEVENT
 UID:7829@events.dbbs.wustl
@@ -416,7 +392,7 @@ DTEND;TZID=America/Chicago:20191115T130000
 DESCRIPTION:Speakers:\nRajan Sah\, MD\, PhD\, Associate Professor of Medici
  ne\nCardiovascular Division\nWashington University\n\nLink: http://dbbs.wu
  stl.edu/Resources/Pages/calendar_event.aspx?EvID=7862
-DTSTAMP:20191106T140934Z
+DTSTAMP:20191107T140935Z
 LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
 SUMMARY:Dysfunctional Adipocyte Mechano-Sensing Contributes to non-Alcoholi
  c Fatty Liver Disease
@@ -437,6 +413,18 @@ SUMMARY:Calcium-dependent Regulation of Mitochondrial Metabolism in Nerve T
  erminals
 END:VEVENT
 BEGIN:VEVENT
+UID:7865@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191115T130000
+DTEND;TZID=America/Chicago:20191115T150000
+DESCRIPTION:Speakers:\nElizabeth Ostrander\, Human and Statistical Genetics
+  program - Lab of Dr. Grant Challen\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=7865
+DTSTAMP:20191106T145900
+LOCATION:Moore Auditorium
+SUMMARY:The role of epigenetic mutations in the clonal evolution of hematop
+ oietic stem cells
+END:VEVENT
+BEGIN:VEVENT
 UID:7850@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191115T140000
 DTEND;TZID=America/Chicago:20191115T160000
@@ -448,6 +436,16 @@ DTSTAMP:20191031T025300
 LOCATION:Farrell Learning and Teaching Center\, Room 201
 SUMMARY:T cell regulation of regenerative environment in acellular nerve al
  lograft repaired peripheral nerves
+END:VEVENT
+BEGIN:VEVENT
+UID:7864@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191118T120000
+DTEND;TZID=America/Chicago:20191118T130000
+DESCRIPTION:Speakers:\nAAAS Program Manager\, AAAS\n\nLink: http://dbbs.wus
+ tl.edu/Resources/Pages/calendar_event.aspx?EvID=7864
+DTSTAMP:20191107T140935Z
+LOCATION:4515 McKinley Research Building\, Room 4001A
+SUMMARY:AAAS S&T Policy Fellowship Informational Session
 END:VEVENT
 BEGIN:VEVENT
 UID:7821@events.dbbs.wustl
@@ -635,7 +633,7 @@ DESCRIPTION:Speakers:\nJohn D. Carpten\, PhD\, Professor and Chair\nDepartm
  ensitive testing in hopes of applying the most\nappropriate clinical manag
  ement for all patients.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
  endar_event.aspx?EvID=7863
-DTSTAMP:20191106T140935Z
+DTSTAMP:20191107T140936Z
 LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
  Room 2131
 SUMMARY:The Impact of Population and Tumor Heterogeneity in Cancer Genome S
@@ -873,6 +871,20 @@ DESCRIPTION:Speakers:\nBrian Edelson\, MD\, PhD\, Assistant Professor of Pa
 DTSTAMP:20190924T095000
 LOCATION:East Pavilion Auditorium
 SUMMARY:Characterization of Microglia in the Cerebrospinal Fluid
+END:VEVENT
+BEGIN:VEVENT
+UID:7867@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191203T150000
+DTEND;TZID=America/Chicago:20191203T150000
+DESCRIPTION:Speakers:\nDerek A. Wainwright\, Ph.D.\, Assistant Professor\, 
+ Departments of Neurological Surgery\, Medicine (Hematology/Oncology) and M
+ icrobiology-Immunology\nNorthwestern University - Feinberg School of Medic
+ ine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7867
+DTSTAMP:20191107T140936Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Aging\, ID01\, and glioblastoma (GBM) in adults: reversing the fail
+ ure of immunotherapy to improve survival against GBM"
 END:VEVENT
 BEGIN:VEVENT
 UID:7723@events.dbbs.wustl
@@ -1277,16 +1289,6 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:7344@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200206T120000
-DTEND;TZID=America/Chicago:20200206T130000
-DESCRIPTION:Speakers:\nDr. Usha Andley\, Washington University\n\nLink: htt
- p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7344
-DTSTAMP:20190906T091000
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBD
-END:VEVENT
-BEGIN:VEVENT
 UID:7845@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T160000
 DTEND;TZID=America/Chicago:20191202T160000
@@ -1368,6 +1370,20 @@ DESCRIPTION:Speakers:\nBrian Edelson\, MD\, PhD\, Assistant Professor of Pa
 DTSTAMP:20190924T095000
 LOCATION:East Pavilion Auditorium
 SUMMARY:Characterization of Microglia in the Cerebrospinal Fluid
+END:VEVENT
+BEGIN:VEVENT
+UID:7867@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191203T150000
+DTEND;TZID=America/Chicago:20191203T150000
+DESCRIPTION:Speakers:\nDerek A. Wainwright\, Ph.D.\, Assistant Professor\, 
+ Departments of Neurological Surgery\, Medicine (Hematology/Oncology) and M
+ icrobiology-Immunology\nNorthwestern University - Feinberg School of Medic
+ ine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7867
+DTSTAMP:20191107T140938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Aging\, ID01\, and glioblastoma (GBM) in adults: reversing the fail
+ ure of immunotherapy to improve survival against GBM"
 END:VEVENT
 BEGIN:VEVENT
 UID:7723@events.dbbs.wustl
