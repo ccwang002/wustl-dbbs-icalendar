@@ -34,28 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7849@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191108T090000
-DTEND;TZID=America/Chicago:20191108T100000
-DESCRIPTION:Speakers:\nAnn Schwartz\, PhD\, MPH\, Department of Epidemiolog
- y and Biostatistics\nUniversity of California San Francisco\n\nLink: http:
- //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7849
-DTSTAMP:20191030T145500
-LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
-SUMMARY:Diabetes and Skeletal Health
-END:VEVENT
-BEGIN:VEVENT
-UID:7852@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191108T101500
-DTEND;TZID=America/Chicago:20191108T111500
-DESCRIPTION:Speakers:\nMatthew Ishahak\, Rita Levi-Montalcini Postdocotral 
- Fellowship Finalist\nPhD Candidate\, University of Miami\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7852
-DTSTAMP:20191104T082000
-LOCATION:Couch Research Building 4001B
-SUMMARY:Engineering Microfluidic Systems to Recapitulate Human Physiology
-END:VEVENT
-BEGIN:VEVENT
 UID:7866@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191111T103000
 DTEND;TZID=America/Chicago:20191111T113000
@@ -86,7 +64,7 @@ DTSTART;TZID=America/Chicago:20191111T120000
 DTEND;TZID=America/Chicago:20191111T123000
 DESCRIPTION:Speakers:\nNicholas Raush\, Washington University\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7874
-DTSTAMP:20191108T140933Z
+DTSTAMP:20191108T083200
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:MRSA Nasal Swab Testing for Antimicrobial De-escalation in the MICU
 END:VEVENT
@@ -96,7 +74,7 @@ DTSTART;TZID=America/Chicago:20191111T123000
 DTEND;TZID=America/Chicago:20191111T130000
 DESCRIPTION:Speakers:\nLaura Halverson\, Washington University\n\nLink: htt
  p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7875
-DTSTAMP:20191108T140933Z
+DTSTAMP:20191108T083200
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:Examining frailty in lung transplant
 END:VEVENT
@@ -217,6 +195,28 @@ SUMMARY:Investigating biological mechanisms of radiation resistance in an a
  dvanced stage cervical cancer
 END:VEVENT
 BEGIN:VEVENT
+UID:7880@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T100000
+DTEND;TZID=America/Chicago:20191114T103000
+DESCRIPTION:Speakers:\nNicholas Semenkovich\, MD\, PhD\, Washington Univers
+ ity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7880
+DTSTAMP:20191108T143100
+LOCATION:728 Southwest Tower
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7879@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191114T103000
+DTEND;TZID=America/Chicago:20191114T113000
+DESCRIPTION:Speakers:\nChristopher Adams\, MD\, PhD\, University of Iowa\nP
+ rofessor of Internal Medicine and Molecular Physiology & Biophysics\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7879
+DTSTAMP:20191108T083200
+LOCATION:728 Southwest Tower
+SUMMARY:Investigating Mechanisms and Treatment of Skeletal Muscle Atrophy
+END:VEVENT
+BEGIN:VEVENT
 UID:7832@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191114T120000
 DTEND;TZID=America/Chicago:20191114T130000
@@ -265,48 +265,15 @@ SUMMARY:The role of retinoic acid signaling in development of the human emb
  ryonic hematopoietic system
 END:VEVENT
 BEGIN:VEVENT
-UID:7868@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T120000
-DTEND;TZID=America/Chicago:20191114T125000
-DESCRIPTION:Speakers:\nCeleste Morley\, Wash U\n\nLink: http://dbbs.wustl.e
- du/Resources/Pages/calendar_event.aspx?EvID=7868
-DTSTAMP:20191107T085600
-LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:I’m on fire:  regulating inflammation through adhesion-based sig
- naling
-END:VEVENT
-BEGIN:VEVENT
 UID:7869@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191114T120000
 DTEND;TZID=America/Chicago:20191114T125000
 DESCRIPTION:Speakers:\nCeleste Morley\, Wash U\n\nLink: http://dbbs.wustl.e
  du/Resources/Pages/calendar_event.aspx?EvID=7869
-DTSTAMP:20191107T085800
+DTSTAMP:20191108T101700
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:I’m on fire:  regulating inflammation through adhesion-based sig
  naling
-END:VEVENT
-BEGIN:VEVENT
-UID:7870@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T120000
-DTEND;TZID=America/Chicago:20191114T125000
-DESCRIPTION:Speakers:\nEric Allenspach\, Assistant Professor\nUniversity of
-  WA\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
- D=7870
-DTSTAMP:20191107T085800
-LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:Genetics of Autoimmunity: From Trios to an autoimmune risk allele
-END:VEVENT
-BEGIN:VEVENT
-UID:7871@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T120000
-DTEND;TZID=America/Chicago:20191114T125000
-DESCRIPTION:Speakers:\nEric Allenspach\, Assistant Professor\nUniversity of
-  WA\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
- D=7871
-DTSTAMP:20191108T140934Z
-LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:Genetics of Autoimmunity: From Trios to an autoimmune risk allele
 END:VEVENT
 BEGIN:VEVENT
 UID:7809@events.dbbs.wustl
@@ -344,17 +311,6 @@ DTSTAMP:20191029T152100
 LOCATION:Farrell Learning and Teaching Center\, Room 203
 SUMMARY:#SciComm Seminars – Be Podcast-ic: Tips for hosting or guesting o
  n a podcast
-END:VEVENT
-BEGIN:VEVENT
-UID:7876@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T150000
-DTEND;TZID=America/Chicago:20191114T160000
-DESCRIPTION:Speakers:\nClaire Gauen\, Arts & Sciences\nJim Dryden\, Medical
-  Public Affairs\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
- ent.aspx?EvID=7876
-DTSTAMP:20191108T080300
-LOCATION:FLTC Room 203
-SUMMARY:Be Podcast-ic: Tips for hosting or guesting on a podcast
 END:VEVENT
 BEGIN:VEVENT
 UID:7802@events.dbbs.wustl
@@ -436,7 +392,7 @@ DTSTART;TZID=America/Chicago:20191118T120000
 DTEND;TZID=America/Chicago:20191118T130000
 DESCRIPTION:Speakers:\nAAAS Program Manager\, AAAS\n\nLink: http://dbbs.wus
  tl.edu/Resources/Pages/calendar_event.aspx?EvID=7864
-DTSTAMP:20191108T140935Z
+DTSTAMP:20191108T083300
 LOCATION:4515 McKinley Research Building\, Room 4001A
 SUMMARY:AAAS S&T Policy Fellowship Informational Session
 END:VEVENT
@@ -643,6 +599,17 @@ LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching
  Room 2131
 SUMMARY:The Impact of Population and Tumor Heterogeneity in Cancer Genome S
  cience
+END:VEVENT
+BEGIN:VEVENT
+UID:7871@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191121T120000
+DTEND;TZID=America/Chicago:20191121T125000
+DESCRIPTION:Speakers:\nEric Allenspach\, Assistant Professor\nUniversity of
+  WA\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7871
+DTSTAMP:20191108T103100
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:Genetics of Autoimmunity: From Trios to an autoimmune risk allele
 END:VEVENT
 BEGIN:VEVENT
 UID:7529@events.dbbs.wustl
@@ -932,7 +899,7 @@ DTEND;TZID=America/Chicago:20191205T125000
 DESCRIPTION:Speakers:\nJen Phillips\, Associate Professor of Medicine - WUS
  TL\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
  =7873
-DTSTAMP:20191108T140936Z
+DTSTAMP:20191108T083300
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -958,6 +925,19 @@ DTSTAMP:20191104T082200
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Why Regional Differences in Past and Future Spring-Frost Risk Threa
  ten Europe and Asia More Than North America
+END:VEVENT
+BEGIN:VEVENT
+UID:7881@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191206T140000
+DTEND;TZID=America/Chicago:20191206T140000
+DESCRIPTION:Speakers:\nSmarth Hegde\, Molecular Cell Biology Program\nLabor
+ atory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Oncol
+ ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7881
+DTSTAMP:20191110T140936Z
+LOCATION:Eric P. Newman Education Center-Seminar Room A
+SUMMARY:T cell immunity in pancreatic cancer is undermined due to dendritic
+  cell dysfunction
 END:VEVENT
 BEGIN:VEVENT
 UID:7861@events.dbbs.wustl
@@ -1143,10 +1123,11 @@ DESCRIPTION:Speakers:\nJanice Huss\, PhD\, Associate Professor\, Department
                                     City 
  of Hope\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
  ?EvID=7536
-DTSTAMP:20190822T104500
+DTSTAMP:20191108T101300
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:Orphan Receptors at Home in Metabolism: Transcriptional Control of 
+ Skeletal Muscle Energy Homeostasis by the Estrogen-related Receptors
 END:VEVENT
 BEGIN:VEVENT
 UID:7471@events.dbbs.wustl
@@ -1275,6 +1256,33 @@ DESCRIPTION:Speakers:\nDr. Helen McNeill\, Washington University\n\nLink: h
  ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7342
 DTSTAMP:20190906T090900
 LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7539@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200130T160000
+DTEND;TZID=America/Chicago:20200130T170000
+DESCRIPTION:Speakers:\nGuillermo Torre-Amione\, MD\, PhD\, Professor of Car
+ diology\, Institute for Academic Medicine                
+                                      
+   Houston Methodist                           
+                                      
+       Weill Cornell Medical College\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7539
+DTSTAMP:20190822T104600
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7475@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T161500
+DTEND;TZID=America/Chicago:20200203T161500
+DESCRIPTION:Speakers:\nDr. Kate Fitzgerald\, University of Massachusetts Me
+ dical School\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7475
+DTSTAMP:20190816T130700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
@@ -1415,7 +1423,7 @@ DTEND;TZID=America/Chicago:20191205T125000
 DESCRIPTION:Speakers:\nJen Phillips\, Associate Professor of Medicine - WUS
  TL\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
  =7873
-DTSTAMP:20191108T140938Z
+DTSTAMP:20191108T083300
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -1441,6 +1449,19 @@ DTSTAMP:20191104T082200
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Why Regional Differences in Past and Future Spring-Frost Risk Threa
  ten Europe and Asia More Than North America
+END:VEVENT
+BEGIN:VEVENT
+UID:7881@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191206T140000
+DTEND;TZID=America/Chicago:20191206T140000
+DESCRIPTION:Speakers:\nSmarth Hegde\, Molecular Cell Biology Program\nLabor
+ atory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Oncol
+ ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7881
+DTSTAMP:20191110T140937Z
+LOCATION:Eric P. Newman Education Center-Seminar Room A
+SUMMARY:T cell immunity in pancreatic cancer is undermined due to dendritic
+  cell dysfunction
 END:VEVENT
 BEGIN:VEVENT
 UID:7861@events.dbbs.wustl
@@ -1626,10 +1647,11 @@ DESCRIPTION:Speakers:\nJanice Huss\, PhD\, Associate Professor\, Department
                                     City 
  of Hope\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
  ?EvID=7536
-DTSTAMP:20190822T104500
+DTSTAMP:20191108T101300
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:Orphan Receptors at Home in Metabolism: Transcriptional Control of 
+ Skeletal Muscle Energy Homeostasis by the Estrogen-related Receptors
 END:VEVENT
 BEGIN:VEVENT
 UID:7471@events.dbbs.wustl
