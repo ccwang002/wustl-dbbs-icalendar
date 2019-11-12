@@ -34,74 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7866@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191111T103000
-DTEND;TZID=America/Chicago:20191111T113000
-DESCRIPTION:Speakers:\nDr. Stephan Grill\, Max Planck Institute of Molecula
- r Cell Biology and Genetics\n\nLink: http://dbbs.wustl.edu/Resources/Pages
- /calendar_event.aspx?EvID=7866
-DTSTAMP:20191107T085700
-LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
-SUMMARY:Physics of Life
-END:VEVENT
-BEGIN:VEVENT
-UID:7829@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191111T120000
-DTEND;TZID=America/Chicago:20191111T130000
-DESCRIPTION:Speakers:\nJeffrey D. Rothstein MD\, PhD\, Johns Hopkins Univer
- sity\, School of Medicine\, Baltimore\, MD\nDirector\, Brain Science Insti
- tute\nProfessor\, Departments of Neurology and Neuroscience\nDirector\, Pa
- ckard Center for ALS Research\n\nLink: http://dbbs.wustl.edu/Resources/Pag
- es/calendar_event.aspx?EvID=7829
-DTSTAMP:20191024T110000
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Disassembly and Reassembly of the Nuclear Pore: Disease Initiator i
- n ALS/Dementia
-END:VEVENT
-BEGIN:VEVENT
-UID:7874@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191111T120000
-DTEND;TZID=America/Chicago:20191111T123000
-DESCRIPTION:Speakers:\nNicholas Raush\, Washington University\n\nLink: http
- ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7874
-DTSTAMP:20191108T083200
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:MRSA Nasal Swab Testing for Antimicrobial De-escalation in the MICU
-END:VEVENT
-BEGIN:VEVENT
-UID:7875@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191111T123000
-DTEND;TZID=America/Chicago:20191111T130000
-DESCRIPTION:Speakers:\nLaura Halverson\, Washington University\n\nLink: htt
- p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7875
-DTSTAMP:20191108T083200
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:Examining frailty in lung transplant
-END:VEVENT
-BEGIN:VEVENT
-UID:7759@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191111T160000
-DTEND;TZID=America/Chicago:20191111T160000
-DESCRIPTION:Speakers:\nJason Gallant Assistant Professor\, Michigan State U
- niversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7759
-DTSTAMP:20191001T094400
-LOCATION:Rebstock Hall 322
-SUMMARY:"The genomic basis of communication signal variation in electric fi
- sh"
-END:VEVENT
-BEGIN:VEVENT
-UID:7459@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191111T161500
-DTEND;TZID=America/Chicago:20191111T161500
-DESCRIPTION:Speakers:\nDr. Megan Baldridge\, WUSM\nDepartment of Internal M
- edicine – Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/P
- ages/calendar_event.aspx?EvID=7459
-DTSTAMP:20190816T120500
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:Interferon-mediated control of viruses in the gut
-END:VEVENT
-BEGIN:VEVENT
 UID:7376@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191112T120000
 DTEND;TZID=America/Chicago:20191112T130000
@@ -387,6 +319,30 @@ SUMMARY:T cell regulation of regenerative environment in acellular nerve al
  lograft repaired peripheral nerves
 END:VEVENT
 BEGIN:VEVENT
+UID:7889@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191118T090000
+DTEND;TZID=America/Chicago:20191118T100000
+DESCRIPTION:Speakers:\nEileen Lynch\, Rita Levi-Montalcini postdoctoral fel
+ lowship finalist\, PhD candidate\, University of Wisconsin Madison\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7889
+DTSTAMP:20191112T140934Z
+LOCATION:Couch Research Building 4001B
+SUMMARY:Investigating the role of skeletal muscle in ALS pathogenesis using
+  patient induced pluripotent stem cells
+END:VEVENT
+BEGIN:VEVENT
+UID:7890@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191118T090000
+DTEND;TZID=America/Chicago:20191118T100000
+DESCRIPTION:Speakers:\nEileen Lynch\, Rita Levi-Montalcini postdoctoral fel
+ lowship finalist\, PhD candidate\, University of Wisconsin Madison\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7890
+DTSTAMP:20191112T140934Z
+LOCATION:Couch Research Building 4001B
+SUMMARY:Investigating the role of skeletal muscle in ALS pathogenesis using
+  patient induced pluripotent stem cells
+END:VEVENT
+BEGIN:VEVENT
 UID:7864@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191118T120000
 DTEND;TZID=America/Chicago:20191118T130000
@@ -395,6 +351,32 @@ DESCRIPTION:Speakers:\nAAAS Program Manager\, AAAS\n\nLink: http://dbbs.wus
 DTSTAMP:20191108T083300
 LOCATION:4515 McKinley Research Building\, Room 4001A
 SUMMARY:AAAS S&T Policy Fellowship Informational Session
+END:VEVENT
+BEGIN:VEVENT
+UID:7884@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191118T120000
+DTEND;TZID=America/Chicago:20191118T130000
+DESCRIPTION:Speakers:\nMyriam Heiman\, Associate Professor\nDepartment of B
+ rain and Cognitive Sciences\nMIT\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=7884
+DTSTAMP:20191112T140934Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Understanding Connections Between CNS Cellular Heterogeneity and Di
+ sease Mechanisms:  Insights from Unbiased Molecular Profiling and Genetic
+  Screening in the CNS
+END:VEVENT
+BEGIN:VEVENT
+UID:7885@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191118T120000
+DTEND;TZID=America/Chicago:20191118T130000
+DESCRIPTION:Speakers:\nMyriam Heiman\, Associate Professor\nDepartment of B
+ rain and Cognitive Sciences\nMIT\n\nLink: http://dbbs.wustl.edu/Resources/
+ Pages/calendar_event.aspx?EvID=7885
+DTSTAMP:20191112T140934Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Understanding Connections Between CNS Cellular Heterogeneity and Di
+ sease Mechanisms:  Insights from Unbiased Molecular Profiling and Genetic
+  Screening in the CNS
 END:VEVENT
 BEGIN:VEVENT
 UID:7821@events.dbbs.wustl
@@ -677,6 +659,18 @@ LOCATION:Medical Campus\, TBA
 SUMMARY:Improvisation in Your Teaching (Med Campus Morning)
 END:VEVENT
 BEGIN:VEVENT
+UID:7883@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191122T120000
+DTEND;TZID=America/Chicago:20191122T130000
+DESCRIPTION:Speakers:\nChyi-Song Hsieh\, PhD\, Alan A. And Edith L. Wolff P
+ rofessor of Rheumatology\nDivision of Rheumatology\nWashington University\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=78
+ 83
+DTSTAMP:20191111T092400
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Host Commensal Immune Interactions
+END:VEVENT
+BEGIN:VEVENT
 UID:7738@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191122T150000
 DTEND;TZID=America/Chicago:20191122T163000
@@ -688,6 +682,39 @@ DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
 DTSTAMP:20190927T101200
 LOCATION:Medical Campus\, TBA
 SUMMARY:Improvisation in Your Teaching (Med Campus Afternoon)
+END:VEVENT
+BEGIN:VEVENT
+UID:7891@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191125T090000
+DTEND;TZID=America/Chicago:20191125T100000
+DESCRIPTION:Speakers:\nTamrat Mamo PhD\, Rita Levi-Montalcini postdoctoral 
+ fellowship finalist\, Hanover Medical School\n\nLink: http://dbbs.wustl.ed
+ u/Resources/Pages/calendar_event.aspx?EvID=7891
+DTSTAMP:20191112T140935Z
+LOCATION:Couch Research Building 4001B
+SUMMARY:BMP4 signaling in the mouse ureter development
+END:VEVENT
+BEGIN:VEVENT
+UID:7886@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191125T120000
+DTEND;TZID=America/Chicago:20191125T130000
+DESCRIPTION:Speakers:\nSergiu Pasca\, Stanford University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7886
+DTSTAMP:20191112T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:"Assembling tridimensional models of the human brain to study devel
+ opment and disease"
+END:VEVENT
+BEGIN:VEVENT
+UID:7887@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191125T120000
+DTEND;TZID=America/Chicago:20191125T130000
+DESCRIPTION:Speakers:\nSergiu Pasca\, Stanford University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7887
+DTSTAMP:20191112T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:"Assembling tridimensional models of the human brain to study devel
+ opment and disease"
 END:VEVENT
 BEGIN:VEVENT
 UID:7463@events.dbbs.wustl
@@ -760,6 +787,17 @@ DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
 DTSTAMP:20190927T101300
 LOCATION:The Teaching Center\, Danforth Campus
 SUMMARY:Understanding and Addressing Microaggressions in the Classroom
+END:VEVENT
+BEGIN:VEVENT
+UID:7888@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T120000
+DTEND;TZID=America/Chicago:20191202T130000
+DESCRIPTION:Speakers:\nMichael Buszczak\, Molecular Biology/ UT Southwester
+ n Medical Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=7888
+DTSTAMP:20191112T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Genetic Dissection of Germ Cell Development and Function
 END:VEVENT
 BEGIN:VEVENT
 UID:7845@events.dbbs.wustl
@@ -934,7 +972,7 @@ DESCRIPTION:Speakers:\nSmarth Hegde\, Molecular Cell Biology Program\nLabor
  atory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Oncol
  ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
  D=7881
-DTSTAMP:20191111T140936Z
+DTSTAMP:20191111T092400
 LOCATION:Eric P. Newman Education Center-Seminar Room A
 SUMMARY:T cell immunity in pancreatic cancer is undermined due to dendritic
   cell dysfunction
@@ -1249,41 +1287,15 @@ SUMMARY:Systems-theoretic analysis and normative modeling of neural circuit
  s
 END:VEVENT
 BEGIN:VEVENT
-UID:7342@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200130T120000
-DTEND;TZID=America/Chicago:20200130T130000
-DESCRIPTION:Speakers:\nDr. Helen McNeill\, Washington University\n\nLink: h
- ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7342
-DTSTAMP:20190906T090900
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7539@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200130T160000
-DTEND;TZID=America/Chicago:20200130T170000
-DESCRIPTION:Speakers:\nGuillermo Torre-Amione\, MD\, PhD\, Professor of Car
- diology\, Institute for Academic Medicine                
-                                      
-   Houston Methodist                           
-                                      
-       Weill Cornell Medical College\n\nLink: http://dbbs.wustl.edu/Re
- sources/Pages/calendar_event.aspx?EvID=7539
-DTSTAMP:20190822T104600
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7475@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200203T161500
-DTEND;TZID=America/Chicago:20200203T161500
-DESCRIPTION:Speakers:\nDr. Kate Fitzgerald\, University of Massachusetts Me
- dical School\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
- .aspx?EvID=7475
-DTSTAMP:20190816T130700
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+UID:7888@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T120000
+DTEND;TZID=America/Chicago:20191202T130000
+DESCRIPTION:Speakers:\nMichael Buszczak\, Molecular Biology/ UT Southwester
+ n Medical Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=7888
+DTSTAMP:20191112T140937Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Genetic Dissection of Germ Cell Development and Function
 END:VEVENT
 BEGIN:VEVENT
 UID:7845@events.dbbs.wustl
@@ -1458,7 +1470,7 @@ DESCRIPTION:Speakers:\nSmarth Hegde\, Molecular Cell Biology Program\nLabor
  atory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Oncol
  ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
  D=7881
-DTSTAMP:20191111T140937Z
+DTSTAMP:20191111T092400
 LOCATION:Eric P. Newman Education Center-Seminar Room A
 SUMMARY:T cell immunity in pancreatic cancer is undermined due to dendritic
   cell dysfunction
