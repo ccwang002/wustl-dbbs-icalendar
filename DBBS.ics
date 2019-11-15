@@ -34,147 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7807@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T100000
-DTEND;TZID=America/Chicago:20191114T100000
-DESCRIPTION:Speakers:\nFiona Ruiz\, Molecular Cell Biology Program\nLaborat
- ory of Dr. Julie Schwarz\nDepartment of Radiation Oncology\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7807
-DTSTAMP:20191016T160600
-LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:Investigating biological mechanisms of radiation resistance in an a
- dvanced stage cervical cancer
-END:VEVENT
-BEGIN:VEVENT
-UID:7880@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T100000
-DTEND;TZID=America/Chicago:20191114T103000
-DESCRIPTION:Speakers:\nNicholas Semenkovich\, MD\, PhD\, Washington Univers
- ity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
- D=7880
-DTSTAMP:20191112T172900
-LOCATION:728 Southwest Tower
-SUMMARY:Rare Endocrinopathies
-END:VEVENT
-BEGIN:VEVENT
-UID:7879@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T103000
-DTEND;TZID=America/Chicago:20191114T113000
-DESCRIPTION:Speakers:\nChristopher Adams\, MD\, PhD\, University of Iowa\nP
- rofessor of Internal Medicine and Molecular Physiology & Biophysics\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7879
-DTSTAMP:20191108T083200
-LOCATION:728 Southwest Tower
-SUMMARY:Investigating Mechanisms and Treatment of Skeletal Muscle Atrophy
-END:VEVENT
-BEGIN:VEVENT
-UID:7832@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T120000
-DTEND;TZID=America/Chicago:20191114T130000
-DESCRIPTION:Speakers:\nNikola Zaharakis\, PhD\, NIDA T32 Postdoctoral Fello
- w\nREACH Institute\, Dept. of Psychology\nArizona State University\n\nDesc
- ription:\nMobile health (mHealth) methods are innovative\, inexpensive and
-  readily\navailable ways to disseminate and implement evidence-based inter
- ventions\n(EBIs) with minimal resources. My research addresses two questio
- ns: (1) How\ncan we use technology to optimize and sustain EBI effects?\, 
- and (2) Which\ntechnology strategies most improve the reach and uptake of 
- EBIs\, particularly\nfor underserved populations? I will present two studi
- es that applied\nimplementation science methods to mHealth to consider ind
- icators of\nparticipant responsiveness and satisfaction in relation to int
- ervention\noutcomes. I discuss implications in the context of my ongoing a
- nd future work.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
- ent.aspx?EvID=7832
-DTSTAMP:20191028T092900
-LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
- Room 2131
-SUMMARY:Improving Implementation and Extending Effects: Optimizing Evidence
- -based Interventions with mHealth
-END:VEVENT
-BEGIN:VEVENT
-UID:7837@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T120000
-DTEND;TZID=America/Chicago:20191114T130000
-DESCRIPTION:Speakers:\nDr. Georgios Skiniotis\, Ph.D.\, Stanford University
-  School of Medicine\nProfessor\nDepartment of Molecular & Cellular Physiol
- ogy and of Structural Biology\nCo-Director\, Stanford-SLAC Cryo-EM Center\
- n\nDescription:\nAcademic & Research Building 4th floor\, Room 449\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7837
-DTSTAMP:20191029T102800
-LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
-SUMMARY:“CryoEM of GPCRs: from mechanism to drug discovery.”
-END:VEVENT
-BEGIN:VEVENT
-UID:7853@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T120000
-DTEND;TZID=America/Chicago:20191114T130000
-DESCRIPTION:Speakers:\nNestor Fernandez\, Rita Levi-Montalcini Postdoctoral
-  Fellowship Finalist\nUniversity of Toronto\n\nLink: http://dbbs.wustl.edu
- /Resources/Pages/calendar_event.aspx?EvID=7853
-DTSTAMP:20191104T082100
-LOCATION:South Building\, Room 3907\, Philip Needleman Library
-SUMMARY:The role of retinoic acid signaling in development of the human emb
- ryonic hematopoietic system
-END:VEVENT
-BEGIN:VEVENT
-UID:7869@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T120000
-DTEND;TZID=America/Chicago:20191114T125000
-DESCRIPTION:Speakers:\nCeleste Morley\, Wash U\n\nLink: http://dbbs.wustl.e
- du/Resources/Pages/calendar_event.aspx?EvID=7869
-DTSTAMP:20191108T101700
-LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:I’m on fire:  regulating inflammation through adhesion-based sig
- naling
-END:VEVENT
-BEGIN:VEVENT
-UID:7809@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T140000
-DTEND;TZID=America/Chicago:20191114T140000
-DESCRIPTION:Speakers:\nBrian Wadugu\, Molecular Cell Biology Program\nLabor
- atory of Dr. Matthew Walter\nDepartment of Internal Medicine\nDivision of 
- Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
- x?EvID=7809
-DTSTAMP:20191017T163000
-LOCATION:Southwest Tower 7th Floor\, Conference Room 728
-SUMMARY:The role of U2AF1 in normal and abnormal hematopoiesis
-END:VEVENT
-BEGIN:VEVENT
-UID:7878@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T140000
-DTEND;TZID=America/Chicago:20191114T160000
-DESCRIPTION:Speakers:\nMr. Jose Gabriel Grajales-Reyes\, MSTP- Neuroscience
- s Program- Lab of Dr. Robert Gereau\, Department of Anesthesiology\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7878
-DTSTAMP:20191108T075800
-LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:Functional and anatomical characterization of descending periaquedu
- ctal gray (PAG) projections and their role in pain modulation
-END:VEVENT
-BEGIN:VEVENT
-UID:7843@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T150000
-DTEND;TZID=America/Chicago:20191114T160000
-DESCRIPTION:Speakers:\nClaire Gauen\, Publications & Digital Outreach Initi
- atives Editor\nManaging Producer of “Hold That Thought”\nArts & Scienc
- es\nWashington University in St. Louis\n\nDescription:\nCPD\n\nLink: http:
- //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7843
-DTSTAMP:20191029T152100
-LOCATION:Farrell Learning and Teaching Center\, Room 203
-SUMMARY:#SciComm Seminars – Be Podcast-ic: Tips for hosting or guesting o
- n a podcast
-END:VEVENT
-BEGIN:VEVENT
-UID:7802@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191114T160000
-DTEND;TZID=America/Chicago:20191114T170000
-DESCRIPTION:Speakers:\nStephen Montgomery\, PhD\, Associate Professor of Pa
- thology and Genetics\nStanford University School of Medicine\n\nLink: http
- ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7802
-DTSTAMP:20191014T120700
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Using functional genomics to interpret genetic disease
-END:VEVENT
-BEGIN:VEVENT
 UID:7872@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191115T090000
 DTEND;TZID=America/Chicago:20191115T100000
@@ -232,8 +91,8 @@ DESCRIPTION:Speakers:\nMr. Deng Pan\, MSTP- Developmental\, Regenerative an
  d Stem Cell Biology Program- Lab of Dr. Susan Mackinnon\, Department of Su
  rgery\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
  vID=7850
-DTSTAMP:20191108T080600
-LOCATION:Farrell Learning and Teaching Center\, Room 301
+DTSTAMP:20191114T081700
+LOCATION:BJCIH 11th Floor Conference Room 11AB
 SUMMARY:T cell regulation of regenerative environment in acellular nerve al
  lograft repaired peripheral nerves
 END:VEVENT
@@ -316,7 +175,7 @@ DESCRIPTION:Speakers:\nNichole  Mercier\, PhD\, Asst Vice Chancellor and M
  alum\nRachel Delston\, PhD\, Associate Director at Arch Oncology & WashU p
  ostdoc alum\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
  aspx?EvID=7901
-DTSTAMP:20191114T140934Z
+DTSTAMP:20191114T091900
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Fail Better: Career Paths Panel
 END:VEVENT
@@ -330,7 +189,7 @@ DESCRIPTION:Speakers:\nNichole  Mercier\, PhD\, Asst Vice Chancellor and M
  alum\nRachel Delston\, PhD\, Associate Director at Arch Oncology & WashU p
  ostdoc alum\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
  aspx?EvID=7902
-DTSTAMP:20191114T140934Z
+DTSTAMP:20191114T091800
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Fail Better: Career Paths Panel
 END:VEVENT
@@ -462,6 +321,26 @@ LOCATION:Clopton Auditorium
 SUMMARY:Science\, Entrepreneurship & Industry Seminar
 END:VEVENT
 BEGIN:VEVENT
+UID:7908@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191121T100000
+DTEND;TZID=America/Chicago:20191121T103000
+DESCRIPTION:Speakers:\nKatrina Han\, MD\, Washington University\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7908
+DTSTAMP:20191114T123300
+LOCATION:728 Southwest Tower
+SUMMARY:Anabolic Steroid-Induced Hypogonadism
+END:VEVENT
+BEGIN:VEVENT
+UID:7907@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191121T103000
+DTEND;TZID=America/Chicago:20191121T113000
+DESCRIPTION:Speakers:\nHani Suleiman\, MD\, PhD\, Washington University\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7907
+DTSTAMP:20191114T123300
+LOCATION:728 Southwest Tower
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7736@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191121T113000
 DTEND;TZID=America/Chicago:20191121T130000
@@ -565,7 +444,7 @@ DTEND;TZID=America/Chicago:20191121T170000
 DESCRIPTION:Speakers:\nDavid Knowles\, PhD\, Assistant Professor of Compute
  r Science\nColumbia University\n\nLink: http://dbbs.wustl.edu/Resources/Pa
  ges/calendar_event.aspx?EvID=7904
-DTSTAMP:20191114T140935Z
+DTSTAMP:20191114T123200
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Probabilistic models of transcriptomic dysregulation in genetic dis
  ease
@@ -577,10 +456,22 @@ DTEND;TZID=America/Chicago:20191122T100000
 DESCRIPTION:Speakers:\nAmit Pathak\, PhD\, Department of Mechanical Enginee
  ring & Materials Science\nWashington University\n\nLink: http://dbbs.wustl
  .edu/Resources/Pages/calendar_event.aspx?EvID=7905
-DTSTAMP:20191114T140935Z
+DTSTAMP:20191114T123200
 LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:"Matrix heterogeneity and mechanical memory in cellular mechanobiol
  ogy"
+END:VEVENT
+BEGIN:VEVENT
+UID:7906@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191122T090000
+DTEND;TZID=America/Chicago:20191122T100000
+DESCRIPTION:Speakers:\nSumin Kim\, Rita Levi-Montalcini Postdoctoral Fellow
+ ship Candidate\, PhD Candidate\, Kyung Hee University\, Korea\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7906
+DTSTAMP:20191114T123200
+LOCATION:Couch Research Building 4001B
+SUMMARY:The regulation of microglial activation and establishment of in vit
+ ro blood-brain barrier
 END:VEVENT
 BEGIN:VEVENT
 UID:7833@events.dbbs.wustl
@@ -663,22 +554,6 @@ SUMMARY:"Assembling tridimensional models of the human brain to study devel
  opment and disease"
 END:VEVENT
 BEGIN:VEVENT
-UID:7894@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191125T120000
-DTEND;TZID=America/Chicago:20191125T130000
-DESCRIPTION:Speakers:\nJoshua Rubin\, MD\, PhD\, WashU Pediatrics\n\nDescri
- ption:\nMini-series: Sex differences in disease Organizer\, Josh Rubin (Wa
- shU\nPediatrics) November 25: Joshua Rubin (WashU Pediatrics) December 2: 
- Trainee\nTalks December 9: Manu Goyal (WashU Radiology)\, Joseph Ippolito 
- (WashU\nRadiology) December 16: John Constantino (WashU Psychiatry)\, Joe 
- Dougherty\n(WashU Genetics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages
- /calendar_event.aspx?EvID=7894
-DTSTAMP:20191114T140935Z
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:"Evolutionary and Developmental Origins of Sex Differences in Biolo
- gy"
-END:VEVENT
-BEGIN:VEVENT
 UID:7895@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191125T120000
 DTEND;TZID=America/Chicago:20191125T130000
@@ -689,7 +564,7 @@ DESCRIPTION:Speakers:\nJoshua Rubin\, MD\, PhD\, WashU Pediatrics\n\nDescri
  (WashU\nRadiology) December 16: John Constantino (WashU Psychiatry)\, Joe 
  Dougherty\n(WashU Genetics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages
  /calendar_event.aspx?EvID=7895
-DTSTAMP:20191114T140935Z
+DTSTAMP:20191114T123000
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"Evolutionary and Developmental Origins of Sex Differences in Biolo
  gy"
@@ -778,21 +653,6 @@ LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Genetic Dissection of Germ Cell Development and Function
 END:VEVENT
 BEGIN:VEVENT
-UID:7896@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191202T120000
-DTEND;TZID=America/Chicago:20191202T130000
-DESCRIPTION:Speakers:\nTrainee Talks\, WashU\n\nDescription:\nMini-series: 
- Sex differences in disease Organizer\, Josh Rubin (WashU\nPediatrics) Nove
- mber 25: Joshua Rubin (WashU Pediatrics) December 2: Trainee\nTalks Decemb
- er 9: Manu Goyal (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) De
- cember 16: John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Gen
- etics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
- EvID=7896
-DTSTAMP:20191114T140935Z
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
 UID:7897@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T130000
@@ -803,7 +663,7 @@ DESCRIPTION:Speakers:\nTrainee Talks\, WashU\n\nDescription:\nMini-series:
  cember 16: John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Gen
  etics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
  EvID=7897
-DTSTAMP:20191114T140935Z
+DTSTAMP:20191114T123000
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -824,9 +684,9 @@ DTSTART;TZID=America/Chicago:20191202T161500
 DTEND;TZID=America/Chicago:20191202T161500
 DESCRIPTION:Speakers:\nDr. Martin Flajnik\, University of Maryland\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7465
-DTSTAMP:20191029T153300
+DTSTAMP:20191114T123300
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:Origins of Antigen Presentation
 END:VEVENT
 BEGIN:VEVENT
 UID:7558@events.dbbs.wustl
@@ -899,7 +759,7 @@ DESCRIPTION:Speakers:\nBen Ainscough\, PhD *17\, DBBS alum\, Data scientist
  Lunch Provided. RSVP Here:\nhttps://wustl.az1.qualtrics.com/jfe/form/SV_9X
  J3fnhsc2iUha5\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
  t.aspx?EvID=7903
-DTSTAMP:20191114T140936Z
+DTSTAMP:20191114T123200
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Careers in Data Science
 END:VEVENT
@@ -1014,21 +874,6 @@ SUMMARY:Wiring the Powerhouse: Systems Biochemistry Approaches for Defining
   Mitochondrial Protein Function
 END:VEVENT
 BEGIN:VEVENT
-UID:7898@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T120000
-DTEND;TZID=America/Chicago:20191209T130000
-DESCRIPTION:Speakers:\nManu Goyal\, MD\, MSc\, WashU Radiology\nJoseph Ippo
- lito\, MD\, PhD\, WashU Radiology\n\nDescription:\nMini-series: Sex differ
- ences in disease Organizer\, Josh Rubin (WashU\nPediatrics) November 25: J
- oshua Rubin (WashU Pediatrics) December 2: Trainee\nTalks December 9: Manu
-  Goyal (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) December 16:
-  John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Genetics)\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7898
-DTSTAMP:20191114T140936Z
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
 UID:7899@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191209T120000
 DTEND;TZID=America/Chicago:20191209T130000
@@ -1039,7 +884,7 @@ DESCRIPTION:Speakers:\nManu Goyal\, MD\, MSc\, WashU Radiology\nJoseph Ippo
   Goyal (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) December 16:
   John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Genetics)\n\n
  Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7899
-DTSTAMP:20191114T140936Z
+DTSTAMP:20191114T123100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -1163,7 +1008,7 @@ DESCRIPTION:Speakers:\nJohn Constantino\, MD\, WashU Psychiatry\nJoseph Dou
  al (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) December 16: Joh
  n Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Genetics)\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7900
-DTSTAMP:20191114T140937Z
+DTSTAMP:20191114T123100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -1174,9 +1019,9 @@ DTEND;TZID=America/Chicago:20191216T160000
 DESCRIPTION:Speakers:\nDr. Juliane Bubeck Wardenburg\, WUSM\nDepartment of 
  Pediatrics - Critical Care\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
  calendar_event.aspx?EvID=7468
-DTSTAMP:20191029T153200
+DTSTAMP:20191114T123400
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:A tale of two toxins: bacterial perturbation of host biology
 END:VEVENT
 BEGIN:VEVENT
 UID:7848@events.dbbs.wustl
@@ -1317,6 +1162,137 @@ SUMMARY:Optogenetic dissection of local and long-range functional connectiv
  ity of prefrontal cortical circuits
 END:VEVENT
 BEGIN:VEVENT
+UID:7341@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T120000
+DTEND;TZID=America/Chicago:20200123T130000
+DESCRIPTION:Speakers:\nDr. David Berson\, Brown University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7341
+DTSTAMP:20190906T090900
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7580@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T160000
+DTEND;TZID=America/Chicago:20200123T170000
+DESCRIPTION:Speakers:\nAlison Kohan\, PhD\, Assocaite Professor of Medicine
+                                      
+           Division of Endocrinology and Metabolism       
+                                     Uni
+ versity of Pittsburgh\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7580
+DTSTAMP:20191031T025400
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:ApoC-III and Treg Lipid Metabolism: What is Good for the Heart May 
+ not be Good for the Gut
+END:VEVENT
+BEGIN:VEVENT
+UID:7473@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T161500
+DTEND;TZID=America/Chicago:20200127T161500
+DESCRIPTION:Speakers:\nDr. Keisuke Chris Nagao\, National Institute of Arth
+ ritis & Musculoskeletal and Skin Disease\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7473
+DTSTAMP:20190816T130700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7428@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200129T120000
+DTEND;TZID=America/Chicago:20200129T130000
+DESCRIPTION:Speakers:\nShiNung Ching\, PhD\, Washington University in St. L
+ ouis-Engineering\n\nDescription:\nHosted by: Dr. Camillo Padoa Schioppa\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7428
+DTSTAMP:20190813T095800
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Systems-theoretic analysis and normative modeling of neural circuit
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:7342@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200130T120000
+DTEND;TZID=America/Chicago:20200130T130000
+DESCRIPTION:Speakers:\nDr. Helen McNeill\, Washington University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7342
+DTSTAMP:20190906T090900
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7539@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200130T160000
+DTEND;TZID=America/Chicago:20200130T170000
+DESCRIPTION:Speakers:\nGuillermo Torre-Amione\, MD\, PhD\, Professor of Car
+ diology\, Institute for Academic Medicine                
+                                      
+   Houston Methodist                           
+                                      
+       Weill Cornell Medical College\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7539
+DTSTAMP:20190822T104600
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7475@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T161500
+DTEND;TZID=America/Chicago:20200203T161500
+DESCRIPTION:Speakers:\nDr. Kate Fitzgerald\, University of Massachusetts Me
+ dical School\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=7475
+DTSTAMP:20190816T130700
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7344@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T120000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Usha Andley\, Washington University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7344
+DTSTAMP:20190906T091000
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7542@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T160000
+DTEND;TZID=America/Chicago:20200206T170000
+DESCRIPTION:Speakers:\nNatalia Trayanova\, PhD\, Murray B. Sachs Endowed Ch
+ air                                   
+           Professor of Biomedical Engineering and Medicine   
+                                      
+            Johns Hopkins University\n\nLink: http://dbbs.wustl.e
+ du/Resources/Pages/calendar_event.aspx?EvID=7542
+DTSTAMP:20190822T104600
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7477@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200210T161500
+DTEND;TZID=America/Chicago:20200210T161500
+DESCRIPTION:Speakers:\nDr. Helen Su\, NIH\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7477
+DTSTAMP:20190816T130800
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7345@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200213T120000
+DTEND;TZID=America/Chicago:20200213T130000
+DESCRIPTION:Speakers:\nDr. Valeria Cavalli\, Washington University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7345
+DTSTAMP:20190906T091000
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T130000
@@ -1326,21 +1302,6 @@ DESCRIPTION:Speakers:\nMichael Buszczak\, Molecular Biology/ UT Southwester
 DTSTAMP:20191112T141300
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Genetic Dissection of Germ Cell Development and Function
-END:VEVENT
-BEGIN:VEVENT
-UID:7896@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191202T120000
-DTEND;TZID=America/Chicago:20191202T130000
-DESCRIPTION:Speakers:\nTrainee Talks\, WashU\n\nDescription:\nMini-series: 
- Sex differences in disease Organizer\, Josh Rubin (WashU\nPediatrics) Nove
- mber 25: Joshua Rubin (WashU Pediatrics) December 2: Trainee\nTalks Decemb
- er 9: Manu Goyal (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) De
- cember 16: John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Gen
- etics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
- EvID=7896
-DTSTAMP:20191114T140937Z
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7897@events.dbbs.wustl
@@ -1353,7 +1314,7 @@ DESCRIPTION:Speakers:\nTrainee Talks\, WashU\n\nDescription:\nMini-series:
  cember 16: John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Gen
  etics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
  EvID=7897
-DTSTAMP:20191114T140937Z
+DTSTAMP:20191114T123000
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -1374,9 +1335,9 @@ DTSTART;TZID=America/Chicago:20191202T161500
 DTEND;TZID=America/Chicago:20191202T161500
 DESCRIPTION:Speakers:\nDr. Martin Flajnik\, University of Maryland\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7465
-DTSTAMP:20191029T153300
+DTSTAMP:20191114T123300
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:Origins of Antigen Presentation
 END:VEVENT
 BEGIN:VEVENT
 UID:7558@events.dbbs.wustl
@@ -1449,7 +1410,7 @@ DESCRIPTION:Speakers:\nBen Ainscough\, PhD *17\, DBBS alum\, Data scientist
  Lunch Provided. RSVP Here:\nhttps://wustl.az1.qualtrics.com/jfe/form/SV_9X
  J3fnhsc2iUha5\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
  t.aspx?EvID=7903
-DTSTAMP:20191114T140937Z
+DTSTAMP:20191114T123200
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Careers in Data Science
 END:VEVENT
@@ -1564,21 +1525,6 @@ SUMMARY:Wiring the Powerhouse: Systems Biochemistry Approaches for Defining
   Mitochondrial Protein Function
 END:VEVENT
 BEGIN:VEVENT
-UID:7898@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T120000
-DTEND;TZID=America/Chicago:20191209T130000
-DESCRIPTION:Speakers:\nManu Goyal\, MD\, MSc\, WashU Radiology\nJoseph Ippo
- lito\, MD\, PhD\, WashU Radiology\n\nDescription:\nMini-series: Sex differ
- ences in disease Organizer\, Josh Rubin (WashU\nPediatrics) November 25: J
- oshua Rubin (WashU Pediatrics) December 2: Trainee\nTalks December 9: Manu
-  Goyal (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) December 16:
-  John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Genetics)\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7898
-DTSTAMP:20191114T140938Z
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
 UID:7899@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191209T120000
 DTEND;TZID=America/Chicago:20191209T130000
@@ -1589,7 +1535,7 @@ DESCRIPTION:Speakers:\nManu Goyal\, MD\, MSc\, WashU Radiology\nJoseph Ippo
   Goyal (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) December 16:
   John Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Genetics)\n\n
  Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7899
-DTSTAMP:20191114T140938Z
+DTSTAMP:20191114T123100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -1713,7 +1659,7 @@ DESCRIPTION:Speakers:\nJohn Constantino\, MD\, WashU Psychiatry\nJoseph Dou
  al (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) December 16: Joh
  n Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Genetics)\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7900
-DTSTAMP:20191114T140938Z
+DTSTAMP:20191114T123100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
 END:VEVENT
@@ -1724,9 +1670,9 @@ DTEND;TZID=America/Chicago:20191216T160000
 DESCRIPTION:Speakers:\nDr. Juliane Bubeck Wardenburg\, WUSM\nDepartment of 
  Pediatrics - Critical Care\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
  calendar_event.aspx?EvID=7468
-DTSTAMP:20191029T153200
+DTSTAMP:20191114T123400
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:A tale of two toxins: bacterial perturbation of host biology
 END:VEVENT
 BEGIN:VEVENT
 UID:7848@events.dbbs.wustl
@@ -2546,5 +2492,27 @@ DTSTAMP:20190822T105200
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7501@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200518T161500
+DTEND;TZID=America/Chicago:20200518T161500
+DESCRIPTION:Speakers:\nDr. Haina Shin\, WUSM\nDepartment of Internal Medici
+ ne – Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=7501
+DTSTAMP:20190816T130200
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7315@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200520T120000
+DTEND;TZID=America/Chicago:20200520T130000
+DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
+ tin\n\nDescription:\nHosted by: Dr. Mike Nonet\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7315
+DTSTAMP:20190712T143000
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Stochastic Mechanisms in Membrane Traffic
 END:VEVENT
 END:VCALENDAR
