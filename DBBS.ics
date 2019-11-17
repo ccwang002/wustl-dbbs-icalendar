@@ -34,69 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7872@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191115T090000
-DTEND;TZID=America/Chicago:20191115T100000
-DESCRIPTION:Speakers:\nDeborah Veis\, MD\, PhD\, Department of Medicine\, D
- ivision of Bone and Mineral Diseases\n\nLink: http://dbbs.wustl.edu/Resour
- ces/Pages/calendar_event.aspx?EvID=7872
-DTSTAMP:20191107T085700
-LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
-SUMMARY:Dynamic Mitochondria Remodel the Bone
-END:VEVENT
-BEGIN:VEVENT
-UID:7606@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191115T120000
-DTEND;TZID=America/Chicago:20191115T124500
-DESCRIPTION:Speakers:\nBecker Library\, Becker Library\n\nDescription:\nCPD
- \; RSVP required -\nhttps://becker.wustl.edu/civicrm/?page=CiviCRM&q\;=civ
- icrm/event/info&reset\;=1&id\;=121\n\nLink: http://dbbs.wustl.edu/Resource
- s/Pages/calendar_event.aspx?EvID=7606
-DTSTAMP:20190909T082700
-LOCATION:FLTC 204
-SUMMARY:NIH Biosketch and NCBI SciENcv
-END:VEVENT
-BEGIN:VEVENT
-UID:7862@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191115T120000
-DTEND;TZID=America/Chicago:20191115T130000
-DESCRIPTION:Speakers:\nRajan Sah\, MD\, PhD\, Associate Professor of Medici
- ne\nCardiovascular Division\nWashington University\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7862
-DTSTAMP:20191107T084900
-LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
-SUMMARY:Dysfunctional Adipocyte Mechano-Sensing Contributes to non-Alcoholi
- c Fatty Liver Disease
-END:VEVENT
-BEGIN:VEVENT
-UID:7675@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191115T130000
-DTEND;TZID=America/Chicago:20191115T160000
-DESCRIPTION:Speakers:\nGhazal Ashrafi\, PhD\, Assistant Professor of Cell B
- iology and Genetics\nWashington University School of Medicine\nAaron DiAnt
- onio\, MD\, PhD\, Professor of Developmental Biology\nWashington Universit
- y School of Medicine\nRajesh Devraj\, PhD\, Disarm Therapeutics\nKeynote S
- peaker: Thomas Schwarz\, PhD\, Harvard University\n\nLink: http://dbbs.wus
- tl.edu/Resources/Pages/calendar_event.aspx?EvID=7675
-DTSTAMP:20191113T151100
-LOCATION:EPNEC Auditorium
-SUMMARY:Calcium-dependent Regulation of Mitochondrial Metabolism in Nerve T
- erminals
-END:VEVENT
-BEGIN:VEVENT
-UID:7850@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191115T140000
-DTEND;TZID=America/Chicago:20191115T160000
-DESCRIPTION:Speakers:\nMr. Deng Pan\, MSTP- Developmental\, Regenerative an
- d Stem Cell Biology Program- Lab of Dr. Susan Mackinnon\, Department of Su
- rgery\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=7850
-DTSTAMP:20191114T081700
-LOCATION:BJCIH 11th Floor Conference Room 11AB
-SUMMARY:T cell regulation of regenerative environment in acellular nerve al
- lograft repaired peripheral nerves
-END:VEVENT
-BEGIN:VEVENT
 UID:7890@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191118T090000
 DTEND;TZID=America/Chicago:20191118T100000
@@ -202,6 +139,17 @@ DESCRIPTION:Speakers:\nDr. Laura Solt\, Scripps Research\n\nLink: http://db
 DTSTAMP:20190816T120500
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Nuclear Receptors and the Regulation of Th17-mediated Inflammation
+END:VEVENT
+BEGIN:VEVENT
+UID:7909@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191119T103000
+DTEND;TZID=America/Chicago:20191119T113000
+DESCRIPTION:Speakers:\nMadeline Shea\, Ph.D.\, University of Iowa\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7909
+DTSTAMP:20191115T222500
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:Calmodulin Choreography on Voltage-Gated Sodium Channels: Allostery
+  in Action
 END:VEVENT
 BEGIN:VEVENT
 UID:7377@events.dbbs.wustl
@@ -336,9 +284,10 @@ DTSTART;TZID=America/Chicago:20191121T103000
 DTEND;TZID=America/Chicago:20191121T113000
 DESCRIPTION:Speakers:\nHani Suleiman\, MD\, PhD\, Washington University\n\n
  Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7907
-DTSTAMP:20191114T123300
+DTSTAMP:20191115T235500
 LOCATION:728 Southwest Tower
-SUMMARY:TBA
+SUMMARY:Role of Glomerular Basement Membrane Composition and Architecture i
+ n Diabetic Nephropathy
 END:VEVENT
 BEGIN:VEVENT
 UID:7736@events.dbbs.wustl
@@ -1291,6 +1240,57 @@ DESCRIPTION:Speakers:\nDr. Valeria Cavalli\, Washington University\n\nLink:
 DTSTAMP:20190906T091000
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7544@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200213T160000
+DTEND;TZID=America/Chicago:20200213T170000
+DESCRIPTION:Speakers:\nVojo Deretic\, PhD\, Distinguished Professor and Cha
+ ir Molecular Genetics and Microbiology                  
+                                      
+  Director\, Authophagy\, Inflammation and Metabolism Center       
+                                      
+                     University of New Mexico\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7544
+DTSTAMP:20190822T104700
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7479@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200217T161500
+DTEND;TZID=America/Chicago:20200217T161500
+DESCRIPTION:Speakers:\nDr. Thad Stappenbeck\, WUSM\nDepartment of Pathology
+  & Immunology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_even
+ t.aspx?EvID=7479
+DTSTAMP:20190816T130800
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7678@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200220T160000
+DTEND;TZID=America/Chicago:20200220T170000
+DESCRIPTION:Speakers:\nGwendalyn Randolph\, PhD\, Emil R. Unanue Distinguis
+ hed Professor\, Department of Pathology and Immunology\nWashington Univers
+ ity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
+ D=7678
+DTSTAMP:20190917T171100
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7481@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200224T161500
+DTEND;TZID=America/Chicago:20200224T161500
+DESCRIPTION:Speakers:\nDr. Carl June\, University of Pennsylvania Perelman 
+ School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
+ _event.aspx?EvID=7481
+DTSTAMP:20190816T130900
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
