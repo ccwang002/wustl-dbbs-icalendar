@@ -34,113 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7890@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T090000
-DTEND;TZID=America/Chicago:20191118T100000
-DESCRIPTION:Speakers:\nEileen Lynch\, Rita Levi-Montalcini postdoctoral fel
- lowship finalist\, PhD candidate\, University of Wisconsin Madison\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7890
-DTSTAMP:20191112T141400
-LOCATION:Couch Research Building 4001B
-SUMMARY:Investigating the role of skeletal muscle in ALS pathogenesis using
-  patient induced pluripotent stem cells
-END:VEVENT
-BEGIN:VEVENT
-UID:7864@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T120000
-DTEND;TZID=America/Chicago:20191118T130000
-DESCRIPTION:Speakers:\nAAAS Program Manager\, AAAS\n\nLink: http://dbbs.wus
- tl.edu/Resources/Pages/calendar_event.aspx?EvID=7864
-DTSTAMP:20191108T083300
-LOCATION:4515 McKinley Research Building\, Room 4001A
-SUMMARY:AAAS S&T Policy Fellowship Informational Session
-END:VEVENT
-BEGIN:VEVENT
-UID:7884@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T120000
-DTEND;TZID=America/Chicago:20191118T130000
-DESCRIPTION:Speakers:\nMyriam Heiman\, Associate Professor\nDepartment of B
- rain and Cognitive Sciences\nMIT\n\nLink: http://dbbs.wustl.edu/Resources/
- Pages/calendar_event.aspx?EvID=7884
-DTSTAMP:20191112T141300
-LOCATION:Needleman Library\, Cnf Room 3907
-SUMMARY:Understanding Connections Between CNS Cellular Heterogeneity and Di
- sease Mechanisms:  Insights from Unbiased Molecular Profiling and Genetic
-  Screening in the CNS
-END:VEVENT
-BEGIN:VEVENT
-UID:7892@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T120000
-DTEND;TZID=America/Chicago:20191118T130000
-DESCRIPTION:Speakers:\nDr. Mu He\, University of California San Francisco a
- nd Howard Hughes Medical Institute\n\nLink: http://dbbs.wustl.edu/Resource
- s/Pages/calendar_event.aspx?EvID=7892
-DTSTAMP:20191112T141400
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:“From one to many: the making of a multiciliated cell."
-END:VEVENT
-BEGIN:VEVENT
-UID:7821@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T133000
-DTEND;TZID=America/Chicago:20191118T133000
-DESCRIPTION:Speakers:\nMary Elizabeth Mathyer\, Molecular Genetics and Geno
- mics Program\nLaboratory of Dr. Cristina de Guzman Strong\nDepartment of I
- nternal of Medicine - Dermatology\n\nLink: http://dbbs.wustl.edu/Resources
- /Pages/calendar_event.aspx?EvID=7821
-DTSTAMP:20191022T155000
-LOCATION:Moore Auditorium
-SUMMARY:Elucidating Enhancer Function in Epidermal Development and Filaggri
- n Loss-of-Function Variants in African American Atopic Dermatitis
-END:VEVENT
-BEGIN:VEVENT
-UID:7789@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T160000
-DTEND;TZID=America/Chicago:20191118T160000
-DESCRIPTION:Speakers:\nKeith Hengen\, Washington University\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7789
-DTSTAMP:20191007T092300
-LOCATION:Rebstock Hall 322
-SUMMARY:"TBA"
-END:VEVENT
-BEGIN:VEVENT
-UID:7901@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T160000
-DTEND;TZID=America/Chicago:20191118T160000
-DESCRIPTION:Speakers:\nNichole  Mercier\, PhD\, Asst Vice Chancellor and M
- anaging Director of Office of Technology Management at WashU\nMitchell D'R
- ozario\, PhD\, Medical Science Liaison (MSL) at Genentech & WashU postdoc 
- alum\nRachel Delston\, PhD\, Associate Director at Arch Oncology & WashU p
- ostdoc alum\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
- aspx?EvID=7901
-DTSTAMP:20191114T091900
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Fail Better: Career Paths Panel
-END:VEVENT
-BEGIN:VEVENT
-UID:7902@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T160000
-DTEND;TZID=America/Chicago:20191118T160000
-DESCRIPTION:Speakers:\nNichole  Mercier\, PhD\, Asst Vice Chancellor and M
- anaging Director of Office of Technology Management at WashU\nMitchell D'R
- ozario\, PhD\, Medical Science Liaison (MSL) at Genentech & WashU postdoc 
- alum\nRachel Delston\, PhD\, Associate Director at Arch Oncology & WashU p
- ostdoc alum\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
- aspx?EvID=7902
-DTSTAMP:20191114T091800
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Fail Better: Career Paths Panel
-END:VEVENT
-BEGIN:VEVENT
-UID:7461@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191118T161500
-DTEND;TZID=America/Chicago:20191118T161500
-DESCRIPTION:Speakers:\nDr. Laura Solt\, Scripps Research\n\nLink: http://db
- bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7461
-DTSTAMP:20190816T120500
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:Nuclear Receptors and the Regulation of Th17-mediated Inflammation
-END:VEVENT
-BEGIN:VEVENT
 UID:7909@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191119T103000
 DTEND;TZID=America/Chicago:20191119T113000
@@ -772,6 +665,18 @@ LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7910@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191205T120000
+DTEND;TZID=America/Chicago:20191205T130000
+DESCRIPTION:Speakers:\nDr. Benjamin Cravatt\, Ph.D.\, The Scripps Research 
+ Institute\, Department of Chemistry\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=7910
+DTSTAMP:20191119T140935Z
+LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
+SUMMARY:Activity-based proteomics – protein and ligand discovery on a glo
+ bal scale.
+END:VEVENT
+BEGIN:VEVENT
 UID:7531@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191205T160000
 DTEND;TZID=America/Chicago:20191205T170000
@@ -1293,6 +1198,108 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7639@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200226T170000
+DTEND;TZID=America/Chicago:20200226T180000
+DESCRIPTION:Speakers:\nJoseph Carroll\, PhD\, Ruth Works Professor of Ophth
+ almology Professor of Ophthalmology & Visual Sciences\, Biophysics\, and C
+ ell Biology\, Neurobiology and Anatomy Director\, Advanced Ocular Imaging 
+ Program\nMedical College of Wisconsin\n\nLink: http://dbbs.wustl.edu/Resou
+ rces/Pages/calendar_event.aspx?EvID=7639
+DTSTAMP:20190909T105300
+LOCATION:East Pavilion Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7349@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200227T120000
+DTEND;TZID=America/Chicago:20200227T130000
+DESCRIPTION:Speakers:\nDr. Josh Morgan\, Washington University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7349
+DTSTAMP:20190906T091300
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7679@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200227T160000
+DTEND;TZID=America/Chicago:20200227T170000
+DESCRIPTION:Speakers:\nJeanne Nerbonne\, PhD\, Alumni Endowed Professor Dep
+ artments of Medicine and Developmental Biology              
+                                      
+              Director\, Center for Cardiovascular Research\nWa
+ shington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
+ r_event.aspx?EvID=7679
+DTSTAMP:20190917T171000
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7483@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200302T161500
+DTEND;TZID=America/Chicago:20200302T161500
+DESCRIPTION:Speakers:\nDr. Katharine Hsu\, Memorial Sloan Kettering Cancer 
+ Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=7483
+DTSTAMP:20190816T130900
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7333@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200304T120000
+DTEND;TZID=America/Chicago:20200304T130000
+DESCRIPTION:Speakers:\nRobert Burgess\, PhD\, The Jackson Laboratory\n\nDes
+ cription:\nHosted by: Dr. Erik Musiek\n\nLink: http://dbbs.wustl.edu/Resou
+ rces/Pages/calendar_event.aspx?EvID=7333
+DTSTAMP:20190712T141300
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Mouse models of inherited peripheral neuropathy: determining how ho
+ usekeeping genes cause cell-type-specific axon degeneration
+END:VEVENT
+BEGIN:VEVENT
+UID:7351@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200305T120000
+DTEND;TZID=America/Chicago:20200305T130000
+DESCRIPTION:Speakers:\nDr. Chinfei Chen\, Harvard University\n\nLink: http:
+ //dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7351
+DTSTAMP:20190906T091300
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7681@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200305T160000
+DTEND;TZID=America/Chicago:20200305T170000
+DESCRIPTION:Speakers:\nPamela Woodard\, MD\, Hugh Monroe Wilson Professor o
+ f Radiology                     Sr. Vice Chair & Divis
+ ion Direcgtor\, Radiology Research Facilities              
+                                      
+                        Director\, Center for Clinica
+ l Imaging Research (CCIR)                        
+           Head\, Advanced Cardiac Imagin (CT/MR)        
+                                      
+        Mallinckrodt Institute of Radiology             
+                                Washington Un
+ iversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
+ x?EvID=7681
+DTSTAMP:20190917T171000
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7485@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200309T161500
+DTEND;TZID=America/Chicago:20200309T161500
+DESCRIPTION:Speakers:\nDr. Bana Jabri\, University of Chicago\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7485
+DTSTAMP:20190816T131000
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T130000
@@ -1472,6 +1479,18 @@ DESCRIPTION:Speakers:\nJen Phillips\, Associate Professor of Medicine - WUS
 DTSTAMP:20191108T083300
 LOCATION:Children's Hospital 3rd Floor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7910@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191205T120000
+DTEND;TZID=America/Chicago:20191205T130000
+DESCRIPTION:Speakers:\nDr. Benjamin Cravatt\, Ph.D.\, The Scripps Research 
+ Institute\, Department of Chemistry\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=7910
+DTSTAMP:20191119T140938Z
+LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
+SUMMARY:Activity-based proteomics – protein and ligand discovery on a glo
+ bal scale.
 END:VEVENT
 BEGIN:VEVENT
 UID:7531@events.dbbs.wustl
@@ -2503,16 +2522,5 @@ DESCRIPTION:Speakers:\nDr. Haina Shin\, WUSM\nDepartment of Internal Medici
 DTSTAMP:20190816T130200
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7315@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200520T120000
-DTEND;TZID=America/Chicago:20200520T130000
-DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
- tin\n\nDescription:\nHosted by: Dr. Mike Nonet\n\nLink: http://dbbs.wustl.
- edu/Resources/Pages/calendar_event.aspx?EvID=7315
-DTSTAMP:20190712T143000
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Stochastic Mechanisms in Membrane Traffic
 END:VEVENT
 END:VCALENDAR
