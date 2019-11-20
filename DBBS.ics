@@ -34,74 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7909@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191119T103000
-DTEND;TZID=America/Chicago:20191119T113000
-DESCRIPTION:Speakers:\nMadeline Shea\, Ph.D.\, University of Iowa\n\nLink: 
- http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7909
-DTSTAMP:20191115T222500
-LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
-SUMMARY:Calmodulin Choreography on Voltage-Gated Sodium Channels: Allostery
-  in Action
-END:VEVENT
-BEGIN:VEVENT
-UID:7377@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191119T120000
-DTEND;TZID=America/Chicago:20191119T130000
-DESCRIPTION:Speakers:\nDr. Adam Burgener\, Univeristy of Manitoba\n\nLink: 
- http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7377
-DTSTAMP:20191014T121600
-LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
-SUMMARY:The microbiome in mucosal immunity and HIV Transmission
-END:VEVENT
-BEGIN:VEVENT
-UID:7386@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191119T120000
-DTEND;TZID=America/Chicago:20191119T130000
-DESCRIPTION:Speakers:\nHyo-Jong Jeong\, PT\, MS\, PhD candidate\, Movement 
- Science Program\, Physical Therapy Program\, WUSTL\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7386
-DTSTAMP:20190724T085100
-LOCATION:4444 Forest Park Ave.\, Room 1235
-SUMMARY:Foot dysfunction in people with diabetes mellitus and peripheral ne
- uropathy
-END:VEVENT
-BEGIN:VEVENT
-UID:7715@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191119T120000
-DTEND;TZID=America/Chicago:20191119T130000
-DESCRIPTION:Speakers:\nAlex Cammack\, PhD Candidate\, Tim Miller Lab\, Wash
- ington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
- event.aspx?EvID=7715
-DTSTAMP:20190924T095000
-LOCATION:East Pavilion Auditorium
-SUMMARY:Investigating Aberrant Epigenetic Regulation in ALS/FTD
-END:VEVENT
-BEGIN:VEVENT
-UID:7834@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191119T150000
-DTEND;TZID=America/Chicago:20191119T160000
-DESCRIPTION:Speakers:\nMayssa Mokalled\, Ph.D.\, Department of Developmenta
- l Biology\nWashington University School of Medicine\n\nLink: http://dbbs.w
- ustl.edu/Resources/Pages/calendar_event.aspx?EvID=7834
-DTSTAMP:20191028T092900
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Zebrafish inspired approaches for spinal cord repair
-END:VEVENT
-BEGIN:VEVENT
-UID:7735@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191119T153000
-DTEND;TZID=America/Chicago:20191119T170000
-DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Academic Serv
- ices\, The Teaching Center\n\nDescription:\nCPD\; Registration required - 
- https://teachingcenter.wustl.edu/events/creating-\na-teaching-portfolio/\n
- \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=773
- 5
-DTSTAMP:20190927T095400
-LOCATION:The Teaching Center\, Danforth Campus
-SUMMARY:Creating a Teaching Portfolio
-END:VEVENT
-BEGIN:VEVENT
 UID:7371@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191120T120000
 DTEND;TZID=America/Chicago:20191120T130000
@@ -310,8 +242,8 @@ DTEND;TZID=America/Chicago:20191122T100000
 DESCRIPTION:Speakers:\nSumin Kim\, Rita Levi-Montalcini Postdoctoral Fellow
  ship Candidate\, PhD Candidate\, Kyung Hee University\, Korea\n\nLink: htt
  p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7906
-DTSTAMP:20191114T123200
-LOCATION:Couch Research Building 4001B
+DTSTAMP:20191119T082300
+LOCATION:South Building\, Room 3907\, Philip Needleman Library
 SUMMARY:The regulation of microglial activation and establishment of in vit
  ro blood-brain barrier
 END:VEVENT
@@ -410,6 +342,17 @@ DTSTAMP:20191114T123000
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"Evolutionary and Developmental Origins of Sex Differences in Biolo
  gy"
+END:VEVENT
+BEGIN:VEVENT
+UID:7911@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191125T120000
+DTEND;TZID=America/Chicago:20191125T130000
+DESCRIPTION:Speakers:\nBahaa Bedair\, Washington University\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7911
+DTSTAMP:20191120T140934Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Lung Protective Ventilation and Primary Graft Dysfunction in Lun
+ g Transplantation."
 END:VEVENT
 BEGIN:VEVENT
 UID:7463@events.dbbs.wustl
@@ -671,7 +614,7 @@ DTEND;TZID=America/Chicago:20191205T130000
 DESCRIPTION:Speakers:\nDr. Benjamin Cravatt\, Ph.D.\, The Scripps Research 
  Institute\, Department of Chemistry\n\nLink: http://dbbs.wustl.edu/Resourc
  es/Pages/calendar_event.aspx?EvID=7910
-DTSTAMP:20191119T140935Z
+DTSTAMP:20191120T140935Z
 LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
 SUMMARY:Activity-based proteomics – protein and ligand discovery on a glo
  bal scale.
@@ -821,6 +764,18 @@ DESCRIPTION:Speakers:\nDr. Daniel Kerscheinsteiner\, Washington University\
 DTSTAMP:20190906T090800
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7912@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191212T140000
+DTEND;TZID=America/Chicago:20191212T150000
+DESCRIPTION:Speakers:\nRachel Wong\, Immunology Program\nLaboratory of Dr. 
+ Deepta Bhattacharya\nDepartment of Pathology & Immunology\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7912
+DTSTAMP:20191120T140935Z
+LOCATION:Clopton Auditorium - Wohl Clinic
+SUMMARY:Affinity-restricted memory B cells dominate recall responses to het
+ erologous flaviviruses
 END:VEVENT
 BEGIN:VEVENT
 UID:7533@events.dbbs.wustl
@@ -1300,6 +1255,53 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7303@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200312T160000
+DTEND;TZID=America/Chicago:20200312T170000
+DESCRIPTION:Speakers:\nAmita Sehgal\, PhD\, Perelman School of Medicine\, U
+ niversity of Pennsylvania\n\nDescription:\nReception to follow on the EPNE
+ C Mezzanine. Hosted by: Dr. Paul Taghert\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7303
+DTSTAMP:20190726T151600
+LOCATION:Eric P. Newman Education Center-Seminar Room A
+SUMMARY:Interactions of circadian rhythms and sleep with basic physiology
+END:VEVENT
+BEGIN:VEVENT
+UID:7546@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200312T160000
+DTEND;TZID=America/Chicago:20200312T170000
+DESCRIPTION:Speakers:\nDouglas Mashek\, PhD\, Associate Professor of Bioche
+ mistry\, Molecular Biology and Biophysics\nHead\, Division of Metabolic an
+ d System Biology\nUniversity of Minnesota\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7546
+DTSTAMP:20190822T104700
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7486@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200316T161500
+DTEND;TZID=America/Chicago:20200316T161500
+DESCRIPTION:Speakers:\nDr. Mark Anderson\, University of California – San
+  Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.a
+ spx?EvID=7486
+DTSTAMP:20190816T131000
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7304@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200318T120000
+DTEND;TZID=America/Chicago:20200318T130000
+DESCRIPTION:Speakers:\nBosiljka Tasic\, PhD\, Allen Institute for Brain Sci
+ ence\n\nDescription:\nHosted by: Russell Moore and DON Trainees\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7304
+DTSTAMP:20190712T141700
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Cell types of adult mouse cortex and hippocampus
+END:VEVENT
+BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T130000
@@ -1487,7 +1489,7 @@ DTEND;TZID=America/Chicago:20191205T130000
 DESCRIPTION:Speakers:\nDr. Benjamin Cravatt\, Ph.D.\, The Scripps Research 
  Institute\, Department of Chemistry\n\nLink: http://dbbs.wustl.edu/Resourc
  es/Pages/calendar_event.aspx?EvID=7910
-DTSTAMP:20191119T140938Z
+DTSTAMP:20191120T140938Z
 LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
 SUMMARY:Activity-based proteomics – protein and ligand discovery on a glo
  bal scale.
@@ -1637,6 +1639,18 @@ DESCRIPTION:Speakers:\nDr. Daniel Kerscheinsteiner\, Washington University\
 DTSTAMP:20190906T090800
 LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7912@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191212T140000
+DTEND;TZID=America/Chicago:20191212T150000
+DESCRIPTION:Speakers:\nRachel Wong\, Immunology Program\nLaboratory of Dr. 
+ Deepta Bhattacharya\nDepartment of Pathology & Immunology\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7912
+DTSTAMP:20191120T140938Z
+LOCATION:Clopton Auditorium - Wohl Clinic
+SUMMARY:Affinity-restricted memory B cells dominate recall responses to het
+ erologous flaviviruses
 END:VEVENT
 BEGIN:VEVENT
 UID:7533@events.dbbs.wustl
@@ -2510,17 +2524,6 @@ DESCRIPTION:Speakers:\nSaptarsi Haldar\, MD\, Vice President\, Research  
 DTSTAMP:20190822T105200
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7501@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200518T161500
-DTEND;TZID=America/Chicago:20200518T161500
-DESCRIPTION:Speakers:\nDr. Haina Shin\, WUSM\nDepartment of Internal Medici
- ne – Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
- calendar_event.aspx?EvID=7501
-DTSTAMP:20190816T130200
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 END:VCALENDAR
