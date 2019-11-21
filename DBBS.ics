@@ -34,42 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7371@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191120T120000
-DTEND;TZID=America/Chicago:20191120T130000
-DESCRIPTION:Speakers:\nMarlene Cohen\, PhD\, University of Pittsburgh\n\nDe
- scription:\nHosted by: Dr. Camillo Padoa Schioppa\n\nLink: http://dbbs.wus
- tl.edu/Resources/Pages/calendar_event.aspx?EvID=7371
-DTSTAMP:20190718T163800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Linking cognitive changes in sensory responses to perception
-END:VEVENT
-BEGIN:VEVENT
-UID:7822@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191120T140000
-DTEND;TZID=America/Chicago:20191120T160000
-DESCRIPTION:Speakers:\nOmar Delannoy-Bruno\, Molecular Microbiology and Mic
- robial Pathogenesis Program - Lab of Dr. Jeffrey Gordon\n\nLink: http://db
- bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7822
-DTSTAMP:20191022T155000
-LOCATION:Moore Auditorium
-SUMMARY:Effects of microbiota-directed fiber-enriched food prototypes in gn
- otobiotic mice and humans
-END:VEVENT
-BEGIN:VEVENT
-UID:7740@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191120T150000
-DTEND;TZID=America/Chicago:20191120T163000
-DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
- ervices\, The Teaching Center\n\nDescription:\nCPD\; Registration required
-  -\nhttps://teachingcenter.wustl.edu/events/improvisation-in-your-teaching
- -\ndanforth-campus/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calenda
- r_event.aspx?EvID=7740
-DTSTAMP:20190927T101300
-LOCATION:The Teaching Center\, Danforth Campus
-SUMMARY:Improvisation in Your Teaching (Danforth Campus)
-END:VEVENT
-BEGIN:VEVENT
 UID:7826@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191121T090000
 DTEND;TZID=America/Chicago:20191121T090000
@@ -349,7 +313,7 @@ DTSTART;TZID=America/Chicago:20191125T120000
 DTEND;TZID=America/Chicago:20191125T130000
 DESCRIPTION:Speakers:\nBahaa Bedair\, Washington University\n\nLink: http:/
  /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7911
-DTSTAMP:20191120T140934Z
+DTSTAMP:20191120T092300
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:“Lung Protective Ventilation and Primary Graft Dysfunction in Lun
  g Transplantation."
@@ -614,7 +578,7 @@ DTEND;TZID=America/Chicago:20191205T130000
 DESCRIPTION:Speakers:\nDr. Benjamin Cravatt\, Ph.D.\, The Scripps Research 
  Institute\, Department of Chemistry\n\nLink: http://dbbs.wustl.edu/Resourc
  es/Pages/calendar_event.aspx?EvID=7910
-DTSTAMP:20191120T140935Z
+DTSTAMP:20191120T092300
 LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
 SUMMARY:Activity-based proteomics – protein and ligand discovery on a glo
  bal scale.
@@ -643,14 +607,26 @@ SUMMARY:Why Regional Differences in Past and Future Spring-Frost Risk Threa
  ten Europe and Asia More Than North America
 END:VEVENT
 BEGIN:VEVENT
+UID:7914@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191206T090000
+DTEND;TZID=America/Chicago:20191206T100000
+DESCRIPTION:Speakers:\nTimothy Griffin\, PhD\, Aging and Metabolism Researc
+ h Program\nOklahoma Medical Research Foundation\, Oklahoma City\, OK\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7914
+DTSTAMP:20191121T140935Z
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Metabolic Regulation of Joint Tissue Inflammation and Osteoarthriti
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:7881@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191206T140000
 DTEND;TZID=America/Chicago:20191206T140000
-DESCRIPTION:Speakers:\nSmarth Hegde\, Molecular Cell Biology Program\nLabor
- atory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Oncol
- ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
- D=7881
-DTSTAMP:20191111T092400
+DESCRIPTION:Speakers:\nSamarth Hegde\, Molecular Cell Biology Program\nLabo
+ ratory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Onco
+ logy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=7881
+DTSTAMP:20191120T112900
 LOCATION:Eric P. Newman Education Center-Seminar Room A
 SUMMARY:T cell immunity in pancreatic cancer is undermined due to dendritic
   cell dysfunction
@@ -684,6 +660,18 @@ DESCRIPTION:Speakers:\nManu Goyal\, MD\, MSc\, WashU Radiology\nJoseph Ippo
 DTSTAMP:20191114T123100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7913@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191209T120000
+DTEND;TZID=America/Chicago:20191209T130000
+DESCRIPTION:Speakers:\nMargaret M. McCarthy\, PhD\, James & Carolyn Frenkil
+  Endowed Dean’s Professor Professor and Chair of the Department of Pharm
+ acology\nUniversity of Maryland School of Medicine\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7913
+DTSTAMP:20191121T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Immune Origins of Sex Differences in the Brain
 END:VEVENT
 BEGIN:VEVENT
 UID:7846@events.dbbs.wustl
@@ -772,7 +760,7 @@ DTEND;TZID=America/Chicago:20191212T150000
 DESCRIPTION:Speakers:\nRachel Wong\, Immunology Program\nLaboratory of Dr. 
  Deepta Bhattacharya\nDepartment of Pathology & Immunology\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7912
-DTSTAMP:20191120T140935Z
+DTSTAMP:20191120T090400
 LOCATION:Clopton Auditorium - Wohl Clinic
 SUMMARY:Affinity-restricted memory B cells dominate recall responses to het
  erologous flaviviruses
@@ -1302,6 +1290,23 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Cell types of adult mouse cortex and hippocampus
 END:VEVENT
 BEGIN:VEVENT
+UID:7682@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200319T160000
+DTEND;TZID=America/Chicago:20200319T170000
+DESCRIPTION:Speakers:\nCarey Lumeng\, MD\, PhD\, Frederick G.L. Huetwell Pr
+ ofessor for the Cure and Prevention of  Birth Defects          
+                                      
+                                  Associate
+  Professor\nDepartment of Pediatrics                   
+                                      
+      University of Michigan Medical School\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7682
+DTSTAMP:20190917T171000
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T130000
@@ -1489,7 +1494,7 @@ DTEND;TZID=America/Chicago:20191205T130000
 DESCRIPTION:Speakers:\nDr. Benjamin Cravatt\, Ph.D.\, The Scripps Research 
  Institute\, Department of Chemistry\n\nLink: http://dbbs.wustl.edu/Resourc
  es/Pages/calendar_event.aspx?EvID=7910
-DTSTAMP:20191120T140938Z
+DTSTAMP:20191120T092300
 LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
 SUMMARY:Activity-based proteomics – protein and ligand discovery on a glo
  bal scale.
@@ -1518,14 +1523,26 @@ SUMMARY:Why Regional Differences in Past and Future Spring-Frost Risk Threa
  ten Europe and Asia More Than North America
 END:VEVENT
 BEGIN:VEVENT
+UID:7914@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191206T090000
+DTEND;TZID=America/Chicago:20191206T100000
+DESCRIPTION:Speakers:\nTimothy Griffin\, PhD\, Aging and Metabolism Researc
+ h Program\nOklahoma Medical Research Foundation\, Oklahoma City\, OK\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7914
+DTSTAMP:20191121T140938Z
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Metabolic Regulation of Joint Tissue Inflammation and Osteoarthriti
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:7881@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191206T140000
 DTEND;TZID=America/Chicago:20191206T140000
-DESCRIPTION:Speakers:\nSmarth Hegde\, Molecular Cell Biology Program\nLabor
- atory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Oncol
- ogy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
- D=7881
-DTSTAMP:20191111T092400
+DESCRIPTION:Speakers:\nSamarth Hegde\, Molecular Cell Biology Program\nLabo
+ ratory of Dr. David DeNardo\nInternal Medicine\, Divison of Molecular Onco
+ logy\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?Ev
+ ID=7881
+DTSTAMP:20191120T112900
 LOCATION:Eric P. Newman Education Center-Seminar Room A
 SUMMARY:T cell immunity in pancreatic cancer is undermined due to dendritic
   cell dysfunction
@@ -1559,6 +1576,18 @@ DESCRIPTION:Speakers:\nManu Goyal\, MD\, MSc\, WashU Radiology\nJoseph Ippo
 DTSTAMP:20191114T123100
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7913@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191209T120000
+DTEND;TZID=America/Chicago:20191209T130000
+DESCRIPTION:Speakers:\nMargaret M. McCarthy\, PhD\, James & Carolyn Frenkil
+  Endowed Dean’s Professor Professor and Chair of the Department of Pharm
+ acology\nUniversity of Maryland School of Medicine\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7913
+DTSTAMP:20191121T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Immune Origins of Sex Differences in the Brain
 END:VEVENT
 BEGIN:VEVENT
 UID:7846@events.dbbs.wustl
@@ -1647,7 +1676,7 @@ DTEND;TZID=America/Chicago:20191212T150000
 DESCRIPTION:Speakers:\nRachel Wong\, Immunology Program\nLaboratory of Dr. 
  Deepta Bhattacharya\nDepartment of Pathology & Immunology\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7912
-DTSTAMP:20191120T140938Z
+DTSTAMP:20191120T090400
 LOCATION:Clopton Auditorium - Wohl Clinic
 SUMMARY:Affinity-restricted memory B cells dominate recall responses to het
  erologous flaviviruses
@@ -2493,37 +2522,5 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:Novel insights into the molecular and cellular mechanism regulating
   of cholesterol metabolism and atherosclerosis
-END:VEVENT
-BEGIN:VEVENT
-UID:7314@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200513T120000
-DTEND;TZID=America/Chicago:20200513T130000
-DESCRIPTION:Speakers:\nMichael Platt\, PhD\, Perelman School of Medicine Un
- iversity of Pennsylvania\n\nDescription:\nHosted by: Dr. Kari Allen\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7314
-DTSTAMP:20190712T142900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Monkey Business: Modeling the Biology of Complex Human Social Decis
- ions
-END:VEVENT
-BEGIN:VEVENT
-UID:7555@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200514T160000
-DTEND;TZID=America/Chicago:20200514T170000
-DESCRIPTION:Speakers:\nSaptarsi Haldar\, MD\, Vice President\, Research  
-                                      
-                       Head\, Cardiometabolic Disorder
- s                                    
-            Amgen                        
-                                      
-                         Visiting Professor of Medic
- ine\, UCSF School of Medicine                      
-                                      
-       Visiting Faculty\, Gladstone Institutes\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7555
-DTSTAMP:20190822T105200
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
 END:VEVENT
 END:VCALENDAR
