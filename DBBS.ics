@@ -34,92 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7891@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191125T090000
-DTEND;TZID=America/Chicago:20191125T100000
-DESCRIPTION:Speakers:\nTamrat Mamo PhD\, Rita Levi-Montalcini postdoctoral 
- fellowship finalist\, Hanover Medical School\n\nLink: http://dbbs.wustl.ed
- u/Resources/Pages/calendar_event.aspx?EvID=7891
-DTSTAMP:20191112T141400
-LOCATION:Couch Research Building 4001B
-SUMMARY:BMP4 signaling in the mouse ureter development
-END:VEVENT
-BEGIN:VEVENT
-UID:7887@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191125T120000
-DTEND;TZID=America/Chicago:20191125T130000
-DESCRIPTION:Speakers:\nSergiu Pasca\, Stanford University\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7887
-DTSTAMP:20191112T141300
-LOCATION:Needleman Library\, Cnf Room 3907
-SUMMARY:"Assembling tridimensional models of the human brain to study devel
- opment and disease"
-END:VEVENT
-BEGIN:VEVENT
-UID:7895@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191125T120000
-DTEND;TZID=America/Chicago:20191125T130000
-DESCRIPTION:Speakers:\nJoshua Rubin\, MD\, PhD\, WashU Pediatrics\n\nDescri
- ption:\nMini-series: Sex differences in disease Organizer\, Josh Rubin (Wa
- shU\nPediatrics) November 25: Joshua Rubin (WashU Pediatrics) December 2: 
- Trainee\nTalks December 9: Manu Goyal (WashU Radiology)\, Joseph Ippolito 
- (WashU\nRadiology) December 16: John Constantino (WashU Psychiatry)\, Joe 
- Dougherty\n(WashU Genetics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages
- /calendar_event.aspx?EvID=7895
-DTSTAMP:20191114T123000
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:"Evolutionary and Developmental Origins of Sex Differences in Biolo
- gy"
-END:VEVENT
-BEGIN:VEVENT
-UID:7911@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191125T120000
-DTEND;TZID=America/Chicago:20191125T130000
-DESCRIPTION:Speakers:\nBahaa Bedair\, Washington University\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7911
-DTSTAMP:20191120T092300
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:“Lung Protective Ventilation and Primary Graft Dysfunction in Lun
- g Transplantation."
-END:VEVENT
-BEGIN:VEVENT
-UID:7463@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191125T161500
-DTEND;TZID=America/Chicago:20191125T161500
-DESCRIPTION:Speakers:\nDr. Mary Dinauer\, WUSM\nDepartment of Pediatrics 
- – Hematology/Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
- endar_event.aspx?EvID=7463
-DTSTAMP:20191029T152800
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:The Leukocyte NADPH oxidase: A Balancing Act
-END:VEVENT
-BEGIN:VEVENT
-UID:7824@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191125T171500
-DTEND;TZID=America/Chicago:20191125T181500
-DESCRIPTION:Speakers:\nDavid E. Albert\, MD\, Founder and Chief Medical Off
- icer\nAliveCor Inc.\n\nDescription:\nDavid E. Albert\, MD\, is a physician
- \, inventor and serial entrepreneur who has\ndeveloped medical and other l
- ife-saving technologies and products over the\nlast 35 years\, turning a n
- umber of those innovations into tech startups. He is\na founder of AliveCo
- r Inc. and the inventor of AliveCor® Kardia™. His previous\nstartups in
- clude Corazonix Corp (sold to Arrhythmia Research Technology) and\nData Cr
- itical (sold to GE). Dr. Albert’s presentation will cover the NEW era\no
- f computerized ECG analysis based on machine learning and Deep Neural\nNet
- works\, as these tools enable the detection of conditions and pathologies\
- nthat experts cannot see! See Dr. Albert's: Abstract | Biography | Profile
-  |\nFlyer Refreshments will be served. NOTE: Parking is available outside 
- of\nWhitaker Hall in the new East End Garage. Parking ramps are free of ch
- arge\nafter 5 pm click here for the map. If taking the subway\, the neares
- t metrolink\nstop is Skinker. See map: http://cbac.wustl.edu/Seminars/MAP3
- .pdf *Please\ncontact Huyen (Gwen) Nguyen at hbnguyen@wustl.edu for more i
- nformation**\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
- .aspx?EvID=7824
-DTSTAMP:20191022T154900
-LOCATION:Danforth Campus\, Whitaker Hall\, Room 218
-SUMMARY:CBAC Seminar - ECGI AI in 2019: The Power to See the Invisible
-END:VEVENT
-BEGIN:VEVENT
 UID:7916@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191126T100000
 DTEND;TZID=America/Chicago:20191126T120000
@@ -254,6 +168,16 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Science Communication Career Panel
 END:VEVENT
 BEGIN:VEVENT
+UID:7925@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191203T103000
+DTEND;TZID=America/Chicago:20191203T113000
+DESCRIPTION:Speakers:\nDr. Justin Sparks\, Harvard Medical School\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7925
+DTSTAMP:20191126T140933Z
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:A surprising mechanism of DNA replication-coupled repair
+END:VEVENT
+BEGIN:VEVENT
 UID:7387@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191203T120000
 DTEND;TZID=America/Chicago:20191203T130000
@@ -344,7 +268,7 @@ DTEND;TZID=America/Chicago:20191205T103000
 DESCRIPTION:Speakers:\nSamantha Adamson\, MD\, PhD\, Washington University\
  n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=79
  17
-DTSTAMP:20191125T140934Z
+DTSTAMP:20191125T085400
 LOCATION:728 Southwest Tower
 SUMMARY:TBA
 END:VEVENT
@@ -355,7 +279,7 @@ DTEND;TZID=America/Chicago:20191205T113000
 DESCRIPTION:Speakers:\nMichael J. Wolfgang\, PhD\, Associate Professor of B
  iological Chemistry\nJohns Hopkins University\n\nLink: http://dbbs.wustl.e
  du/Resources/Pages/calendar_event.aspx?EvID=7915
-DTSTAMP:20191125T140934Z
+DTSTAMP:20191125T085400
 LOCATION:728 Southwest Tower
 SUMMARY:Hepatic Lipid Signaling and Metabolism in Diabetes and Obesity
 END:VEVENT
@@ -376,9 +300,10 @@ DTEND;TZID=America/Chicago:20191205T125000
 DESCRIPTION:Speakers:\nJen Phillips\, Associate Professor of Medicine - WUS
  TL\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
  =7873
-DTSTAMP:20191108T083300
+DTSTAMP:20191125T142900
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Hijacking the host: how Mycobacterium tuberculosis subverts immunit
+ y
 END:VEVENT
 BEGIN:VEVENT
 UID:7910@events.dbbs.wustl
@@ -426,6 +351,18 @@ DTSTAMP:20191121T120100
 LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Metabolic Regulation of Joint Tissue Inflammation and Osteoarthriti
  s
+END:VEVENT
+BEGIN:VEVENT
+UID:7924@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191206T120000
+DTEND;TZID=America/Chicago:20191206T130000
+DESCRIPTION:Speakers:\nBrian Finck\, PhD\, Associate Professor of Medicine\
+ nDivision of Geriatrics & Nutritional Science\nWashington University\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7924
+DTSTAMP:20191125T142900
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Targeting Intermediary Metabolism to Understand and Treat Nonalcoho
+ lic Fatty Liver Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7881@events.dbbs.wustl
@@ -490,7 +427,7 @@ DESCRIPTION:Speakers:\nJohn Dean\, Program in Molecular Cell Biology\nLabor
  atory of Dr. Irfan Lodhi\nDepartment of Internal Medicine\nDivision of End
  ocrinology/Metabolism\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
  dar_event.aspx?EvID=7923
-DTSTAMP:20191125T140934Z
+DTSTAMP:20191125T085300
 LOCATION:Eric P. Newman Education Center-Seminar Room A
 SUMMARY:Transcriptional regulation of adipose tissue development
 END:VEVENT
@@ -721,22 +658,12 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:7918@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T120000
-DTEND;TZID=America/Chicago:20200114T130000
-DESCRIPTION:Speakers:\nDr. Floyd Wormley\, Texas Christian University\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7918
-DTSTAMP:20191125T140935Z
-LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
-SUMMARY:Induction of Protective Immunity Against Pulmonary Cryptococcosis
-END:VEVENT
-BEGIN:VEVENT
 UID:7919@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200114T120000
 DTEND;TZID=America/Chicago:20200114T130000
 DESCRIPTION:Speakers:\nDr. Floyd Wormley\, Texas Christian University\n\nLi
  nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7919
-DTSTAMP:20191125T140935Z
+DTSTAMP:20191125T085300
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:Induction of Protective Immunity Against Pulmonary Cryptococcosis
 END:VEVENT
@@ -794,7 +721,7 @@ DTEND;TZID=America/Chicago:20200121T130000
 DESCRIPTION:Speakers:\nDr. James Cassat\, Vanderbilt University Medical Cen
  ter\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
  D=7920
-DTSTAMP:20191125T140936Z
+DTSTAMP:20191125T085300
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:Bone appetite: Host-pathogen interactions during osteomyelitis
 END:VEVENT
@@ -854,7 +781,7 @@ DTEND;TZID=America/Chicago:20200128T130000
 DESCRIPTION:Speakers:\nDr. Beth McCormick\, University of Massachusetts Med
  ical School\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
  aspx?EvID=7921
-DTSTAMP:20191125T140936Z
+DTSTAMP:20191125T085300
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:The ABC's of Microbial Regulation of Lipid Immuno-modulators in Int
  estinal Health and Disease.
@@ -1261,6 +1188,64 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7310@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200408T120000
+DTEND;TZID=America/Chicago:20200408T130000
+DESCRIPTION:Speakers:\nCasper Hoogenraad\, PhD\, Utrecht University\n\nDesc
+ ription:\nHosted by: Drs. Valeria Cavalli and Mike Nonet\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7310
+DTSTAMP:20190712T142900
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Mechanisms of neuronal polarity: cytoskeleton remodeling and cargo 
+ sorting
+END:VEVENT
+BEGIN:VEVENT
+UID:7356@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200409T120000
+DTEND;TZID=America/Chicago:20200409T130000
+DESCRIPTION:Speakers:\nDr. Michael Anderson\, University of Iowa\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7356
+DTSTAMP:20190906T091400
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7550@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200409T160000
+DTEND;TZID=America/Chicago:20200409T170000
+DESCRIPTION:Speakers:\nColeen McNamara\, MD\, Frances Myers Ball Professor 
+ of Medicine\, Cardiovascular Division                  
+                                      
+      University of Virginia\n\nLink: http://dbbs.wustl.edu/Resources/P
+ ages/calendar_event.aspx?EvID=7550
+DTSTAMP:20190822T105100
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7494@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200413T161500
+DTEND;TZID=America/Chicago:20200413T161500
+DESCRIPTION:Speakers:\nDr. Michael Holtzman\, WUSM\nDepartment of Internal 
+ Medicine - Pulmonary & Critical Care\n\nLink: http://dbbs.wustl.edu/Resour
+ ces/Pages/calendar_event.aspx?EvID=7494
+DTSTAMP:20190816T131100
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7312@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200415T120000
+DTEND;TZID=America/Chicago:20200415T130000
+DESCRIPTION:Speakers:\nSandeep Robert Datta\, MD\, PhD\, Harvard Medical Sc
+ hool\n\nDescription:\nHosted by: Dr. Ahmad Jezzini and DON Trainees\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7312
+DTSTAMP:20190712T142900
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Systematic representations for olfaction and action in cortex
+END:VEVENT
+BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T130000
@@ -1347,6 +1332,16 @@ DESCRIPTION:Speakers:\nEmma Young\, St. Louis Public Radio\nDeborah Frank\,
 DTSTAMP:20191122T142400
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Science Communication Career Panel
+END:VEVENT
+BEGIN:VEVENT
+UID:7925@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191203T103000
+DTEND;TZID=America/Chicago:20191203T113000
+DESCRIPTION:Speakers:\nDr. Justin Sparks\, Harvard Medical School\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7925
+DTSTAMP:20191126T140937Z
+LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
+SUMMARY:A surprising mechanism of DNA replication-coupled repair
 END:VEVENT
 BEGIN:VEVENT
 UID:7387@events.dbbs.wustl
@@ -1439,7 +1434,7 @@ DTEND;TZID=America/Chicago:20191205T103000
 DESCRIPTION:Speakers:\nSamantha Adamson\, MD\, PhD\, Washington University\
  n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=79
  17
-DTSTAMP:20191125T140938Z
+DTSTAMP:20191125T085400
 LOCATION:728 Southwest Tower
 SUMMARY:TBA
 END:VEVENT
@@ -1450,7 +1445,7 @@ DTEND;TZID=America/Chicago:20191205T113000
 DESCRIPTION:Speakers:\nMichael J. Wolfgang\, PhD\, Associate Professor of B
  iological Chemistry\nJohns Hopkins University\n\nLink: http://dbbs.wustl.e
  du/Resources/Pages/calendar_event.aspx?EvID=7915
-DTSTAMP:20191125T140938Z
+DTSTAMP:20191125T085400
 LOCATION:728 Southwest Tower
 SUMMARY:Hepatic Lipid Signaling and Metabolism in Diabetes and Obesity
 END:VEVENT
@@ -1471,9 +1466,10 @@ DTEND;TZID=America/Chicago:20191205T125000
 DESCRIPTION:Speakers:\nJen Phillips\, Associate Professor of Medicine - WUS
  TL\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
  =7873
-DTSTAMP:20191108T083300
+DTSTAMP:20191125T142900
 LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:TBA
+SUMMARY:Hijacking the host: how Mycobacterium tuberculosis subverts immunit
+ y
 END:VEVENT
 BEGIN:VEVENT
 UID:7910@events.dbbs.wustl
@@ -1521,6 +1517,18 @@ DTSTAMP:20191121T120100
 LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Metabolic Regulation of Joint Tissue Inflammation and Osteoarthriti
  s
+END:VEVENT
+BEGIN:VEVENT
+UID:7924@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191206T120000
+DTEND;TZID=America/Chicago:20191206T130000
+DESCRIPTION:Speakers:\nBrian Finck\, PhD\, Associate Professor of Medicine\
+ nDivision of Geriatrics & Nutritional Science\nWashington University\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7924
+DTSTAMP:20191125T142900
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Targeting Intermediary Metabolism to Understand and Treat Nonalcoho
+ lic Fatty Liver Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:7881@events.dbbs.wustl
@@ -1585,7 +1593,7 @@ DESCRIPTION:Speakers:\nJohn Dean\, Program in Molecular Cell Biology\nLabor
  atory of Dr. Irfan Lodhi\nDepartment of Internal Medicine\nDivision of End
  ocrinology/Metabolism\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
  dar_event.aspx?EvID=7923
-DTSTAMP:20191125T140938Z
+DTSTAMP:20191125T085300
 LOCATION:Eric P. Newman Education Center-Seminar Room A
 SUMMARY:Transcriptional regulation of adipose tissue development
 END:VEVENT
@@ -1816,22 +1824,12 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:7918@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T120000
-DTEND;TZID=America/Chicago:20200114T130000
-DESCRIPTION:Speakers:\nDr. Floyd Wormley\, Texas Christian University\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7918
-DTSTAMP:20191125T140938Z
-LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
-SUMMARY:Induction of Protective Immunity Against Pulmonary Cryptococcosis
-END:VEVENT
-BEGIN:VEVENT
 UID:7919@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200114T120000
 DTEND;TZID=America/Chicago:20200114T130000
 DESCRIPTION:Speakers:\nDr. Floyd Wormley\, Texas Christian University\n\nLi
  nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7919
-DTSTAMP:20191125T140938Z
+DTSTAMP:20191125T085300
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:Induction of Protective Immunity Against Pulmonary Cryptococcosis
 END:VEVENT
@@ -1889,7 +1887,7 @@ DTEND;TZID=America/Chicago:20200121T130000
 DESCRIPTION:Speakers:\nDr. James Cassat\, Vanderbilt University Medical Cen
  ter\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
  D=7920
-DTSTAMP:20191125T140939Z
+DTSTAMP:20191125T085300
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:Bone appetite: Host-pathogen interactions during osteomyelitis
 END:VEVENT
@@ -1949,7 +1947,7 @@ DTEND;TZID=America/Chicago:20200128T130000
 DESCRIPTION:Speakers:\nDr. Beth McCormick\, University of Massachusetts Med
  ical School\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
  aspx?EvID=7921
-DTSTAMP:20191125T140939Z
+DTSTAMP:20191125T085300
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:The ABC's of Microbial Regulation of Lipid Immuno-modulators in Int
  estinal Health and Disease.
@@ -2459,17 +2457,5 @@ DESCRIPTION:Speakers:\nMark Wu\, MD\, PhD\, Johns Hopkins University\n\nDes
 DTSTAMP:20190806T094600
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Circadian Regulation of Sleep and Arousal in Flies and Mice
-END:VEVENT
-BEGIN:VEVENT
-UID:7373@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200423T110000
-DTEND;TZID=America/Chicago:20200423T120000
-DESCRIPTION:Speakers:\nAndreas Lüthi\, PhD\, Friedrich Miescher Institute 
- for Biomedical Research\n\nDescription:\nHosted by: Dr. Andreas Burkhalter
- \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7
- 373
-DTSTAMP:20190718T163400
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Dynamic encoding of behavioral states in amygdala circuits
 END:VEVENT
 END:VCALENDAR
