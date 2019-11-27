@@ -34,52 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7916@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191126T100000
-DTEND;TZID=America/Chicago:20191126T120000
-DESCRIPTION:Speakers:\nMs. Kayla Nicole Berry\, MSTP- Immunology Program- L
- ab of Dr. Thomas Brett\, Department of Internal Medicine\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7916
-DTSTAMP:20191122T092900
-LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:Potentiation of TMEM16A Currents by CLCA1 in Cystic Fibrosis Airway
-END:VEVENT
-BEGIN:VEVENT
-UID:7395@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191126T120000
-DTEND;TZID=America/Chicago:20191126T130000
-DESCRIPTION:Speakers:\nDr. Victoria D'Souza\, Harvard\n\nLink: http://dbbs.
- wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7395
-DTSTAMP:20191014T124200
-LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
-SUMMARY:Structures of the HIV genome: Insights into regulation of reverse t
- ranscription\, transcription and translation.
-END:VEVENT
-BEGIN:VEVENT
-UID:7716@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191126T120000
-DTEND;TZID=America/Chicago:20191126T130000
-DESCRIPTION:Speakers:\nBrad Racette\, MD\, Professor and Executive Vice-Cha
- irman of Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/
- Resources/Pages/calendar_event.aspx?EvID=7716
-DTSTAMP:20190924T095000
-LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7739@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191126T120000
-DTEND;TZID=America/Chicago:20191126T130000
-DESCRIPTION:Speakers:\nDr. Denise Leonard\, Associate Director\, Academic S
- ervices\, The Teaching Center\n\nDescription:\nCPD\; Registration required
-  -\nhttps://teachingcenter.wustl.edu/events/understanding-and-addressing-\
- nmicroaggressions-in-the-classroom/\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7739
-DTSTAMP:20190927T101300
-LOCATION:The Teaching Center\, Danforth Campus
-SUMMARY:Understanding and Addressing Microaggressions in the Classroom
-END:VEVENT
-BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T130000
@@ -104,6 +58,40 @@ DESCRIPTION:Speakers:\nTrainee Talks\, WashU\n\nDescription:\nMini-series:
 DTSTAMP:20191114T123000
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7928@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T120000
+DTEND;TZID=America/Chicago:20191202T123000
+DESCRIPTION:Speakers:\nAmit Bery\, Washington University\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7928
+DTSTAMP:20191127T140933Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Sterile Inflammation After Lung Transplantation.”
+END:VEVENT
+BEGIN:VEVENT
+UID:7929@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T123000
+DTEND;TZID=America/Chicago:20191202T130000
+DESCRIPTION:Speakers:\nDaniel Reynolds\, Washington University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7929
+DTSTAMP:20191127T140933Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Assessing the immunological response to severe influenza infecti
+ on.”
+END:VEVENT
+BEGIN:VEVENT
+UID:7930@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T130000
+DTEND;TZID=America/Chicago:20191202T140000
+DESCRIPTION:Speakers:\nMark S. Shapiro\, PhD\, Professor\nDepartment of Cel
+ lular and Integrative Physiology\nNeuroscience ProgramUniversity of Texas 
+ Health Science Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7930
+DTSTAMP:20191127T140933Z
+LOCATION:BJC-Institute of Health\, West Seminar Room (9th Floor)
+SUMMARY:"Deciphering the Regulation and Molecular Interplay Among Ion Chann
+ els Critical to Function in Brain and Peripheral Nerve"
 END:VEVENT
 BEGIN:VEVENT
 UID:7845@events.dbbs.wustl
@@ -173,7 +161,7 @@ DTSTART;TZID=America/Chicago:20191203T103000
 DTEND;TZID=America/Chicago:20191203T113000
 DESCRIPTION:Speakers:\nDr. Justin Sparks\, Harvard Medical School\n\nLink: 
  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7925
-DTSTAMP:20191126T140933Z
+DTSTAMP:20191126T085500
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:A surprising mechanism of DNA replication-coupled repair
 END:VEVENT
@@ -836,6 +824,17 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7931@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200204T120000
+DTEND;TZID=America/Chicago:20200204T130000
+DESCRIPTION:Speakers:\nDr. Sarah Stanley\, Infectious Diseases and Vaccinol
+ ogy\nUniversity of California\, Berkeley\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7931
+DTSTAMP:20191127T140936Z
+LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
+SUMMARY:Metabolic regulation of M. tuberculosis infection
+END:VEVENT
+BEGIN:VEVENT
 UID:7344@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200206T120000
 DTEND;TZID=America/Chicago:20200206T130000
@@ -1272,6 +1271,40 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7928@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T120000
+DTEND;TZID=America/Chicago:20191202T123000
+DESCRIPTION:Speakers:\nAmit Bery\, Washington University\n\nLink: http://db
+ bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7928
+DTSTAMP:20191127T140938Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Sterile Inflammation After Lung Transplantation.”
+END:VEVENT
+BEGIN:VEVENT
+UID:7929@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T123000
+DTEND;TZID=America/Chicago:20191202T130000
+DESCRIPTION:Speakers:\nDaniel Reynolds\, Washington University\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7929
+DTSTAMP:20191127T140938Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:“Assessing the immunological response to severe influenza infecti
+ on.”
+END:VEVENT
+BEGIN:VEVENT
+UID:7930@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191202T130000
+DTEND;TZID=America/Chicago:20191202T140000
+DESCRIPTION:Speakers:\nMark S. Shapiro\, PhD\, Professor\nDepartment of Cel
+ lular and Integrative Physiology\nNeuroscience ProgramUniversity of Texas 
+ Health Science Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7930
+DTSTAMP:20191127T140938Z
+LOCATION:BJC-Institute of Health\, West Seminar Room (9th Floor)
+SUMMARY:"Deciphering the Regulation and Molecular Interplay Among Ion Chann
+ els Critical to Function in Brain and Peripheral Nerve"
+END:VEVENT
+BEGIN:VEVENT
 UID:7845@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191202T160000
 DTEND;TZID=America/Chicago:20191202T160000
@@ -1339,7 +1372,7 @@ DTSTART;TZID=America/Chicago:20191203T103000
 DTEND;TZID=America/Chicago:20191203T113000
 DESCRIPTION:Speakers:\nDr. Justin Sparks\, Harvard Medical School\n\nLink: 
  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7925
-DTSTAMP:20191126T140937Z
+DTSTAMP:20191126T085500
 LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
 SUMMARY:A surprising mechanism of DNA replication-coupled repair
 END:VEVENT
@@ -2002,6 +2035,17 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7931@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200204T120000
+DTEND;TZID=America/Chicago:20200204T130000
+DESCRIPTION:Speakers:\nDr. Sarah Stanley\, Infectious Diseases and Vaccinol
+ ogy\nUniversity of California\, Berkeley\n\nLink: http://dbbs.wustl.edu/Re
+ sources/Pages/calendar_event.aspx?EvID=7931
+DTSTAMP:20191127T140940Z
+LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
+SUMMARY:Metabolic regulation of M. tuberculosis infection
+END:VEVENT
+BEGIN:VEVENT
 UID:7344@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200206T120000
 DTEND;TZID=America/Chicago:20200206T130000
@@ -2410,52 +2454,5 @@ DESCRIPTION:Speakers:\nSandeep Robert Datta\, MD\, PhD\, Harvard Medical Sc
 DTSTAMP:20190712T142900
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Systematic representations for olfaction and action in cortex
-END:VEVENT
-BEGIN:VEVENT
-UID:7551@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200416T000000
-DTEND;TZID=America/Chicago:20200416T235900
-DESCRIPTION:Speakers:\nCalum Macrae\, MD\, PhD\, Vice Chair\, Scientific In
- novation Department of Medicine\, Brigham and Women's Hospital      
-                                      
-                         Harvard Medical School\n\nD
- escription:\nGrand Rounds 8am in Clopton Auditorium and CCR Seminar Series
-  4-5pm in CSRB-\nNTA 801\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
- lendar_event.aspx?EvID=7551
-DTSTAMP:20190822T105100
-LOCATION:Clopton Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7358@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200416T170000
-DTEND;TZID=America/Chicago:20200416T180000
-DESCRIPTION:Speakers:\nDr. Seth Blackshaw\, Johns Hopkins\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7358
-DTSTAMP:20191014T155200
-LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7496@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200420T161500
-DTEND;TZID=America/Chicago:20200420T161500
-DESCRIPTION:Speakers:\nDr. Antonio Lanzavecchia\, ETH Zurich - Institute fo
- r Research in Biomedicine\n\nDescription:\nLacy Lecture\n\nLink: http://db
- bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7496
-DTSTAMP:20190816T130300
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7412@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200422T120000
-DTEND;TZID=America/Chicago:20200422T130000
-DESCRIPTION:Speakers:\nMark Wu\, MD\, PhD\, Johns Hopkins University\n\nDes
- cription:\nHosted by: Dr. Paul Taghert\n\nLink: http://dbbs.wustl.edu/Reso
- urces/Pages/calendar_event.aspx?EvID=7412
-DTSTAMP:20190806T094600
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Circadian Regulation of Sleep and Arousal in Flies and Mice
 END:VEVENT
 END:VCALENDAR
