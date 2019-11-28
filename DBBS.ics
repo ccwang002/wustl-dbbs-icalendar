@@ -65,7 +65,7 @@ DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T123000
 DESCRIPTION:Speakers:\nAmit Bery\, Washington University\n\nLink: http://db
  bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7928
-DTSTAMP:20191127T140933Z
+DTSTAMP:20191127T092400
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:“Sterile Inflammation After Lung Transplantation.”
 END:VEVENT
@@ -75,7 +75,7 @@ DTSTART;TZID=America/Chicago:20191202T123000
 DTEND;TZID=America/Chicago:20191202T130000
 DESCRIPTION:Speakers:\nDaniel Reynolds\, Washington University\n\nLink: htt
  p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7929
-DTSTAMP:20191127T140933Z
+DTSTAMP:20191127T092400
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:“Assessing the immunological response to severe influenza infecti
  on.”
@@ -88,7 +88,7 @@ DESCRIPTION:Speakers:\nMark S. Shapiro\, PhD\, Professor\nDepartment of Cel
  lular and Integrative Physiology\nNeuroscience ProgramUniversity of Texas 
  Health Science Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
  dar_event.aspx?EvID=7930
-DTSTAMP:20191127T140933Z
+DTSTAMP:20191127T092400
 LOCATION:BJC-Institute of Health\, West Seminar Room (9th Floor)
 SUMMARY:"Deciphering the Regulation and Molecular Interplay Among Ion Chann
  els Critical to Function in Brain and Peripheral Nerve"
@@ -529,6 +529,17 @@ SUMMARY:Targeting the Arterial Tree in Heart Failure with Preserved Ejectio
  n Fraction
 END:VEVENT
 BEGIN:VEVENT
+UID:7932@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191212T160000
+DTEND;TZID=America/Chicago:20191212T170000
+DESCRIPTION:Speakers:\nAmber Stratman\, PhD\, Assistant Professor\nCell Bio
+ logy and Physiology\nWashington University School of Medicine\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7932
+DTSTAMP:20191128T140935Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Hemodynamic Regulation of Vascular Development
+END:VEVENT
+BEGIN:VEVENT
 UID:7699@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191213T120000
 DTEND;TZID=America/Chicago:20191213T133000
@@ -830,7 +841,7 @@ DTEND;TZID=America/Chicago:20200204T130000
 DESCRIPTION:Speakers:\nDr. Sarah Stanley\, Infectious Diseases and Vaccinol
  ogy\nUniversity of California\, Berkeley\n\nLink: http://dbbs.wustl.edu/Re
  sources/Pages/calendar_event.aspx?EvID=7931
-DTSTAMP:20191127T140936Z
+DTSTAMP:20191127T092400
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:Metabolic regulation of M. tuberculosis infection
 END:VEVENT
@@ -1232,17 +1243,6 @@ DESCRIPTION:Speakers:\nDr. Michael Holtzman\, WUSM\nDepartment of Internal
 DTSTAMP:20190816T131100
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7312@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200415T120000
-DTEND;TZID=America/Chicago:20200415T130000
-DESCRIPTION:Speakers:\nSandeep Robert Datta\, MD\, PhD\, Harvard Medical Sc
- hool\n\nDescription:\nHosted by: Dr. Ahmad Jezzini and DON Trainees\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7312
-DTSTAMP:20190712T142900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Systematic representations for olfaction and action in cortex
 END:VEVENT
 BEGIN:VEVENT
 UID:7888@events.dbbs.wustl
@@ -1276,7 +1276,7 @@ DTSTART;TZID=America/Chicago:20191202T120000
 DTEND;TZID=America/Chicago:20191202T123000
 DESCRIPTION:Speakers:\nAmit Bery\, Washington University\n\nLink: http://db
  bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7928
-DTSTAMP:20191127T140938Z
+DTSTAMP:20191127T092400
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:“Sterile Inflammation After Lung Transplantation.”
 END:VEVENT
@@ -1286,7 +1286,7 @@ DTSTART;TZID=America/Chicago:20191202T123000
 DTEND;TZID=America/Chicago:20191202T130000
 DESCRIPTION:Speakers:\nDaniel Reynolds\, Washington University\n\nLink: htt
  p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7929
-DTSTAMP:20191127T140938Z
+DTSTAMP:20191127T092400
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:“Assessing the immunological response to severe influenza infecti
  on.”
@@ -1299,7 +1299,7 @@ DESCRIPTION:Speakers:\nMark S. Shapiro\, PhD\, Professor\nDepartment of Cel
  lular and Integrative Physiology\nNeuroscience ProgramUniversity of Texas 
  Health Science Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
  dar_event.aspx?EvID=7930
-DTSTAMP:20191127T140938Z
+DTSTAMP:20191127T092400
 LOCATION:BJC-Institute of Health\, West Seminar Room (9th Floor)
 SUMMARY:"Deciphering the Regulation and Molecular Interplay Among Ion Chann
  els Critical to Function in Brain and Peripheral Nerve"
@@ -1740,6 +1740,17 @@ SUMMARY:Targeting the Arterial Tree in Heart Failure with Preserved Ejectio
  n Fraction
 END:VEVENT
 BEGIN:VEVENT
+UID:7932@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191212T160000
+DTEND;TZID=America/Chicago:20191212T170000
+DESCRIPTION:Speakers:\nAmber Stratman\, PhD\, Assistant Professor\nCell Bio
+ logy and Physiology\nWashington University School of Medicine\n\nLink: htt
+ p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7932
+DTSTAMP:20191128T140939Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Hemodynamic Regulation of Vascular Development
+END:VEVENT
+BEGIN:VEVENT
 UID:7699@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191213T120000
 DTEND;TZID=America/Chicago:20191213T133000
@@ -2041,7 +2052,7 @@ DTEND;TZID=America/Chicago:20200204T130000
 DESCRIPTION:Speakers:\nDr. Sarah Stanley\, Infectious Diseases and Vaccinol
  ogy\nUniversity of California\, Berkeley\n\nLink: http://dbbs.wustl.edu/Re
  sources/Pages/calendar_event.aspx?EvID=7931
-DTSTAMP:20191127T140940Z
+DTSTAMP:20191127T092400
 LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
 SUMMARY:Metabolic regulation of M. tuberculosis infection
 END:VEVENT
@@ -2443,16 +2454,5 @@ DESCRIPTION:Speakers:\nDr. Michael Holtzman\, WUSM\nDepartment of Internal
 DTSTAMP:20190816T131100
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7312@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200415T120000
-DTEND;TZID=America/Chicago:20200415T130000
-DESCRIPTION:Speakers:\nSandeep Robert Datta\, MD\, PhD\, Harvard Medical Sc
- hool\n\nDescription:\nHosted by: Dr. Ahmad Jezzini and DON Trainees\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7312
-DTSTAMP:20190712T142900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Systematic representations for olfaction and action in cortex
 END:VEVENT
 END:VCALENDAR
