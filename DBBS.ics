@@ -34,85 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7917@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191205T100000
-DTEND;TZID=America/Chicago:20191205T103000
-DESCRIPTION:Speakers:\nSamantha Adamson\, MD\, PhD\, Washington University\
- n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=79
- 17
-DTSTAMP:20191125T085400
-LOCATION:728 Southwest Tower
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7915@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191205T103000
-DTEND;TZID=America/Chicago:20191205T113000
-DESCRIPTION:Speakers:\nMichael J. Wolfgang\, PhD\, Associate Professor of B
- iological Chemistry\nJohns Hopkins University\n\nLink: http://dbbs.wustl.e
- du/Resources/Pages/calendar_event.aspx?EvID=7915
-DTSTAMP:20191125T085400
-LOCATION:728 Southwest Tower
-SUMMARY:Hepatic Lipid Signaling and Metabolism in Diabetes and Obesity
-END:VEVENT
-BEGIN:VEVENT
-UID:7347@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191205T120000
-DTEND;TZID=America/Chicago:20191205T130000
-DESCRIPTION:Speakers:\nDr. Philip Williams\, Washington University\n\nLink:
-  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7347
-DTSTAMP:20191204T101900
-LOCATION:Maternity Building\, Room 725
-SUMMARY:A Role for Circuit Activity in Neuronal Survival and Regeneration
-END:VEVENT
-BEGIN:VEVENT
-UID:7873@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191205T120000
-DTEND;TZID=America/Chicago:20191205T125000
-DESCRIPTION:Speakers:\nJen Phillips\, Associate Professor of Medicine - WUS
- TL\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
- =7873
-DTSTAMP:20191125T142900
-LOCATION:Children's Hospital 3rd Floor Auditorium
-SUMMARY:Hijacking the host: how Mycobacterium tuberculosis subverts immunit
- y
-END:VEVENT
-BEGIN:VEVENT
-UID:7910@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191205T120000
-DTEND;TZID=America/Chicago:20191205T130000
-DESCRIPTION:Speakers:\nDr. Benjamin Cravatt\, Ph.D.\, The Scripps Research 
- Institute\, Department of Chemistry\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7910
-DTSTAMP:20191120T092300
-LOCATION:2 Pharmacy Place (corner of Taylor and Duncan Ave)
-SUMMARY:Activity-based proteomics – protein and ligand discovery on a glo
- bal scale.
-END:VEVENT
-BEGIN:VEVENT
-UID:7531@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191205T160000
-DTEND;TZID=America/Chicago:20191205T170000
-DESCRIPTION:Speakers:\nDavid Ornitz\, MD\, PhD\, Alumni Endowed Professor o
- f Developmental Biology\nWashington University\n\nLink: http://dbbs.wustl.
- edu/Resources/Pages/calendar_event.aspx?EvID=7531
-DTSTAMP:20190822T104500
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:"FGF Signaling in Lung Development and Pulmonary Vascular Disease"
-END:VEVENT
-BEGIN:VEVENT
-UID:7856@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191205T160000
-DTEND;TZID=America/Chicago:20191205T170000
-DESCRIPTION:Speakers:\nSusanne Renner\, University of Monarch\n\nLink: http
- ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7856
-DTSTAMP:20191104T082200
-LOCATION:Danforth Campus\, Rebstock\, Room 322
-SUMMARY:Why Regional Differences in Past and Future Spring-Frost Risk Threa
- ten Europe and Asia More Than North America
-END:VEVENT
-BEGIN:VEVENT
 UID:7914@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191206T090000
 DTEND;TZID=America/Chicago:20191206T100000
@@ -385,6 +306,18 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Closing in On the Cause(s) of the Pronounced Sex Ratio in Autism
 END:VEVENT
 BEGIN:VEVENT
+UID:7938@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191216T141500
+DTEND;TZID=America/Chicago:20191216T150000
+DESCRIPTION:Speakers:\nDr. Barbara Graves\, HHMI Senior Scientific Officer\
+ n\nDescription:\nhttps://postdoc.wustl.edu/calendar_event/hhmi-postdoc-fel
+ lowship-info-session/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
+ dar_event.aspx?EvID=7938
+DTSTAMP:20191206T140934Z
+LOCATION:2057\, MCC
+SUMMARY:HHMI Postdoc Fellowship Info Session
+END:VEVENT
+BEGIN:VEVENT
 UID:7468@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191216T150000
 DTEND;TZID=America/Chicago:20191216T160000
@@ -437,6 +370,19 @@ DESCRIPTION:Speakers:\nDr. Chyi Song Hsieh\, WUSM\nDepartment of Internal M
 DTSTAMP:20190816T130400
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7937@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200107T150000
+DTEND;TZID=America/Chicago:20200107T160000
+DESCRIPTION:Speakers:\nRafael S. Demarco\, Ph.D.\, Department of Molecular\
+ , Cell and Developmental Biology\, University of California\, Los Angeles\
+ n\nDescription:\nFaculty Candidate Seminar\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=7937
+DTSTAMP:20191206T140934Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Metabolic regulation of the Drosophila male germline stem cell nich
+ e
 END:VEVENT
 BEGIN:VEVENT
 UID:7337@events.dbbs.wustl
@@ -1226,6 +1172,74 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Motor cortex and the generation of voluntary movement
 END:VEVENT
 BEGIN:VEVENT
+UID:7554@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200507T160000
+DTEND;TZID=America/Chicago:20200507T170000
+DESCRIPTION:Speakers:\nCarlos Fernández-Hernando\, PhD\, Professor\, Vascu
+ lar Biology & Therapeutics Program                    
+     Yale University School of Medicine\n\nLink: http://dbbs.wustl.edu/R
+ esources/Pages/calendar_event.aspx?EvID=7554
+DTSTAMP:20190828T113300
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:Novel insights into the molecular and cellular mechanism regulating
+  of cholesterol metabolism and atherosclerosis
+END:VEVENT
+BEGIN:VEVENT
+UID:7314@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200513T120000
+DTEND;TZID=America/Chicago:20200513T130000
+DESCRIPTION:Speakers:\nMichael Platt\, PhD\, Perelman School of Medicine Un
+ iversity of Pennsylvania\n\nDescription:\nHosted by: Dr. Kari Allen\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7314
+DTSTAMP:20190712T142900
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Monkey Business: Modeling the Biology of Complex Human Social Decis
+ ions
+END:VEVENT
+BEGIN:VEVENT
+UID:7555@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200514T160000
+DTEND;TZID=America/Chicago:20200514T170000
+DESCRIPTION:Speakers:\nSaptarsi Haldar\, MD\, Vice President\, Research  
+                                      
+                       Head\, Cardiometabolic Disorder
+ s                                    
+            Amgen                        
+                                      
+                         Visiting Professor of Medic
+ ine\, UCSF School of Medicine                      
+                                      
+       Visiting Faculty\, Gladstone Institutes\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7555
+DTSTAMP:20190822T105200
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7501@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200518T161500
+DTEND;TZID=America/Chicago:20200518T161500
+DESCRIPTION:Speakers:\nDr. Haina Shin\, WUSM\nDepartment of Internal Medici
+ ne – Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
+ calendar_event.aspx?EvID=7501
+DTSTAMP:20190816T130200
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7315@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200520T120000
+DTEND;TZID=America/Chicago:20200520T130000
+DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
+ tin\n\nDescription:\nHosted by: Dr. Mike Nonet\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7315
+DTSTAMP:20190712T143000
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Stochastic Mechanisms in Membrane Traffic
+END:VEVENT
+BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200106T161500
 DTEND;TZID=America/Chicago:20200106T161500
@@ -1235,6 +1249,19 @@ DESCRIPTION:Speakers:\nDr. Chyi Song Hsieh\, WUSM\nDepartment of Internal M
 DTSTAMP:20190816T130400
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7937@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200107T150000
+DTEND;TZID=America/Chicago:20200107T160000
+DESCRIPTION:Speakers:\nRafael S. Demarco\, Ph.D.\, Department of Molecular\
+ , Cell and Developmental Biology\, University of California\, Los Angeles\
+ n\nDescription:\nFaculty Candidate Seminar\n\nLink: http://dbbs.wustl.edu/
+ Resources/Pages/calendar_event.aspx?EvID=7937
+DTSTAMP:20191206T140937Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Metabolic regulation of the Drosophila male germline stem cell nich
+ e
 END:VEVENT
 BEGIN:VEVENT
 UID:7337@events.dbbs.wustl
