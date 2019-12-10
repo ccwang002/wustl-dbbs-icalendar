@@ -34,92 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7861@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T120000
-DTEND;TZID=America/Chicago:20191209T130000
-DESCRIPTION:Speakers:\nDavid J. Pagliarini\, Ph.D.\, Lead Investigator and 
- Arthur C. Nielsen Jr. Chair of Metabolism\, Morgridge Institute for Resear
- ch\nAssociate Professor\, Department of Biochemistry\nUniversity of Wiscon
- sin-Madison\n\nDescription:\nBJCIP Special Seminar - Hosted by the Departm
- ent of Cell Biology and\nPhysiology\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7861
-DTSTAMP:20191202T083600
-LOCATION:Moore Auditorium
-SUMMARY:Wiring the Powerhouse: Systems Biochemistry Approaches for Defining
-  Mitochondrial Protein Function
-END:VEVENT
-BEGIN:VEVENT
-UID:7899@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T120000
-DTEND;TZID=America/Chicago:20191209T130000
-DESCRIPTION:Speakers:\nManu Goyal\, MD\, MSc\, Sex differences in human met
- abolic brain aging\nJoseph Ippolito\, MD\, PhD\, WashU Radiology\n\nDescri
- ption:\nMini-series: Sex differences in disease Organizer\, Josh Rubin (Wa
- shU\nPediatrics) November 25: Joshua Rubin (WashU Pediatrics) December 2: 
- Trainee\nTalks December 9: Manu Goyal (WashU Radiology)\, Joseph Ippolito 
- (WashU\nRadiology) December 16: John Constantino (WashU Psychiatry)\, Joe 
- Dougherty\n(WashU Genetics)\n\nLink: http://dbbs.wustl.edu/Resources/Pages
- /calendar_event.aspx?EvID=7899
-DTSTAMP:20191204T150400
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7913@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T120000
-DTEND;TZID=America/Chicago:20191209T130000
-DESCRIPTION:Speakers:\nMargaret M. McCarthy\, PhD\, James & Carolyn Frenkil
-  Endowed Dean’s Professor Professor and Chair of the Department of Pharm
- acology\nUniversity of Maryland School of Medicine\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7913
-DTSTAMP:20191121T120100
-LOCATION:Needleman Library\, Cnf Room 3907
-SUMMARY:Immune Origins of Sex Differences in the Brain
-END:VEVENT
-BEGIN:VEVENT
-UID:7935@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T120000
-DTEND;TZID=America/Chicago:20191209T130000
-DESCRIPTION:Speakers:\nAndrew Kau\, Washington University\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7935
-DTSTAMP:20191203T092300
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:“Immune-Microbiota Interactions in the Pathogenesis of Asthma."
-END:VEVENT
-BEGIN:VEVENT
-UID:7923@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T140000
-DTEND;TZID=America/Chicago:20191209T140000
-DESCRIPTION:Speakers:\nJohn Dean\, Program in Molecular Cell Biology\nLabor
- atory of Dr. Irfan Lodhi\nDepartment of Internal Medicine\nDivision of End
- ocrinology/Metabolism\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calen
- dar_event.aspx?EvID=7923
-DTSTAMP:20191202T083800
-LOCATION:Eric P. Newman Education Center-Seminar Room A
-SUMMARY:Transcriptional regulation of adipose tissue development
-END:VEVENT
-BEGIN:VEVENT
-UID:7846@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T160000
-DTEND;TZID=America/Chicago:20191209T160000
-DESCRIPTION:Speakers:\nGemma Reguera\, Michigan State University\n\nLink: h
- ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7846
-DTSTAMP:20191029T152200
-LOCATION:Rebstock Hall 322
-SUMMARY:Microbes\, metals\, and nanowires
-END:VEVENT
-BEGIN:VEVENT
-UID:7467@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191209T161500
-DTEND;TZID=America/Chicago:20191209T161500
-DESCRIPTION:Speakers:\nDr. Russell Vance\, University of California – Ber
- keley\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=7467
-DTSTAMP:20191202T083900
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:Cytosolic detection of intracellular bacterial pathogens
-END:VEVENT
-BEGIN:VEVENT
 UID:7718@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191210T120000
 DTEND;TZID=America/Chicago:20191210T130000
@@ -1250,6 +1164,29 @@ DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
 DTSTAMP:20190712T143000
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Stochastic Mechanisms in Membrane Traffic
+END:VEVENT
+BEGIN:VEVENT
+UID:7411@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200527T120000
+DTEND;TZID=America/Chicago:20200527T130000
+DESCRIPTION:Speakers:\nMichael Halassa\, PhD\, Massachusetts Institute of T
+ echnology\n\nDescription:\nHosted by: Dr. Ilya Monosov\n\nLink: http://dbb
+ s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7411
+DTSTAMP:20190806T094600
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Thalamocortical interactions in cognitive control and flexibility
+END:VEVENT
+BEGIN:VEVENT
+UID:7408@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20201112T160000
+DTEND;TZID=America/Chicago:20201112T160000
+DESCRIPTION:Speakers:\nLarry Abbott\, PhD\, Columbia University Medical Cen
+ ter\n\nDescription:\n60th Robert J. Terry Lecture hosted by Dr. Paul Taghe
+ rt\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =7408
+DTSTAMP:20190731T145800
+LOCATION:Location TBD
+SUMMARY:Title TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
