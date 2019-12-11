@@ -34,40 +34,20 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7718@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191210T120000
-DTEND;TZID=America/Chicago:20191210T130000
-DESCRIPTION:Speakers:\nMaud Gratuze\, PhD\, Holtzman Lab\, Washington Unive
- rsity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=7718
-DTSTAMP:20190924T094900
-LOCATION:East Pavilion Auditorium
-SUMMARY:Functions of AD-associated TREM2 Variant on Tau Pathology
-END:VEVENT
-BEGIN:VEVENT
-UID:7562@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191210T123000
-DTEND;TZID=America/Chicago:20191210T130000
-DESCRIPTION:Speakers:\nDr. Florian Krammer\, Icahn School of Medicine at Mo
- unt Sinai\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7562
-DTSTAMP:20191029T120800
-LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
-SUMMARY:Antibody responses to conserved epitopes on the influenza virus gly
- coproteins
-END:VEVENT
-BEGIN:VEVENT
-UID:7893@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191210T150000
-DTEND;TZID=America/Chicago:20191210T160000
-DESCRIPTION:Speakers:\nAmanda W. Lund\, Ph.D.\, Associate Professor\nDepart
- ment of Cell\, Developmental & Cancer Biology\nOregon Health & Science Uni
- versity\, Portland\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar
- _event.aspx?EvID=7893
-DTSTAMP:20191112T172800
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:The Immunological Consequences of Lymphatic Transport in Skin: From
-  Infection to Malignancy
+UID:7946@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191211T040000
+DTEND;TZID=America/Chicago:20200115T050000
+DESCRIPTION:Speakers:\nGet In Touch With Genuine Cash App Help and Support 
+ Service Provider\, In order to get rid of all your problems pertaining to 
+ cash app account\, you will have to make a call at Cash App Help number wh
+ ich would connect you a team of professionals and engineers who will surel
+ y direct you to have a word with them and get rid of all your problems in 
+ a couple of seconds. https://www.cashapphelps.net/\n\nLink: http://dbbs.wu
+ stl.edu/Resources/Pages/calendar_event.aspx?EvID=7946
+DTSTAMP:20191211T140933Z
+LOCATION:McDonnell Sciences Building\, Room 741
+SUMMARY:Get In Touch With Genuine Cash App Help and Support Service Provide
+ r
 END:VEVENT
 BEGIN:VEVENT
 UID:7410@events.dbbs.wustl
@@ -285,6 +265,30 @@ LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching
  Room 2131
 SUMMARY:Community Insights about the Cancer Continuum: Challenges and Oppor
  tunities"
+END:VEVENT
+BEGIN:VEVENT
+UID:7945@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191220T090000
+DTEND;TZID=America/Chicago:20191220T100000
+DESCRIPTION:Speakers:\nRajeev Aurora\, PhD\, Molecular Microbiology & Immun
+ ology\nSaint Louis University\n\nLink: http://dbbs.wustl.edu/Resources/Pag
+ es/calendar_event.aspx?EvID=7945
+DTSTAMP:20191211T140934Z
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:The effect of ovariectomy and resolution of inflammation on osteoli
+ neage differentiation and osteoblast functions
+END:VEVENT
+BEGIN:VEVENT
+UID:7944@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191220T120000
+DTEND;TZID=America/Chicago:20191220T130000
+DESCRIPTION:Speakers:\nDeborah C. Rubin\, MD\, AGAF\, William B. Kountz Pro
+ fessor of Medicine\nDivision of Gastroenterology\nWashington University\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7944
+DTSTAMP:20191210T102300
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:Stromal and Luminal Regulation of the Gut Stem Cell Niche in Adapta
+ tion and Carcinogenesis
 END:VEVENT
 BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
