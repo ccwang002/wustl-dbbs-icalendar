@@ -34,70 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7939@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191212T090000
-DTEND;TZID=America/Chicago:20191212T134500
-DESCRIPTION:Speakers:\nClinical and Research Fellows (9 am - 1:45 pm)\, Med
- icine - Endocrinology\, Metabolism & Lipid Research\, Pediatric Endocrinol
- ogy & Diabetes\, Orthopaedic Surgery\n\nDescription:\nPlease note that Fel
- lows' Research Day begins at 9:00 am. 17 Fellows will\nprovide 10-minute p
- resentations regarding their research. See link for\nadditional informatio
- n:\nhttps://endocrinology.wustl.edu/calendar_event/research-day-for-clinic
- al-and-\nresearch-fellows/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
- calendar_event.aspx?EvID=7939
-DTSTAMP:20191206T120900
-LOCATION:728 Southwest Tower
-SUMMARY:Research Day for Clinical and Research Fellows
-END:VEVENT
-BEGIN:VEVENT
-UID:7330@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191212T120000
-DTEND;TZID=America/Chicago:20191212T130000
-DESCRIPTION:Speakers:\nDr. Daniel Kerscheinsteiner\, Washington University\
- n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=73
- 30
-DTSTAMP:20191204T102000
-LOCATION:Maternity Building\, Room 725
-SUMMARY:“Predation and Perception”
-END:VEVENT
-BEGIN:VEVENT
-UID:7912@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191212T140000
-DTEND;TZID=America/Chicago:20191212T150000
-DESCRIPTION:Speakers:\nRachel Wong\, Immunology Program\nLaboratory of Dr. 
- Deepta Bhattacharya\nDepartment of Pathology & Immunology\n\nLink: http://
- dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7912
-DTSTAMP:20191120T090400
-LOCATION:Clopton Auditorium - Wohl Clinic
-SUMMARY:Affinity-restricted memory B cells dominate recall responses to het
- erologous flaviviruses
-END:VEVENT
-BEGIN:VEVENT
-UID:7533@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191212T160000
-DTEND;TZID=America/Chicago:20191212T170000
-DESCRIPTION:Speakers:\nJulio Chirinos\, MD\, PhD\, Associate Professor of M
- edicine\nAdjunct Faculty\, Center for Magnetic Resonance and Optical Imagi
- ng\nUniversity of Pennsylvania Perelman School of Medicine\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7533
-DTSTAMP:20191202T084100
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:Targeting the Arterial Tree in Heart Failure with Preserved Ejectio
- n Fraction
-END:VEVENT
-BEGIN:VEVENT
-UID:7932@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191212T160000
-DTEND;TZID=America/Chicago:20191212T170000
-DESCRIPTION:Speakers:\nAmber Stratman\, PhD\, Assistant Professor\nCell Bio
- logy and Physiology\nWashington University School of Medicine\n\nLink: htt
- p://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7932
-DTSTAMP:20191202T114400
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Hemodynamic Regulation of Vascular Development
-END:VEVENT
-BEGIN:VEVENT
 UID:7941@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191213T090000
 DTEND;TZID=America/Chicago:20191213T100000
@@ -207,14 +143,47 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:Enhancing Sleep and Circadian Rhythm for Brain and Metabolic Health
 END:VEVENT
 BEGIN:VEVENT
+UID:7948@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191217T150000
+DTEND;TZID=America/Chicago:20191217T160000
+DESCRIPTION:Speakers:\nChenyang Lu\, PhD\, Director of Cyber-Physical Syste
+ ms Laboratory\nDepartment of Computer Science & Engineering\nWashington Un
+ iversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
+ x?EvID=7948
+DTSTAMP:20191212T170000
+LOCATION:Couch Research Building 4001B
+SUMMARY:Predicting Clinical Outcomes and Digital Phenotyping with Wearable 
+ and Machine Learning
+END:VEVENT
+BEGIN:VEVENT
+UID:7950@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191219T100000
+DTEND;TZID=America/Chicago:20191219T103000
+DESCRIPTION:Speakers:\nJake Stitham\, MD\, PhD\, Washington University\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7950
+DTSTAMP:20191212T170000
+LOCATION:728 Southwest Tower
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7949@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191219T103000
+DTEND;TZID=America/Chicago:20191219T113000
+DESCRIPTION:Speakers:\nAli Javaheri\, MD\, PhD\, Washington University\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7949
+DTSTAMP:20191212T170000
+LOCATION:728 Southwest Tower
+SUMMARY:Targeting Sphingolipid Biology to Improve Heart Failure Outcomes
+END:VEVENT
+BEGIN:VEVENT
 UID:7331@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191219T120000
 DTEND;TZID=America/Chicago:20191219T130000
 DESCRIPTION:Speakers:\nDr. Rithwick Rajagopal\, Washington University\n\nLi
  nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7331
-DTSTAMP:20190906T090800
+DTSTAMP:20191212T122800
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:Phototransduction and the Development of Diabetic Retinopathy
 END:VEVENT
 BEGIN:VEVENT
 UID:7940@events.dbbs.wustl
@@ -237,6 +206,17 @@ LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching
  Room 2131
 SUMMARY:Community Insights about the Cancer Continuum: Challenges and Oppor
  tunities"
+END:VEVENT
+BEGIN:VEVENT
+UID:7947@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191219T120000
+DTEND;TZID=America/Chicago:20191219T125000
+DESCRIPTION:Speakers:\nHaina Shin\, PhD\, Department of Medicine\, Division
+  of Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=7947
+DTSTAMP:20191212T122700
+LOCATION:Children's Hospital 3rd Floor Auditorium
+SUMMARY:Immune control of genital HSV-1 and HSV-2 infection
 END:VEVENT
 BEGIN:VEVENT
 UID:7945@events.dbbs.wustl
