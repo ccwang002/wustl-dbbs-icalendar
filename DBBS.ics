@@ -34,55 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7941@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191213T090000
-DTEND;TZID=America/Chicago:20191213T100000
-DESCRIPTION:Speakers:\nSteven Mumm\, PhD\, Department of Medicine\, Divisio
- n of Bone and Mineral Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pa
- ges/calendar_event.aspx?EvID=7941
-DTSTAMP:20191206T130300
-LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
-SUMMARY:Heritable Skeletal Disorders of the LRP/WNT Signaling Pathways
-END:VEVENT
-BEGIN:VEVENT
-UID:7699@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191213T120000
-DTEND;TZID=America/Chicago:20191213T133000
-DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
- escription:\nCPD\; Registration required -\nhttps://becker.wustl.edu/civic
- rm/?page=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=139\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7699
-DTSTAMP:20190924T095400
-LOCATION:Farrell Learning and Teaching Center\, Room 602
-SUMMARY:Getting Organized with EndNote
-END:VEVENT
-BEGIN:VEVENT
-UID:7934@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191213T120000
-DTEND;TZID=America/Chicago:20191213T130000
-DESCRIPTION:Speakers:\nJonathan Jacobs\, MD\, PhD\, 15th Annual Gregory J. 
- Gurtner Memorial Lecture\nAssistant Professor-in-Residence\nDivision of Di
- gestive Diseases\nDepartment of Medicine\nDavid Geffen School of Medicine\
- nUniversity of California Los Angeles\n\nLink: http://dbbs.wustl.edu/Resou
- rces/Pages/calendar_event.aspx?EvID=7934
-DTSTAMP:20191202T114800
-LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
-SUMMARY:Defining a Pre-disease Microbial Risk State for Inflammatory Bowel 
- Disease
-END:VEVENT
-BEGIN:VEVENT
-UID:7933@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191213T120000
-DTEND;TZID=America/Chicago:20191213T130000
-DESCRIPTION:Speakers:\nSydney Reitz\, Neuroscience Graduate Program\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7933
-DTSTAMP:20191202T083100
-LOCATION:Farrell Learning and Teaching Center\, Room 205
-RRULE:BYDAY=FR;INTERVAL=2;FREQ=WEEKLY;UNTIL=20191213
-SUMMARY:Age moderates the effects of traumatic brain injury on beta-amyloid
-  plaque load in APP/PS1 mice
-END:VEVENT
-BEGIN:VEVENT
 UID:7900@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191216T120000
 DTEND;TZID=America/Chicago:20191216T130000
@@ -93,7 +44,7 @@ DESCRIPTION:Speakers:\nJohn Constantino\, MD\, WashU Psychiatry\nJoseph Dou
  al (WashU Radiology)\, Joseph Ippolito (WashU\nRadiology) December 16: Joh
  n Constantino (WashU Psychiatry)\, Joe Dougherty\n(WashU Genetics)\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7900
-DTSTAMP:20191204T100700
+DTSTAMP:20191213T102500
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Closing in On the Cause(s) of the Pronounced Sex Ratio in Autism
 END:VEVENT
@@ -141,6 +92,18 @@ DESCRIPTION:Speakers:\nPhyllis Zee\, MD\, PhD\, Boshes Professor of Neurolo
 DTSTAMP:20190924T094900
 LOCATION:East Pavilion Auditorium
 SUMMARY:Enhancing Sleep and Circadian Rhythm for Brain and Metabolic Health
+END:VEVENT
+BEGIN:VEVENT
+UID:7965@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191217T120000
+DTEND;TZID=America/Chicago:20191217T130000
+DESCRIPTION:Speakers:\nLynn Zechiedrich\, Ph.D.\, Baylor College of Medicin
+ e\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7965
+DTSTAMP:20191215T140933Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Harnessing DNA supercoiling\, curvature\, and sequence to design DN
+ A minivector nanoparticle shapes for gene delivery
 END:VEVENT
 BEGIN:VEVENT
 UID:7948@events.dbbs.wustl
@@ -384,6 +347,30 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7953@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T120000
+DTEND;TZID=America/Chicago:20200123T130000
+DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
+ Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7953
+DTSTAMP:20191215T140934Z
+LOCATION:USA
+SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
+  Glioblastoma
+END:VEVENT
+BEGIN:VEVENT
+UID:7954@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T120000
+DTEND;TZID=America/Chicago:20200123T130000
+DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
+ Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7954
+DTSTAMP:20191215T140934Z
+LOCATION:USA
+SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
+  Glioblastoma
+END:VEVENT
+BEGIN:VEVENT
 UID:7580@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200123T160000
 DTEND;TZID=America/Chicago:20200123T170000
@@ -398,6 +385,26 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:ApoC-III and Treg Lipid Metabolism: What is Good for the Heart May 
  not be Good for the Gut
+END:VEVENT
+BEGIN:VEVENT
+UID:7955@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T120000
+DTEND;TZID=America/Chicago:20200127T130000
+DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7955
+DTSTAMP:20191215T140934Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Post-transcriptional control of muscle stem cell function
+END:VEVENT
+BEGIN:VEVENT
+UID:7956@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T120000
+DTEND;TZID=America/Chicago:20200127T130000
+DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7956
+DTSTAMP:20191215T140934Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Post-transcriptional control of muscle stem cell function
 END:VEVENT
 BEGIN:VEVENT
 UID:7473@events.dbbs.wustl
@@ -461,6 +468,16 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7957@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T120000
+DTEND;TZID=America/Chicago:20200203T130000
+DESCRIPTION:Speakers:\nDr. Pengxiang Huang\, Harvard Medical School\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7957
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Control of Hedgehog Signaling by Sterols
+END:VEVENT
+BEGIN:VEVENT
 UID:7475@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200203T161500
 DTEND;TZID=America/Chicago:20200203T161500
@@ -493,6 +510,28 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:7958@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T120000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7958
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Global insights into brain diversity\, development and lineage at s
+ ingle-cell resolution
+END:VEVENT
+BEGIN:VEVENT
+UID:7959@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T120000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7959
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Global insights into brain diversity\, development and lineage at s
+ ingle-cell resolution
+END:VEVENT
+BEGIN:VEVENT
 UID:7542@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200206T160000
 DTEND;TZID=America/Chicago:20200206T170000
@@ -506,6 +545,30 @@ DTSTAMP:20190822T104600
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7960@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200210T120000
+DTEND;TZID=America/Chicago:20200210T130000
+DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
+ y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7960
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:A dynamic single molecule view of genome activation during early em
+ bryonic development
+END:VEVENT
+BEGIN:VEVENT
+UID:7961@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200210T120000
+DTEND;TZID=America/Chicago:20200210T130000
+DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
+ y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7961
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:A dynamic single molecule view of genome activation during early em
+ bryonic development
 END:VEVENT
 BEGIN:VEVENT
 UID:7477@events.dbbs.wustl
@@ -544,6 +607,30 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7962@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200217T120000
+DTEND;TZID=America/Chicago:20200217T130000
+DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
+ Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7962
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Applications of brain-model technology to study neurodevelopmental 
+ disorders
+END:VEVENT
+BEGIN:VEVENT
+UID:7963@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200217T120000
+DTEND;TZID=America/Chicago:20200217T130000
+DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
+ Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7963
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Applications of brain-model technology to study neurodevelopmental 
+ disorders
+END:VEVENT
+BEGIN:VEVENT
 UID:7479@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200217T161500
 DTEND;TZID=America/Chicago:20200217T161500
@@ -566,6 +653,17 @@ DTSTAMP:20190917T171100
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7964@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200224T120000
+DTEND;TZID=America/Chicago:20200224T130000
+DESCRIPTION:Speakers:\nDr. Tony Tsai\, Harvard Medical School\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7964
+DTSTAMP:20191215T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:An adhesion code ensures robust pattern formation during tissue mor
+ phogenesis
 END:VEVENT
 BEGIN:VEVENT
 UID:7481@events.dbbs.wustl
@@ -1276,6 +1374,30 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7953@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T120000
+DTEND;TZID=America/Chicago:20200123T130000
+DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
+ Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7953
+DTSTAMP:20191215T140938Z
+LOCATION:USA
+SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
+  Glioblastoma
+END:VEVENT
+BEGIN:VEVENT
+UID:7954@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T120000
+DTEND;TZID=America/Chicago:20200123T130000
+DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
+ Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7954
+DTSTAMP:20191215T140938Z
+LOCATION:USA
+SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
+  Glioblastoma
+END:VEVENT
+BEGIN:VEVENT
 UID:7580@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200123T160000
 DTEND;TZID=America/Chicago:20200123T170000
@@ -1290,6 +1412,26 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:ApoC-III and Treg Lipid Metabolism: What is Good for the Heart May 
  not be Good for the Gut
+END:VEVENT
+BEGIN:VEVENT
+UID:7955@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T120000
+DTEND;TZID=America/Chicago:20200127T130000
+DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7955
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Post-transcriptional control of muscle stem cell function
+END:VEVENT
+BEGIN:VEVENT
+UID:7956@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T120000
+DTEND;TZID=America/Chicago:20200127T130000
+DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7956
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Post-transcriptional control of muscle stem cell function
 END:VEVENT
 BEGIN:VEVENT
 UID:7473@events.dbbs.wustl
@@ -1353,6 +1495,16 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7957@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T120000
+DTEND;TZID=America/Chicago:20200203T130000
+DESCRIPTION:Speakers:\nDr. Pengxiang Huang\, Harvard Medical School\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7957
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Control of Hedgehog Signaling by Sterols
+END:VEVENT
+BEGIN:VEVENT
 UID:7475@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200203T161500
 DTEND;TZID=America/Chicago:20200203T161500
@@ -1385,6 +1537,28 @@ LOCATION:Maternity Building\, Room 725
 SUMMARY:TBD
 END:VEVENT
 BEGIN:VEVENT
+UID:7958@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T120000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7958
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Global insights into brain diversity\, development and lineage at s
+ ingle-cell resolution
+END:VEVENT
+BEGIN:VEVENT
+UID:7959@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T120000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7959
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Global insights into brain diversity\, development and lineage at s
+ ingle-cell resolution
+END:VEVENT
+BEGIN:VEVENT
 UID:7542@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200206T160000
 DTEND;TZID=America/Chicago:20200206T170000
@@ -1398,6 +1572,30 @@ DTSTAMP:20190822T104600
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7960@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200210T120000
+DTEND;TZID=America/Chicago:20200210T130000
+DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
+ y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7960
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:A dynamic single molecule view of genome activation during early em
+ bryonic development
+END:VEVENT
+BEGIN:VEVENT
+UID:7961@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200210T120000
+DTEND;TZID=America/Chicago:20200210T130000
+DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
+ y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 7961
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:A dynamic single molecule view of genome activation during early em
+ bryonic development
 END:VEVENT
 BEGIN:VEVENT
 UID:7477@events.dbbs.wustl
@@ -1436,6 +1634,30 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7962@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200217T120000
+DTEND;TZID=America/Chicago:20200217T130000
+DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
+ Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7962
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Applications of brain-model technology to study neurodevelopmental 
+ disorders
+END:VEVENT
+BEGIN:VEVENT
+UID:7963@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200217T120000
+DTEND;TZID=America/Chicago:20200217T130000
+DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
+ Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=7963
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:Applications of brain-model technology to study neurodevelopmental 
+ disorders
+END:VEVENT
+BEGIN:VEVENT
 UID:7479@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200217T161500
 DTEND;TZID=America/Chicago:20200217T161500
@@ -1458,6 +1680,17 @@ DTSTAMP:20190917T171100
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7964@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200224T120000
+DTEND;TZID=America/Chicago:20200224T130000
+DESCRIPTION:Speakers:\nDr. Tony Tsai\, Harvard Medical School\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7964
+DTSTAMP:20191215T140938Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:An adhesion code ensures robust pattern formation during tissue mor
+ phogenesis
 END:VEVENT
 BEGIN:VEVENT
 UID:7481@events.dbbs.wustl
