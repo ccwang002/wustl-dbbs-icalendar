@@ -100,7 +100,7 @@ DTEND;TZID=America/Chicago:20191217T130000
 DESCRIPTION:Speakers:\nLynn Zechiedrich\, Ph.D.\, Baylor College of Medicin
  e\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
  7965
-DTSTAMP:20191215T140933Z
+DTSTAMP:20191216T140933Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Harnessing DNA supercoiling\, curvature\, and sequence to design DN
  A minivector nanoparticle shapes for gene delivery
@@ -353,7 +353,7 @@ DTEND;TZID=America/Chicago:20200123T130000
 DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
  Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
  px?EvID=7953
-DTSTAMP:20191215T140934Z
+DTSTAMP:20191216T140934Z
 LOCATION:USA
 SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
   Glioblastoma
@@ -365,7 +365,7 @@ DTEND;TZID=America/Chicago:20200123T130000
 DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
  Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
  px?EvID=7954
-DTSTAMP:20191215T140934Z
+DTSTAMP:20191216T140934Z
 LOCATION:USA
 SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
   Glioblastoma
@@ -392,7 +392,7 @@ DTSTART;TZID=America/Chicago:20200127T120000
 DTEND;TZID=America/Chicago:20200127T130000
 DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7955
-DTSTAMP:20191215T140934Z
+DTSTAMP:20191216T140934Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
 END:VEVENT
@@ -402,7 +402,7 @@ DTSTART;TZID=America/Chicago:20200127T120000
 DTEND;TZID=America/Chicago:20200127T130000
 DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7956
-DTSTAMP:20191215T140934Z
+DTSTAMP:20191216T140934Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
 END:VEVENT
@@ -473,7 +473,7 @@ DTSTART;TZID=America/Chicago:20200203T120000
 DTEND;TZID=America/Chicago:20200203T130000
 DESCRIPTION:Speakers:\nDr. Pengxiang Huang\, Harvard Medical School\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7957
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140934Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Control of Hedgehog Signaling by Sterols
 END:VEVENT
@@ -515,7 +515,7 @@ DTSTART;TZID=America/Chicago:20200206T120000
 DTEND;TZID=America/Chicago:20200206T130000
 DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7958
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140935Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Global insights into brain diversity\, development and lineage at s
  ingle-cell resolution
@@ -526,7 +526,7 @@ DTSTART;TZID=America/Chicago:20200206T120000
 DTEND;TZID=America/Chicago:20200206T130000
 DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7959
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140935Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Global insights into brain diversity\, development and lineage at s
  ingle-cell resolution
@@ -553,7 +553,7 @@ DTEND;TZID=America/Chicago:20200210T130000
 DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
  y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
  7960
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140935Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:A dynamic single molecule view of genome activation during early em
  bryonic development
@@ -565,7 +565,7 @@ DTEND;TZID=America/Chicago:20200210T130000
 DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
  y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
  7961
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140935Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:A dynamic single molecule view of genome activation during early em
  bryonic development
@@ -613,7 +613,7 @@ DTEND;TZID=America/Chicago:20200217T130000
 DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
  Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
  vID=7962
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140935Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Applications of brain-model technology to study neurodevelopmental 
  disorders
@@ -625,7 +625,7 @@ DTEND;TZID=America/Chicago:20200217T130000
 DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
  Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
  vID=7963
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140935Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Applications of brain-model technology to study neurodevelopmental 
  disorders
@@ -660,7 +660,7 @@ DTSTART;TZID=America/Chicago:20200224T120000
 DTEND;TZID=America/Chicago:20200224T130000
 DESCRIPTION:Speakers:\nDr. Tony Tsai\, Harvard Medical School\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7964
-DTSTAMP:20191215T140935Z
+DTSTAMP:20191216T140935Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:An adhesion code ensures robust pattern formation during tissue mor
  phogenesis
@@ -1380,7 +1380,7 @@ DTEND;TZID=America/Chicago:20200123T130000
 DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
  Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
  px?EvID=7953
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140937Z
 LOCATION:USA
 SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
   Glioblastoma
@@ -1392,7 +1392,7 @@ DTEND;TZID=America/Chicago:20200123T130000
 DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
  Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
  px?EvID=7954
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140937Z
 LOCATION:USA
 SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
   Glioblastoma
@@ -1419,7 +1419,7 @@ DTSTART;TZID=America/Chicago:20200127T120000
 DTEND;TZID=America/Chicago:20200127T130000
 DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7955
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140937Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
 END:VEVENT
@@ -1429,7 +1429,7 @@ DTSTART;TZID=America/Chicago:20200127T120000
 DTEND;TZID=America/Chicago:20200127T130000
 DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7956
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140937Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
 END:VEVENT
@@ -1500,7 +1500,7 @@ DTSTART;TZID=America/Chicago:20200203T120000
 DTEND;TZID=America/Chicago:20200203T130000
 DESCRIPTION:Speakers:\nDr. Pengxiang Huang\, Harvard Medical School\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7957
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Control of Hedgehog Signaling by Sterols
 END:VEVENT
@@ -1542,7 +1542,7 @@ DTSTART;TZID=America/Chicago:20200206T120000
 DTEND;TZID=America/Chicago:20200206T130000
 DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7958
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Global insights into brain diversity\, development and lineage at s
  ingle-cell resolution
@@ -1553,7 +1553,7 @@ DTSTART;TZID=America/Chicago:20200206T120000
 DTEND;TZID=America/Chicago:20200206T130000
 DESCRIPTION:Speakers:\nDr. Bushra Raj\, Harvard University\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7959
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Global insights into brain diversity\, development and lineage at s
  ingle-cell resolution
@@ -1580,7 +1580,7 @@ DTEND;TZID=America/Chicago:20200210T130000
 DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
  y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
  7960
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:A dynamic single molecule view of genome activation during early em
  bryonic development
@@ -1592,7 +1592,7 @@ DTEND;TZID=America/Chicago:20200210T130000
 DESCRIPTION:Speakers:\nDr. Mustafa Mir\, University of California\, Berkele
  y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
  7961
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:A dynamic single molecule view of genome activation during early em
  bryonic development
@@ -1640,7 +1640,7 @@ DTEND;TZID=America/Chicago:20200217T130000
 DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
  Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
  vID=7962
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Applications of brain-model technology to study neurodevelopmental 
  disorders
@@ -1652,7 +1652,7 @@ DTEND;TZID=America/Chicago:20200217T130000
 DESCRIPTION:Speakers:\nDr Cleber Trujillo\, University of California\, San 
  Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
  vID=7963
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Applications of brain-model technology to study neurodevelopmental 
  disorders
@@ -1687,7 +1687,7 @@ DTSTART;TZID=America/Chicago:20200224T120000
 DTEND;TZID=America/Chicago:20200224T130000
 DESCRIPTION:Speakers:\nDr. Tony Tsai\, Harvard Medical School\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7964
-DTSTAMP:20191215T140938Z
+DTSTAMP:20191216T140938Z
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:An adhesion code ensures robust pattern formation during tissue mor
  phogenesis
