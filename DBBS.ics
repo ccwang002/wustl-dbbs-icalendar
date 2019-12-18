@@ -34,43 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7719@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191217T120000
-DTEND;TZID=America/Chicago:20191217T130000
-DESCRIPTION:Speakers:\nPhyllis Zee\, MD\, PhD\, Boshes Professor of Neurolo
- gy and Chief of Sleep Medicine\, Northwestern University Feinberg School o
- f Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.a
- spx?EvID=7719
-DTSTAMP:20190924T094900
-LOCATION:East Pavilion Auditorium
-SUMMARY:Enhancing Sleep and Circadian Rhythm for Brain and Metabolic Health
-END:VEVENT
-BEGIN:VEVENT
-UID:7965@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191217T120000
-DTEND;TZID=America/Chicago:20191217T130000
-DESCRIPTION:Speakers:\nLynn Zechiedrich\, Ph.D.\, Baylor College of Medicin
- e\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
- 7965
-DTSTAMP:20191216T150500
-LOCATION:Needleman Library\, Cnf Room 3907
-SUMMARY:Harnessing DNA supercoiling\, curvature\, and sequence to design DN
- A minivector nanoparticle shapes for gene delivery
-END:VEVENT
-BEGIN:VEVENT
-UID:7948@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191217T150000
-DTEND;TZID=America/Chicago:20191217T160000
-DESCRIPTION:Speakers:\nChenyang Lu\, PhD\, Director of Cyber-Physical Syste
- ms Laboratory\nDepartment of Computer Science & Engineering\nWashington Un
- iversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.asp
- x?EvID=7948
-DTSTAMP:20191212T170000
-LOCATION:Couch Research Building 4001B
-SUMMARY:Predicting Clinical Outcomes and Digital Phenotyping with Wearable 
- and Machine Learning
-END:VEVENT
-BEGIN:VEVENT
 UID:7950@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191219T100000
 DTEND;TZID=America/Chicago:20191219T103000
@@ -158,6 +121,16 @@ SUMMARY:Stromal and Luminal Regulation of the Gut Stem Cell Niche in Adapta
  tion and Carcinogenesis
 END:VEVENT
 BEGIN:VEVENT
+UID:7971@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191223T120000
+DTEND;TZID=America/Chicago:20191223T130000
+DESCRIPTION:Speakers:\nMatt Wallace\, Washington University\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7971
+DTSTAMP:20191217T153300
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:"Network analysis of microRNAs and target genes in skeletal muscle"
+END:VEVENT
+BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200106T161500
 DTEND;TZID=America/Chicago:20200106T161500
@@ -205,6 +178,16 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:Orphan Receptors at Home in Metabolism: Transcriptional Control of 
  Skeletal Muscle Energy Homeostasis by the Estrogen-related Receptors
+END:VEVENT
+BEGIN:VEVENT
+UID:7969@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T160000
+DTEND;TZID=America/Chicago:20200113T160000
+DESCRIPTION:Speakers:\nSampriti Mukherjee\, Princeton\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7969
+DTSTAMP:20191217T153500
+LOCATION:Rebstock Hall 322
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7471@events.dbbs.wustl
@@ -305,7 +288,7 @@ DTEND;TZID=America/Chicago:20200123T130000
 DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
  Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
  px?EvID=7953
-DTSTAMP:20191217T140934Z
+DTSTAMP:20191218T140934Z
 LOCATION:USA
 SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
   Glioblastoma
@@ -335,6 +318,16 @@ DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
 DTSTAMP:20191216T150300
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
+END:VEVENT
+BEGIN:VEVENT
+UID:7970@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T160000
+DTEND;TZID=America/Chicago:20200127T160000
+DESCRIPTION:Speakers:\nAlexander Meeske\, Rockefeller\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7970
+DTSTAMP:20191217T153500
+LOCATION:Rebstock Hall 322
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7473@events.dbbs.wustl
@@ -1081,32 +1074,6 @@ DTSTAMP:20190822T105200
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7966@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200517T030000
-DTEND;TZID=America/Chicago:20200518T040000
-DESCRIPTION:Speakers:\nMitos\, Aym\n\nDescription:\nFt95 merupakan Situs Ju
- di Online yang memiliki permainan Bandar Bola\, Taruhan\nBola\, Judi Bola 
- Online terpercaya dengan bonus sportsbook terbesar di\nIndonesia. Daftar d
- i sini Website : Situs Judi Bola Online\n\nLink: http://dbbs.wustl.edu/Res
- ources/Pages/calendar_event.aspx?EvID=7966
-DTSTAMP:20191217T140937Z
-LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
-SUMMARY:Situs Judi Bola Online
-END:VEVENT
-BEGIN:VEVENT
-UID:7967@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200517T030000
-DTEND;TZID=America/Chicago:20200518T040000
-DESCRIPTION:Speakers:\nMitos\, CE\n\nDescription:\nFt95 merupakan Situs Jud
- i Online yang memiliki permainan Bandar Bola\, Taruhan\nBola\, Judi Bola O
- nline terpercaya dengan bonus sportsbook terbesar di\nIndonesia. Daftar di
-  sini Website : http://216.83.47.40\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7967
-DTSTAMP:20191217T140937Z
-LOCATION:728 Southwest Tower
-SUMMARY:Situs Judi Bola Online
 END:VEVENT
 BEGIN:VEVENT
 UID:7501@events.dbbs.wustl
@@ -1203,6 +1170,16 @@ SUMMARY:Orphan Receptors at Home in Metabolism: Transcriptional Control of
  Skeletal Muscle Energy Homeostasis by the Estrogen-related Receptors
 END:VEVENT
 BEGIN:VEVENT
+UID:7969@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T160000
+DTEND;TZID=America/Chicago:20200113T160000
+DESCRIPTION:Speakers:\nSampriti Mukherjee\, Princeton\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7969
+DTSTAMP:20191217T153500
+LOCATION:Rebstock Hall 322
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
 UID:7471@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200113T161500
 DTEND;TZID=America/Chicago:20200113T161500
@@ -1301,7 +1278,7 @@ DTEND;TZID=America/Chicago:20200123T130000
 DESCRIPTION:Speakers:\nDr. Aparna Bhaduri\, University of California\, San 
  Francisco\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
  px?EvID=7953
-DTSTAMP:20191217T140937Z
+DTSTAMP:20191218T140937Z
 LOCATION:USA
 SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
   Glioblastoma
@@ -1331,6 +1308,16 @@ DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
 DTSTAMP:20191216T150300
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
+END:VEVENT
+BEGIN:VEVENT
+UID:7970@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T160000
+DTEND;TZID=America/Chicago:20200127T160000
+DESCRIPTION:Speakers:\nAlexander Meeske\, Rockefeller\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7970
+DTSTAMP:20191217T153500
+LOCATION:Rebstock Hall 322
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7473@events.dbbs.wustl
@@ -2077,32 +2064,6 @@ DTSTAMP:20190822T105200
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7966@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200517T030000
-DTEND;TZID=America/Chicago:20200518T040000
-DESCRIPTION:Speakers:\nMitos\, Aym\n\nDescription:\nFt95 merupakan Situs Ju
- di Online yang memiliki permainan Bandar Bola\, Taruhan\nBola\, Judi Bola 
- Online terpercaya dengan bonus sportsbook terbesar di\nIndonesia. Daftar d
- i sini Website : Situs Judi Bola Online\n\nLink: http://dbbs.wustl.edu/Res
- ources/Pages/calendar_event.aspx?EvID=7966
-DTSTAMP:20191217T140939Z
-LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
-SUMMARY:Situs Judi Bola Online
-END:VEVENT
-BEGIN:VEVENT
-UID:7967@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200517T030000
-DTEND;TZID=America/Chicago:20200518T040000
-DESCRIPTION:Speakers:\nMitos\, CE\n\nDescription:\nFt95 merupakan Situs Jud
- i Online yang memiliki permainan Bandar Bola\, Taruhan\nBola\, Judi Bola O
- nline terpercaya dengan bonus sportsbook terbesar di\nIndonesia. Daftar di
-  sini Website : http://216.83.47.40\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7967
-DTSTAMP:20191217T140939Z
-LOCATION:728 Southwest Tower
-SUMMARY:Situs Judi Bola Online
 END:VEVENT
 BEGIN:VEVENT
 UID:7501@events.dbbs.wustl
