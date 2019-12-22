@@ -34,30 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7945@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191220T090000
-DTEND;TZID=America/Chicago:20191220T100000
-DESCRIPTION:Speakers:\nRajeev Aurora\, PhD\, Molecular Microbiology & Immun
- ology\nSaint Louis University\n\nLink: http://dbbs.wustl.edu/Resources/Pag
- es/calendar_event.aspx?EvID=7945
-DTSTAMP:20191211T092900
-LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
-SUMMARY:The effect of ovariectomy and resolution of inflammation on osteoli
- neage differentiation and osteoblast functions
-END:VEVENT
-BEGIN:VEVENT
-UID:7944@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191220T120000
-DTEND;TZID=America/Chicago:20191220T130000
-DESCRIPTION:Speakers:\nDeborah C. Rubin\, MD\, AGAF\, William B. Kountz Pro
- fessor of Medicine\nDivision of Gastroenterology\nWashington University\n\
- nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7944
-DTSTAMP:20191210T102300
-LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
-SUMMARY:Stromal and Luminal Regulation of the Gut Stem Cell Niche in Adapta
- tion and Carcinogenesis
-END:VEVENT
-BEGIN:VEVENT
 UID:7971@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191223T120000
 DTEND;TZID=America/Chicago:20191223T130000
@@ -66,6 +42,17 @@ DESCRIPTION:Speakers:\nMatt Wallace\, Washington University\n\nLink: http:/
 DTSTAMP:20191217T153300
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:"Network analysis of microRNAs and target genes in skeletal muscle"
+END:VEVENT
+BEGIN:VEVENT
+UID:7988@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20191230T120000
+DTEND;TZID=America/Chicago:20191230T130000
+DESCRIPTION:Speakers:\nBritney Ramgopal\, Washington University\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7988
+DTSTAMP:20191222T140933Z
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:"Airway pressure release ventilation in adult and pediatric acute r
+ espiratory distress syndrome"
 END:VEVENT
 BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
@@ -1219,6 +1206,17 @@ DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
 DTSTAMP:20190712T143000
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Stochastic Mechanisms in Membrane Traffic
+END:VEVENT
+BEGIN:VEVENT
+UID:7411@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200527T120000
+DTEND;TZID=America/Chicago:20200527T130000
+DESCRIPTION:Speakers:\nMichael Halassa\, PhD\, Massachusetts Institute of T
+ echnology\n\nDescription:\nHosted by: Dr. Ilya Monosov\n\nLink: http://dbb
+ s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7411
+DTSTAMP:20190806T094600
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Thalamocortical interactions in cognitive control and flexibility
 END:VEVENT
 BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
