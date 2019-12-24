@@ -34,22 +34,12 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7971@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191223T120000
-DTEND;TZID=America/Chicago:20191223T130000
-DESCRIPTION:Speakers:\nMatt Wallace\, Washington University\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7971
-DTSTAMP:20191217T153300
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:"Network analysis of microRNAs and target genes in skeletal muscle"
-END:VEVENT
-BEGIN:VEVENT
 UID:7988@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20191230T120000
 DTEND;TZID=America/Chicago:20191230T130000
 DESCRIPTION:Speakers:\nBritney Ramgopal\, Washington University\n\nLink: ht
  tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7988
-DTSTAMP:20191223T140933Z
+DTSTAMP:20191223T095800
 LOCATION:801 CSRB North Tower Addition
 SUMMARY:"Airway pressure release ventilation in adult and pediatric acute r
  espiratory distress syndrome"
@@ -61,9 +51,9 @@ DTEND;TZID=America/Chicago:20200106T161500
 DESCRIPTION:Speakers:\nDr. Chyi Song Hsieh\, WUSM\nDepartment of Internal M
  edicine - Rheumatology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
  ndar_event.aspx?EvID=7470
-DTSTAMP:20190816T130400
+DTSTAMP:20191223T142800
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:Intestinal immunity to bugs n pie
 END:VEVENT
 BEGIN:VEVENT
 UID:7975@events.dbbs.wustl
@@ -114,6 +104,17 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:Orphan Receptors at Home in Metabolism: Transcriptional Control of 
  Skeletal Muscle Energy Homeostasis by the Estrogen-related Receptors
+END:VEVENT
+BEGIN:VEVENT
+UID:7989@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200110T090000
+DTEND;TZID=America/Chicago:20200110T100000
+DESCRIPTION:Speakers:\nKatherine Weilbaecher\, M.D.\, Department of Medicin
+ e\, Division of Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
+ lendar_event.aspx?EvID=7989
+DTSTAMP:20191223T142300
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Bone Targeted Therapies for Breast Cancer
 END:VEVENT
 BEGIN:VEVENT
 UID:7969@events.dbbs.wustl
@@ -380,10 +381,10 @@ DESCRIPTION:Speakers:\nGuillermo Torre-Amione\, MD\, PhD\, Professor of Car
                                       
        Weill Cornell Medical College\n\nLink: http://dbbs.wustl.edu/Re
  sources/Pages/calendar_event.aspx?EvID=7539
-DTSTAMP:20190822T104600
+DTSTAMP:20191223T172700
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:CBD: A new “Wave” for Heart Failure Therapy
 END:VEVENT
 BEGIN:VEVENT
 UID:7957@events.dbbs.wustl
@@ -1225,9 +1226,9 @@ DTEND;TZID=America/Chicago:20200106T161500
 DESCRIPTION:Speakers:\nDr. Chyi Song Hsieh\, WUSM\nDepartment of Internal M
  edicine - Rheumatology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
  ndar_event.aspx?EvID=7470
-DTSTAMP:20190816T130400
+DTSTAMP:20191223T142800
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+SUMMARY:Intestinal immunity to bugs n pie
 END:VEVENT
 BEGIN:VEVENT
 UID:7975@events.dbbs.wustl
@@ -1278,6 +1279,17 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:Orphan Receptors at Home in Metabolism: Transcriptional Control of 
  Skeletal Muscle Energy Homeostasis by the Estrogen-related Receptors
+END:VEVENT
+BEGIN:VEVENT
+UID:7989@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200110T090000
+DTEND;TZID=America/Chicago:20200110T100000
+DESCRIPTION:Speakers:\nKatherine Weilbaecher\, M.D.\, Department of Medicin
+ e\, Division of Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
+ lendar_event.aspx?EvID=7989
+DTSTAMP:20191223T142300
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:Bone Targeted Therapies for Breast Cancer
 END:VEVENT
 BEGIN:VEVENT
 UID:7969@events.dbbs.wustl
@@ -1544,10 +1556,10 @@ DESCRIPTION:Speakers:\nGuillermo Torre-Amione\, MD\, PhD\, Professor of Car
                                       
        Weill Cornell Medical College\n\nLink: http://dbbs.wustl.edu/Re
  sources/Pages/calendar_event.aspx?EvID=7539
-DTSTAMP:20190822T104600
+DTSTAMP:20191223T172700
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:CBD: A new “Wave” for Heart Failure Therapy
 END:VEVENT
 BEGIN:VEVENT
 UID:7957@events.dbbs.wustl
