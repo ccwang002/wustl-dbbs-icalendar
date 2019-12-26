@@ -2395,15 +2395,15 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Thalamocortical interactions in cognitive control and flexibility
 END:VEVENT
 BEGIN:VEVENT
-UID:7408@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20201112T160000
-DTEND;TZID=America/Chicago:20201112T160000
-DESCRIPTION:Speakers:\nLarry Abbott\, PhD\, Columbia University Medical Cen
- ter\n\nDescription:\n60th Robert J. Terry Lecture hosted by Dr. Paul Taghe
- rt\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
- =7408
-DTSTAMP:20190731T145800
-LOCATION:Location TBD
-SUMMARY:Title TBD
+UID:7990@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200617T090000
+DTEND;TZID=America/Chicago:20200619T180000
+DESCRIPTION:Speakers:\nMagnus s Magnusson\, University of Iceland\nRegenera
+ tive Medicine Conferences\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7990
+DTSTAMP:20191226T140940Z
+LOCATION:Radisson Hotel Oakland Airport\,8400 Edes Avenue\, Oakland\, CA\, 
+ 94621\, USA
+SUMMARY:Regenerative Medicine Conferences
 END:VEVENT
 END:VCALENDAR
