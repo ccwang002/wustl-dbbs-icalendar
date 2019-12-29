@@ -466,6 +466,18 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7991@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T160000
+DTEND;TZID=America/Chicago:20200206T170000
+DESCRIPTION:Speakers:\nJunyue Cao\, PhD\, Department of Genome Sciences\nUn
+ iversity of Washington\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=7991
+DTSTAMP:20191229T140935Z
+LOCATION:Holden Auditorium
+SUMMARY:Global\, organism-scale views of cell state heterogeneity & dynamic
+ s via novel single cell profiling techniques
+END:VEVENT
+BEGIN:VEVENT
 UID:7961@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200210T120000
 DTEND;TZID=America/Chicago:20200210T130000
@@ -1207,17 +1219,6 @@ DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
 DTSTAMP:20190712T143000
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Stochastic Mechanisms in Membrane Traffic
-END:VEVENT
-BEGIN:VEVENT
-UID:7411@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200527T120000
-DTEND;TZID=America/Chicago:20200527T130000
-DESCRIPTION:Speakers:\nMichael Halassa\, PhD\, Massachusetts Institute of T
- echnology\n\nDescription:\nHosted by: Dr. Ilya Monosov\n\nLink: http://dbb
- s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7411
-DTSTAMP:20190806T094600
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Thalamocortical interactions in cognitive control and flexibility
 END:VEVENT
 BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
@@ -1641,6 +1642,18 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7991@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T160000
+DTEND;TZID=America/Chicago:20200206T170000
+DESCRIPTION:Speakers:\nJunyue Cao\, PhD\, Department of Genome Sciences\nUn
+ iversity of Washington\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=7991
+DTSTAMP:20191229T140939Z
+LOCATION:Holden Auditorium
+SUMMARY:Global\, organism-scale views of cell state heterogeneity & dynamic
+ s via novel single cell profiling techniques
+END:VEVENT
+BEGIN:VEVENT
 UID:7961@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200210T120000
 DTEND;TZID=America/Chicago:20200210T130000
@@ -2393,17 +2406,5 @@ DESCRIPTION:Speakers:\nMichael Halassa\, PhD\, Massachusetts Institute of T
 DTSTAMP:20190806T094600
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Thalamocortical interactions in cognitive control and flexibility
-END:VEVENT
-BEGIN:VEVENT
-UID:7990@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200617T090000
-DTEND;TZID=America/Chicago:20200619T180000
-DESCRIPTION:Speakers:\nMagnus s Magnusson\, University of Iceland\nRegenera
- tive Medicine Conferences\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
- alendar_event.aspx?EvID=7990
-DTSTAMP:20191227T140940Z
-LOCATION:Radisson Hotel Oakland Airport\,8400 Edes Avenue\, Oakland\, CA\, 
- 94621\, USA
-SUMMARY:Regenerative Medicine Conferences
 END:VEVENT
 END:VCALENDAR
