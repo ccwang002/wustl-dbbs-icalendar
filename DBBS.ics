@@ -34,15 +34,24 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7988@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20191230T120000
-DTEND;TZID=America/Chicago:20191230T130000
-DESCRIPTION:Speakers:\nBritney Ramgopal\, Washington University\n\nLink: ht
- tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7988
-DTSTAMP:20191223T095800
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:"Airway pressure release ventilation in adult and pediatric acute r
- espiratory distress syndrome"
+UID:7994@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200106T120000
+DTEND;TZID=America/Chicago:20200106T130000
+DESCRIPTION:Speakers:\nAna Maria Arbelaez\, MD\, WashU Pediatrics\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7994
+DTSTAMP:20191231T140933Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:7995@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200106T120000
+DTEND;TZID=America/Chicago:20200106T130000
+DESCRIPTION:Speakers:\nAna Maria Arbelaez\, MD\, WashU Pediatrics\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7995
+DTSTAMP:20191231T140933Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
@@ -81,6 +90,18 @@ SUMMARY:Metabolic regulation of the Drosophila male germline stem cell nich
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:7992@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200109T090000
+DTEND;TZID=America/Chicago:20200109T100000
+DESCRIPTION:Speakers:\nDr. Megan Spurgeon\, Department of Oncology\, Univer
+ sity of Wisconsin-Madison\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7992
+DTSTAMP:20191231T140933Z
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Novel Preclinical Models to Study HPV-Associated Pathogenesis and D
+ isease in the Female Reproductive Tract
+END:VEVENT
+BEGIN:VEVENT
 UID:7337@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200109T120000
 DTEND;TZID=America/Chicago:20200109T130000
@@ -115,6 +136,26 @@ DESCRIPTION:Speakers:\nKatherine Weilbaecher\, M.D.\, Department of Medicin
 DTSTAMP:20191223T142300
 LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Bone Targeted Therapies for Breast Cancer
+END:VEVENT
+BEGIN:VEVENT
+UID:7996@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T120000
+DTEND;TZID=America/Chicago:20200113T130000
+DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, WashU Radiology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7996
+DTSTAMP:20191231T140933Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:7997@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T120000
+DTEND;TZID=America/Chicago:20200113T130000
+DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, WashU Radiology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7997
+DTSTAMP:20191231T140933Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7969@events.dbbs.wustl
@@ -256,6 +297,17 @@ SUMMARY:Optogenetic dissection of local and long-range functional connectiv
  ity of prefrontal cortical circuits
 END:VEVENT
 BEGIN:VEVENT
+UID:7993@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T110000
+DTEND;TZID=America/Chicago:20200123T120000
+DESCRIPTION:Speakers:\nDr. Patrick Mitchell\, Department of Molecular & Cel
+ l Biology\nUniversity of California\, Berkeley\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7993
+DTSTAMP:20191231T140934Z
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:"Innate Immune Sensing of Pathogen-Specific Activities"
+END:VEVENT
+BEGIN:VEVENT
 UID:7341@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200123T120000
 DTEND;TZID=America/Chicago:20200123T130000
@@ -302,6 +354,17 @@ DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
 DTSTAMP:20191216T150300
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
+END:VEVENT
+BEGIN:VEVENT
+UID:7998@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T120000
+DTEND;TZID=America/Chicago:20200127T130000
+DESCRIPTION:Speakers:\nWilliam Kreisl\, MD\, Columbia University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7998
+DTSTAMP:20191231T140934Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:“What can PET imaging of translocator protein 18 kDa (TSPO) teach
+  us about Alzheimer's disease?”
 END:VEVENT
 BEGIN:VEVENT
 UID:7970@events.dbbs.wustl
@@ -397,6 +460,16 @@ LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Control of Hedgehog Signaling by Sterols
 END:VEVENT
 BEGIN:VEVENT
+UID:7999@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T120000
+DTEND;TZID=America/Chicago:20200203T130000
+DESCRIPTION:Speakers:\nJoel Perlmutter\, MD\, WashU Neurology\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7999
+DTSTAMP:20191231T140935Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
 UID:7475@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200203T161500
 DTEND;TZID=America/Chicago:20200203T161500
@@ -472,7 +545,7 @@ DTEND;TZID=America/Chicago:20200206T170000
 DESCRIPTION:Speakers:\nJunyue Cao\, PhD\, Department of Genome Sciences\nUn
  iversity of Washington\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
  ndar_event.aspx?EvID=7991
-DTSTAMP:20191230T140935Z
+DTSTAMP:20191230T110000
 LOCATION:Holden Auditorium
 SUMMARY:Global\, organism-scale views of cell state heterogeneity & dynamic
  s via novel single cell profiling techniques
@@ -1131,94 +1204,24 @@ LOCATION:Moore Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:7500@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200504T161500
-DTEND;TZID=America/Chicago:20200504T161500
-DESCRIPTION:Speakers:\nDr. Elina Zuniga\, University of California – San 
- Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=7500
-DTSTAMP:20190816T130100
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
+UID:7994@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200106T120000
+DTEND;TZID=America/Chicago:20200106T130000
+DESCRIPTION:Speakers:\nAna Maria Arbelaez\, MD\, WashU Pediatrics\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7994
+DTSTAMP:20191231T140937Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
-UID:7335@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200506T120000
-DTEND;TZID=America/Chicago:20200506T130000
-DESCRIPTION:Speakers:\nMark Churchland\, PhD\, Columbia University\n\nDescr
- iption:\nHosted by: Russell Moore and DON Trainees\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7335
-DTSTAMP:20190712T141800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Motor cortex and the generation of voluntary movement
-END:VEVENT
-BEGIN:VEVENT
-UID:7554@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200507T160000
-DTEND;TZID=America/Chicago:20200507T170000
-DESCRIPTION:Speakers:\nCarlos Fernández-Hernando\, PhD\, Professor\, Vascu
- lar Biology & Therapeutics Program                    
-     Yale University School of Medicine\n\nLink: http://dbbs.wustl.edu/R
- esources/Pages/calendar_event.aspx?EvID=7554
-DTSTAMP:20190828T113300
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:Novel insights into the molecular and cellular mechanism regulating
-  of cholesterol metabolism and atherosclerosis
-END:VEVENT
-BEGIN:VEVENT
-UID:7314@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200513T120000
-DTEND;TZID=America/Chicago:20200513T130000
-DESCRIPTION:Speakers:\nMichael Platt\, PhD\, Perelman School of Medicine Un
- iversity of Pennsylvania\n\nDescription:\nHosted by: Dr. Kari Allen\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7314
-DTSTAMP:20190712T142900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Monkey Business: Modeling the Biology of Complex Human Social Decis
- ions
-END:VEVENT
-BEGIN:VEVENT
-UID:7555@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200514T160000
-DTEND;TZID=America/Chicago:20200514T170000
-DESCRIPTION:Speakers:\nSaptarsi Haldar\, MD\, Vice President\, Research  
-                                      
-                       Head\, Cardiometabolic Disorder
- s                                    
-            Amgen                        
-                                      
-                         Visiting Professor of Medic
- ine\, UCSF School of Medicine                      
-                                      
-       Visiting Faculty\, Gladstone Institutes\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7555
-DTSTAMP:20190822T105200
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7501@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200518T161500
-DTEND;TZID=America/Chicago:20200518T161500
-DESCRIPTION:Speakers:\nDr. Haina Shin\, WUSM\nDepartment of Internal Medici
- ne – Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
- calendar_event.aspx?EvID=7501
-DTSTAMP:20190816T130200
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7315@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200520T120000
-DTEND;TZID=America/Chicago:20200520T130000
-DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
- tin\n\nDescription:\nHosted by: Dr. Mike Nonet\n\nLink: http://dbbs.wustl.
- edu/Resources/Pages/calendar_event.aspx?EvID=7315
-DTSTAMP:20190712T143000
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Stochastic Mechanisms in Membrane Traffic
+UID:7995@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200106T120000
+DTEND;TZID=America/Chicago:20200106T130000
+DESCRIPTION:Speakers:\nAna Maria Arbelaez\, MD\, WashU Pediatrics\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7995
+DTSTAMP:20191231T140937Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7470@events.dbbs.wustl
@@ -1257,6 +1260,18 @@ SUMMARY:Metabolic regulation of the Drosophila male germline stem cell nich
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:7992@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200109T090000
+DTEND;TZID=America/Chicago:20200109T100000
+DESCRIPTION:Speakers:\nDr. Megan Spurgeon\, Department of Oncology\, Univer
+ sity of Wisconsin-Madison\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=7992
+DTSTAMP:20191231T140937Z
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Novel Preclinical Models to Study HPV-Associated Pathogenesis and D
+ isease in the Female Reproductive Tract
+END:VEVENT
+BEGIN:VEVENT
 UID:7337@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200109T120000
 DTEND;TZID=America/Chicago:20200109T130000
@@ -1291,6 +1306,26 @@ DESCRIPTION:Speakers:\nKatherine Weilbaecher\, M.D.\, Department of Medicin
 DTSTAMP:20191223T142300
 LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:Bone Targeted Therapies for Breast Cancer
+END:VEVENT
+BEGIN:VEVENT
+UID:7996@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T120000
+DTEND;TZID=America/Chicago:20200113T130000
+DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, WashU Radiology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7996
+DTSTAMP:20191231T140938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:7997@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T120000
+DTEND;TZID=America/Chicago:20200113T130000
+DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, WashU Radiology\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7997
+DTSTAMP:20191231T140938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7969@events.dbbs.wustl
@@ -1432,6 +1467,17 @@ SUMMARY:Optogenetic dissection of local and long-range functional connectiv
  ity of prefrontal cortical circuits
 END:VEVENT
 BEGIN:VEVENT
+UID:7993@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T110000
+DTEND;TZID=America/Chicago:20200123T120000
+DESCRIPTION:Speakers:\nDr. Patrick Mitchell\, Department of Molecular & Cel
+ l Biology\nUniversity of California\, Berkeley\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7993
+DTSTAMP:20191231T140938Z
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:"Innate Immune Sensing of Pathogen-Specific Activities"
+END:VEVENT
+BEGIN:VEVENT
 UID:7341@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200123T120000
 DTEND;TZID=America/Chicago:20200123T130000
@@ -1478,6 +1524,17 @@ DESCRIPTION:Speakers:\nDr. Antoine de Morree\, Stanford University\n\nLink:
 DTSTAMP:20191216T150300
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Post-transcriptional control of muscle stem cell function
+END:VEVENT
+BEGIN:VEVENT
+UID:7998@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T120000
+DTEND;TZID=America/Chicago:20200127T130000
+DESCRIPTION:Speakers:\nWilliam Kreisl\, MD\, Columbia University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7998
+DTSTAMP:20191231T140938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:“What can PET imaging of translocator protein 18 kDa (TSPO) teach
+  us about Alzheimer's disease?”
 END:VEVENT
 BEGIN:VEVENT
 UID:7970@events.dbbs.wustl
@@ -1573,6 +1630,16 @@ LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Control of Hedgehog Signaling by Sterols
 END:VEVENT
 BEGIN:VEVENT
+UID:7999@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T120000
+DTEND;TZID=America/Chicago:20200203T130000
+DESCRIPTION:Speakers:\nJoel Perlmutter\, MD\, WashU Neurology\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7999
+DTSTAMP:20191231T140938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
 UID:7475@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200203T161500
 DTEND;TZID=America/Chicago:20200203T161500
@@ -1648,7 +1715,7 @@ DTEND;TZID=America/Chicago:20200206T170000
 DESCRIPTION:Speakers:\nJunyue Cao\, PhD\, Department of Genome Sciences\nUn
  iversity of Washington\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
  ndar_event.aspx?EvID=7991
-DTSTAMP:20191230T140938Z
+DTSTAMP:20191230T110000
 LOCATION:Holden Auditorium
 SUMMARY:Global\, organism-scale views of cell state heterogeneity & dynamic
  s via novel single cell profiling techniques
@@ -2305,106 +2372,5 @@ DESCRIPTION:Speakers:\n23rd Annual Donald C. Shreffler Memorial Lecture pre
 DTSTAMP:20191004T150000
 LOCATION:Moore Auditorium
 SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7500@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200504T161500
-DTEND;TZID=America/Chicago:20200504T161500
-DESCRIPTION:Speakers:\nDr. Elina Zuniga\, University of California – San 
- Diego\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=7500
-DTSTAMP:20190816T130100
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7335@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200506T120000
-DTEND;TZID=America/Chicago:20200506T130000
-DESCRIPTION:Speakers:\nMark Churchland\, PhD\, Columbia University\n\nDescr
- iption:\nHosted by: Russell Moore and DON Trainees\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7335
-DTSTAMP:20190712T141800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Motor cortex and the generation of voluntary movement
-END:VEVENT
-BEGIN:VEVENT
-UID:7554@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200507T160000
-DTEND;TZID=America/Chicago:20200507T170000
-DESCRIPTION:Speakers:\nCarlos Fernández-Hernando\, PhD\, Professor\, Vascu
- lar Biology & Therapeutics Program                    
-     Yale University School of Medicine\n\nLink: http://dbbs.wustl.edu/R
- esources/Pages/calendar_event.aspx?EvID=7554
-DTSTAMP:20190828T113300
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:Novel insights into the molecular and cellular mechanism regulating
-  of cholesterol metabolism and atherosclerosis
-END:VEVENT
-BEGIN:VEVENT
-UID:7314@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200513T120000
-DTEND;TZID=America/Chicago:20200513T130000
-DESCRIPTION:Speakers:\nMichael Platt\, PhD\, Perelman School of Medicine Un
- iversity of Pennsylvania\n\nDescription:\nHosted by: Dr. Kari Allen\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7314
-DTSTAMP:20190712T142900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Monkey Business: Modeling the Biology of Complex Human Social Decis
- ions
-END:VEVENT
-BEGIN:VEVENT
-UID:7555@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200514T160000
-DTEND;TZID=America/Chicago:20200514T170000
-DESCRIPTION:Speakers:\nSaptarsi Haldar\, MD\, Vice President\, Research  
-                                      
-                       Head\, Cardiometabolic Disorder
- s                                    
-            Amgen                        
-                                      
-                         Visiting Professor of Medic
- ine\, UCSF School of Medicine                      
-                                      
-       Visiting Faculty\, Gladstone Institutes\n\nLink: http://dbbs.wu
- stl.edu/Resources/Pages/calendar_event.aspx?EvID=7555
-DTSTAMP:20190822T105200
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7501@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200518T161500
-DTEND;TZID=America/Chicago:20200518T161500
-DESCRIPTION:Speakers:\nDr. Haina Shin\, WUSM\nDepartment of Internal Medici
- ne – Infectious Diseases\n\nLink: http://dbbs.wustl.edu/Resources/Pages/
- calendar_event.aspx?EvID=7501
-DTSTAMP:20190816T130200
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7315@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200520T120000
-DTEND;TZID=America/Chicago:20200520T130000
-DESCRIPTION:Speakers:\nJeanne Stachowiak\, PhD\, University of Texas at Aus
- tin\n\nDescription:\nHosted by: Dr. Mike Nonet\n\nLink: http://dbbs.wustl.
- edu/Resources/Pages/calendar_event.aspx?EvID=7315
-DTSTAMP:20190712T143000
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Stochastic Mechanisms in Membrane Traffic
-END:VEVENT
-BEGIN:VEVENT
-UID:7411@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200527T120000
-DTEND;TZID=America/Chicago:20200527T130000
-DESCRIPTION:Speakers:\nMichael Halassa\, PhD\, Massachusetts Institute of T
- echnology\n\nDescription:\nHosted by: Dr. Ilya Monosov\n\nLink: http://dbb
- s.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7411
-DTSTAMP:20190806T094600
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Thalamocortical interactions in cognitive control and flexibility
 END:VEVENT
 END:VCALENDAR
