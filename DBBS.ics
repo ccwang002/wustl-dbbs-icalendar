@@ -39,7 +39,7 @@ DTSTART;TZID=America/Chicago:20200106T120000
 DTEND;TZID=America/Chicago:20200106T130000
 DESCRIPTION:Speakers:\nAna Maria Arbelaez\, MD\, WashU Pediatrics\n\nLink: 
  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7994
-DTSTAMP:20200101T140933Z
+DTSTAMP:20200102T140933Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
@@ -49,7 +49,7 @@ DTSTART;TZID=America/Chicago:20200106T120000
 DTEND;TZID=America/Chicago:20200106T130000
 DESCRIPTION:Speakers:\nAna Maria Arbelaez\, MD\, WashU Pediatrics\n\nLink: 
  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7995
-DTSTAMP:20200101T140933Z
+DTSTAMP:20200102T140933Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
@@ -96,7 +96,7 @@ DTEND;TZID=America/Chicago:20200109T100000
 DESCRIPTION:Speakers:\nDr. Megan Spurgeon\, Department of Oncology\, Univer
  sity of Wisconsin-Madison\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
  alendar_event.aspx?EvID=7992
-DTSTAMP:20200101T140933Z
+DTSTAMP:20200102T140933Z
 LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
 SUMMARY:Novel Preclinical Models to Study HPV-Associated Pathogenesis and D
  isease in the Female Reproductive Tract
@@ -143,7 +143,7 @@ DTSTART;TZID=America/Chicago:20200113T120000
 DTEND;TZID=America/Chicago:20200113T130000
 DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, WashU Radiology\n\nLink: http:/
  /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7996
-DTSTAMP:20200101T140933Z
+DTSTAMP:20200102T140933Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
@@ -153,7 +153,7 @@ DTSTART;TZID=America/Chicago:20200113T120000
 DTEND;TZID=America/Chicago:20200113T130000
 DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, WashU Radiology\n\nLink: http:/
  /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7997
-DTSTAMP:20200101T140933Z
+DTSTAMP:20200102T140933Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
@@ -303,7 +303,7 @@ DTEND;TZID=America/Chicago:20200123T120000
 DESCRIPTION:Speakers:\nDr. Patrick Mitchell\, Department of Molecular & Cel
  l Biology\nUniversity of California\, Berkeley\n\nLink: http://dbbs.wustl.
  edu/Resources/Pages/calendar_event.aspx?EvID=7993
-DTSTAMP:20200101T140934Z
+DTSTAMP:20200102T140934Z
 LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
 SUMMARY:"Innate Immune Sensing of Pathogen-Specific Activities"
 END:VEVENT
@@ -361,7 +361,7 @@ DTSTART;TZID=America/Chicago:20200127T120000
 DTEND;TZID=America/Chicago:20200127T130000
 DESCRIPTION:Speakers:\nWilliam Kreisl\, MD\, Columbia University\n\nLink: h
  ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7998
-DTSTAMP:20200101T140934Z
+DTSTAMP:20200102T140934Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:“What can PET imaging of translocator protein 18 kDa (TSPO) teach
   us about Alzheimer's disease?”
@@ -465,7 +465,7 @@ DTSTART;TZID=America/Chicago:20200203T120000
 DTEND;TZID=America/Chicago:20200203T130000
 DESCRIPTION:Speakers:\nJoel Perlmutter\, MD\, WashU Neurology\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7999
-DTSTAMP:20200101T140935Z
+DTSTAMP:20200102T140935Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
@@ -1219,7 +1219,7 @@ DTSTART;TZID=America/Chicago:20200203T120000
 DTEND;TZID=America/Chicago:20200203T130000
 DESCRIPTION:Speakers:\nJoel Perlmutter\, MD\, WashU Neurology\n\nLink: http
  ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7999
-DTSTAMP:20200101T140937Z
+DTSTAMP:20200102T140937Z
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
