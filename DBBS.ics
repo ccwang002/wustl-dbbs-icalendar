@@ -34,49 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8000@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200106T090000
-DTEND;TZID=America/Chicago:20200106T103000
-DESCRIPTION:Speakers:\nMelissa Marshall\, Present Your Science & Penn State
-  University\n\nDescription:\nCPD Present Your Science: Transforming Techni
- cal Talks Presented by the\nClinical Research Training Center January 6\, 
- 2020 9 - 10:30 a.m. Farrell\nLearning & Teaching Center Holden Auditorium 
- Melissa Marshall is on a mission:\nto transform how scientists present the
- ir work. That’s because she believes\nthat even the best science is dest
- ined to remain undiscovered unless it’s\npresented in a clear and compel
- ling way that sparks innovation and drives\nadoption. Melissa is also a dy
- namic speaker who has lectured at Harvard\nMedical School\, NASA\, and the
-  Centers for Disease Control and Prevention\n(CDC). For a sneak peek\, che
- ck out her TED talk\, “Talk Nerdy to Me." It’s been\nwatched by more t
- han 2 million people (and counting). RSPV Required at\njleggett@wustl.edu\
- n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=80
- 00
-DTSTAMP:20200102T172400
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Present Your Science: Transforming Technical Talks
-END:VEVENT
-BEGIN:VEVENT
-UID:7995@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200106T120000
-DTEND;TZID=America/Chicago:20200106T130000
-DESCRIPTION:Speakers:\nAna Maria Arbelaez\, MD\, WashU Pediatrics\n\nLink: 
- http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7995
-DTSTAMP:20200102T084400
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:"TBA"
-END:VEVENT
-BEGIN:VEVENT
-UID:7470@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200106T161500
-DTEND;TZID=America/Chicago:20200106T161500
-DESCRIPTION:Speakers:\nDr. Chyi Song Hsieh\, WUSM\nDepartment of Internal M
- edicine - Rheumatology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
- ndar_event.aspx?EvID=7470
-DTSTAMP:20191223T142800
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:Intestinal immunity to bugs n pie
-END:VEVENT
-BEGIN:VEVENT
 UID:7975@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200107T120000
 DTEND;TZID=America/Chicago:20200107T130000
@@ -204,6 +161,17 @@ LOCATION:Rebstock Hall 322
 SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
+UID:8012@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T160000
+DTEND;TZID=America/Chicago:20200113T170000
+DESCRIPTION:Speakers:\nSampriti Mukherjee\, Princeton University\n\nLink: h
+ ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8012
+DTSTAMP:20200107T140934Z
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Photo sensing and quorum sensing converge to control bacterial coll
+ ective behaviors
+END:VEVENT
+BEGIN:VEVENT
 UID:7471@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200113T161500
 DTEND;TZID=America/Chicago:20200113T161500
@@ -295,6 +263,17 @@ DTSTAMP:20200102T172400
 LOCATION:McDonnell Medical Sciences Building\, Room 100
 SUMMARY:Practical Steps for Increasing Openness and Reproducibility: A Day 
  of Open Science
+END:VEVENT
+BEGIN:VEVENT
+UID:8010@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200116T120000
+DTEND;TZID=America/Chicago:20200116T120000
+DESCRIPTION:Speakers:\nHyo Sik "Josh" Jang\, Molecular Genetics and Genomic
+ s Program\nLaboratory of Dr. Ting Wang\nDepartment of Genetics\n\nLink: ht
+ tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8010
+DTSTAMP:20200107T140934Z
+LOCATION:Couch Building 4001B
+SUMMARY:Epigenetic dynamics in normal and disease models
 END:VEVENT
 BEGIN:VEVENT
 UID:8006@events.dbbs.wustl
@@ -467,6 +446,17 @@ SUMMARY:Understanding Cell Type Identity in The Developing Human Cortex and
   Glioblastoma
 END:VEVENT
 BEGIN:VEVENT
+UID:8011@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T140000
+DTEND;TZID=America/Chicago:20200123T160000
+DESCRIPTION:Speakers:\nAndrew Hagan\, Developmental\, Regenerative and Stem
+  Cell Biology Program - Lab of Dr. David Ornitz\n\nLink: http://dbbs.wustl
+ .edu/Resources/Pages/calendar_event.aspx?EvID=8011
+DTSTAMP:20200107T140935Z
+LOCATION:Needleman Library\, Cnf Room 3907
+SUMMARY:FGF18 in Postnatal Lung Development
+END:VEVENT
+BEGIN:VEVENT
 UID:7580@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200123T160000
 DTEND;TZID=America/Chicago:20200123T170000
@@ -524,6 +514,17 @@ DESCRIPTION:Speakers:\nAlexander Meeske\, Rockefeller\n\nLink: http://dbbs.
 DTSTAMP:20191217T153500
 LOCATION:Rebstock Hall 322
 SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:8013@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T160000
+DTEND;TZID=America/Chicago:20200127T170000
+DESCRIPTION:Speakers:\nAlexander Meeske\, The Rockefeller University\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8013
+DTSTAMP:20200107T140935Z
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Molecular mechanisms of anti-viral immunity by RNA-targeting CRISPR
+ -Cas systems
 END:VEVENT
 BEGIN:VEVENT
 UID:7473@events.dbbs.wustl
@@ -614,6 +615,17 @@ DESCRIPTION:Speakers:\nJoel Perlmutter\, MD\, WashU Neurology\n\nLink: http
 DTSTAMP:20200102T084500
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:8014@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T160000
+DTEND;TZID=America/Chicago:20200203T170000
+DESCRIPTION:Speakers:\nChristopher Arnold\, HHMI/Stowers Institute for Medi
+ cal Research\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=8014
+DTSTAMP:20200107T140935Z
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Size-dependent changes in tissue patterning and function
 END:VEVENT
 BEGIN:VEVENT
 UID:7475@events.dbbs.wustl
@@ -815,6 +827,17 @@ DTSTAMP:20191216T150600
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:An adhesion code ensures robust pattern formation during tissue mor
  phogenesis
+END:VEVENT
+BEGIN:VEVENT
+UID:8015@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200224T160000
+DTEND;TZID=America/Chicago:20200224T170000
+DESCRIPTION:Speakers:\nLauren Booth\, Stanford University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8015
+DTSTAMP:20200107T140936Z
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Sexual interactions induce early death in nematodes: strategies and
+  counter-strategies
 END:VEVENT
 BEGIN:VEVENT
 UID:7481@events.dbbs.wustl
@@ -1234,42 +1257,6 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Systematic representations for olfaction and action in cortex
 END:VEVENT
 BEGIN:VEVENT
-UID:7551@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200416T000000
-DTEND;TZID=America/Chicago:20200416T235900
-DESCRIPTION:Speakers:\nCalum Macrae\, MD\, PhD\, Vice Chair\, Scientific In
- novation Department of Medicine\, Brigham and Women's Hospital      
-                                      
-                         Harvard Medical School\n\nD
- escription:\nGrand Rounds 8am in Clopton Auditorium and CCR Seminar Series
-  4-5pm in CSRB-\nNTA 801\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
- lendar_event.aspx?EvID=7551
-DTSTAMP:20190822T105100
-LOCATION:Clopton Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7358@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200416T170000
-DTEND;TZID=America/Chicago:20200416T180000
-DESCRIPTION:Speakers:\nDr. Seth Blackshaw\, Johns Hopkins\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7358
-DTSTAMP:20191014T155200
-LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7496@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200420T161500
-DTEND;TZID=America/Chicago:20200420T161500
-DESCRIPTION:Speakers:\nDr. Antonio Lanzavecchia\, ETH Zurich - Institute fo
- r Research in Biomedicine\n\nDescription:\nLacy Lecture\n\nLink: http://db
- bs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7496
-DTSTAMP:20190816T130300
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
 UID:7957@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200203T120000
 DTEND;TZID=America/Chicago:20200203T130000
@@ -1288,6 +1275,17 @@ DESCRIPTION:Speakers:\nJoel Perlmutter\, MD\, WashU Neurology\n\nLink: http
 DTSTAMP:20200102T084500
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
+END:VEVENT
+BEGIN:VEVENT
+UID:8014@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200203T160000
+DTEND;TZID=America/Chicago:20200203T170000
+DESCRIPTION:Speakers:\nChristopher Arnold\, HHMI/Stowers Institute for Medi
+ cal Research\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=8014
+DTSTAMP:20200107T140938Z
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Size-dependent changes in tissue patterning and function
 END:VEVENT
 BEGIN:VEVENT
 UID:7475@events.dbbs.wustl
@@ -1489,6 +1487,17 @@ DTSTAMP:20191216T150600
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:An adhesion code ensures robust pattern formation during tissue mor
  phogenesis
+END:VEVENT
+BEGIN:VEVENT
+UID:8015@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200224T160000
+DTEND;TZID=America/Chicago:20200224T170000
+DESCRIPTION:Speakers:\nLauren Booth\, Stanford University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8015
+DTSTAMP:20200107T140938Z
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Sexual interactions induce early death in nematodes: strategies and
+  counter-strategies
 END:VEVENT
 BEGIN:VEVENT
 UID:7481@events.dbbs.wustl
