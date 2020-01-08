@@ -34,31 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7975@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200107T120000
-DTEND;TZID=America/Chicago:20200107T130000
-DESCRIPTION:Speakers:\nChao Wang\, PhD\, Postdoctoral Research Associate\, 
- Holtzman Lab\, Washington University\n\nLink: http://dbbs.wustl.edu/Resour
- ces/Pages/calendar_event.aspx?EvID=7975
-DTSTAMP:20191219T112300
-LOCATION:East Pavilion Auditorium
-SUMMARY:Understanding the Effect of Apolipoprotein E on Tau-mediated Neurod
- egeneration
-END:VEVENT
-BEGIN:VEVENT
-UID:7937@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200107T150000
-DTEND;TZID=America/Chicago:20200107T160000
-DESCRIPTION:Speakers:\nRafael S. Demarco\, Ph.D.\, Department of Molecular\
- , Cell and Developmental Biology\, University of California\, Los Angeles\
- n\nDescription:\nFaculty Candidate Seminar\n\nLink: http://dbbs.wustl.edu/
- Resources/Pages/calendar_event.aspx?EvID=7937
-DTSTAMP:20191206T090400
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Metabolic regulation of the Drosophila male germline stem cell nich
- e
-END:VEVENT
-BEGIN:VEVENT
 UID:7992@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200109T090000
 DTEND;TZID=America/Chicago:20200109T100000
@@ -98,9 +73,10 @@ DTSTART;TZID=America/Chicago:20200109T120000
 DTEND;TZID=America/Chicago:20200109T130000
 DESCRIPTION:Speakers:\nDr. Carla Siegfried\, Washington University\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7337
-DTSTAMP:20190906T090900
+DTSTAMP:20200107T145900
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:Racial Disparities of Open Angle Glaucoma: “seq” and you shall 
+ find…Insights on genetic and pathophysiology
 END:VEVENT
 BEGIN:VEVENT
 UID:7536@events.dbbs.wustl
@@ -151,6 +127,17 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
+UID:8023@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200113T120000
+DTEND;TZID=America/Chicago:20200113T130000
+DESCRIPTION:Speakers:\nLeyao Wang\, Washington University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8023
+DTSTAMP:20200107T145700
+LOCATION:801 CSRB North Tower Addition
+SUMMARY:The airway microbiome is associated with asthma in a sex-specific m
+ anner
+END:VEVENT
+BEGIN:VEVENT
 UID:7969@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200113T160000
 DTEND;TZID=America/Chicago:20200113T160000
@@ -166,7 +153,7 @@ DTSTART;TZID=America/Chicago:20200113T160000
 DTEND;TZID=America/Chicago:20200113T170000
 DESCRIPTION:Speakers:\nSampriti Mukherjee\, Princeton University\n\nLink: h
  ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8012
-DTSTAMP:20200107T140934Z
+DTSTAMP:20200107T091100
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Photo sensing and quorum sensing converge to control bacterial coll
  ective behaviors
@@ -182,6 +169,18 @@ DTSTAMP:20191204T154800
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Toll-like receptor signaling\, monocyte differentiation and Macroph
  age Activation Syndrome
+END:VEVENT
+BEGIN:VEVENT
+UID:8021@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200114T100000
+DTEND;TZID=America/Chicago:20200114T120000
+DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
+ escription:\nRegistration Required -\nhttps://becker.wustl.edu/civicrm/?pa
+ ge=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=196\n\nLink: http://dbbs.
+ wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8021
+DTSTAMP:20200107T145800
+LOCATION:McDonnell Medical Sciences Building\, Room 100
+SUMMARY:REDCap Workshop – Introduction to REDCap
 END:VEVENT
 BEGIN:VEVENT
 UID:7919@events.dbbs.wustl
@@ -271,7 +270,7 @@ DTEND;TZID=America/Chicago:20200116T120000
 DESCRIPTION:Speakers:\nHyo Sik "Josh" Jang\, Molecular Genetics and Genomic
  s Program\nLaboratory of Dr. Ting Wang\nDepartment of Genetics\n\nLink: ht
  tp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8010
-DTSTAMP:20200107T140934Z
+DTSTAMP:20200107T091200
 LOCATION:Couch Building 4001B
 SUMMARY:Epigenetic dynamics in normal and disease models
 END:VEVENT
@@ -322,6 +321,18 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
 SUMMARY:Label-free Optical Imaging and Optogenetic Pacing System to Study D
  rosophila Heart Function
+END:VEVENT
+BEGIN:VEVENT
+UID:8016@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200116T160000
+DTEND;TZID=America/Chicago:20200116T173000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Educational D
+ evelopment\, The Center for Teaching and Learning\n\nDescription:\nRequest
+  Registration - http://teachingcenter.wustl.edu/1_16_20_teachingdemo/\n\nL
+ ink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8016
+DTSTAMP:20200107T090900
+LOCATION:Danforth Campus\, Danforth University Center\, Rm 239
+SUMMARY:Preparing and Delivering a Teaching Demo
 END:VEVENT
 BEGIN:VEVENT
 UID:8002@events.dbbs.wustl
@@ -429,9 +440,9 @@ DTSTART;TZID=America/Chicago:20200123T120000
 DTEND;TZID=America/Chicago:20200123T130000
 DESCRIPTION:Speakers:\nDr. David Berson\, Brown University\n\nLink: http://
  dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7341
-DTSTAMP:20190906T090900
+DTSTAMP:20200107T145900
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:Retinal Circuits for Visual Reflexes
 END:VEVENT
 BEGIN:VEVENT
 UID:7953@events.dbbs.wustl
@@ -452,7 +463,7 @@ DTEND;TZID=America/Chicago:20200123T160000
 DESCRIPTION:Speakers:\nAndrew Hagan\, Developmental\, Regenerative and Stem
   Cell Biology Program - Lab of Dr. David Ornitz\n\nLink: http://dbbs.wustl
  .edu/Resources/Pages/calendar_event.aspx?EvID=8011
-DTSTAMP:20200107T140935Z
+DTSTAMP:20200107T091100
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:FGF18 in Postnatal Lung Development
 END:VEVENT
@@ -521,7 +532,7 @@ DTSTART;TZID=America/Chicago:20200127T160000
 DTEND;TZID=America/Chicago:20200127T170000
 DESCRIPTION:Speakers:\nAlexander Meeske\, The Rockefeller University\n\nLin
  k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8013
-DTSTAMP:20200107T140935Z
+DTSTAMP:20200107T091100
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Molecular mechanisms of anti-viral immunity by RNA-targeting CRISPR
  -Cas systems
@@ -562,6 +573,31 @@ SUMMARY:Alzheimer’s Association of Greater Missouri Services and Annual U
  pdate
 END:VEVENT
 BEGIN:VEVENT
+UID:8024@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200128T150000
+DTEND;TZID=America/Chicago:20200128T160000
+DESCRIPTION:Speakers:\nHyun Min Jung\, Ph.D.\, Eunice Kennedy Shriver Natio
+ nal Institute of Child and Human Development (NICHD)\, National Institutes
+  of Health\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.a
+ spx?EvID=8024
+DTSTAMP:20200107T145700
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:MicroRNA-mediated control of developmental lymphangiogenesis
+END:VEVENT
+BEGIN:VEVENT
+UID:8017@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200128T153000
+DTEND;TZID=America/Chicago:20200128T173000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Educational D
+ evelopment\, The Center for Teaching and Learning\n\nDescription:\nRegistr
+ ation - https://teachingcenter.wustl.edu/events/designing-writing-\nassign
+ ments/\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?
+ EvID=8017
+DTSTAMP:20200107T091000
+LOCATION:Danforth Campus\, TBD
+SUMMARY:Designing Writing Assignments
+END:VEVENT
+BEGIN:VEVENT
 UID:7428@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200129T120000
 DTEND;TZID=America/Chicago:20200129T130000
@@ -572,6 +608,19 @@ DTSTAMP:20190813T095800
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Systems-theoretic analysis and normative modeling of neural circuit
  s
+END:VEVENT
+BEGIN:VEVENT
+UID:8018@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200130T113000
+DTEND;TZID=America/Chicago:20200130T130000
+DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director\, Educational
+  Development\, The Center for Teaching and Learning\n\nDescription:\nRegis
+ tration - https://teachingcenter.wustl.edu/events/philosophy-and-\nimpleme
+ ntation-of-collaborative-learning/\n\nLink: http://dbbs.wustl.edu/Resource
+ s/Pages/calendar_event.aspx?EvID=8018
+DTSTAMP:20200107T091800
+LOCATION:Danforth Campus\, TBD
+SUMMARY:Philosophy and Implementation of Collaborative Learning
 END:VEVENT
 BEGIN:VEVENT
 UID:7342@events.dbbs.wustl
@@ -623,7 +672,7 @@ DTEND;TZID=America/Chicago:20200203T170000
 DESCRIPTION:Speakers:\nChristopher Arnold\, HHMI/Stowers Institute for Medi
  cal Research\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
  .aspx?EvID=8014
-DTSTAMP:20200107T140935Z
+DTSTAMP:20200107T091000
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Size-dependent changes in tissue patterning and function
 END:VEVENT
@@ -659,6 +708,35 @@ DESCRIPTION:Speakers:\nCarlos Cruchaga\, PhD\, Professor of Psychiatry\, Wa
 DTSTAMP:20191219T112400
 LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:8019@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200205T113000
+DTEND;TZID=America/Chicago:20200205T130000
+DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director\, Educational
+  Development\, The Center for Teaching and Learning\n\nDescription:\nCPD\;
+  Registration - https://teachingcenter.wustl.edu/events/whos-in-charge-\nh
+ ere-negotiating-your-role-and-establishing-authority-in-the-classroom/\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8019
+DTSTAMP:20200107T091800
+LOCATION:Danforth Campus\, TBD
+SUMMARY:Who’s in Charge Here? Negotiating Your Role and Establishing Auth
+ ority in the Classroom
+END:VEVENT
+BEGIN:VEVENT
+UID:8022@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T113000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director\, Educational
+  Development\, The Center for Teaching and Learning\n\nDescription:\nCPD\;
+  Registration - https://teachingcenter.wustl.edu/events/whos-in-charge-\nh
+ ere-negotiating-your-role-and-establishing-authority-in-the-classroom-copy
+ /\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 8022
+DTSTAMP:20200107T145700
+LOCATION:Medical Campus\, TBA
+SUMMARY:Who’s in Charge Here? Negotiating Your Role and Establishing Auth
+ ority in the Classroom
 END:VEVENT
 BEGIN:VEVENT
 UID:7344@events.dbbs.wustl
@@ -745,14 +823,40 @@ SUMMARY:Application of Machine Learning to Predict Amyloid\, Metabolic\, an
  ant Alzheimer Disease
 END:VEVENT
 BEGIN:VEVENT
+UID:8025@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200211T150000
+DTEND;TZID=America/Chicago:20200211T160000
+DESCRIPTION:Speakers:\nCharles K. Kaufman\, M.D.\, Ph.D.\, Assistant Profes
+ sor\, Department of Medicine (Division of Oncology)\, Washington Universit
+ y School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=8025
+DTSTAMP:20200108T140936Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Epigenetic regulators of melanoma initiation: Follow the green spot
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:8020@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200212T113000
+DTEND;TZID=America/Chicago:20200212T130000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Educational D
+ evelopment\, The Center for Teaching and Learning\n\nDescription:\nCPD\; R
+ egistration - https://teachingcenter.wustl.edu/events/supporting-the-\ndev
+ elopment-of-critical-reading-skills/\n\nLink: http://dbbs.wustl.edu/Resour
+ ces/Pages/calendar_event.aspx?EvID=8020
+DTSTAMP:20200107T145800
+LOCATION:Danforth Campus\, TBD
+SUMMARY:Supporting the Development of Critical Reading Skills
+END:VEVENT
+BEGIN:VEVENT
 UID:7345@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200213T120000
 DTEND;TZID=America/Chicago:20200213T130000
 DESCRIPTION:Speakers:\nDr. Valeria Cavalli\, Washington University\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7345
-DTSTAMP:20190906T091000
+DTSTAMP:20200107T150000
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBD
+SUMMARY:Neuronal and Glial Mechanisms Regulating Nerve Regeneration
 END:VEVENT
 BEGIN:VEVENT
 UID:7544@events.dbbs.wustl
@@ -812,10 +916,11 @@ DESCRIPTION:Speakers:\nGwendalyn Randolph\, PhD\, Emil R. Unanue Distinguis
  hed Professor\, Department of Pathology and Immunology\nWashington Univers
  ity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
  D=7678
-DTSTAMP:20190917T171100
+DTSTAMP:20200107T091900
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:Beyond Atherosclerosis - A New Take on Monocyte and Lipoprotein Tra
+ fficking
 END:VEVENT
 BEGIN:VEVENT
 UID:7964@events.dbbs.wustl
@@ -834,7 +939,7 @@ DTSTART;TZID=America/Chicago:20200224T160000
 DTEND;TZID=America/Chicago:20200224T170000
 DESCRIPTION:Speakers:\nLauren Booth\, Stanford University\n\nLink: http://d
  bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8015
-DTSTAMP:20200107T140936Z
+DTSTAMP:20200107T091000
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Sexual interactions induce early death in nematodes: strategies and
   counter-strategies
@@ -1168,95 +1273,6 @@ SUMMARY:Gut Microbiota: From the Forgotten Organ to a Potential Key Player
  in the Pathology of Alzheimer’s Disease
 END:VEVENT
 BEGIN:VEVENT
-UID:7307@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200401T120000
-DTEND;TZID=America/Chicago:20200401T130000
-DESCRIPTION:Speakers:\nGloria Choi\, PhD\, Massachusetts Institute of Techn
- ology\n\nDescription:\nHosted by: Dr. Jason Yi\n\nLink: http://dbbs.wustl.
- edu/Resources/Pages/calendar_event.aspx?EvID=7307
-DTSTAMP:20190712T142800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Cortical Dysfunction and Social Behavior
-END:VEVENT
-BEGIN:VEVENT
-UID:7354@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200402T120000
-DTEND;TZID=America/Chicago:20200402T130000
-DESCRIPTION:Speakers:\nDr. Qin Liu\, Washington University\n\nLink: http://
- dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7354
-DTSTAMP:20190906T091400
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBD
-END:VEVENT
-BEGIN:VEVENT
-UID:7493@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200406T161500
-DTEND;TZID=America/Chicago:20200406T161500
-DESCRIPTION:Speakers:\nDr. John Wherry\, University of Pennsylvania\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7493
-DTSTAMP:20190816T131100
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7310@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200408T120000
-DTEND;TZID=America/Chicago:20200408T130000
-DESCRIPTION:Speakers:\nCasper Hoogenraad\, PhD\, Utrecht University\n\nDesc
- ription:\nHosted by: Drs. Valeria Cavalli and Mike Nonet\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7310
-DTSTAMP:20190712T142900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Mechanisms of neuronal polarity: cytoskeleton remodeling and cargo 
- sorting
-END:VEVENT
-BEGIN:VEVENT
-UID:7356@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200409T120000
-DTEND;TZID=America/Chicago:20200409T130000
-DESCRIPTION:Speakers:\nDr. Michael Anderson\, University of Iowa\n\nLink: h
- ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7356
-DTSTAMP:20190906T091400
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBD
-END:VEVENT
-BEGIN:VEVENT
-UID:7550@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200409T160000
-DTEND;TZID=America/Chicago:20200409T170000
-DESCRIPTION:Speakers:\nColeen McNamara\, MD\, Frances Myers Ball Professor 
- of Medicine\, Cardiovascular Division                  
-                                      
-      University of Virginia\n\nLink: http://dbbs.wustl.edu/Resources/P
- ages/calendar_event.aspx?EvID=7550
-DTSTAMP:20190822T105100
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7494@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200413T161500
-DTEND;TZID=America/Chicago:20200413T161500
-DESCRIPTION:Speakers:\nDr. Michael Holtzman\, WUSM\nDepartment of Internal 
- Medicine - Pulmonary & Critical Care\n\nLink: http://dbbs.wustl.edu/Resour
- ces/Pages/calendar_event.aspx?EvID=7494
-DTSTAMP:20190816T131100
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7312@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200415T120000
-DTEND;TZID=America/Chicago:20200415T130000
-DESCRIPTION:Speakers:\nSandeep Robert Datta\, MD\, PhD\, Harvard Medical Sc
- hool\n\nDescription:\nHosted by: Dr. Ahmad Jezzini and DON Trainees\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7312
-DTSTAMP:20190712T142900
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Systematic representations for olfaction and action in cortex
-END:VEVENT
-BEGIN:VEVENT
 UID:7957@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200203T120000
 DTEND;TZID=America/Chicago:20200203T130000
@@ -1283,7 +1299,7 @@ DTEND;TZID=America/Chicago:20200203T170000
 DESCRIPTION:Speakers:\nChristopher Arnold\, HHMI/Stowers Institute for Medi
  cal Research\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
  .aspx?EvID=8014
-DTSTAMP:20200107T140938Z
+DTSTAMP:20200107T091000
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Size-dependent changes in tissue patterning and function
 END:VEVENT
@@ -1319,6 +1335,35 @@ DESCRIPTION:Speakers:\nCarlos Cruchaga\, PhD\, Professor of Psychiatry\, Wa
 DTSTAMP:20191219T112400
 LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:8019@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200205T113000
+DTEND;TZID=America/Chicago:20200205T130000
+DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director\, Educational
+  Development\, The Center for Teaching and Learning\n\nDescription:\nCPD\;
+  Registration - https://teachingcenter.wustl.edu/events/whos-in-charge-\nh
+ ere-negotiating-your-role-and-establishing-authority-in-the-classroom/\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8019
+DTSTAMP:20200107T091800
+LOCATION:Danforth Campus\, TBD
+SUMMARY:Who’s in Charge Here? Negotiating Your Role and Establishing Auth
+ ority in the Classroom
+END:VEVENT
+BEGIN:VEVENT
+UID:8022@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T113000
+DTEND;TZID=America/Chicago:20200206T130000
+DESCRIPTION:Speakers:\nDr. Julia Johnson\, Assistant Director\, Educational
+  Development\, The Center for Teaching and Learning\n\nDescription:\nCPD\;
+  Registration - https://teachingcenter.wustl.edu/events/whos-in-charge-\nh
+ ere-negotiating-your-role-and-establishing-authority-in-the-classroom-copy
+ /\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 8022
+DTSTAMP:20200107T145700
+LOCATION:Medical Campus\, TBA
+SUMMARY:Who’s in Charge Here? Negotiating Your Role and Establishing Auth
+ ority in the Classroom
 END:VEVENT
 BEGIN:VEVENT
 UID:7344@events.dbbs.wustl
@@ -1405,14 +1450,40 @@ SUMMARY:Application of Machine Learning to Predict Amyloid\, Metabolic\, an
  ant Alzheimer Disease
 END:VEVENT
 BEGIN:VEVENT
+UID:8025@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200211T150000
+DTEND;TZID=America/Chicago:20200211T160000
+DESCRIPTION:Speakers:\nCharles K. Kaufman\, M.D.\, Ph.D.\, Assistant Profes
+ sor\, Department of Medicine (Division of Oncology)\, Washington Universit
+ y School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=8025
+DTSTAMP:20200108T140938Z
+LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
+SUMMARY:Epigenetic regulators of melanoma initiation: Follow the green spot
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:8020@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200212T113000
+DTEND;TZID=America/Chicago:20200212T130000
+DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Educational D
+ evelopment\, The Center for Teaching and Learning\n\nDescription:\nCPD\; R
+ egistration - https://teachingcenter.wustl.edu/events/supporting-the-\ndev
+ elopment-of-critical-reading-skills/\n\nLink: http://dbbs.wustl.edu/Resour
+ ces/Pages/calendar_event.aspx?EvID=8020
+DTSTAMP:20200107T145800
+LOCATION:Danforth Campus\, TBD
+SUMMARY:Supporting the Development of Critical Reading Skills
+END:VEVENT
+BEGIN:VEVENT
 UID:7345@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200213T120000
 DTEND;TZID=America/Chicago:20200213T130000
 DESCRIPTION:Speakers:\nDr. Valeria Cavalli\, Washington University\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7345
-DTSTAMP:20190906T091000
+DTSTAMP:20200107T150000
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBD
+SUMMARY:Neuronal and Glial Mechanisms Regulating Nerve Regeneration
 END:VEVENT
 BEGIN:VEVENT
 UID:7544@events.dbbs.wustl
@@ -1472,10 +1543,11 @@ DESCRIPTION:Speakers:\nGwendalyn Randolph\, PhD\, Emil R. Unanue Distinguis
  hed Professor\, Department of Pathology and Immunology\nWashington Univers
  ity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvI
  D=7678
-DTSTAMP:20190917T171100
+DTSTAMP:20200107T091900
 LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
  ence Room 801
-SUMMARY:TBA
+SUMMARY:Beyond Atherosclerosis - A New Take on Monocyte and Lipoprotein Tra
+ fficking
 END:VEVENT
 BEGIN:VEVENT
 UID:7964@events.dbbs.wustl
@@ -1494,7 +1566,7 @@ DTSTART;TZID=America/Chicago:20200224T160000
 DTEND;TZID=America/Chicago:20200224T170000
 DESCRIPTION:Speakers:\nLauren Booth\, Stanford University\n\nLink: http://d
  bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8015
-DTSTAMP:20200107T140938Z
+DTSTAMP:20200107T091000
 LOCATION:Danforth Campus\, Rebstock\, Room 322
 SUMMARY:Sexual interactions induce early death in nematodes: strategies and
   counter-strategies
