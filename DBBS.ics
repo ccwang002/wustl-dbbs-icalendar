@@ -34,66 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7992@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200109T090000
-DTEND;TZID=America/Chicago:20200109T100000
-DESCRIPTION:Speakers:\nDr. Megan Spurgeon\, Department of Oncology\, Univer
- sity of Wisconsin-Madison\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
- alendar_event.aspx?EvID=7992
-DTSTAMP:20200102T084200
-LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
-SUMMARY:Novel Preclinical Models to Study HPV-Associated Pathogenesis and D
- isease in the Female Reproductive Tract
-END:VEVENT
-BEGIN:VEVENT
-UID:8005@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200109T100000
-DTEND;TZID=America/Chicago:20200109T103000
-DESCRIPTION:Speakers:\nJennifer May\, MD\, Washington University\nDepartmen
- t of Pediatrics\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
- ent.aspx?EvID=8005
-DTSTAMP:20200102T172200
-LOCATION:728 Southwest Tower
-SUMMARY:Sugar Baby: A Case Report on Neonatal Diabetes
-END:VEVENT
-BEGIN:VEVENT
-UID:8004@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200109T103000
-DTEND;TZID=America/Chicago:20200109T113000
-DESCRIPTION:Speakers:\nAngel Baldan\, PhD\, St. Louis University\nAssociate
-  Professor of Biochemistry and Molecular Biology\n\nLink: http://dbbs.wust
- l.edu/Resources/Pages/calendar_event.aspx?EvID=8004
-DTSTAMP:20200102T172200
-LOCATION:728 Southwest Tower
-SUMMARY:Novel Players Controlling Liver and Lipoprotein Lipid Metabolism
-END:VEVENT
-BEGIN:VEVENT
-UID:7337@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200109T120000
-DTEND;TZID=America/Chicago:20200109T130000
-DESCRIPTION:Speakers:\nDr. Carla Siegfried\, Washington University\n\nLink:
-  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7337
-DTSTAMP:20200107T145900
-LOCATION:Maternity Building\, Room 725
-SUMMARY:Racial Disparities of Open Angle Glaucoma: “seq” and you shall 
- find…Insights on genetic and pathophysiology
-END:VEVENT
-BEGIN:VEVENT
-UID:7536@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200109T160000
-DTEND;TZID=America/Chicago:20200109T170000
-DESCRIPTION:Speakers:\nJanice Huss\, PhD\, Associate Professor\, Department
-  of Molecular and Cellular Endicrinology\, Beckman Research Institute  
-                                    City 
- of Hope\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx
- ?EvID=7536
-DTSTAMP:20191108T101300
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:Orphan Receptors at Home in Metabolism: Transcriptional Control of 
- Skeletal Muscle Energy Homeostasis by the Estrogen-related Receptors
-END:VEVENT
-BEGIN:VEVENT
 UID:7989@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200110T090000
 DTEND;TZID=America/Chicago:20200110T100000
@@ -245,6 +185,30 @@ SUMMARY:Career Development Seminar: "Negotiating Effectively for Workplace
  Success"
 END:VEVENT
 BEGIN:VEVENT
+UID:8030@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200114T160000
+DTEND;TZID=America/Chicago:20200114T170000
+DESCRIPTION:Speakers:\nMary Kay Lobo\, PhD\, Associate Professor\nDepartmen
+ t of Anatomy & Neurobiology\nUniversity of Maryland School of Medicine\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8030
+DTSTAMP:20200110T140933Z
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 401
+SUMMARY:Molecular and Neuron Subtype Mechanisms of Disrupted Motivation
+END:VEVENT
+BEGIN:VEVENT
+UID:8031@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200114T160000
+DTEND;TZID=America/Chicago:20200114T170000
+DESCRIPTION:Speakers:\nMary Kay Lobo\, PhD\, Associate Professor\nDepartmen
+ t of Anatomy & Neurobiology\nUniversity of Maryland School of Medicine\n\n
+ Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8031
+DTSTAMP:20200110T140934Z
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 401
+SUMMARY:Molecular and Neuron Subtype Mechanisms of Disrupted Motivation
+END:VEVENT
+BEGIN:VEVENT
 UID:8001@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200116T090000
 DTEND;TZID=America/Chicago:20200116T160000
@@ -376,6 +340,17 @@ SUMMARY:Practical Steps for Increasing Openness and Reproducibility: A Day
  of Open Science
 END:VEVENT
 BEGIN:VEVENT
+UID:8037@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200117T090000
+DTEND;TZID=America/Chicago:20200117T100000
+DESCRIPTION:Speakers:\nLisa Lawson\, PhD\, Deparment of Orthopaedic Surgery
+ \, Silva Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
+ .aspx?EvID=8037
+DTSTAMP:20200110T140934Z
+LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
+SUMMARY:The role of Wnts in the bone anabolic response to loading
+END:VEVENT
+BEGIN:VEVENT
 UID:8027@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200117T120000
 DTEND;TZID=America/Chicago:20200117T130000
@@ -384,21 +359,10 @@ DESCRIPTION:Speakers:\nMatthew Ciorba\, MD\, Associate Professor of Medicin
  MBBS\, MS\, Assistant Professor of Medicine\nDivision of Gastroenterology\
  nWashington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
  ndar_event.aspx?EvID=8027
-DTSTAMP:20200109T140934Z
+DTSTAMP:20200109T113500
 LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
 SUMMARY:Networking and Social Media Tools and Skillsets to Advance your Aca
  demic Career in Gastroenterology
-END:VEVENT
-BEGIN:VEVENT
-UID:7427@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200117T150000
-DTEND;TZID=America/Chicago:20200117T160000
-DESCRIPTION:Speakers:\nDr. Joan S. Brugge\, Director of the Harvard Ludwig 
- Cancer Center and Professor of Cell Biology at Harvard Medical School.\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7427
-DTSTAMP:20190813T095500
-LOCATION:Eric P. Newman Education Center\, Seminar Room B
-SUMMARY:Rosalind Kornfeld Lecture for Distinguished Women in Science
 END:VEVENT
 BEGIN:VEVENT
 UID:7920@events.dbbs.wustl
@@ -431,10 +395,37 @@ DTEND;TZID=America/Chicago:20200121T160000
 DESCRIPTION:Speakers:\nYvette Y. Yien\, Ph.D.\, Assistant Professor\, Depar
  tment of Biological Sciences\, University of Delaware\n\nLink: http://dbbs
  .wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7974
-DTSTAMP:20191219T112300
+DTSTAMP:20200109T114000
 LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Regulation of erythroid heme synthesis by the mitochondrial CLPX un
- foldase
+SUMMARY:Regulation of erythroid iron metabolism by mitochondrial proteins
+END:VEVENT
+BEGIN:VEVENT
+UID:8032@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200121T160000
+DTEND;TZID=America/Chicago:20200121T170000
+DESCRIPTION:Speakers:\nAndrea G. Hohmann\, PhD\, Linda and Jack Gill Chair 
+ of Neuroscience\nProfessor\nDepartment of Psychological & Brain Science\nI
+ ndiana University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=8032
+DTSTAMP:20200110T140934Z
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 401
+SUMMARY:Medical Marijuana and the Endocannabinoid System:  Genuine Analges
+ ics or Just Blowing Smoke?”
+END:VEVENT
+BEGIN:VEVENT
+UID:8033@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200121T160000
+DTEND;TZID=America/Chicago:20200121T170000
+DESCRIPTION:Speakers:\nAndrea G. Hohmann\, PhD\, Linda and Jack Gill Chair 
+ of Neuroscience\nProfessor\nDepartment of Psychological & Brain Science\nI
+ ndiana University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
+ event.aspx?EvID=8033
+DTSTAMP:20200110T140934Z
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 401
+SUMMARY:Medical Marijuana and the Endocannabinoid System:  Genuine Analges
+ ics or Just Blowing Smoke?”
 END:VEVENT
 BEGIN:VEVENT
 UID:7301@events.dbbs.wustl
@@ -509,6 +500,30 @@ SUMMARY:ApoC-III and Treg Lipid Metabolism: What is Good for the Heart May
  not be Good for the Gut
 END:VEVENT
 BEGIN:VEVENT
+UID:8034@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T160000
+DTEND;TZID=America/Chicago:20200123T170000
+DESCRIPTION:Speakers:\nGuillaume Sandoz\, PhD\, Biology of Ion Channels\nLa
+ boratoire d'Excellence ICST\nUniversité de Nice Sophia Antipolis\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8034
+DTSTAMP:20200110T140934Z
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 401
+SUMMARY:Optical Probing and Optogenetic of TREK Channels Physiology
+END:VEVENT
+BEGIN:VEVENT
+UID:8035@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T160000
+DTEND;TZID=America/Chicago:20200123T170000
+DESCRIPTION:Speakers:\nGuillaume Sandoz\, PhD\, Biology of Ion Channels\nLa
+ boratoire d'Excellence ICST\nUniversité de Nice Sophia Antipolis\n\nLink:
+  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8035
+DTSTAMP:20200110T140934Z
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 401
+SUMMARY:Optical Probing and Optogenetic of TREK Channels Physiology
+END:VEVENT
+BEGIN:VEVENT
 UID:7956@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200127T120000
 DTEND;TZID=America/Chicago:20200127T130000
@@ -574,6 +589,46 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:Regulation of the skin microbiota by host immunity
 END:VEVENT
 BEGIN:VEVENT
+UID:8028@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200127T171500
+DTEND;TZID=America/Chicago:20200127T181500
+DESCRIPTION:Speakers:\nDenis Noble\, C.B.E.\, Ph.D.\, F.R.S.\, Emeritus Pro
+ fessor of Cardiovascular Physiology\nUniversity of Oxford\, United Kingdom
+ \n\nDescription:\nDenis Noble\, C.B.E.\, Ph.D.\, F.R.S. is a British biolo
+ gist who held the Burdon\nSanderson Chair of Cardiovascular Physiology at 
+ the University of Oxford from\n1984 to 2004 and was appointed Professor Em
+ eritus and co-Director of\nComputational Physiology. He is one of the pion
+ eers of systems biology and\ndeveloped the first viable mathematical model
+  of the working heart in 1962.\nProfessor Noble’s presentation entitled\
+ , "From Pacing the Heart to the Pace of\nEvolution\," will ask a deeper\, 
+ developmental question: why did Nature develop\nsuch extensive complexity?
+  One answer is robustness of function. Multi-\nmechanism interpretations o
+ f cardiac pacemaker function reveal the extent to\nwhich many physiologica
+ l functions are buffered against genomic change. The\nfirst stage of the l
+ ecture will show how an evolutionary perspective informs\nelectrophysiolog
+ y and how it led to the development of a useful medication.\nSee Professor
+  Noble's: Abstract | Book | CV (PDF) | Profile | Flyer\nRefreshments will 
+ be served. NOTE: If arriving by car\, the underground parking\nramp is ava
+ ilable by Whitaker Hall. The entrance is on Hoyt Drive turning in\nfrom Fo
+ rest Park Parkway. parking ramps are free of charge after 5 p.m. See\nmap.
+  If taking the metro from the Medical School campus\, take the blue line\n
+ Shrewsbury Landsdowne I-44 train to Skinker (two stops). The nearest metro
+ link\nstop is Skinker. Enter through the doors on the right at Green Hall.
+  Go to the\nsecond floor of Green Hall and walk through Brauer Hall and Wh
+ itaker Hall.\nRoom 218 is at the end of Whitaker Hall on the left of the l
+ ibrary conference\nroom. See map. **Please contact Huyen (Gwen) Nguyen at 
+ hbnguyen@wustl.edu for\nmore information** NOTE: Parking is available outs
+ ide of Whitaker Hall in the\nnew East End Garage. Parking ramps are free o
+ f charge after 5 pm click here\nfor the map. If taking the subway\, the ne
+ arest metrolink stop is Skinker. See\nmap: http://cbac.wustl.edu/Seminars/
+ MAP3.pdf *Please contact Huyen (Gwen)\nNguyen at hbnguyen@wustl.edu for mo
+ re information**\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
+ vent.aspx?EvID=8028
+DTSTAMP:20200109T113500
+LOCATION:Danforth Campus\, Whitaker Hall\, Room 218
+SUMMARY:CBAC Seminar - From Pacing the Heart to the Pace of Evolution
+END:VEVENT
+BEGIN:VEVENT
 UID:7921@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200128T120000
 DTEND;TZID=America/Chicago:20200128T130000
@@ -621,6 +676,21 @@ DESCRIPTION:Speakers:\nDr. Meg Gregory\, Assistant Director\, Educational D
 DTSTAMP:20200107T091000
 LOCATION:Danforth Campus\, TBD
 SUMMARY:Designing Writing Assignments
+END:VEVENT
+BEGIN:VEVENT
+UID:8036@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200128T160000
+DTEND;TZID=America/Chicago:20200128T170000
+DESCRIPTION:Speakers:\nSean C. Mackey\, MD\, PhD\, Redlich Professor\nDepar
+ tment of Anesthesiology\, Perioperative and Pain Medicine\nChief\, Divisio
+ n of Pain Medicine\nDirector\, Systems Neuroscience and Pain Lab\nStanford
+  University School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pa
+ ges/calendar_event.aspx?EvID=8036
+DTSTAMP:20200110T140935Z
+LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
+ 401
+SUMMARY:Brain Based Biomarker for Pain:  Scientific\, Legal and Ethical Is
+ sues
 END:VEVENT
 BEGIN:VEVENT
 UID:7428@events.dbbs.wustl
@@ -1234,44 +1304,6 @@ DESCRIPTION:Speakers:\nRobert Gropler\, MD\, Professor of Radiology\, Washi
  vent.aspx?EvID=7986
 DTSTAMP:20191219T112600
 LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7306@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200325T120000
-DTEND;TZID=America/Chicago:20200325T130000
-DESCRIPTION:Speakers:\nEdward Callaway\, PhD\, The Salk Institute for Biolo
- gical Studies\n\nDescription:\nHosted by: Dr. Harrison Gabel\n\nLink: http
- ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7306
-DTSTAMP:20190712T142800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Functional Micro-Architecture and Joint Encoding of Shape and Color
-  in Primate Primary Visual Cortex
-END:VEVENT
-BEGIN:VEVENT
-UID:7352@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200326T120000
-DTEND;TZID=America/Chicago:20200326T130000
-DESCRIPTION:Speakers:\nDr. Peter Lukasiewicz\, Washington University\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7352
-DTSTAMP:20190906T091400
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7548@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200326T160000
-DTEND;TZID=America/Chicago:20200326T170000
-DESCRIPTION:Speakers:\nFerhaan Ahmad\, MD\, PhD\, Director\, Cardiovascular
-  Genetics Center                             
-    Associate Professor of Internal Medicine\, Radiology and Molecular Ph
- ysiology and Biophysics                         
-                             University of Iowa\
- n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=75
- 48
-DTSTAMP:20190822T104900
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
@@ -1978,6 +2010,16 @@ DESCRIPTION:Speakers:\nDr. Michael Holtzman\, WUSM\nDepartment of Internal
 DTSTAMP:20190816T131100
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:8029@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200413T170000
+DTEND;TZID=America/Chicago:20200413T180000
+DESCRIPTION:Speakers:\nDr. Dominique Bergmann\, Stanford University\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8029
+DTSTAMP:20200110T140939Z
+LOCATION:Wilson Hall Room 214\, 1 Brookings Drive
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:7312@events.dbbs.wustl
