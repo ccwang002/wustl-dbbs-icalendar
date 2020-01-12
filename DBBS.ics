@@ -34,29 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7989@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200110T090000
-DTEND;TZID=America/Chicago:20200110T100000
-DESCRIPTION:Speakers:\nKatherine Weilbaecher\, M.D.\, Department of Medicin
- e\, Division of Oncology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/ca
- lendar_event.aspx?EvID=7989
-DTSTAMP:20191223T142300
-LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
-SUMMARY:Bone Targeted Therapies for Breast Cancer
-END:VEVENT
-BEGIN:VEVENT
-UID:8003@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200110T120000
-DTEND;TZID=America/Chicago:20200110T130000
-DESCRIPTION:Speakers:\nMichael S. Diamond\, MD\, PhD\, The Herbert S. Gasse
- r Professor of Medicine\nDivision of Infectious Diseases\nWashington Unive
- rsity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
- vID=8003
-DTSTAMP:20200102T172300
-LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
-SUMMARY:Neurotropic Flaviviruses cause Gastrointestinal Tract Dysmotility
-END:VEVENT
-BEGIN:VEVENT
 UID:7997@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200113T120000
 DTEND;TZID=America/Chicago:20200113T130000
@@ -185,25 +162,13 @@ SUMMARY:Career Development Seminar: "Negotiating Effectively for Workplace
  Success"
 END:VEVENT
 BEGIN:VEVENT
-UID:8030@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T160000
-DTEND;TZID=America/Chicago:20200114T170000
-DESCRIPTION:Speakers:\nMary Kay Lobo\, PhD\, Associate Professor\nDepartmen
- t of Anatomy & Neurobiology\nUniversity of Maryland School of Medicine\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8030
-DTSTAMP:20200110T140933Z
-LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
- 401
-SUMMARY:Molecular and Neuron Subtype Mechanisms of Disrupted Motivation
-END:VEVENT
-BEGIN:VEVENT
 UID:8031@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200114T160000
 DTEND;TZID=America/Chicago:20200114T170000
 DESCRIPTION:Speakers:\nMary Kay Lobo\, PhD\, Associate Professor\nDepartmen
  t of Anatomy & Neurobiology\nUniversity of Maryland School of Medicine\n\n
  Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8031
-DTSTAMP:20200110T140934Z
+DTSTAMP:20200110T154600
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  401
 SUMMARY:Molecular and Neuron Subtype Mechanisms of Disrupted Motivation
@@ -237,6 +202,18 @@ DTSTAMP:20200102T172400
 LOCATION:McDonnell Medical Sciences Building\, Room 100
 SUMMARY:Practical Steps for Increasing Openness and Reproducibility: A Day 
  of Open Science
+END:VEVENT
+BEGIN:VEVENT
+UID:8038@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200116T103000
+DTEND;TZID=America/Chicago:20200116T113000
+DESCRIPTION:Speakers:\nShin-Ichiro Imai\, MD\, PhD\, Washington University\
+ nDevelopmental Biology\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cale
+ ndar_event.aspx?EvID=8038
+DTSTAMP:20200110T154700
+LOCATION:728 Southwest Tower
+SUMMARY:NAD World 3.0: The Inter-Tissue Interactions Mediated by eNAMPT and
+  NMN in Mammalian Aging/Longevity Control
 END:VEVENT
 BEGIN:VEVENT
 UID:8010@events.dbbs.wustl
@@ -346,7 +323,7 @@ DTEND;TZID=America/Chicago:20200117T100000
 DESCRIPTION:Speakers:\nLisa Lawson\, PhD\, Deparment of Orthopaedic Surgery
  \, Silva Lab\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event
  .aspx?EvID=8037
-DTSTAMP:20200110T140934Z
+DTSTAMP:20200110T154700
 LOCATION:BJC-Institute of Health\, 5th Floor\, Allison Conference Room
 SUMMARY:The role of Wnts in the bone anabolic response to loading
 END:VEVENT
@@ -400,20 +377,6 @@ LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
 SUMMARY:Regulation of erythroid iron metabolism by mitochondrial proteins
 END:VEVENT
 BEGIN:VEVENT
-UID:8032@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200121T160000
-DTEND;TZID=America/Chicago:20200121T170000
-DESCRIPTION:Speakers:\nAndrea G. Hohmann\, PhD\, Linda and Jack Gill Chair 
- of Neuroscience\nProfessor\nDepartment of Psychological & Brain Science\nI
- ndiana University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
- event.aspx?EvID=8032
-DTSTAMP:20200110T140934Z
-LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
- 401
-SUMMARY:Medical Marijuana and the Endocannabinoid System:  Genuine Analges
- ics or Just Blowing Smoke?”
-END:VEVENT
-BEGIN:VEVENT
 UID:8033@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200121T160000
 DTEND;TZID=America/Chicago:20200121T170000
@@ -421,7 +384,7 @@ DESCRIPTION:Speakers:\nAndrea G. Hohmann\, PhD\, Linda and Jack Gill Chair
  of Neuroscience\nProfessor\nDepartment of Psychological & Brain Science\nI
  ndiana University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_
  event.aspx?EvID=8033
-DTSTAMP:20200110T140934Z
+DTSTAMP:20200110T154600
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  401
 SUMMARY:Medical Marijuana and the Endocannabinoid System:  Genuine Analges
@@ -438,6 +401,27 @@ DTSTAMP:20190712T141300
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Optogenetic dissection of local and long-range functional connectiv
  ity of prefrontal cortical circuits
+END:VEVENT
+BEGIN:VEVENT
+UID:8041@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T100000
+DTEND;TZID=America/Chicago:20200123T103000
+DESCRIPTION:Speakers:\nBess Marshall\, MD\, Washington University\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8041
+DTSTAMP:20200110T154800
+LOCATION:728 Southwest Tower
+SUMMARY:Carney Complex\, A Rare Cause of Endocrine Tumors
+END:VEVENT
+BEGIN:VEVENT
+UID:8039@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200123T103000
+DTEND;TZID=America/Chicago:20200123T113000
+DESCRIPTION:Speakers:\nCarmella Evans-Molina\, MD\, PhD\, Indiana Universit
+ y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 8039
+DTSTAMP:20200110T154800
+LOCATION:728 Southwest Tower
+SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7993@events.dbbs.wustl
@@ -506,19 +490,7 @@ DTEND;TZID=America/Chicago:20200123T170000
 DESCRIPTION:Speakers:\nGuillaume Sandoz\, PhD\, Biology of Ion Channels\nLa
  boratoire d'Excellence ICST\nUniversité de Nice Sophia Antipolis\n\nLink:
   http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8034
-DTSTAMP:20200110T140934Z
-LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
- 401
-SUMMARY:Optical Probing and Optogenetic of TREK Channels Physiology
-END:VEVENT
-BEGIN:VEVENT
-UID:8035@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200123T160000
-DTEND;TZID=America/Chicago:20200123T170000
-DESCRIPTION:Speakers:\nGuillaume Sandoz\, PhD\, Biology of Ion Channels\nLa
- boratoire d'Excellence ICST\nUniversité de Nice Sophia Antipolis\n\nLink:
-  http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8035
-DTSTAMP:20200110T140934Z
+DTSTAMP:20200110T154600
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  401
 SUMMARY:Optical Probing and Optogenetic of TREK Channels Physiology
@@ -686,7 +658,7 @@ DESCRIPTION:Speakers:\nSean C. Mackey\, MD\, PhD\, Redlich Professor\nDepar
  n of Pain Medicine\nDirector\, Systems Neuroscience and Pain Lab\nStanford
   University School of Medicine\n\nLink: http://dbbs.wustl.edu/Resources/Pa
  ges/calendar_event.aspx?EvID=8036
-DTSTAMP:20200110T140935Z
+DTSTAMP:20200110T154700
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  401
 SUMMARY:Brain Based Biomarker for Pain:  Scientific\, Legal and Ethical Is
@@ -703,6 +675,37 @@ DTSTAMP:20190813T095800
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Systems-theoretic analysis and normative modeling of neural circuit
  s
+END:VEVENT
+BEGIN:VEVENT
+UID:8042@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200129T140000
+DTEND;TZID=America/Chicago:20200129T150000
+DESCRIPTION:Speakers:\nCrystal Gammon\, Director of Communications\, Arts a
+ nd Sciences\nClaire Gauen\, Editor\, Publications and Digital Outreach\n\n
+ Description:\nCPD\; The Ampersand is the primary storytelling outlet for t
+ he Arts & Sciences\ncommunity. We'll discuss what makes a good Ampersand f
+ eature\, and what we aim\nto do when highlighting the work of our faculty\
+ , students\, and staff. We'll\nalso tell you a bit more about the various 
+ written and multimedia formats we\nuse\, including feature stories\, resea
+ rcher profiles\, short videos\, and our\nHold That Thought podcast. Come p
+ repared to brainstorm and share your ideas\nand questions!\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8042
+DTSTAMP:20200110T154800
+LOCATION:Holden Auditorium
+SUMMARY:How to Pitch the Ampersand: Tips for storytelling in Arts & Science
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:8040@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200130T103000
+DTEND;TZID=America/Chicago:20200130T113000
+DESCRIPTION:Speakers:\nBrian Finck\, PhD\, Washington University\nNutrition
+ al Sciences\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.
+ aspx?EvID=8040
+DTSTAMP:20200110T154800
+LOCATION:728 Southwest Tower
+SUMMARY:Novel Insulin Sensitizers for the Treatment of Diabetes and Metabol
+ ic Disease
 END:VEVENT
 BEGIN:VEVENT
 UID:8018@events.dbbs.wustl
@@ -2017,7 +2020,7 @@ DTSTART;TZID=America/Chicago:20200413T170000
 DTEND;TZID=America/Chicago:20200413T180000
 DESCRIPTION:Speakers:\nDr. Dominique Bergmann\, Stanford University\n\nLink
  : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8029
-DTSTAMP:20200110T140939Z
+DTSTAMP:20200110T154500
 LOCATION:Wilson Hall Room 214\, 1 Brookings Drive
 SUMMARY:"TBA"
 END:VEVENT
