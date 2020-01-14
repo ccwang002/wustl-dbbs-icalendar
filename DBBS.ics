@@ -34,60 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7997@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200113T120000
-DTEND;TZID=America/Chicago:20200113T130000
-DESCRIPTION:Speakers:\nBrian Gordon\, PhD\, WashU Radiology\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7997
-DTSTAMP:20200108T111600
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Multimodal imaging in disease
-END:VEVENT
-BEGIN:VEVENT
-UID:8023@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200113T120000
-DTEND;TZID=America/Chicago:20200113T130000
-DESCRIPTION:Speakers:\nLeyao Wang\, Washington University\n\nLink: http://d
- bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8023
-DTSTAMP:20200107T145700
-LOCATION:801 CSRB North Tower Addition
-SUMMARY:The airway microbiome is associated with asthma in a sex-specific m
- anner
-END:VEVENT
-BEGIN:VEVENT
-UID:7969@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200113T160000
-DTEND;TZID=America/Chicago:20200113T160000
-DESCRIPTION:Speakers:\nSampriti Mukherjee\, Princeton\n\nLink: http://dbbs.
- wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7969
-DTSTAMP:20191219T133200
-LOCATION:Rebstock Hall 322
-SUMMARY:"TBA"
-END:VEVENT
-BEGIN:VEVENT
-UID:8012@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200113T160000
-DTEND;TZID=America/Chicago:20200113T170000
-DESCRIPTION:Speakers:\nSampriti Mukherjee\, Princeton University\n\nLink: h
- ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8012
-DTSTAMP:20200107T091100
-LOCATION:Danforth Campus\, Rebstock\, Room 322
-SUMMARY:Photo sensing and quorum sensing converge to control bacterial coll
- ective behaviors
-END:VEVENT
-BEGIN:VEVENT
-UID:7471@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200113T161500
-DTEND;TZID=America/Chicago:20200113T161500
-DESCRIPTION:Speakers:\nDr. Jessica Hamerman\, Benaroya Research Institute\n
- \nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=747
- 1
-DTSTAMP:20191204T154800
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:Toll-like receptor signaling\, monocyte differentiation and Macroph
- age Activation Syndrome
-END:VEVENT
-BEGIN:VEVENT
 UID:8021@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200114T100000
 DTEND;TZID=America/Chicago:20200114T120000
@@ -225,6 +171,21 @@ DESCRIPTION:Speakers:\nHyo Sik "Josh" Jang\, Molecular Genetics and Genomic
 DTSTAMP:20200107T091200
 LOCATION:Couch Building 4001B
 SUMMARY:Epigenetic dynamics in normal and disease models
+END:VEVENT
+BEGIN:VEVENT
+UID:8045@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200116T120000
+DTEND;TZID=America/Chicago:20200116T130000
+DESCRIPTION:Speakers:\nLorna H. McNeill\, PhD\, Associate Professor and Cha
+ ir\nDepartment of Health Disparities Research\nDivision of Cancer Preventi
+ on and Population Sciences\nUniversity of Texas M.D. Anderson Cancer Cente
+ r\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
+ 8045
+DTSTAMP:20200113T134900
+LOCATION:Taylor Avenue Building (600 S. Taylor)\; The Doll & Hill Teaching 
+ Room 2131
+SUMMARY:Community-engaged research with faith-based communities: How to cre
+ ate long-standing partnerships
 END:VEVENT
 BEGIN:VEVENT
 UID:8006@events.dbbs.wustl
@@ -419,9 +380,9 @@ DTEND;TZID=America/Chicago:20200123T113000
 DESCRIPTION:Speakers:\nCarmella Evans-Molina\, MD\, PhD\, Indiana Universit
  y\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=
  8039
-DTSTAMP:20200110T154800
+DTSTAMP:20200113T091500
 LOCATION:728 Southwest Tower
-SUMMARY:TBA
+SUMMARY:The Ailing and Diabetic β Cell: Insights from a Trip to the ER
 END:VEVENT
 BEGIN:VEVENT
 UID:7993@events.dbbs.wustl
@@ -494,6 +455,17 @@ DTSTAMP:20200110T154600
 LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
  401
 SUMMARY:Optical Probing and Optogenetic of TREK Channels Physiology
+END:VEVENT
+BEGIN:VEVENT
+UID:8044@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200124T120000
+DTEND;TZID=America/Chicago:20200124T130000
+DESCRIPTION:Speakers:\nWilliam G. Hawkins\, MD\, Neidorff Family and Robert
+  C. Packman Professor\nDepartment of Surgery\nWashington University\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8044
+DTSTAMP:20200113T134900
+LOCATION:Alpers Conference Room\, 901 CSRB North Tower Addition
+SUMMARY:ME-1 Deficiency Presents an Opportunity for Cancer Therapy
 END:VEVENT
 BEGIN:VEVENT
 UID:7956@events.dbbs.wustl
@@ -726,9 +698,9 @@ DTSTART;TZID=America/Chicago:20200130T120000
 DTEND;TZID=America/Chicago:20200130T130000
 DESCRIPTION:Speakers:\nDr. Helen McNeill\, Washington University\n\nLink: h
  ttp://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7342
-DTSTAMP:20190906T090900
+DTSTAMP:20200113T135000
 LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
+SUMMARY:Dissecting Fat Cadherin Function
 END:VEVENT
 BEGIN:VEVENT
 UID:7539@events.dbbs.wustl
@@ -1066,15 +1038,15 @@ SUMMARY:Genomic epidemiology and evolution of Candida auris\, a multidrug-r
  esistant emerging fungal pathogen
 END:VEVENT
 BEGIN:VEVENT
-UID:7982@events.dbbs.wustl
+UID:7985@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200225T120000
 DTEND;TZID=America/Chicago:20200225T130000
-DESCRIPTION:Speakers:\nSuzanne Schindler\, MD\, PhD\, Assistant Professor o
- f Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7982
-DTSTAMP:20191219T112500
+DESCRIPTION:Speakers:\nNicole S. McKay\, PhD\, Benzinger Lab\, Washington U
+ niversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7985
+DTSTAMP:20200113T091200
 LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
+SUMMARY:Investigating the BDNF Val66Met SNP Impact on Recognition Memory
 END:VEVENT
 BEGIN:VEVENT
 UID:7639@events.dbbs.wustl
@@ -1085,9 +1057,9 @@ DESCRIPTION:Speakers:\nJoseph Carroll\, PhD\, Ruth Works Professor of Ophth
  ell Biology\, Neurobiology and Anatomy Director\, Advanced Ocular Imaging 
  Program\nMedical College of Wisconsin\n\nLink: http://dbbs.wustl.edu/Resou
  rces/Pages/calendar_event.aspx?EvID=7639
-DTSTAMP:20190909T105300
+DTSTAMP:20200113T135100
 LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
+SUMMARY:Applications of High- Resolutions Retinal Imaging
 END:VEVENT
 BEGIN:VEVENT
 UID:7349@events.dbbs.wustl
@@ -1250,15 +1222,16 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:7985@events.dbbs.wustl
+UID:7982@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200317T120000
 DTEND;TZID=America/Chicago:20200317T130000
-DESCRIPTION:Speakers:\nNicole S. McKay\, PhD\, Benzinger Lab\, Washington U
- niversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7985
-DTSTAMP:20191219T112600
+DESCRIPTION:Speakers:\nSuzanne Schindler\, MD\, PhD\, Assistant Professor o
+ f Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=7982
+DTSTAMP:20200113T091100
 LOCATION:East Pavilion Auditorium
-SUMMARY:Investigating the BDNF Val66Met SNP Impact on Recognition Memory
+SUMMARY:When?  Estimating age of Symptom Onset in Late Onset Alzheimer Dis
+ ease
 END:VEVENT
 BEGIN:VEVENT
 UID:7304@events.dbbs.wustl
@@ -1307,6 +1280,44 @@ DESCRIPTION:Speakers:\nRobert Gropler\, MD\, Professor of Radiology\, Washi
  vent.aspx?EvID=7986
 DTSTAMP:20191219T112600
 LOCATION:East Pavilion Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7306@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200325T120000
+DTEND;TZID=America/Chicago:20200325T130000
+DESCRIPTION:Speakers:\nEdward Callaway\, PhD\, The Salk Institute for Biolo
+ gical Studies\n\nDescription:\nHosted by: Dr. Harrison Gabel\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7306
+DTSTAMP:20190712T142800
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Functional Micro-Architecture and Joint Encoding of Shape and Color
+  in Primate Primary Visual Cortex
+END:VEVENT
+BEGIN:VEVENT
+UID:7352@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200326T120000
+DTEND;TZID=America/Chicago:20200326T130000
+DESCRIPTION:Speakers:\nDr. Peter Lukasiewicz\, Washington University\n\nLin
+ k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7352
+DTSTAMP:20190906T091400
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7548@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200326T160000
+DTEND;TZID=America/Chicago:20200326T170000
+DESCRIPTION:Speakers:\nFerhaan Ahmad\, MD\, PhD\, Director\, Cardiovascular
+  Genetics Center                             
+    Associate Professor of Internal Medicine\, Radiology and Molecular Ph
+ ysiology and Biophysics                         
+                             University of Iowa\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=75
+ 48
+DTSTAMP:20190822T104900
+LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
+ ence Room 801
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
@@ -1632,15 +1643,15 @@ SUMMARY:Genomic epidemiology and evolution of Candida auris\, a multidrug-r
  esistant emerging fungal pathogen
 END:VEVENT
 BEGIN:VEVENT
-UID:7982@events.dbbs.wustl
+UID:7985@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200225T120000
 DTEND;TZID=America/Chicago:20200225T130000
-DESCRIPTION:Speakers:\nSuzanne Schindler\, MD\, PhD\, Assistant Professor o
- f Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/Resourc
- es/Pages/calendar_event.aspx?EvID=7982
-DTSTAMP:20191219T112500
+DESCRIPTION:Speakers:\nNicole S. McKay\, PhD\, Benzinger Lab\, Washington U
+ niversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
+ px?EvID=7985
+DTSTAMP:20200113T091200
 LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
+SUMMARY:Investigating the BDNF Val66Met SNP Impact on Recognition Memory
 END:VEVENT
 BEGIN:VEVENT
 UID:7639@events.dbbs.wustl
@@ -1651,9 +1662,9 @@ DESCRIPTION:Speakers:\nJoseph Carroll\, PhD\, Ruth Works Professor of Ophth
  ell Biology\, Neurobiology and Anatomy Director\, Advanced Ocular Imaging 
  Program\nMedical College of Wisconsin\n\nLink: http://dbbs.wustl.edu/Resou
  rces/Pages/calendar_event.aspx?EvID=7639
-DTSTAMP:20190909T105300
+DTSTAMP:20200113T135100
 LOCATION:East Pavilion Auditorium
-SUMMARY:TBA
+SUMMARY:Applications of High- Resolutions Retinal Imaging
 END:VEVENT
 BEGIN:VEVENT
 UID:7349@events.dbbs.wustl
@@ -1816,15 +1827,16 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:7985@events.dbbs.wustl
+UID:7982@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200317T120000
 DTEND;TZID=America/Chicago:20200317T130000
-DESCRIPTION:Speakers:\nNicole S. McKay\, PhD\, Benzinger Lab\, Washington U
- niversity\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.as
- px?EvID=7985
-DTSTAMP:20191219T112600
+DESCRIPTION:Speakers:\nSuzanne Schindler\, MD\, PhD\, Assistant Professor o
+ f Neurology\, Washington University\n\nLink: http://dbbs.wustl.edu/Resourc
+ es/Pages/calendar_event.aspx?EvID=7982
+DTSTAMP:20200113T091100
 LOCATION:East Pavilion Auditorium
-SUMMARY:Investigating the BDNF Val66Met SNP Impact on Recognition Memory
+SUMMARY:When?  Estimating age of Symptom Onset in Late Onset Alzheimer Dis
+ ease
 END:VEVENT
 BEGIN:VEVENT
 UID:7304@events.dbbs.wustl
@@ -2141,6 +2153,18 @@ LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Powering the Synapse on Demand
 END:VEVENT
 BEGIN:VEVENT
+UID:8046@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200430T120000
+DTEND;TZID=America/Chicago:20200430T123000
+DESCRIPTION:Speakers:\nDr. Patrick Tam\, Professor &\nNHMRC Senior Principa
+ l Research Fellow\nMedicine\, Children's Medical Research Institute\nUnive
+ rsity of Sydney\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_ev
+ ent.aspx?EvID=8046
+DTSTAMP:20200113T134800
+LOCATION:Moore Auditorium
+SUMMARY:TBN
+END:VEVENT
+BEGIN:VEVENT
 UID:7121@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200430T160000
 DTEND;TZID=America/Chicago:20200430T170000
@@ -2264,5 +2288,16 @@ DESCRIPTION:Speakers:\nLarry Abbott\, PhD\, Columbia University Medical Cen
 DTSTAMP:20190731T145800
 LOCATION:Location TBD
 SUMMARY:Title TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:8047@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20201119T160000
+DTEND;TZID=America/Chicago:20201119T170000
+DESCRIPTION:Speakers:\nJurgen Knoblich\, Institute of Molecular Biotechnolo
+ gy\nVienna\, Austria\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calend
+ ar_event.aspx?EvID=8047
+DTSTAMP:20200113T134800
+LOCATION:Connor Auditorium
+SUMMARY:TBN
 END:VEVENT
 END:VCALENDAR
