@@ -34,92 +34,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8021@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T100000
-DTEND;TZID=America/Chicago:20200114T120000
-DESCRIPTION:Speakers:\nBecker Medical Library\, Becker Medical Library\n\nD
- escription:\nRegistration Required -\nhttps://becker.wustl.edu/civicrm/?pa
- ge=CiviCRM&q\;=civicrm/event/info&reset\;=1&id\;=196\n\nLink: http://dbbs.
- wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8021
-DTSTAMP:20200107T145800
-LOCATION:McDonnell Medical Sciences Building\, Room 100
-SUMMARY:REDCap Workshop – Introduction to REDCap
-END:VEVENT
-BEGIN:VEVENT
-UID:8026@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T103000
-DTEND;TZID=America/Chicago:20200114T113000
-DESCRIPTION:Speakers:\nDr. Natalie Niemi\, University of Wisconsin-Madison\
- n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=80
- 26
-DTSTAMP:20200108T090600
-LOCATION:McDonnell Sciences Building\, Room 264 - Biochemistry Seminar Room
-SUMMARY:Post-translational regulation of mitochondrial metabolism
-END:VEVENT
-BEGIN:VEVENT
-UID:7919@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T120000
-DTEND;TZID=America/Chicago:20200114T130000
-DESCRIPTION:Speakers:\nDr. Floyd Wormley\, Texas Christian University\n\nLi
- nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7919
-DTSTAMP:20191125T085300
-LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
-SUMMARY:Induction of Protective Immunity Against Pulmonary Cryptococcosis
-END:VEVENT
-BEGIN:VEVENT
-UID:7976@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T120000
-DTEND;TZID=America/Chicago:20200114T130000
-DESCRIPTION:Speakers:\nBeth Prusaczyk\, PhD\, MSW\, Instructor\, Institute 
- for Informatics (I2)\, Washington University\n\nLink: http://dbbs.wustl.ed
- u/Resources/Pages/calendar_event.aspx?EvID=7976
-DTSTAMP:20191219T112300
-LOCATION:East Pavilion Auditorium
-SUMMARY:Transitional Care for Dementia Patients Leaving the Hospital
-END:VEVENT
-BEGIN:VEVENT
-UID:7973@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T150000
-DTEND;TZID=America/Chicago:20200114T160000
-DESCRIPTION:Speakers:\nCarl DeSelm\, M.D.\, Ph.D.\, Department of Radiation
-  Oncology\, WUSM\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_e
- vent.aspx?EvID=7973
-DTSTAMP:20191219T112200
-LOCATION:Farrell Learning and Teaching Center\, Holden Auditorium
-SUMMARY:Engineering macrophages for targeted phagocytosis
-END:VEVENT
-BEGIN:VEVENT
-UID:8007@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T153000
-DTEND;TZID=America/Chicago:20200114T170000
-DESCRIPTION:Speakers:\nRebecca Hollander-Blumoff\, JD\, PhD\, Professor of 
- Law\, Washington University\n\nDescription:\nCPD Career Development Semina
- r: "Negotiating Effectively for Workplace\nSuccess" Tuesday\, January 14\,
-  2020 3:30 - 5 p.m. Wohl Hospital Building Wohl\nAuditorium Speaker: Rebec
- ca Hollander-Blumoff\, JD\, PhD Professor of Law\nWashington University Co
- -Sponsored by: • The Clinical Research Training Center\n• Office of Fa
- culty Development – Department of Medicine • Office of Inclusion\nand 
- Diversity - Department of Medicine • Forum for Women in Medicine (FWIM)\
- nAdvance registration not required\, free and open to all.\n\nLink: http:/
- /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8007
-DTSTAMP:20200104T105600
-LOCATION:Wohl Auditorium\, Wohl Hospital
-SUMMARY:Career Development Seminar: "Negotiating Effectively for Workplace 
- Success"
-END:VEVENT
-BEGIN:VEVENT
-UID:8031@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200114T160000
-DTEND;TZID=America/Chicago:20200114T170000
-DESCRIPTION:Speakers:\nMary Kay Lobo\, PhD\, Associate Professor\nDepartmen
- t of Anatomy & Neurobiology\nUniversity of Maryland School of Medicine\n\n
- Link: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8031
-DTSTAMP:20200110T154600
-LOCATION:Clinical Sciences Research Building\, North Tower Addition\, Room 
- 401
-SUMMARY:Molecular and Neuron Subtype Mechanisms of Disrupted Motivation
-END:VEVENT
-BEGIN:VEVENT
 UID:8001@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200116T090000
 DTEND;TZID=America/Chicago:20200116T160000
@@ -794,6 +708,17 @@ SUMMARY:Who’s in Charge Here? Negotiating Your Role and Establishing Auth
  ority in the Classroom
 END:VEVENT
 BEGIN:VEVENT
+UID:8049@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T110000
+DTEND;TZID=America/Chicago:20200206T120000
+DESCRIPTION:Speakers:\nDr. Philip Arevalo\, Department of Ecology & Evoluti
+ on\nUniversity of Chicago\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=8049
+DTSTAMP:20200114T104200
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Biological Populations and the Drivers of Microbial Diversity
+END:VEVENT
+BEGIN:VEVENT
 UID:8022@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200206T113000
 DTEND;TZID=America/Chicago:20200206T130000
@@ -955,6 +880,17 @@ DTSTAMP:20191216T150600
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Applications of brain-model technology to study neurodevelopmental 
  disorders
+END:VEVENT
+BEGIN:VEVENT
+UID:8048@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200217T160000
+DTEND;TZID=America/Chicago:20200217T170000
+DESCRIPTION:Speakers:\nMeng-meng Fu\, Stanford University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8048
+DTSTAMP:20200114T104200
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Building the Oligodendrocyte:  Mechanisms of Acentrosomal Microtub
+ ule Nucleation and mRNA Transport
 END:VEVENT
 BEGIN:VEVENT
 UID:7479@events.dbbs.wustl
@@ -1321,6 +1257,60 @@ LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:7491@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200330T161500
+DTEND;TZID=America/Chicago:20200330T161500
+DESCRIPTION:Speakers:\nDr. Rodney Newberry\, WUSM\nDepartment of Internal M
+ edicine – Gastroenterology\n\nLink: http://dbbs.wustl.edu/Resources/Page
+ s/calendar_event.aspx?EvID=7491
+DTSTAMP:20190816T131100
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:7987@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200331T120000
+DTEND;TZID=America/Chicago:20200331T130000
+DESCRIPTION:Speakers:\nDong-oh Seo\, PhD\, Postdoctoral Research Associate\
+ , Washington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=7987
+DTSTAMP:20191219T112700
+LOCATION:East Pavilion Auditorium
+SUMMARY:Gut Microbiota: From the Forgotten Organ to a Potential Key Player 
+ in the Pathology of Alzheimer’s Disease
+END:VEVENT
+BEGIN:VEVENT
+UID:7307@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200401T120000
+DTEND;TZID=America/Chicago:20200401T130000
+DESCRIPTION:Speakers:\nGloria Choi\, PhD\, Massachusetts Institute of Techn
+ ology\n\nDescription:\nHosted by: Dr. Jason Yi\n\nLink: http://dbbs.wustl.
+ edu/Resources/Pages/calendar_event.aspx?EvID=7307
+DTSTAMP:20190712T142800
+LOCATION:McDonnell Sciences Building\, Room 928
+SUMMARY:Cortical Dysfunction and Social Behavior
+END:VEVENT
+BEGIN:VEVENT
+UID:7354@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200402T120000
+DTEND;TZID=America/Chicago:20200402T130000
+DESCRIPTION:Speakers:\nDr. Qin Liu\, Washington University\n\nLink: http://
+ dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7354
+DTSTAMP:20190906T091400
+LOCATION:Maternity Building\, Room 725
+SUMMARY:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:7493@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200406T161500
+DTEND;TZID=America/Chicago:20200406T161500
+DESCRIPTION:Speakers:\nDr. John Wherry\, University of Pennsylvania\n\nLink
+ : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7493
+DTSTAMP:20190816T131100
+LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
+SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
 UID:7957@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200203T120000
 DTEND;TZID=America/Chicago:20200203T130000
@@ -1397,6 +1387,17 @@ DTSTAMP:20200107T091800
 LOCATION:Danforth Campus\, TBD
 SUMMARY:Who’s in Charge Here? Negotiating Your Role and Establishing Auth
  ority in the Classroom
+END:VEVENT
+BEGIN:VEVENT
+UID:8049@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200206T110000
+DTEND;TZID=America/Chicago:20200206T120000
+DESCRIPTION:Speakers:\nDr. Philip Arevalo\, Department of Ecology & Evoluti
+ on\nUniversity of Chicago\n\nLink: http://dbbs.wustl.edu/Resources/Pages/c
+ alendar_event.aspx?EvID=8049
+DTSTAMP:20200114T104200
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Biological Populations and the Drivers of Microbial Diversity
 END:VEVENT
 BEGIN:VEVENT
 UID:8022@events.dbbs.wustl
@@ -1560,6 +1561,17 @@ DTSTAMP:20191216T150600
 LOCATION:Needleman Library\, Cnf Room 3907
 SUMMARY:Applications of brain-model technology to study neurodevelopmental 
  disorders
+END:VEVENT
+BEGIN:VEVENT
+UID:8048@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200217T160000
+DTEND;TZID=America/Chicago:20200217T170000
+DESCRIPTION:Speakers:\nMeng-meng Fu\, Stanford University\n\nLink: http://d
+ bbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8048
+DTSTAMP:20200114T104200
+LOCATION:Danforth Campus\, Rebstock\, Room 322
+SUMMARY:Building the Oligodendrocyte:  Mechanisms of Acentrosomal Microtub
+ ule Nucleation and mRNA Transport
 END:VEVENT
 BEGIN:VEVENT
 UID:7479@events.dbbs.wustl
