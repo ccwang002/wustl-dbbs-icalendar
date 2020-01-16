@@ -266,6 +266,18 @@ SUMMARY:Medical Marijuana and the Endocannabinoid System:  Genuine Analges
  ics or Just Blowing Smoke?”
 END:VEVENT
 BEGIN:VEVENT
+UID:8074@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200122T100000
+DTEND;TZID=America/Chicago:20200122T153000
+DESCRIPTION:Speakers:\nSociety for Neuroscience\, SfN Virtual Conference\n\
+ nDescription:\nCPD\; Contact vogts@wustl.edu if interested in attending th
+ e viewing.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.a
+ spx?EvID=8074
+DTSTAMP:20200115T134500
+LOCATION:Danforth Campus\, Rebstock Hall\, Room 309
+SUMMARY:Power Dynamics in Training and Research Environments
+END:VEVENT
+BEGIN:VEVENT
 UID:7301@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200122T120000
 DTEND;TZID=America/Chicago:20200122T130000
@@ -818,6 +830,17 @@ SUMMARY:Application of Machine Learning to Predict Amyloid\, Metabolic\, an
  ant Alzheimer Disease
 END:VEVENT
 BEGIN:VEVENT
+UID:8051@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200211T120000
+DTEND;TZID=America/Chicago:20200211T130000
+DESCRIPTION:Speakers:\nDr Keith Gull\, PhD\, Oxford University UK\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8051
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
+SUMMARY:What has the Genome ever done for us? Understanding Kinetoplastid p
+ arasite structure\, function and pathogenicity
+END:VEVENT
+BEGIN:VEVENT
 UID:8025@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200211T150000
 DTEND;TZID=America/Chicago:20200211T160000
@@ -913,6 +936,16 @@ DESCRIPTION:Speakers:\nSojung Park\, PhD\,  Assistant Professor of Social
 DTSTAMP:20191219T112500
 LOCATION:East Pavilion Auditorium
 SUMMARY:Socio-Physical Environment and Cognitive Health Among Older Adults
+END:VEVENT
+BEGIN:VEVENT
+UID:8053@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200218T120000
+DTEND;TZID=America/Chicago:20200218T130000
+DESCRIPTION:Speakers:\nDr Felipe Cava\, PhD\, Umea University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8053
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:D-amino acids shape the environmental microbial diversity
 END:VEVENT
 BEGIN:VEVENT
 UID:7678@events.dbbs.wustl
@@ -1057,6 +1090,16 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:Remote Assessment and Technology Engagement in Dementia Populations
 END:VEVENT
 BEGIN:VEVENT
+UID:8055@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200303T120000
+DTEND;TZID=America/Chicago:20200303T130000
+DESCRIPTION:Speakers:\nDr David Tobin\, PhD\, Duke University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8055
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Macrophage Reprogramming during Tuberculosis
+END:VEVENT
+BEGIN:VEVENT
 UID:7333@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200304T120000
 DTEND;TZID=America/Chicago:20200304T130000
@@ -1122,6 +1165,17 @@ SUMMARY:A Tale of Geriatrics\, Emergency Medicine\, and Implementation Scie
  nce
 END:VEVENT
 BEGIN:VEVENT
+UID:8057@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200310T120000
+DTEND;TZID=America/Chicago:20200310T130000
+DESCRIPTION:Speakers:\nDr John Boothroyd\, PhD\, Stanford Medical School\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8057
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:How such a wide variety of cells can be invaded and coopted by a si
+ ngle eukaryote: the consummate generalist\, Toxoplasma gondii.
+END:VEVENT
+BEGIN:VEVENT
 UID:7303@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200312T160000
 DTEND;TZID=America/Chicago:20200312T170000
@@ -1168,6 +1222,18 @@ DTSTAMP:20200113T091100
 LOCATION:East Pavilion Auditorium
 SUMMARY:When?  Estimating age of Symptom Onset in Late Onset Alzheimer Dis
  ease
+END:VEVENT
+BEGIN:VEVENT
+UID:8059@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200317T120000
+DTEND;TZID=America/Chicago:20200317T130000
+DESCRIPTION:Speakers:\nDr Peggy Cotter\, PhD\, University of North Carolina
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8
+ 059
+DTSTAMP:20200115T134200
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:CDI/CDS system-mediated cooperation\, competiton\, and DNA transpos
+ itin in Burkholderia
 END:VEVENT
 BEGIN:VEVENT
 UID:7304@events.dbbs.wustl
@@ -1219,6 +1285,16 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:8061@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200324T120000
+DTEND;TZID=America/Chicago:20200324T130000
+DESCRIPTION:Speakers:\nDr Ferric Fang\, MD\, University of Washington\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8061
+DTSTAMP:20200115T134300
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Nitric Oxide in Host-Bacterial Interactions
+END:VEVENT
+BEGIN:VEVENT
 UID:7306@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200325T120000
 DTEND;TZID=America/Chicago:20200325T130000
@@ -1229,86 +1305,6 @@ DTSTAMP:20190712T142800
 LOCATION:McDonnell Sciences Building\, Room 928
 SUMMARY:Functional Micro-Architecture and Joint Encoding of Shape and Color
   in Primate Primary Visual Cortex
-END:VEVENT
-BEGIN:VEVENT
-UID:7352@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200326T120000
-DTEND;TZID=America/Chicago:20200326T130000
-DESCRIPTION:Speakers:\nDr. Peter Lukasiewicz\, Washington University\n\nLin
- k: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7352
-DTSTAMP:20190906T091400
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7548@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200326T160000
-DTEND;TZID=America/Chicago:20200326T170000
-DESCRIPTION:Speakers:\nFerhaan Ahmad\, MD\, PhD\, Director\, Cardiovascular
-  Genetics Center                             
-    Associate Professor of Internal Medicine\, Radiology and Molecular Ph
- ysiology and Biophysics                         
-                             University of Iowa\
- n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=75
- 48
-DTSTAMP:20190822T104900
-LOCATION:Clinical Sciences Research Building North (CSRB-NT)\, Sobel Confer
- ence Room 801
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7491@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200330T161500
-DTEND;TZID=America/Chicago:20200330T161500
-DESCRIPTION:Speakers:\nDr. Rodney Newberry\, WUSM\nDepartment of Internal M
- edicine – Gastroenterology\n\nLink: http://dbbs.wustl.edu/Resources/Page
- s/calendar_event.aspx?EvID=7491
-DTSTAMP:20190816T131100
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
-END:VEVENT
-BEGIN:VEVENT
-UID:7987@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200331T120000
-DTEND;TZID=America/Chicago:20200331T130000
-DESCRIPTION:Speakers:\nDong-oh Seo\, PhD\, Postdoctoral Research Associate\
- , Washington University\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
- endar_event.aspx?EvID=7987
-DTSTAMP:20191219T112700
-LOCATION:East Pavilion Auditorium
-SUMMARY:Gut Microbiota: From the Forgotten Organ to a Potential Key Player 
- in the Pathology of Alzheimer’s Disease
-END:VEVENT
-BEGIN:VEVENT
-UID:7307@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200401T120000
-DTEND;TZID=America/Chicago:20200401T130000
-DESCRIPTION:Speakers:\nGloria Choi\, PhD\, Massachusetts Institute of Techn
- ology\n\nDescription:\nHosted by: Dr. Jason Yi\n\nLink: http://dbbs.wustl.
- edu/Resources/Pages/calendar_event.aspx?EvID=7307
-DTSTAMP:20190712T142800
-LOCATION:McDonnell Sciences Building\, Room 928
-SUMMARY:Cortical Dysfunction and Social Behavior
-END:VEVENT
-BEGIN:VEVENT
-UID:7354@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200402T120000
-DTEND;TZID=America/Chicago:20200402T130000
-DESCRIPTION:Speakers:\nDr. Qin Liu\, Washington University\n\nLink: http://
- dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7354
-DTSTAMP:20190906T091400
-LOCATION:Maternity Building\, Room 725
-SUMMARY:TBD
-END:VEVENT
-BEGIN:VEVENT
-UID:7493@events.dbbs.wustl
-DTSTART;TZID=America/Chicago:20200406T161500
-DTEND;TZID=America/Chicago:20200406T161500
-DESCRIPTION:Speakers:\nDr. John Wherry\, University of Pennsylvania\n\nLink
- : http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=7493
-DTSTAMP:20190816T131100
-LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
-SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:7957@events.dbbs.wustl
@@ -1499,6 +1495,17 @@ SUMMARY:Application of Machine Learning to Predict Amyloid\, Metabolic\, an
  ant Alzheimer Disease
 END:VEVENT
 BEGIN:VEVENT
+UID:8051@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200211T120000
+DTEND;TZID=America/Chicago:20200211T130000
+DESCRIPTION:Speakers:\nDr Keith Gull\, PhD\, Oxford University UK\n\nLink: 
+ http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8051
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Bldg.\, 8th Floor Conference Room
+SUMMARY:What has the Genome ever done for us? Understanding Kinetoplastid p
+ arasite structure\, function and pathogenicity
+END:VEVENT
+BEGIN:VEVENT
 UID:8025@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200211T150000
 DTEND;TZID=America/Chicago:20200211T160000
@@ -1594,6 +1601,16 @@ DESCRIPTION:Speakers:\nSojung Park\, PhD\,  Assistant Professor of Social
 DTSTAMP:20191219T112500
 LOCATION:East Pavilion Auditorium
 SUMMARY:Socio-Physical Environment and Cognitive Health Among Older Adults
+END:VEVENT
+BEGIN:VEVENT
+UID:8053@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200218T120000
+DTEND;TZID=America/Chicago:20200218T130000
+DESCRIPTION:Speakers:\nDr Felipe Cava\, PhD\, Umea University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8053
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:D-amino acids shape the environmental microbial diversity
 END:VEVENT
 BEGIN:VEVENT
 UID:7678@events.dbbs.wustl
@@ -1738,6 +1755,16 @@ LOCATION:East Pavilion Auditorium
 SUMMARY:Remote Assessment and Technology Engagement in Dementia Populations
 END:VEVENT
 BEGIN:VEVENT
+UID:8055@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200303T120000
+DTEND;TZID=America/Chicago:20200303T130000
+DESCRIPTION:Speakers:\nDr David Tobin\, PhD\, Duke University\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8055
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Macrophage Reprogramming during Tuberculosis
+END:VEVENT
+BEGIN:VEVENT
 UID:7333@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200304T120000
 DTEND;TZID=America/Chicago:20200304T130000
@@ -1803,6 +1830,17 @@ SUMMARY:A Tale of Geriatrics\, Emergency Medicine\, and Implementation Scie
  nce
 END:VEVENT
 BEGIN:VEVENT
+UID:8057@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200310T120000
+DTEND;TZID=America/Chicago:20200310T130000
+DESCRIPTION:Speakers:\nDr John Boothroyd\, PhD\, Stanford Medical School\n\
+ nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8057
+DTSTAMP:20200115T134100
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:How such a wide variety of cells can be invaded and coopted by a si
+ ngle eukaryote: the consummate generalist\, Toxoplasma gondii.
+END:VEVENT
+BEGIN:VEVENT
 UID:7303@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200312T160000
 DTEND;TZID=America/Chicago:20200312T170000
@@ -1849,6 +1887,18 @@ DTSTAMP:20200113T091100
 LOCATION:East Pavilion Auditorium
 SUMMARY:When?  Estimating age of Symptom Onset in Late Onset Alzheimer Dis
  ease
+END:VEVENT
+BEGIN:VEVENT
+UID:8059@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200317T120000
+DTEND;TZID=America/Chicago:20200317T130000
+DESCRIPTION:Speakers:\nDr Peggy Cotter\, PhD\, University of North Carolina
+ \n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8
+ 059
+DTSTAMP:20200115T134200
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:CDI/CDS system-mediated cooperation\, competiton\, and DNA transpos
+ itin in Burkholderia
 END:VEVENT
 BEGIN:VEVENT
 UID:7304@events.dbbs.wustl
@@ -1898,6 +1948,16 @@ DESCRIPTION:Speakers:\nRobert Gropler\, MD\, Professor of Radiology\, Washi
 DTSTAMP:20191219T112600
 LOCATION:East Pavilion Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:8061@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200324T120000
+DTEND;TZID=America/Chicago:20200324T130000
+DESCRIPTION:Speakers:\nDr Ferric Fang\, MD\, University of Washington\n\nLi
+ nk: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8061
+DTSTAMP:20200115T134300
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Nitric Oxide in Host-Bacterial Interactions
 END:VEVENT
 BEGIN:VEVENT
 UID:7306@events.dbbs.wustl
@@ -1961,6 +2021,18 @@ SUMMARY:Gut Microbiota: From the Forgotten Organ to a Potential Key Player
  in the Pathology of Alzheimer’s Disease
 END:VEVENT
 BEGIN:VEVENT
+UID:8063@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200331T120000
+DTEND;TZID=America/Chicago:20200331T130000
+DESCRIPTION:Speakers:\nSean Whelan\, Marvin A. Brennecke Professor of Molec
+ ular Microbiology\, Washington University School of Medicine\n\nLink: http
+ ://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8063
+DTSTAMP:20200115T134400
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Minus-Strand RNA Virus Polymerases - How Small Cofactors Regulate L
+ arge Multifunctional Proteins
+END:VEVENT
+BEGIN:VEVENT
 UID:7307@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200401T120000
 DTEND;TZID=America/Chicago:20200401T130000
@@ -1990,6 +2062,17 @@ DESCRIPTION:Speakers:\nDr. John Wherry\, University of Pennsylvania\n\nLink
 DTSTAMP:20190816T131100
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:8065@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200407T120000
+DTEND;TZID=America/Chicago:20200407T130000
+DESCRIPTION:Speakers:\nDr Elina Zuniga\, University of California\, San Die
+ go\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =8065
+DTSTAMP:20200115T134400
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Adaptations During Long-Term (Host-Pathogen) Relationships
 END:VEVENT
 BEGIN:VEVENT
 UID:7310@events.dbbs.wustl
@@ -2049,6 +2132,18 @@ LOCATION:Wilson Hall Room 214\, 1 Brookings Drive
 SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
+UID:8067@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200414T120000
+DTEND;TZID=America/Chicago:20200414T130000
+DESCRIPTION:Speakers:\nDr Beatriz Fontoura\, PhD\, University of Texas Sout
+ hwestern Medical Center\n\nLink: http://dbbs.wustl.edu/Resources/Pages/cal
+ endar_event.aspx?EvID=8067
+DTSTAMP:20200115T134400
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Viral-Host Interactions with the Splicing and mRNA Nuclear Export M
+ achineries: Opportunities for Therapy?
+END:VEVENT
+BEGIN:VEVENT
 UID:7312@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200415T120000
 DTEND;TZID=America/Chicago:20200415T130000
@@ -2094,6 +2189,18 @@ DESCRIPTION:Speakers:\nDr. Antonio Lanzavecchia\, ETH Zurich - Institute fo
 DTSTAMP:20190816T130300
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:8068@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200421T120000
+DTEND;TZID=America/Chicago:20200421T130000
+DESCRIPTION:Speakers:\nDr Nancy Keller\, PhD\, University of Wisconsin - Ma
+ dison\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?E
+ vID=8068
+DTSTAMP:20200115T134400
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Small molecule mediators of copper homeostasis in Aspergillus  fum
+ igatus mediate cross-kingdom success
 END:VEVENT
 BEGIN:VEVENT
 UID:7412@events.dbbs.wustl
@@ -2154,6 +2261,17 @@ LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
 END:VEVENT
 BEGIN:VEVENT
+UID:8071@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200428T120000
+DTEND;TZID=America/Chicago:20200428T130000
+DESCRIPTION:Speakers:\nDr Rita Tamayo\, PhD\, University of North Carolina\
+ n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=80
+ 71
+DTSTAMP:20200115T134500
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Phenotypic heterogeneity in Clostridioides difficile
+END:VEVENT
+BEGIN:VEVENT
 UID:7506@events.dbbs.wustl
 DTSTART;TZID=America/Chicago:20200429T120000
 DTEND;TZID=America/Chicago:20200429T130000
@@ -2198,6 +2316,17 @@ DESCRIPTION:Speakers:\nDr. Elina Zuniga\, University of California – San
 DTSTAMP:20190816T130100
 LOCATION:Farrell Learning and Teaching Center\, Connor Auditorium
 SUMMARY:TBA
+END:VEVENT
+BEGIN:VEVENT
+UID:8072@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20200505T120000
+DTEND;TZID=America/Chicago:20200505T130000
+DESCRIPTION:Speakers:\nDr Judy Berman\, Tel Aviv University\n\nLink: http:/
+ /dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID=8072
+DTSTAMP:20200115T134500
+LOCATION:McDonnell Pediatric Research Building\, 8th Floor\, Room 8101
+SUMMARY:Clearing the FoG of resistance:  insights into subpopulation respo
+ nses to antifungal drugs
 END:VEVENT
 BEGIN:VEVENT
 UID:7335@events.dbbs.wustl
@@ -2300,6 +2429,20 @@ DESCRIPTION:Speakers:\nLarry Abbott\, PhD\, Columbia University Medical Cen
 DTSTAMP:20190731T145800
 LOCATION:Location TBD
 SUMMARY:Title TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:8075@events.dbbs.wustl
+DTSTART;TZID=America/Chicago:20201119T080000
+DTEND;TZID=America/Chicago:20201119T180000
+DESCRIPTION:Speakers:\nAnnual Hope Center Retreat\, Speakers and schedule T
+ BA\n\nDescription:\nStay tuned for details about the special 10th Annual H
+ ope Center Retreat! The\nTenth Annual Hope Center Retreat will be held at 
+ the Donald Danforth Plant\nScience Center. For inquiries contact Jan Konra
+ d.\n\nLink: http://dbbs.wustl.edu/Resources/Pages/calendar_event.aspx?EvID
+ =8075
+DTSTAMP:20200116T140941Z
+LOCATION:Donald Danforth Plant Science Center (975 Warson Road\, St. Louis)
+SUMMARY:"TBA"
 END:VEVENT
 BEGIN:VEVENT
 UID:8047@events.dbbs.wustl
